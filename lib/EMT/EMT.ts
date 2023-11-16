@@ -2,29 +2,29 @@
 
 import * as flatbuffers from 'flatbuffers';
 
-import { Band } from './Band.js';
-import { FrequencyRange } from './FrequencyRange.js';
+import { Band, BandT } from './Band.js';
+import { FrequencyRange, FrequencyRangeT } from './FrequencyRange.js';
 import { PolarizationType } from './PolarizationType.js';
 import { SimplePolarization } from './SimplePolarization.js';
-import { StokesParameters } from './StokesParameters.js';
+import { StokesParameters, StokesParametersT } from './StokesParameters.js';
 
 
-export class Emitter {
+export class EMT implements flatbuffers.IUnpackableObject<EMTT> {
   bb: flatbuffers.ByteBuffer|null = null;
   bb_pos = 0;
-  __init(i:number, bb:flatbuffers.ByteBuffer):Emitter {
+  __init(i:number, bb:flatbuffers.ByteBuffer):EMT {
   this.bb_pos = i;
   this.bb = bb;
   return this;
 }
 
-static getRootAsEmitter(bb:flatbuffers.ByteBuffer, obj?:Emitter):Emitter {
-  return (obj || new Emitter()).__init(bb.readInt32(bb.position()) + bb.position(), bb);
+static getRootAsEMT(bb:flatbuffers.ByteBuffer, obj?:EMT):EMT {
+  return (obj || new EMT()).__init(bb.readInt32(bb.position()) + bb.position(), bb);
 }
 
-static getSizePrefixedRootAsEmitter(bb:flatbuffers.ByteBuffer, obj?:Emitter):Emitter {
+static getSizePrefixedRootAsEMT(bb:flatbuffers.ByteBuffer, obj?:EMT):EMT {
   bb.setPosition(bb.position() + flatbuffers.SIZE_PREFIX_LENGTH);
-  return (obj || new Emitter()).__init(bb.readInt32(bb.position()) + bb.position(), bb);
+  return (obj || new EMT()).__init(bb.readInt32(bb.position()) + bb.position(), bb);
 }
 
 static bufferHasIdentifier(bb:flatbuffers.ByteBuffer):boolean {
@@ -97,7 +97,7 @@ POWER_TYPE(optionalEncoding?:any):string|Uint8Array|null {
   return offset ? this.bb!.__string(this.bb_pos + offset, optionalEncoding) : null;
 }
 
-static startEmitter(builder:flatbuffers.Builder) {
+static startEMT(builder:flatbuffers.Builder) {
   builder.startObject(11);
 }
 
@@ -157,17 +157,91 @@ static addPowerType(builder:flatbuffers.Builder, POWER_TYPEOffset:flatbuffers.Of
   builder.addFieldOffset(10, POWER_TYPEOffset, 0);
 }
 
-static endEmitter(builder:flatbuffers.Builder):flatbuffers.Offset {
+static endEMT(builder:flatbuffers.Builder):flatbuffers.Offset {
   const offset = builder.endObject();
   return offset;
 }
 
-static finishEmitterBuffer(builder:flatbuffers.Builder, offset:flatbuffers.Offset) {
+static finishEMTBuffer(builder:flatbuffers.Builder, offset:flatbuffers.Offset) {
   builder.finish(offset, '$EMT');
 }
 
-static finishSizePrefixedEmitterBuffer(builder:flatbuffers.Builder, offset:flatbuffers.Offset) {
+static finishSizePrefixedEMTBuffer(builder:flatbuffers.Builder, offset:flatbuffers.Offset) {
   builder.finish(offset, '$EMT', true);
 }
 
+
+unpack(): EMTT {
+  return new EMTT(
+    this.ID(),
+    this.NAME(),
+    (this.UPLINK() !== null ? this.UPLINK()!.unpack() : null),
+    (this.DOWNLINK() !== null ? this.DOWNLINK()!.unpack() : null),
+    (this.BEACON() !== null ? this.BEACON()!.unpack() : null),
+    this.bb!.createObjList<Band, BandT>(this.BAND.bind(this), this.bandLength()),
+    this.POLARIZATION_TYPE(),
+    this.SIMPLE_POLARIZATION(),
+    (this.STOKES_PARAMETERS() !== null ? this.STOKES_PARAMETERS()!.unpack() : null),
+    this.POWER_REQUIRED(),
+    this.POWER_TYPE()
+  );
+}
+
+
+unpackTo(_o: EMTT): void {
+  _o.ID = this.ID();
+  _o.NAME = this.NAME();
+  _o.UPLINK = (this.UPLINK() !== null ? this.UPLINK()!.unpack() : null);
+  _o.DOWNLINK = (this.DOWNLINK() !== null ? this.DOWNLINK()!.unpack() : null);
+  _o.BEACON = (this.BEACON() !== null ? this.BEACON()!.unpack() : null);
+  _o.BAND = this.bb!.createObjList<Band, BandT>(this.BAND.bind(this), this.bandLength());
+  _o.POLARIZATION_TYPE = this.POLARIZATION_TYPE();
+  _o.SIMPLE_POLARIZATION = this.SIMPLE_POLARIZATION();
+  _o.STOKES_PARAMETERS = (this.STOKES_PARAMETERS() !== null ? this.STOKES_PARAMETERS()!.unpack() : null);
+  _o.POWER_REQUIRED = this.POWER_REQUIRED();
+  _o.POWER_TYPE = this.POWER_TYPE();
+}
+}
+
+export class EMTT implements flatbuffers.IGeneratedObject {
+constructor(
+  public ID: string|Uint8Array|null = null,
+  public NAME: string|Uint8Array|null = null,
+  public UPLINK: FrequencyRangeT|null = null,
+  public DOWNLINK: FrequencyRangeT|null = null,
+  public BEACON: FrequencyRangeT|null = null,
+  public BAND: (BandT)[] = [],
+  public POLARIZATION_TYPE: PolarizationType = PolarizationType.linear,
+  public SIMPLE_POLARIZATION: SimplePolarization = SimplePolarization.vertical,
+  public STOKES_PARAMETERS: StokesParametersT|null = null,
+  public POWER_REQUIRED: number = 0.0,
+  public POWER_TYPE: string|Uint8Array|null = null
+){}
+
+
+pack(builder:flatbuffers.Builder): flatbuffers.Offset {
+  const ID = (this.ID !== null ? builder.createString(this.ID!) : 0);
+  const NAME = (this.NAME !== null ? builder.createString(this.NAME!) : 0);
+  const UPLINK = (this.UPLINK !== null ? this.UPLINK!.pack(builder) : 0);
+  const DOWNLINK = (this.DOWNLINK !== null ? this.DOWNLINK!.pack(builder) : 0);
+  const BEACON = (this.BEACON !== null ? this.BEACON!.pack(builder) : 0);
+  const BAND = EMT.createBandVector(builder, builder.createObjectOffsetList(this.BAND));
+  const STOKES_PARAMETERS = (this.STOKES_PARAMETERS !== null ? this.STOKES_PARAMETERS!.pack(builder) : 0);
+  const POWER_TYPE = (this.POWER_TYPE !== null ? builder.createString(this.POWER_TYPE!) : 0);
+
+  EMT.startEMT(builder);
+  EMT.addId(builder, ID);
+  EMT.addName(builder, NAME);
+  EMT.addUplink(builder, UPLINK);
+  EMT.addDownlink(builder, DOWNLINK);
+  EMT.addBeacon(builder, BEACON);
+  EMT.addBand(builder, BAND);
+  EMT.addPolarizationType(builder, this.POLARIZATION_TYPE);
+  EMT.addSimplePolarization(builder, this.SIMPLE_POLARIZATION);
+  EMT.addStokesParameters(builder, STOKES_PARAMETERS);
+  EMT.addPowerRequired(builder, this.POWER_REQUIRED);
+  EMT.addPowerType(builder, POWER_TYPE);
+
+  return EMT.endEMT(builder);
+}
 }

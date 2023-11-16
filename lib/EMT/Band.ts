@@ -2,10 +2,10 @@
 
 import * as flatbuffers from 'flatbuffers';
 
-import { FrequencyRange } from './FrequencyRange.js';
+import { FrequencyRange, FrequencyRangeT } from './FrequencyRange.js';
 
 
-export class Band {
+export class Band implements flatbuffers.IUnpackableObject<BandT> {
   bb: flatbuffers.ByteBuffer|null = null;
   bb_pos = 0;
   __init(i:number, bb:flatbuffers.ByteBuffer):Band {
@@ -52,4 +52,36 @@ static endBand(builder:flatbuffers.Builder):flatbuffers.Offset {
   return offset;
 }
 
+
+unpack(): BandT {
+  return new BandT(
+    this.NAME(),
+    (this.FREQUENCY_RANGE() !== null ? this.FREQUENCY_RANGE()!.unpack() : null)
+  );
+}
+
+
+unpackTo(_o: BandT): void {
+  _o.NAME = this.NAME();
+  _o.FREQUENCY_RANGE = (this.FREQUENCY_RANGE() !== null ? this.FREQUENCY_RANGE()!.unpack() : null);
+}
+}
+
+export class BandT implements flatbuffers.IGeneratedObject {
+constructor(
+  public NAME: string|Uint8Array|null = null,
+  public FREQUENCY_RANGE: FrequencyRangeT|null = null
+){}
+
+
+pack(builder:flatbuffers.Builder): flatbuffers.Offset {
+  const NAME = (this.NAME !== null ? builder.createString(this.NAME!) : 0);
+  const FREQUENCY_RANGE = (this.FREQUENCY_RANGE !== null ? this.FREQUENCY_RANGE!.pack(builder) : 0);
+
+  Band.startBand(builder);
+  Band.addName(builder, NAME);
+  Band.addFrequencyRange(builder, FREQUENCY_RANGE);
+
+  return Band.endBand(builder);
+}
 }

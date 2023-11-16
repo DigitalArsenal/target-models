@@ -66,7 +66,7 @@ To generate JSON schema files, follow these steps:
 To manually generate TypeScript source code from FlatBuffers schema files, use the flatc compiler with the following command:
 
 ```bash
-flatc --ts -o lib/[output folder]/ ./[path to IDL]/[idlname].fbs
+flatc --ts --gen-object-api -o lib/[output folder]/ ./[path to IDL]/[idlname].fbs
 ```
 
 ## Customization

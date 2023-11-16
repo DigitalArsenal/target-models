@@ -3,7 +3,17 @@ import { writeFileSync } from "fs";
 import { join } from "path";
 import { dirname } from "path";
 import { fileURLToPath } from "url";
+import {
+  EMTT as EMT,
+  EMTCOLLECTIONT as EMTCOLLECTION,
+  FrequencyRangeT as FrequencyRange,
+  PolarizationType,
+  SimplePolarization,
+  StokesParametersT as StokesParameters,
+  BandT as Band,
+} from "../dist/EMT/main.js";
 
+console.log(new EMT(), new Band());
 const __dirname = dirname(fileURLToPath(import.meta.url));
 console.log(freqs.length);
 
@@ -14,7 +24,7 @@ for (let f = 0; f < freqs.length; f++) {
 
   const DFREQ = row["DOWNLINK FREQ"];
   if (typeof DFREQ === "string") {
-    console.log(DFREQ, DFREQ.split(/[^0-9.]+/).filter(Boolean));
+    // console.log(DFREQ, DFREQ.split(/[^0-9.]+/).filter(Boolean));
     /*
      DFREQ.split(/[^0-9.]+/)
       .filter(Boolean)

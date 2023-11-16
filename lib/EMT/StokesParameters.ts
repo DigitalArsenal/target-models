@@ -2,7 +2,9 @@
 
 import * as flatbuffers from 'flatbuffers';
 
-export class StokesParameters {
+
+
+export class StokesParameters implements flatbuffers.IUnpackableObject<StokesParametersT> {
   bb: flatbuffers.ByteBuffer|null = null;
   bb_pos = 0;
   __init(i:number, bb:flatbuffers.ByteBuffer):StokesParameters {
@@ -72,5 +74,41 @@ static createStokesParameters(builder:flatbuffers.Builder, I:number, Q:number, U
   StokesParameters.addU(builder, U);
   StokesParameters.addV(builder, V);
   return StokesParameters.endStokesParameters(builder);
+}
+
+unpack(): StokesParametersT {
+  return new StokesParametersT(
+    this.I(),
+    this.Q(),
+    this.U(),
+    this.V()
+  );
+}
+
+
+unpackTo(_o: StokesParametersT): void {
+  _o.I = this.I();
+  _o.Q = this.Q();
+  _o.U = this.U();
+  _o.V = this.V();
+}
+}
+
+export class StokesParametersT implements flatbuffers.IGeneratedObject {
+constructor(
+  public I: number = 0.0,
+  public Q: number = 0.0,
+  public U: number = 0.0,
+  public V: number = 0.0
+){}
+
+
+pack(builder:flatbuffers.Builder): flatbuffers.Offset {
+  return StokesParameters.createStokesParameters(builder,
+    this.I,
+    this.Q,
+    this.U,
+    this.V
+  );
 }
 }

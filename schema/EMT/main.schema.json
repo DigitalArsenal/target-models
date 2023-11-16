@@ -51,7 +51,7 @@
       },
       "additionalProperties" : false
     },
-    "Emitter" : {
+    "EMT" : {
       "type" : "object",
       "properties" : {
         "ID" : {
@@ -90,15 +90,15 @@
       },
       "additionalProperties" : false
     },
-    "EmitterCollection" : {
+    "EMTCOLLECTION" : {
       "type" : "object",
       "properties" : {
         "EMITTERS" : {
-                "type" : "array", "items" : {"$ref" : "#/definitions/Emitter"}
+                "type" : "array", "items" : {"$ref" : "#/definitions/EMT"}
               }
       },
       "additionalProperties" : false
     }
   },
-  "$ref" : "#/definitions/Emitter"
+  "$ref" : "#/definitions/EMT"
 }

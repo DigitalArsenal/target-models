@@ -2,7 +2,9 @@
 
 import * as flatbuffers from 'flatbuffers';
 
-export class FrequencyRange {
+
+
+export class FrequencyRange implements flatbuffers.IUnpackableObject<FrequencyRangeT> {
   bb: flatbuffers.ByteBuffer|null = null;
   bb_pos = 0;
   __init(i:number, bb:flatbuffers.ByteBuffer):FrequencyRange {
@@ -52,5 +54,33 @@ static createFrequencyRange(builder:flatbuffers.Builder, LOWER:number, UPPER:num
   FrequencyRange.addLower(builder, LOWER);
   FrequencyRange.addUpper(builder, UPPER);
   return FrequencyRange.endFrequencyRange(builder);
+}
+
+unpack(): FrequencyRangeT {
+  return new FrequencyRangeT(
+    this.LOWER(),
+    this.UPPER()
+  );
+}
+
+
+unpackTo(_o: FrequencyRangeT): void {
+  _o.LOWER = this.LOWER();
+  _o.UPPER = this.UPPER();
+}
+}
+
+export class FrequencyRangeT implements flatbuffers.IGeneratedObject {
+constructor(
+  public LOWER: number = 0.0,
+  public UPPER: number = 0.0
+){}
+
+
+pack(builder:flatbuffers.Builder): flatbuffers.Offset {
+  return FrequencyRange.createFrequencyRange(builder,
+    this.LOWER,
+    this.UPPER
+  );
 }
 }

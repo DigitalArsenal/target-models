@@ -14,9 +14,8 @@ for dir in */; do
     for fbs in *.fbs; do
         # Check if .fbs files exist and are not empty
         if [ -s "$fbs" ]; then
-            echo "flatc --ts -o \"$OUTPUT_DIR/$dir\" \"$fbs\""
             # Run flatc to generate TypeScript code
-            flatc --ts -o "$OUTPUT_DIR/$dir" "$fbs"
+            flatc --ts --gen-object-api -o "$OUTPUT_DIR/$dir" "$fbs"
             echo "Generated TypeScript code for $fbs"
         else
             echo "No FlatBuffers schema files found in $dir"

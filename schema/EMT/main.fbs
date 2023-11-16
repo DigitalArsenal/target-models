@@ -29,7 +29,7 @@ table Band {
   FREQUENCY_RANGE: FrequencyRange;
 }
 
-table Emitter {
+table EMT {
   ID: string;
   NAME: string;
   UPLINK: FrequencyRange;
@@ -44,9 +44,9 @@ table Emitter {
   // Additional properties can be added here
 }
 
-table EmitterCollection {
-  EMITTERS: [Emitter];
+table EMTCOLLECTION {
+  EMITTERS: [EMT];
 }
 
-root_type Emitter;
+root_type EMT;
 file_identifier "$EMT";
