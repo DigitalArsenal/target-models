@@ -41,7 +41,6 @@ table EMT {
   STOKES_PARAMETERS: StokesParameters;
   POWER_REQUIRED: double; // Power required in Watts
   POWER_TYPE: string; // AC or DC
-  // Additional properties can be added here
 }
 
 table EMTCOLLECTION {
