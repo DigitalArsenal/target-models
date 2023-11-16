@@ -1,0 +1,4553 @@
+[
+    {
+        "Facility Name": "Al Sulayil",
+        "latitude": 20.6965,
+        "longitude": 45.6116
+    },
+    {
+        "Facility Name": "ALCA  VLS",
+        "latitude": -2.3177,
+        "longitude": -44.368
+    },
+    {
+        "Facility Name": "ALT 577-1",
+        "latitude": 34.9256,
+        "longitude": -99.26
+    },
+    {
+        "Facility Name": "ALT RW17R/35L",
+        "latitude": 34.6557,
+        "longitude": -99.2738
+    },
+    {
+        "Facility Name": "Alxa Left Banner Launch Site",
+        "latitude": 38.8397,
+        "longitude": 105.6361
+    },
+    {
+        "Facility Name": "AMR   LP1",
+        "latitude": 28.5,
+        "longitude": -80
+    },
+    {
+        "Facility Name": "AND   Athena",
+        "latitude": 69.2943,
+        "longitude": 16.0207,
+        "active": true
+    },
+    {
+        "Facility Name": "AND   LC10",
+        "latitude": 69.294,
+        "longitude": 16.0185
+    },
+    {
+        "Facility Name": "AND   LC5",
+        "latitude": 69.2944,
+        "longitude": 16.0198
+    },
+    {
+        "Facility Name": "AND   LC9",
+        "latitude": 69.2941,
+        "longitude": 16.0188
+    },
+    {
+        "Facility Name": "AND   U3",
+        "latitude": 69.2943,
+        "longitude": 16.0207,
+        "active": true
+    },
+    {
+        "Facility Name": "Anhueng LP1",
+        "latitude": 36.6048,
+        "longitude": 126.2375
+    },
+    {
+        "Facility Name": "Anhueng LP2",
+        "latitude": 36.6422,
+        "longitude": 125.6944
+    },
+    {
+        "Facility Name": "Anhueng LP3",
+        "latitude": 35.1355,
+        "longitude": 125.9086
+    },
+    {
+        "Facility Name": "Area 51 RW14/32",
+        "latitude": 37.2375,
+        "longitude": 115.802
+    },
+    {
+        "Facility Name": "ASK t'Harde",
+        "latitude": 52.3947,
+        "longitude": 5.9232
+    },
+    {
+        "Facility Name": "Audierne LP1",
+        "latitude": 47.63,
+        "longitude": -4.05
+    },
+    {
+        "Facility Name": "Audierne LP1",
+        "latitude": 47.65,
+        "longitude": -4.15
+    },
+    {
+        "Facility Name": "Baikonur Cosmodrome",
+        "latitude": 45.9633,
+        "longitude": 63.3058
+    },
+    {
+        "Facility Name": "Balkash LC35",
+        "latitude": 46.38,
+        "longitude": 72.87
+    },
+    {
+        "Facility Name": "Balkash LC35",
+        "latitude": 46.38,
+        "longitude": 72.87
+    },
+    {
+        "Facility Name": "Balkash LC35",
+        "latitude": 46.38,
+        "longitude": 72.87
+    },
+    {
+        "Facility Name": "Balkash LC6",
+        "latitude": 46.38,
+        "longitude": 72.87
+    },
+    {
+        "Facility Name": "Barksdale AFB",
+        "latitude": 32.5015,
+        "longitude": -93.6624
+    },
+    {
+        "Facility Name": "BHOT",
+        "latitude": 38.7523,
+        "longitude": 105.6038
+    },
+    {
+        "Facility Name": "BHOT",
+        "latitude": 38.7577,
+        "longitude": 105.6078
+    },
+    {
+        "Facility Name": "BHOT",
+        "latitude": 38.7582,
+        "longitude": 105.6103
+    },
+    {
+        "Facility Name": "BLA   LP1",
+        "latitude": 69.5,
+        "longitude": 34.2
+    },
+    {
+        "Facility Name": "Black Rock LP1",
+        "latitude": 40.8704,
+        "longitude": 119.1081
+    },
+    {
+        "Facility Name": "Bloodhound 1",
+        "latitude": 52.1413,
+        "longitude": -4.5711
+    },
+    {
+        "Facility Name": "Bloodhound 2",
+        "latitude": 52.1413,
+        "longitude": -4.5705
+    },
+    {
+        "Facility Name": "CALEB",
+        "latitude": 34,
+        "longitude": 121
+    },
+    {
+        "Facility Name": "CAZ",
+        "latitude": 44.5397,
+        "longitude": -1.113
+    },
+    {
+        "Facility Name": "CC    LaC1",
+        "latitude": 28.4859,
+        "longitude": -80.5446
+    },
+    {
+        "Facility Name": "CC    LC17",
+        "latitude": 28.4472,
+        "longitude": -80.5649
+    },
+    {
+        "Facility Name": "CC    LC20",
+        "latitude": 28.5119,
+        "longitude": -80.557
+    },
+    {
+        "Facility Name": "CC    LC36A",
+        "latitude": 28.471,
+        "longitude": -80.5377
+    },
+    {
+        "Facility Name": "CC    LC36B",
+        "latitude": 28.4681,
+        "longitude": -80.5411
+    },
+    {
+        "Facility Name": "CC    LC40",
+        "latitude": 28.562,
+        "longitude": -80.5772
+    },
+    {
+        "Facility Name": "CC    LC41",
+        "latitude": 28.5833,
+        "longitude": -80.5831
+    },
+    {
+        "Facility Name": "CC    PAFB/800",
+        "latitude": 28.24,
+        "longitude": -80.6
+    },
+    {
+        "Facility Name": "CC    RW 31/13",
+        "latitude": 28.4675,
+        "longitude": -80.5665
+    },
+    {
+        "Facility Name": "CC    RW 31/13",
+        "latitude": 28.4675,
+        "longitude": -80.5665
+    },
+    {
+        "Facility Name": "CC    SLC17A",
+        "latitude": 28.4472,
+        "longitude": -80.5649
+    },
+    {
+        "Facility Name": "CC    SLC17B",
+        "latitude": 28.4458,
+        "longitude": -80.5656
+    },
+    {
+        "Facility Name": "CC    SLC20",
+        "latitude": 28.5119,
+        "longitude": -80.557
+    },
+    {
+        "Facility Name": "CC    SLC36A",
+        "latitude": 28.471,
+        "longitude": -80.5377
+    },
+    {
+        "Facility Name": "CC    SLC36B",
+        "latitude": 28.4681,
+        "longitude": -80.5411
+    },
+    {
+        "Facility Name": "CC    SLC37B",
+        "latitude": 28.5315,
+        "longitude": -80.565
+    },
+    {
+        "Facility Name": "CC    SLC40",
+        "latitude": 28.562,
+        "longitude": -80.5772
+    },
+    {
+        "Facility Name": "CC    SLC41",
+        "latitude": 28.5833,
+        "longitude": -80.5831
+    },
+    {
+        "Facility Name": "CC LC43",
+        "latitude": 28.5,
+        "longitude": -80.5
+    },
+    {
+        "Facility Name": "CC LC43D",
+        "latitude": 28.5,
+        "longitude": -80.5
+    },
+    {
+        "Facility Name": "CC LC46",
+        "latitude": 28.4583,
+        "longitude": -80.5272
+    },
+    {
+        "Facility Name": "CC LC47",
+        "latitude": 28.46,
+        "longitude": -80.53
+    },
+    {
+        "Facility Name": "CCSP",
+        "latitude": 28.6149,
+        "longitude": -80.6944
+    },
+    {
+        "Facility Name": "CEL   BE",
+        "latitude": 44.255,
+        "longitude": -1.259
+    },
+    {
+        "Facility Name": "CEL   BESA",
+        "latitude": 44.393,
+        "longitude": -1.245
+    },
+    {
+        "Facility Name": "CEL   BLB",
+        "latitude": 44.362,
+        "longitude": -1.25
+    },
+    {
+        "Facility Name": "CEL   BP",
+        "latitude": 44.372,
+        "longitude": -1.246
+    },
+    {
+        "Facility Name": "CEL   BS",
+        "latitude": 44.282,
+        "longitude": -1.262
+    },
+    {
+        "Facility Name": "CEL   CE",
+        "latitude": 44.45,
+        "longitude": -1.25
+    },
+    {
+        "Facility Name": "CEL   SUD",
+        "latitude": 44.3,
+        "longitude": -1.263
+    },
+    {
+        "Facility Name": "CEL   ZLS",
+        "latitude": 44.36,
+        "longitude": -1.7
+    },
+    {
+        "Facility Name": "Celtic Sea",
+        "latitude": 50.74,
+        "longitude": -11.12
+    },
+    {
+        "Facility Name": "CERES Nemo",
+        "latitude": 43.05,
+        "longitude": 6.47
+    },
+    {
+        "Facility Name": "CHAN  IC3",
+        "latitude": 21.3,
+        "longitude": 86.6
+    },
+    {
+        "Facility Name": "CHAN  IC3 SEA",
+        "latitude": 19.5,
+        "longitude": 86.5
+    },
+    {
+        "Facility Name": "CHAN  IC4",
+        "latitude": 20.7553,
+        "longitude": 87.0884
+    },
+    {
+        "Facility Name": "CHAN  IC4/TEL",
+        "latitude": 20.75,
+        "longitude": 87.07
+    },
+    {
+        "Facility Name": "CHAN  ITR",
+        "latitude": 21.3,
+        "longitude": 86.6
+    },
+    {
+        "Facility Name": "CHM   PS",
+        "latitude": 44.6,
+        "longitude": 33.5
+    },
+    {
+        "Facility Name": "CLBI  MAN",
+        "latitude": -5.866,
+        "longitude": -35.383
+    },
+    {
+        "Facility Name": "Corn Ranch, Van Horn, Texas",
+        "latitude": 31.2524,
+        "longitude": -104.4532
+    },
+    {
+        "Facility Name": "CSG   ELS",
+        "latitude": 5.305,
+        "longitude": -52.8344
+    },
+    {
+        "Facility Name": "Da Qaidam",
+        "latitude": 37.7922,
+        "longitude": 95.4302
+    },
+    {
+        "Facility Name": "Da Qaidam",
+        "latitude": 37.8919,
+        "longitude": 95.2841
+    },
+    {
+        "Facility Name": "Da Qaidam",
+        "latitude": 37.9023,
+        "longitude": 95.24
+    },
+    {
+        "Facility Name": "Da Qaidam",
+        "latitude": 37.9237,
+        "longitude": 95.1748
+    },
+    {
+        "Facility Name": "Da Qaidam",
+        "latitude": 37.9388,
+        "longitude": 95.2103
+    },
+    {
+        "Facility Name": "Da Qaidam",
+        "latitude": 37.9405,
+        "longitude": 95.144
+    },
+    {
+        "Facility Name": "Da Qaidam",
+        "latitude": 37.9487,
+        "longitude": 95.2887
+    },
+    {
+        "Facility Name": "Da Qaidam",
+        "latitude": 37.9669,
+        "longitude": 95.1365
+    },
+    {
+        "Facility Name": "Da Qaidam",
+        "latitude": 38.0268,
+        "longitude": 95.0413
+    },
+    {
+        "Facility Name": "Da Qaidam",
+        "latitude": 38.063,
+        "longitude": 94.9878
+    },
+    {
+        "Facility Name": "Da Qaidam",
+        "latitude": 38.0782,
+        "longitude": 94.559
+    },
+    {
+        "Facility Name": "Da Qaidam",
+        "latitude": 38.0857,
+        "longitude": 94.9679
+    },
+    {
+        "Facility Name": "Da Qaidam",
+        "latitude": 38.0961,
+        "longitude": 94.5877
+    },
+    {
+        "Facility Name": "Da Qaidam",
+        "latitude": 38.098,
+        "longitude": 94.5255
+    },
+    {
+        "Facility Name": "Da Qaidam",
+        "latitude": 38.0997,
+        "longitude": 94.5624
+    },
+    {
+        "Facility Name": "Da Qaidam",
+        "latitude": 38.11,
+        "longitude": 94.948
+    },
+    {
+        "Facility Name": "Da Qaidam",
+        "latitude": 38.1207,
+        "longitude": 94.4929
+    },
+    {
+        "Facility Name": "Da Qaidam",
+        "latitude": 38.1348,
+        "longitude": 94.9295
+    },
+    {
+        "Facility Name": "Da Qaidam",
+        "latitude": 38.1383,
+        "longitude": 94.4531
+    },
+    {
+        "Facility Name": "Delingha",
+        "latitude": 37.376,
+        "longitude": 97.0558
+    },
+    {
+        "Facility Name": "Delingha",
+        "latitude": 37.4076,
+        "longitude": 97.028
+    },
+    {
+        "Facility Name": "Dengshahe LP1",
+        "latitude": 39.1522,
+        "longitude": 122.0805
+    },
+    {
+        "Facility Name": "Dengshahe LP2",
+        "latitude": 39.1514,
+        "longitude": 122.083
+    },
+    {
+        "Facility Name": "Dombarovsky Air Base",
+        "latitude": 51.9525,
+        "longitude": 59.9108
+    },
+    {
+        "Facility Name": "DYESS",
+        "latitude": 32.4208,
+        "longitude": -99.8547
+    },
+    {
+        "Facility Name": "DZKW  -",
+        "latitude": 7.65,
+        "longitude": 167.7
+    },
+    {
+        "Facility Name": "EAFB",
+        "latitude": 34.9,
+        "longitude": 117.8
+    },
+    {
+        "Facility Name": "EAFB  RW04",
+        "latitude": 34.896,
+        "longitude": 117.9019
+    },
+    {
+        "Facility Name": "EAFB  RW04/22",
+        "latitude": 34.9054,
+        "longitude": 117.8837
+    },
+    {
+        "Facility Name": "EAFB  RW04L",
+        "latitude": 34.9043,
+        "longitude": 117.9018
+    },
+    {
+        "Facility Name": "EAFB  RW04L/22R",
+        "latitude": 34.9112,
+        "longitude": 117.8882
+    },
+    {
+        "Facility Name": "EAFB  RW05",
+        "latitude": 34.9493,
+        "longitude": 117.8612
+    },
+    {
+        "Facility Name": "EAFB  RW05",
+        "latitude": 34.9661,
+        "longitude": 117.8191
+    },
+    {
+        "Facility Name": "EAFB  RW06",
+        "latitude": 34.8948,
+        "longitude": 117.8814
+    },
+    {
+        "Facility Name": "EAFB  RW07",
+        "latitude": 34.8406,
+        "longitude": 117.8968
+    },
+    {
+        "Facility Name": "EAFB  RW15",
+        "latitude": 34.97,
+        "longitude": 117.8694
+    },
+    {
+        "Facility Name": "EAFB  RW18",
+        "latitude": 34.9928,
+        "longitude": 117.8748
+    },
+    {
+        "Facility Name": "EAFB  RW18/36",
+        "latitude": 34.9626,
+        "longitude": 117.86
+    },
+    {
+        "Facility Name": "EAFB  RW22",
+        "latitude": 34.9324,
+        "longitude": 117.8309
+    },
+    {
+        "Facility Name": "EAFB  RW22R",
+        "latitude": 34.9185,
+        "longitude": 117.8738
+    },
+    {
+        "Facility Name": "EAFB  RW24",
+        "latitude": 34.9059,
+        "longitude": 117.8202
+    },
+    {
+        "Facility Name": "EAFB  RW25",
+        "latitude": 34.8474,
+        "longitude": 117.8222
+    },
+    {
+        "Facility Name": "EAFB  RW30",
+        "latitude": 34.9335,
+        "longitude": 117.8479
+    },
+    {
+        "Facility Name": "EAFB  RW33",
+        "latitude": 34.9029,
+        "longitude": 117.8512
+    },
+    {
+        "Facility Name": "EAFB  RW36",
+        "latitude": 34.9358,
+        "longitude": 117.8715
+    },
+    {
+        "Facility Name": "EAFB  TL1",
+        "latitude": 34.9527,
+        "longitude": 117.6448
+    },
+    {
+        "Facility Name": "EAFB  TL2",
+        "latitude": 34.9526,
+        "longitude": 117.6461
+    },
+    {
+        "Facility Name": "Elephant Butte",
+        "latitude": 33.2,
+        "longitude": 107
+    },
+    {
+        "Facility Name": "Elephant Butte",
+        "latitude": 33.2092,
+        "longitude": 107.1015
+    },
+    {
+        "Facility Name": "Elephant Butte",
+        "latitude": 33.2306,
+        "longitude": 107.1146
+    },
+    {
+        "Facility Name": "Elephant Butte",
+        "latitude": 33.31,
+        "longitude": 107
+    },
+    {
+        "Facility Name": "ELLS  N2",
+        "latitude": 44.8558,
+        "longitude": 103.423
+    },
+    {
+        "Facility Name": "ELLS  RW13/31",
+        "latitude": 44.1429,
+        "longitude": 103.1008
+    },
+    {
+        "Facility Name": "ESR   C",
+        "latitude": 67.8922,
+        "longitude": 21.1042
+    },
+    {
+        "Facility Name": "ESR   L",
+        "latitude": 67.8932,
+        "longitude": 21.1065
+    },
+    {
+        "Facility Name": "ESR   LC1",
+        "latitude": 67.8917,
+        "longitude": 21.1057
+    },
+    {
+        "Facility Name": "ESR   LC1 A",
+        "latitude": 67.8934,
+        "longitude": 21.1045
+    },
+    {
+        "Facility Name": "ESR   LC3A",
+        "latitude": 67.8774,
+        "longitude": 21.1634
+    },
+    {
+        "Facility Name": "ESR   LC3B",
+        "latitude": 67.8765,
+        "longitude": 21.1668
+    },
+    {
+        "Facility Name": "ESR   LC3C",
+        "latitude": 67.8763,
+        "longitude": 21.1676
+    },
+    {
+        "Facility Name": "ESR   MAN",
+        "latitude": 67.8932,
+        "longitude": 21.1053
+    },
+    {
+        "Facility Name": "ESR   MRL",
+        "latitude": 67.8932,
+        "longitude": 21.106
+    },
+    {
+        "Facility Name": "ESR   MRL",
+        "latitude": 67.8932,
+        "longitude": 21.106
+    },
+    {
+        "Facility Name": "ESR   N",
+        "latitude": 67.8933,
+        "longitude": 21.109
+    },
+    {
+        "Facility Name": "ESR   N2",
+        "latitude": 67.8933,
+        "longitude": 21.1102
+    },
+    {
+        "Facility Name": "ESR   N2",
+        "latitude": 67.8933,
+        "longitude": 21.1102
+    },
+    {
+        "Facility Name": "ESR   S",
+        "latitude": 67.8933,
+        "longitude": 21.107
+    },
+    {
+        "Facility Name": "ETR   200NM",
+        "latitude": 26.5,
+        "longitude": -77.5
+    },
+    {
+        "Facility Name": "ETR   500NM",
+        "latitude": 23,
+        "longitude": -73.5
+    },
+    {
+        "Facility Name": "ETR   D4",
+        "latitude": 28.5,
+        "longitude": -79
+    },
+    {
+        "Facility Name": "ETR   LP1",
+        "latitude": 28.5,
+        "longitude": -79
+    },
+    {
+        "Facility Name": "ETR   LP5",
+        "latitude": 28.5,
+        "longitude": -79
+    },
+    {
+        "Facility Name": "ETR   LP6",
+        "latitude": 28.8,
+        "longitude": -76.3
+    },
+    {
+        "Facility Name": "ETR   SLBM",
+        "latitude": 28.5,
+        "longitude": -80
+    },
+    {
+        "Facility Name": "FTB   MCG",
+        "latitude": 32.0736,
+        "longitude": 106.1524
+    },
+    {
+        "Facility Name": "FW    LC96",
+        "latitude": 35.4487,
+        "longitude": 108.5995
+    },
+    {
+        "Facility Name": "GF RW17/35",
+        "latitude": 47.953,
+        "longitude": -97.4081
+    },
+    {
+        "Facility Name": "GIK-1 LC131",
+        "latitude": 62.9,
+        "longitude": 40.8
+    },
+    {
+        "Facility Name": "GIK-1 LC131",
+        "latitude": 62.9,
+        "longitude": 40.8
+    },
+    {
+        "Facility Name": "GIK-1 LC132",
+        "latitude": 62.893,
+        "longitude": 40.887
+    },
+    {
+        "Facility Name": "GIK-1 LC132/1",
+        "latitude": 62.893,
+        "longitude": 40.887
+    },
+    {
+        "Facility Name": "GIK-1 LC132/2",
+        "latitude": 62.893,
+        "longitude": 40.888
+    },
+    {
+        "Facility Name": "GIK-1 LC133",
+        "latitude": 62.895,
+        "longitude": 40.867
+    },
+    {
+        "Facility Name": "GIK-1 LC133/1",
+        "latitude": 62.895,
+        "longitude": 40.867
+    },
+    {
+        "Facility Name": "GIK-1 LC133/3",
+        "latitude": 62.895,
+        "longitude": 40.868
+    },
+    {
+        "Facility Name": "GIK-1 LC16/2",
+        "latitude": 62.95,
+        "longitude": 40.68
+    },
+    {
+        "Facility Name": "GIK-1 LC24",
+        "latitude": 62.92,
+        "longitude": 40.58
+    },
+    {
+        "Facility Name": "GIK-1 LC25",
+        "latitude": 62.92,
+        "longitude": 40.58
+    },
+    {
+        "Facility Name": "GIK-1 LC25",
+        "latitude": 62.92,
+        "longitude": 40.58
+    },
+    {
+        "Facility Name": "GIK-1 LC31/12",
+        "latitude": 62.9,
+        "longitude": 40.8
+    },
+    {
+        "Facility Name": "GIK-1 LC32/1",
+        "latitude": 62.915,
+        "longitude": 40.8
+    },
+    {
+        "Facility Name": "GIK-1 LC32/1",
+        "latitude": 62.915,
+        "longitude": 40.8
+    },
+    {
+        "Facility Name": "GIK-1 LC32/2",
+        "latitude": 62.915,
+        "longitude": 40.801
+    },
+    {
+        "Facility Name": "GIK-1 LC35",
+        "latitude": 62.92,
+        "longitude": 40.58
+    },
+    {
+        "Facility Name": "GIK-1 LC35",
+        "latitude": 62.92,
+        "longitude": 40.58
+    },
+    {
+        "Facility Name": "GIK-1 LC41/1",
+        "latitude": 62.93,
+        "longitude": 40.513
+    },
+    {
+        "Facility Name": "GIK-1 LC43/3",
+        "latitude": 62.93,
+        "longitude": 40.45
+    },
+    {
+        "Facility Name": "GIK-1 LC43/4",
+        "latitude": 62.93,
+        "longitude": 40.47
+    },
+    {
+        "Facility Name": "GIK-1 LC5",
+        "latitude": 62.92,
+        "longitude": 40.58
+    },
+    {
+        "Facility Name": "GIK-1 PU11",
+        "latitude": 62.9,
+        "longitude": 40.5
+    },
+    {
+        "Facility Name": "GIK-2 LC5",
+        "latitude": 51.7,
+        "longitude": 128
+    },
+    {
+        "Facility Name": "GIK-5 LC1",
+        "latitude": 45.9203,
+        "longitude": 63.3423
+    },
+    {
+        "Facility Name": "GIK-5 LC108",
+        "latitude": 46.046,
+        "longitude": 63.815
+    },
+    {
+        "Facility Name": "GIK-5 LC109",
+        "latitude": 45.944,
+        "longitude": 63.442
+    },
+    {
+        "Facility Name": "GIK-5 LC109/95",
+        "latitude": 45.944,
+        "longitude": 63.442
+    },
+    {
+        "Facility Name": "GIK-5 LC110L",
+        "latitude": 45.955,
+        "longitude": 63.309
+    },
+    {
+        "Facility Name": "GIK-5 LC110R",
+        "latitude": 45.95,
+        "longitude": 63.314
+    },
+    {
+        "Facility Name": "GIK-5 LC131",
+        "latitude": 46.069,
+        "longitude": 62.968
+    },
+    {
+        "Facility Name": "GIK-5 LC131",
+        "latitude": 46.069,
+        "longitude": 62.968
+    },
+    {
+        "Facility Name": "GIK-5 LC131",
+        "latitude": 46.069,
+        "longitude": 62.968
+    },
+    {
+        "Facility Name": "GIK-5 LC131",
+        "latitude": 46.069,
+        "longitude": 62.968
+    },
+    {
+        "Facility Name": "GIK-5 LC170",
+        "latitude": 46,
+        "longitude": 63
+    },
+    {
+        "Facility Name": "GIK-5 LC170",
+        "latitude": 46,
+        "longitude": 63
+    },
+    {
+        "Facility Name": "GIK-5 LC171",
+        "latitude": 46,
+        "longitude": 63
+    },
+    {
+        "Facility Name": "GIK-5 LC171",
+        "latitude": 46,
+        "longitude": 63
+    },
+    {
+        "Facility Name": "GIK-5 LC172",
+        "latitude": 46.065,
+        "longitude": 63.092
+    },
+    {
+        "Facility Name": "GIK-5 LC172",
+        "latitude": 46.065,
+        "longitude": 63.092
+    },
+    {
+        "Facility Name": "GIK-5 LC173",
+        "latitude": 46,
+        "longitude": 63
+    },
+    {
+        "Facility Name": "GIK-5 LC173",
+        "latitude": 46,
+        "longitude": 63
+    },
+    {
+        "Facility Name": "GIK-5 LC174",
+        "latitude": 46,
+        "longitude": 63
+    },
+    {
+        "Facility Name": "GIK-5 LC174",
+        "latitude": 46,
+        "longitude": 63
+    },
+    {
+        "Facility Name": "GIK-5 LC175",
+        "latitude": 46.045,
+        "longitude": 62.98
+    },
+    {
+        "Facility Name": "GIK-5 LC175/2",
+        "latitude": 46.045,
+        "longitude": 62.98
+    },
+    {
+        "Facility Name": "GIK-5 LC175/2",
+        "latitude": 46.045,
+        "longitude": 62.98
+    },
+    {
+        "Facility Name": "GIK-5 LC175/2",
+        "latitude": 46.045,
+        "longitude": 62.98
+    },
+    {
+        "Facility Name": "GIK-5 LC175/59",
+        "latitude": 46.045,
+        "longitude": 62.98
+    },
+    {
+        "Facility Name": "GIK-5 LC175/59",
+        "latitude": 46.045,
+        "longitude": 62.98
+    },
+    {
+        "Facility Name": "GIK-5 LC176",
+        "latitude": 46,
+        "longitude": 63
+    },
+    {
+        "Facility Name": "GIK-5 LC176",
+        "latitude": 46,
+        "longitude": 63
+    },
+    {
+        "Facility Name": "GIK-5 LC177",
+        "latitude": 46,
+        "longitude": 63
+    },
+    {
+        "Facility Name": "GIK-5 LC177",
+        "latitude": 46,
+        "longitude": 63
+    },
+    {
+        "Facility Name": "GIK-5 LC179",
+        "latitude": 46,
+        "longitude": 63
+    },
+    {
+        "Facility Name": "GIK-5 LC179",
+        "latitude": 46,
+        "longitude": 63
+    },
+    {
+        "Facility Name": "GIK-5 LC181",
+        "latitude": 46,
+        "longitude": 63
+    },
+    {
+        "Facility Name": "GIK-5 LC181",
+        "latitude": 46,
+        "longitude": 63
+    },
+    {
+        "Facility Name": "GIK-5 LC200/39",
+        "latitude": 46.035,
+        "longitude": 63.037
+    },
+    {
+        "Facility Name": "GIK-5 LC200/40",
+        "latitude": 46.031,
+        "longitude": 63.044
+    },
+    {
+        "Facility Name": "GIK-5 LC250",
+        "latitude": 45.995,
+        "longitude": 63.309
+    },
+    {
+        "Facility Name": "GIK-5 LC31",
+        "latitude": 45.996,
+        "longitude": 63.5641
+    },
+    {
+        "Facility Name": "GIK-5 LC44",
+        "latitude": 45.926,
+        "longitude": 63.622
+    },
+    {
+        "Facility Name": "GIK-5 LC45/1",
+        "latitude": 45.926,
+        "longitude": 63.622
+    },
+    {
+        "Facility Name": "GIK-5 LC45/2",
+        "latitude": 45.93,
+        "longitude": 63.627
+    },
+    {
+        "Facility Name": "GIK-5 LC81/23",
+        "latitude": 46.059,
+        "longitude": 62.983
+    },
+    {
+        "Facility Name": "GIK-5 LC81/24",
+        "latitude": 46.067,
+        "longitude": 62.99
+    },
+    {
+        "Facility Name": "GIK-5 LC90",
+        "latitude": 46.081,
+        "longitude": 62.935
+    },
+    {
+        "Facility Name": "GIK-5 LC90/19",
+        "latitude": 46.081,
+        "longitude": 62.935
+    },
+    {
+        "Facility Name": "GIK-5 LC90/20",
+        "latitude": 46.081,
+        "longitude": 62.936
+    },
+    {
+        "Facility Name": "GIK-5 PL251",
+        "latitude": 46.029,
+        "longitude": 63.324
+    },
+    {
+        "Facility Name": "GIK-5 PU31",
+        "latitude": 46,
+        "longitude": 63
+    },
+    {
+        "Facility Name": "GIK-5 PU32",
+        "latitude": 46,
+        "longitude": 63
+    },
+    {
+        "Facility Name": "GIK-5 PU33",
+        "latitude": 46,
+        "longitude": 63
+    },
+    {
+        "Facility Name": "GMS60AM9002",
+        "latitude": 36.7,
+        "longitude": 175.7
+    },
+    {
+        "Facility Name": "GMS60AM9003",
+        "latitude": 26,
+        "longitude": 169.4
+    },
+    {
+        "Facility Name": "GMS60AM9004",
+        "latitude": 23.1,
+        "longitude": 167
+    },
+    {
+        "Facility Name": "GMS60AM9005",
+        "latitude": 20.5,
+        "longitude": 163.4
+    },
+    {
+        "Facility Name": "GMS60AM9006",
+        "latitude": 18.1,
+        "longitude": 160.1
+    },
+    {
+        "Facility Name": "GMS60AM9007",
+        "latitude": 16.1,
+        "longitude": 157.2
+    },
+    {
+        "Facility Name": "GMS60AM9008",
+        "latitude": 14.4,
+        "longitude": 155.2
+    },
+    {
+        "Facility Name": "GMS60AM9009",
+        "latitude": 13.9,
+        "longitude": 154.4
+    },
+    {
+        "Facility Name": "GMS60AM9010",
+        "latitude": 11.6,
+        "longitude": 151.7
+    },
+    {
+        "Facility Name": "GMS60AM9011",
+        "latitude": 10,
+        "longitude": 149.9
+    },
+    {
+        "Facility Name": "GMS60AM9012",
+        "latitude": 10.4,
+        "longitude": 149.5
+    },
+    {
+        "Facility Name": "GMS60AM9013",
+        "latitude": 14.1,
+        "longitude": 149.2
+    },
+    {
+        "Facility Name": "GMS60AM9014",
+        "latitude": 14.5,
+        "longitude": 149
+    },
+    {
+        "Facility Name": "GMS60AM9015",
+        "latitude": 17.1,
+        "longitude": 148.6
+    },
+    {
+        "Facility Name": "GMS60AM9016",
+        "latitude": 19.5,
+        "longitude": 148.1
+    },
+    {
+        "Facility Name": "GMS60AM9017",
+        "latitude": 42.4,
+        "longitude": 179.7
+    },
+    {
+        "Facility Name": "GMS60AM9018",
+        "latitude": 42.2,
+        "longitude": 179.6
+    },
+    {
+        "Facility Name": "GMS60AM9019",
+        "latitude": 42,
+        "longitude": 179.9
+    },
+    {
+        "Facility Name": "GMS60AM9020",
+        "latitude": 42.2,
+        "longitude": 179.4
+    },
+    {
+        "Facility Name": "GMS60AM9021",
+        "latitude": 42.1,
+        "longitude": 179.7
+    },
+    {
+        "Facility Name": "GMS60AM9022",
+        "latitude": 35.7,
+        "longitude": 180
+    },
+    {
+        "Facility Name": "GMS60AM9023",
+        "latitude": 32,
+        "longitude": 180
+    },
+    {
+        "Facility Name": "GMS60BM9024",
+        "latitude": 28.3,
+        "longitude": 180
+    },
+    {
+        "Facility Name": "GMS60BM9025",
+        "latitude": 24.7,
+        "longitude": 180
+    },
+    {
+        "Facility Name": "GMS60BM9026",
+        "latitude": 21.2,
+        "longitude": 180
+    },
+    {
+        "Facility Name": "GMS60BM9027",
+        "latitude": 13.5,
+        "longitude": 180
+    },
+    {
+        "Facility Name": "GMS60BM9028",
+        "latitude": 9.9,
+        "longitude": 180
+    },
+    {
+        "Facility Name": "GMS60BM9029",
+        "latitude": -1.3,
+        "longitude": 179
+    },
+    {
+        "Facility Name": "GMS60BM9030",
+        "latitude": 5.3,
+        "longitude": 180
+    },
+    {
+        "Facility Name": "GMS60BM9031",
+        "latitude": 9.6,
+        "longitude": 180
+    },
+    {
+        "Facility Name": "GMS60BM9032",
+        "latitude": 12.2,
+        "longitude": 177.4
+    },
+    {
+        "Facility Name": "GMS60BM9033",
+        "latitude": 13.4,
+        "longitude": 175.4
+    },
+    {
+        "Facility Name": "GMS60CM9034",
+        "latitude": 41.8,
+        "longitude": 179.2
+    },
+    {
+        "Facility Name": "GMS60CM9035",
+        "latitude": 42,
+        "longitude": 179.5
+    },
+    {
+        "Facility Name": "GMS60CM9036",
+        "latitude": 39,
+        "longitude": 179.5
+    },
+    {
+        "Facility Name": "GMS60CM9037",
+        "latitude": 38,
+        "longitude": 179.8
+    },
+    {
+        "Facility Name": "GMS60CM9038",
+        "latitude": 34,
+        "longitude": 179.8
+    },
+    {
+        "Facility Name": "GMS60CM9039",
+        "latitude": 27.1,
+        "longitude": 179.8
+    },
+    {
+        "Facility Name": "GMS60CM9040",
+        "latitude": 23.5,
+        "longitude": 179.8
+    },
+    {
+        "Facility Name": "GMS60CM9041",
+        "latitude": 19.9,
+        "longitude": 179.8
+    },
+    {
+        "Facility Name": "GMS60CM9042",
+        "latitude": 12.9,
+        "longitude": 179.8
+    },
+    {
+        "Facility Name": "GMS60CM9043",
+        "latitude": 9.7,
+        "longitude": 179.8
+    },
+    {
+        "Facility Name": "GMS60CM9044",
+        "latitude": 3.2,
+        "longitude": 179.8
+    },
+    {
+        "Facility Name": "GMS60CM9045",
+        "latitude": 0.1,
+        "longitude": 179.8
+    },
+    {
+        "Facility Name": "GNIIP LC(T2)",
+        "latitude": 63.083,
+        "longitude": 41.083
+    },
+    {
+        "Facility Name": "GNIIP LC(T3)",
+        "latitude": 63.1,
+        "longitude": 41.092
+    },
+    {
+        "Facility Name": "GNIIP LC(T4)",
+        "latitude": 63.11,
+        "longitude": 41.12
+    },
+    {
+        "Facility Name": "GNIIP LC158",
+        "latitude": 63.05,
+        "longitude": 41.08
+    },
+    {
+        "Facility Name": "GNIIP LC167",
+        "latitude": 62.98,
+        "longitude": 41.13
+    },
+    {
+        "Facility Name": "Grushnoye",
+        "latitude": 51.6,
+        "longitude": 30.4
+    },
+    {
+        "Facility Name": "GTIDZ -",
+        "latitude": 21,
+        "longitude": -71
+    },
+    {
+        "Facility Name": "GTsP- LC107",
+        "latitude": 48.6,
+        "longitude": 46.3
+    },
+    {
+        "Facility Name": "GTsP- LC107/1",
+        "latitude": 48.5406,
+        "longitude": 46.3001
+    },
+    {
+        "Facility Name": "GTsP- LC107/2",
+        "latitude": 48.54,
+        "longitude": 46.2978
+    },
+    {
+        "Facility Name": "GTsP- MR-100",
+        "latitude": 48.67,
+        "longitude": 46.23
+    },
+    {
+        "Facility Name": "GTsP- PL87",
+        "latitude": 48.5,
+        "longitude": 45.8
+    },
+    {
+        "Facility Name": "Guiana Space Centre (Europe's Spaceport)",
+        "latitude": 5.169,
+        "longitude": -52.6903
+    },
+    {
+        "Facility Name": "HADC  A",
+        "latitude": 32.8931,
+        "longitude": 106.1228
+    },
+    {
+        "Facility Name": "HADC  NATIV",
+        "latitude": 32.8892,
+        "longitude": 106.1272
+    },
+    {
+        "Facility Name": "HADC  SLED",
+        "latitude": 32.8848,
+        "longitude": 106.1499
+    },
+    {
+        "Facility Name": "HADC  ZEL",
+        "latitude": 32.8665,
+        "longitude": 106.1475
+    },
+    {
+        "Facility Name": "Hickam RW08R/26L",
+        "latitude": 21.3066,
+        "longitude": 157.9824
+    },
+    {
+        "Facility Name": "Huainan Satellite Launch Center",
+        "latitude": 32.7286,
+        "longitude": 116.2044
+    },
+    {
+        "Facility Name": "Huang Hai",
+        "latitude": 32.19,
+        "longitude": 123.8
+    },
+    {
+        "Facility Name": "Huang Hai",
+        "latitude": 34.3117,
+        "longitude": 123.7611
+    },
+    {
+        "Facility Name": "Huang Hai",
+        "latitude": 34.9,
+        "longitude": 121.19
+    },
+    {
+        "Facility Name": "Huang Hai",
+        "latitude": 36.631,
+        "longitude": 121.1983
+    },
+    {
+        "Facility Name": "Huang Hai",
+        "latitude": 37.3395,
+        "longitude": 123.7115
+    },
+    {
+        "Facility Name": "Hydra South",
+        "latitude": 0,
+        "longitude": 120
+    },
+    {
+        "Facility Name": "Indian Springs",
+        "latitude": 36.5893,
+        "longitude": 115.6717
+    },
+    {
+        "Facility Name": "Jilin Satellite Launch Center",
+        "latitude": 42.0208,
+        "longitude": 126.4497
+    },
+    {
+        "Facility Name": "Jingyu LP1",
+        "latitude": 42.286,
+        "longitude": 126.883
+    },
+    {
+        "Facility Name": "Jingyu LP2",
+        "latitude": 42.2873,
+        "longitude": 126.8818
+    },
+    {
+        "Facility Name": "Jiuquan Satellite Launch Center",
+        "latitude": 40.9589,
+        "longitude": 100.2967
+    },
+    {
+        "Facility Name": "Jiuquan South Launch Site",
+        "latitude": 40.9589,
+        "longitude": 100.2967
+    },
+    {
+        "Facility Name": "JQ    LA2A",
+        "latitude": 41.3062,
+        "longitude": 100.3133
+    },
+    {
+        "Facility Name": "JQ    LA2B",
+        "latitude": 41.3065,
+        "longitude": 100.3188
+    },
+    {
+        "Facility Name": "JQ    LA3",
+        "latitude": 41.2805,
+        "longitude": 100.3047
+    },
+    {
+        "Facility Name": "JQ    LA3",
+        "latitude": 41.2831,
+        "longitude": 100.3048
+    },
+    {
+        "Facility Name": "JQ    LC130",
+        "latitude": 40.8184,
+        "longitude": 100.2242
+    },
+    {
+        "Facility Name": "JQ    SLS",
+        "latitude": 40.958,
+        "longitude": 100.2912
+    },
+    {
+        "Facility Name": "JQ    SLS-1",
+        "latitude": 40.958,
+        "longitude": 100.2912
+    },
+    {
+        "Facility Name": "JQ    SLS-1",
+        "latitude": 40.958,
+        "longitude": 100.2912
+    },
+    {
+        "Facility Name": "JQ    SLS-1",
+        "latitude": 40.958,
+        "longitude": 100.2912
+    },
+    {
+        "Facility Name": "JQ    SLS-2",
+        "latitude": 40.9605,
+        "longitude": 100.298
+    },
+    {
+        "Facility Name": "JQ    SLS-2",
+        "latitude": 40.9605,
+        "longitude": 100.298
+    },
+    {
+        "Facility Name": "JQ    SLS-2",
+        "latitude": 40.9605,
+        "longitude": 100.298
+    },
+    {
+        "Facility Name": "JQ    SLS-E",
+        "latitude": 40.969,
+        "longitude": 100.344
+    },
+    {
+        "Facility Name": "JQ    SLS-E",
+        "latitude": 40.9691,
+        "longitude": 100.3435
+    },
+    {
+        "Facility Name": "JQ    SLS-E",
+        "latitude": 40.9691,
+        "longitude": 100.3435
+    },
+    {
+        "Facility Name": "JQ LC43/96",
+        "latitude": 40.9149,
+        "longitude": 100.2456
+    },
+    {
+        "Facility Name": "Kalinkavichy",
+        "latitude": 52.1,
+        "longitude": 29.3
+    },
+    {
+        "Facility Name": "Kapustin Yar Cosmodrome",
+        "latitude": 48.5758,
+        "longitude": 46.275
+    },
+    {
+        "Facility Name": "KASC  K",
+        "latitude": 31.247,
+        "longitude": 131.082
+    },
+    {
+        "Facility Name": "KASC  M-V",
+        "latitude": 31.247,
+        "longitude": 131.085
+    },
+    {
+        "Facility Name": "KASC  TMP",
+        "latitude": 31.25,
+        "longitude": 131.079
+    },
+    {
+        "Facility Name": "KAU   AAMDTC",
+        "latitude": 22.0043,
+        "longitude": 159.7672
+    },
+    {
+        "Facility Name": "KAU   KP",
+        "latitude": 21.985,
+        "longitude": 159.7622
+    },
+    {
+        "Facility Name": "KAU   LC1",
+        "latitude": 22.058,
+        "longitude": 159.777
+    },
+    {
+        "Facility Name": "KAU   LC10",
+        "latitude": 22.06,
+        "longitude": 159.78
+    },
+    {
+        "Facility Name": "KAU   LC12",
+        "latitude": 22.0604,
+        "longitude": 159.7819
+    },
+    {
+        "Facility Name": "KAU   LC14",
+        "latitude": 22.06,
+        "longitude": 159.78
+    },
+    {
+        "Facility Name": "KAU   LC19",
+        "latitude": 22.0636,
+        "longitude": 159.7817
+    },
+    {
+        "Facility Name": "KAU   LC42",
+        "latitude": 22.068,
+        "longitude": 159.772
+    },
+    {
+        "Facility Name": "KAU   LP1",
+        "latitude": 22.688,
+        "longitude": 160.214
+    },
+    {
+        "Facility Name": "KAU   POA",
+        "latitude": 22.058,
+        "longitude": 159.777
+    },
+    {
+        "Facility Name": "KAU   POA2",
+        "latitude": 22.3,
+        "longitude": 160.95
+    },
+    {
+        "Facility Name": "KAU   POA3",
+        "latitude": 21,
+        "longitude": 164
+    },
+    {
+        "Facility Name": "KAU   POA4",
+        "latitude": 20.5,
+        "longitude": 163
+    },
+    {
+        "Facility Name": "KAU   RW16/34",
+        "latitude": 22.025,
+        "longitude": 159.7855
+    },
+    {
+        "Facility Name": "KAU BLP",
+        "latitude": 22.0396,
+        "longitude": 159.782
+    },
+    {
+        "Facility Name": "Kauai West Zone",
+        "latitude": 22,
+        "longitude": 173.5
+    },
+    {
+        "Facility Name": "Kennedy Space Center",
+        "latitude": 28.608389,
+        "longitude": -80.604333
+    },
+    {
+        "Facility Name": "KLC LP1",
+        "latitude": 57.4353,
+        "longitude": 152.3394
+    },
+    {
+        "Facility Name": "KLC LP2",
+        "latitude": 57.4348,
+        "longitude": 152.342
+    },
+    {
+        "Facility Name": "KMR   BOA N",
+        "latitude": 10.5,
+        "longitude": 167.5
+    },
+    {
+        "Facility Name": "KMR   BOA NE",
+        "latitude": 10.5,
+        "longitude": 168
+    },
+    {
+        "Facility Name": "KMR   BOA NE 2",
+        "latitude": 14.3,
+        "longitude": 176
+    },
+    {
+        "Facility Name": "KMR   DKZ3",
+        "latitude": 6.743,
+        "longitude": 167.7
+    },
+    {
+        "Facility Name": "KMR   DZK2",
+        "latitude": 10.5229,
+        "longitude": 167.7562
+    },
+    {
+        "Facility Name": "KMR   IL",
+        "latitude": 9,
+        "longitude": 167.7
+    },
+    {
+        "Facility Name": "KMR   KW",
+        "latitude": 8.7023,
+        "longitude": 167.718
+    },
+    {
+        "Facility Name": "KMR   Meck",
+        "latitude": 9.006,
+        "longitude": 167.7269
+    },
+    {
+        "Facility Name": "KMR   Meck 1",
+        "latitude": 9.006,
+        "longitude": 167.7269
+    },
+    {
+        "Facility Name": "KMR   OM",
+        "latitude": 9.0494,
+        "longitude": 167.7432
+    },
+    {
+        "Facility Name": "KMR   RN",
+        "latitude": 9.4012,
+        "longitude": 167.4663
+    },
+    {
+        "Facility Name": "KMR   RW06/24",
+        "latitude": 8.715,
+        "longitude": 167.7267
+    },
+    {
+        "Facility Name": "Kodiak, Alaska",
+        "latitude": 57.4353,
+        "longitude": -152.339
+    },
+    {
+        "Facility Name": "KSC   LC39A",
+        "latitude": 28.6083,
+        "longitude": -80.6041
+    },
+    {
+        "Facility Name": "KSC   LC39B",
+        "latitude": 28.6272,
+        "longitude": -80.6208
+    },
+    {
+        "Facility Name": "KSC   LC48",
+        "latitude": 28.599,
+        "longitude": -80.589
+    },
+    {
+        "Facility Name": "Kusong LP1",
+        "latitude": 39.9275,
+        "longitude": 125.2079
+    },
+    {
+        "Facility Name": "Kusong LP2",
+        "latitude": 40.0133,
+        "longitude": 125.223
+    },
+    {
+        "Facility Name": "Kusong LP3",
+        "latitude": 40.066,
+        "longitude": 125.2099
+    },
+    {
+        "Facility Name": "Kusong LP4",
+        "latitude": 39.8722,
+        "longitude": 125.2689
+    },
+    {
+        "Facility Name": "Kusong LP5",
+        "latitude": 39.9,
+        "longitude": 125.5
+    },
+    {
+        "Facility Name": "Launch Site A",
+        "latitude": 52.1415,
+        "longitude": -4.5734
+    },
+    {
+        "Facility Name": "Main Spaceport Complex, Maine",
+        "latitude": 44.4444,
+        "longitude": -67.6
+    },
+    {
+        "Facility Name": "Maritime Spaceport, Canso, Nova Scotia",
+        "latitude": 45.306,
+        "longitude": -60.987
+    },
+    {
+        "Facility Name": "Med Range",
+        "latitude": 32,
+        "longitude": 31.5
+    },
+    {
+        "Facility Name": "MFWA  -",
+        "latitude": 29,
+        "longitude": -78.5
+    },
+    {
+        "Facility Name": "MHV   RW12/30",
+        "latitude": 35.0487,
+        "longitude": 118.1357
+    },
+    {
+        "Facility Name": "MHV   RW30",
+        "latitude": 35.0487,
+        "longitude": 118.1357
+    },
+    {
+        "Facility Name": "MHV DP1",
+        "latitude": 35.05,
+        "longitude": 117.9
+    },
+    {
+        "Facility Name": "MHV DP2",
+        "latitude": 35.157,
+        "longitude": 117.906
+    },
+    {
+        "Facility Name": "MHV DP3",
+        "latitude": 35.3,
+        "longitude": 118.2
+    },
+    {
+        "Facility Name": "MHV DP4",
+        "latitude": 35.39,
+        "longitude": 118.22
+    },
+    {
+        "Facility Name": "MID   -",
+        "latitude": 24.8,
+        "longitude": 177.5
+    },
+    {
+        "Facility Name": "MID   -",
+        "latitude": 40,
+        "longitude": 180
+    },
+    {
+        "Facility Name": "Mojave Air and Space Port, California",
+        "latitude": 35.059,
+        "longitude": -118.1488
+    },
+    {
+        "Facility Name": "Mozyr",
+        "latitude": 52,
+        "longitude": 29.2
+    },
+    {
+        "Facility Name": "Mupyong-ni",
+        "latitude": 40.6112,
+        "longitude": 126.4257
+    },
+    {
+        "Facility Name": "NARO LC1",
+        "latitude": 34.4318,
+        "longitude": 127.5363
+    },
+    {
+        "Facility Name": "NARO LC2",
+        "latitude": 34.4317,
+        "longitude": 127.5345
+    },
+    {
+        "Facility Name": "NASA64LP1",
+        "latitude": 34,
+        "longitude": -75
+    },
+    {
+        "Facility Name": "NASA64LP3",
+        "latitude": 33.98,
+        "longitude": -76.27
+    },
+    {
+        "Facility Name": "NASA64LP4",
+        "latitude": 37.75,
+        "longitude": -75.37
+    },
+    {
+        "Facility Name": "NASA64LP5",
+        "latitude": 37.72,
+        "longitude": -75.33
+    },
+    {
+        "Facility Name": "NASA64LP6",
+        "latitude": 37.83,
+        "longitude": -75.33
+    },
+    {
+        "Facility Name": "NASA64LP7",
+        "latitude": 38,
+        "longitude": -74
+    },
+    {
+        "Facility Name": "NATC RW06/24",
+        "latitude": 38.2857,
+        "longitude": -76.4084
+    },
+    {
+        "Facility Name": "NEN   -",
+        "latitude": 64.63,
+        "longitude": 39.2
+    },
+    {
+        "Facility Name": "NEN   -",
+        "latitude": 64.63,
+        "longitude": 39.2
+    },
+    {
+        "Facility Name": "NEN   -",
+        "latitude": 64.63,
+        "longitude": 39.2
+    },
+    {
+        "Facility Name": "Newquay RW12/30",
+        "latitude": 50.4361,
+        "longitude": -4.983
+    },
+    {
+        "Facility Name": "NIIP-53 LC157",
+        "latitude": 62.9,
+        "longitude": 40.8
+    },
+    {
+        "Facility Name": "NIIP-53 LC158",
+        "latitude": 62.9,
+        "longitude": 40.8
+    },
+    {
+        "Facility Name": "NIIP-53 LC161",
+        "latitude": 62.9,
+        "longitude": 40.8
+    },
+    {
+        "Facility Name": "NIIP-53 LC161",
+        "latitude": 62.9,
+        "longitude": 40.8
+    },
+    {
+        "Facility Name": "NIIP-53 LC161",
+        "latitude": 62.9,
+        "longitude": 40.8
+    },
+    {
+        "Facility Name": "NIIP-53 LC161",
+        "latitude": 62.9,
+        "longitude": 40.8
+    },
+    {
+        "Facility Name": "NIIP-53 LC161",
+        "latitude": 62.9,
+        "longitude": 40.8
+    },
+    {
+        "Facility Name": "NIIP-53 LC163",
+        "latitude": 62.9,
+        "longitude": 40.8
+    },
+    {
+        "Facility Name": "NIIP-53 LC163",
+        "latitude": 62.9,
+        "longitude": 40.8
+    },
+    {
+        "Facility Name": "NIIP-53 LC163",
+        "latitude": 62.9,
+        "longitude": 40.8
+    },
+    {
+        "Facility Name": "NIIP-53 LC163",
+        "latitude": 62.9,
+        "longitude": 40.8
+    },
+    {
+        "Facility Name": "NIIP-53 LC163",
+        "latitude": 62.9,
+        "longitude": 40.8
+    },
+    {
+        "Facility Name": "NIIP-53 LC163",
+        "latitude": 62.9,
+        "longitude": 40.8
+    },
+    {
+        "Facility Name": "NIIP-53 LC163",
+        "latitude": 62.9,
+        "longitude": 40.8
+    },
+    {
+        "Facility Name": "NIIP-53 LC163",
+        "latitude": 62.9,
+        "longitude": 40.8
+    },
+    {
+        "Facility Name": "NIIP-53 LC165",
+        "latitude": 62.9,
+        "longitude": 40.8
+    },
+    {
+        "Facility Name": "NIIP-53 LC167",
+        "latitude": 62.9,
+        "longitude": 40.8
+    },
+    {
+        "Facility Name": "NIIP-53 LC169",
+        "latitude": 62.9,
+        "longitude": 40.8
+    },
+    {
+        "Facility Name": "NIIP-53 LC169",
+        "latitude": 62.9,
+        "longitude": 40.8
+    },
+    {
+        "Facility Name": "NIIP-53 LC172/2",
+        "latitude": 62.9,
+        "longitude": 40.8
+    },
+    {
+        "Facility Name": "NTS   Area 26",
+        "latitude": 36.75,
+        "longitude": 116.11
+    },
+    {
+        "Facility Name": "NW SLBM",
+        "latitude": 34,
+        "longitude": 173
+    },
+    {
+        "Facility Name": "OK    KRE",
+        "latitude": 80.37,
+        "longitude": 58.03
+    },
+    {
+        "Facility Name": "Pacific Spaceport Complex – Alaska",
+        "latitude": 57.435278,
+        "longitude": -152.34
+    },
+    {
+        "Facility Name": "PALB  IAFTR",
+        "latitude": 31.9,
+        "longitude": 34.6
+    },
+    {
+        "Facility Name": "PALB  SH",
+        "latitude": 31.8847,
+        "longitude": 34.6801
+    },
+    {
+        "Facility Name": "PALB Arrow",
+        "latitude": 31.8788,
+        "longitude": 34.6773
+    },
+    {
+        "Facility Name": "Palmachim",
+        "latitude": 31.8979,
+        "longitude": 34.6908
+    },
+    {
+        "Facility Name": "Palmachim LP1",
+        "latitude": 32,
+        "longitude": 34
+    },
+    {
+        "Facility Name": "PAWA  -",
+        "latitude": 36,
+        "longitude": 123
+    },
+    {
+        "Facility Name": "PF    LC1",
+        "latitude": 65.1296,
+        "longitude": 147.4882
+    },
+    {
+        "Facility Name": "PF    LC2",
+        "latitude": 65.1298,
+        "longitude": 147.4861
+    },
+    {
+        "Facility Name": "PF    LC3",
+        "latitude": 65.1298,
+        "longitude": 147.4855
+    },
+    {
+        "Facility Name": "PF    LC4",
+        "latitude": 65.1302,
+        "longitude": 147.4832
+    },
+    {
+        "Facility Name": "PF    LC5",
+        "latitude": 65.1292,
+        "longitude": 147.4833
+    },
+    {
+        "Facility Name": "PF    LC6",
+        "latitude": 65.117,
+        "longitude": 147.4609
+    },
+    {
+        "Facility Name": "PISQ",
+        "latitude": 39.5038,
+        "longitude": 9.6229
+    },
+    {
+        "Facility Name": "PISQ",
+        "latitude": 39.5418,
+        "longitude": 9.6361
+    },
+    {
+        "Facility Name": "PISQ",
+        "latitude": 39.6777,
+        "longitude": 9.4432
+    },
+    {
+        "Facility Name": "PLATT RW17/35",
+        "latitude": 44.6526,
+        "longitude": -73.4693
+    },
+    {
+        "Facility Name": "Plesetsk Cosmodrome",
+        "latitude": 62.925,
+        "longitude": 40.5747
+    },
+    {
+        "Facility Name": "PM    -",
+        "latitude": 34.1103,
+        "longitude": 119.1286
+    },
+    {
+        "Facility Name": "PM    B1",
+        "latitude": 34.0996,
+        "longitude": 119.1216
+    },
+    {
+        "Facility Name": "PM    B2",
+        "latitude": 34.0992,
+        "longitude": 119.1209
+    },
+    {
+        "Facility Name": "PM    C1",
+        "latitude": 34.0986,
+        "longitude": 119.1184
+    },
+    {
+        "Facility Name": "PM    C2",
+        "latitude": 34.0986,
+        "longitude": 119.1184
+    },
+    {
+        "Facility Name": "PM    C3",
+        "latitude": 34.0986,
+        "longitude": 119.1184
+    },
+    {
+        "Facility Name": "PM LP1",
+        "latitude": 34.6,
+        "longitude": 122.6
+    },
+    {
+        "Facility Name": "PM LP2",
+        "latitude": 35,
+        "longitude": 126
+    },
+    {
+        "Facility Name": "PM LP8",
+        "latitude": 34,
+        "longitude": 128
+    },
+    {
+        "Facility Name": "PM RW03/21",
+        "latitude": 34.1203,
+        "longitude": 119.1218
+    },
+    {
+        "Facility Name": "PMLA  -",
+        "latitude": 32.75,
+        "longitude": 120
+    },
+    {
+        "Facility Name": "PMRF, Hawaii",
+        "latitude": 22.022,
+        "longitude": -159.785
+    },
+    {
+        "Facility Name": "Poker Flats, Alaska",
+        "latitude": 65.1259,
+        "longitude": -147.4789
+    },
+    {
+        "Facility Name": "POR C1",
+        "latitude": 12.9245,
+        "longitude": 177.421
+    },
+    {
+        "Facility Name": "POR25 -",
+        "latitude": 17,
+        "longitude": 168
+    },
+    {
+        "Facility Name": "POR25 -",
+        "latitude": 21,
+        "longitude": 167
+    },
+    {
+        "Facility Name": "POR28 -",
+        "latitude": 15,
+        "longitude": 174
+    },
+    {
+        "Facility Name": "POR29 -",
+        "latitude": 35,
+        "longitude": 155
+    },
+    {
+        "Facility Name": "POR30 -",
+        "latitude": 23,
+        "longitude": 160
+    },
+    {
+        "Facility Name": "PS-65",
+        "latitude": 44.6,
+        "longitude": 33.5
+    },
+    {
+        "Facility Name": "PS-65M",
+        "latitude": 44.6,
+        "longitude": 33.5
+    },
+    {
+        "Facility Name": "PSCA Area 3 Pad A",
+        "latitude": 57.4321,
+        "longitude": 152.3499
+    },
+    {
+        "Facility Name": "PSCA Area 3 Pad B",
+        "latitude": 57.4305,
+        "longitude": 152.3556
+    },
+    {
+        "Facility Name": "PSCA Area 3 Pad C",
+        "latitude": 57.4308,
+        "longitude": 152.353
+    },
+    {
+        "Facility Name": "PSCA Area 3 Pad D",
+        "latitude": 57.4308,
+        "longitude": 152.3582
+    },
+    {
+        "Facility Name": "PSD-4",
+        "latitude": 44.6,
+        "longitude": 33.5
+    },
+    {
+        "Facility Name": "PSD-5",
+        "latitude": 44.6,
+        "longitude": 33.5
+    },
+    {
+        "Facility Name": "PSD-5M",
+        "latitude": 44.6,
+        "longitude": 33.5
+    },
+    {
+        "Facility Name": "PSD-7",
+        "latitude": 44.6,
+        "longitude": 33.5
+    },
+    {
+        "Facility Name": "PSD-9",
+        "latitude": 44.6,
+        "longitude": 33.5
+    },
+    {
+        "Facility Name": "RLLC 2",
+        "latitude": 37.8332,
+        "longitude": -75.4882
+    },
+    {
+        "Facility Name": "RLLC1",
+        "latitude": -39.2604,
+        "longitude": 177.8652
+    },
+    {
+        "Facility Name": "ROBI",
+        "latitude": 32.6447,
+        "longitude": -83.5959
+    },
+    {
+        "Facility Name": "RW05/23 LopNor",
+        "latitude": 40.773,
+        "longitude": 89.282
+    },
+    {
+        "Facility Name": "Satish Dhawan Space Centre – SDSC (formerly Sriharikota Range – SHAR),",
+        "latitude": 13.72,
+        "longitude": 80.23
+    },
+    {
+        "Facility Name": "SCL   LP2",
+        "latitude": 32.75,
+        "longitude": 118.75
+    },
+    {
+        "Facility Name": "Sdot Micha ALC1",
+        "latitude": 31.7551,
+        "longitude": 34.9099
+    },
+    {
+        "Facility Name": "Sdot Micha JLC1",
+        "latitude": 31.73,
+        "longitude": 34.9294
+    },
+    {
+        "Facility Name": "Sdot Micha JLC2",
+        "latitude": 31.7468,
+        "longitude": 34.9333
+    },
+    {
+        "Facility Name": "SDQ   SL",
+        "latitude": 39.5,
+        "longitude": 9.65
+    },
+    {
+        "Facility Name": "SEM   IKSC",
+        "latitude": 35.2369,
+        "longitude": 53.9522
+    },
+    {
+        "Facility Name": "SEM   SAF",
+        "latitude": 35.2347,
+        "longitude": 53.921
+    },
+    {
+        "Facility Name": "SHAHR LP1",
+        "latitude": 36.2006,
+        "longitude": 55.334
+    },
+    {
+        "Facility Name": "SHAR  PSLV",
+        "latitude": 13.576,
+        "longitude": 80.293
+    },
+    {
+        "Facility Name": "SHAR  RH",
+        "latitude": 13.621,
+        "longitude": 80.303
+    },
+    {
+        "Facility Name": "SHAR  SLP",
+        "latitude": 13.576,
+        "longitude": 80.293
+    },
+    {
+        "Facility Name": "SHAR  SLV",
+        "latitude": 13.542,
+        "longitude": 80.299
+    },
+    {
+        "Facility Name": "Shijiedu Launch Center",
+        "latitude": 41.6275,
+        "longitude": 122.5175
+    },
+    {
+        "Facility Name": "Sinop",
+        "latitude": 42.0305,
+        "longitude": 35.1889
+    },
+    {
+        "Facility Name": "Sinop",
+        "latitude": 42.0311,
+        "longitude": 35.1892
+    },
+    {
+        "Facility Name": "Sinop",
+        "latitude": 42.0313,
+        "longitude": 35.1901
+    },
+    {
+        "Facility Name": "Sinop",
+        "latitude": 42.0315,
+        "longitude": 35.1902
+    },
+    {
+        "Facility Name": "Skua apron",
+        "latitude": 52.1414,
+        "longitude": -4.5671
+    },
+    {
+        "Facility Name": "SLS-1, Lingshui Launch Site",
+        "latitude": 18.4689,
+        "longitude": 109.5058
+    },
+    {
+        "Facility Name": "SMLC  -",
+        "latitude": -2.9408,
+        "longitude": 40.2134
+    },
+    {
+        "Facility Name": "SNR BOWL",
+        "latitude": 32.5,
+        "longitude": 119.5
+    },
+    {
+        "Facility Name": "Southend, Saskatchewan Canada",
+        "latitude": 56.2,
+        "longitude": -103.14
+    },
+    {
+        "Facility Name": "Spaceport America, Upham, New Mexico",
+        "latitude": 32.889,
+        "longitude": -106.999
+    },
+    {
+        "Facility Name": "Spaceport Camden, Georgia",
+        "latitude": 30.5539,
+        "longitude": -81.3053
+    },
+    {
+        "Facility Name": "SpaceX Orbital Launch Pad 1 (Boca Chica)",
+        "latitude": 25.9961,
+        "longitude": -97.1545
+    },
+    {
+        "Facility Name": "SPAM  LC1",
+        "latitude": 32.9403,
+        "longitude": 106.9066
+    },
+    {
+        "Facility Name": "SPAM  LLP",
+        "latitude": 32.9436,
+        "longitude": 106.9224
+    },
+    {
+        "Facility Name": "SPFL  SLC46",
+        "latitude": 28.4583,
+        "longitude": -80.5272
+    },
+    {
+        "Facility Name": "SPFL  SLC47",
+        "latitude": 28.46,
+        "longitude": -80.53
+    },
+    {
+        "Facility Name": "SSATC LC A",
+        "latitude": 46.38,
+        "longitude": 72.87
+    },
+    {
+        "Facility Name": "SSATC LC B",
+        "latitude": 45.95,
+        "longitude": 72.6
+    },
+    {
+        "Facility Name": "Starbase OLP1",
+        "latitude": 25.9961,
+        "longitude": -97.1544
+    },
+    {
+        "Facility Name": "SUIST -",
+        "latitude": 57.2415,
+        "longitude": -7.4568
+    },
+    {
+        "Facility Name": "SUIST -",
+        "latitude": 57.3458,
+        "longitude": -7.3982
+    },
+    {
+        "Facility Name": "SUIST -",
+        "latitude": 57.3579,
+        "longitude": -7.3945
+    },
+    {
+        "Facility Name": "SUIST -",
+        "latitude": 57.3609,
+        "longitude": -7.4033
+    },
+    {
+        "Facility Name": "SUIST -",
+        "latitude": 57.3635,
+        "longitude": -7.405
+    },
+    {
+        "Facility Name": "SUIST -",
+        "latitude": 57.366,
+        "longitude": -7.4068
+    },
+    {
+        "Facility Name": "SUIST -",
+        "latitude": 57.3697,
+        "longitude": -7.411
+    },
+    {
+        "Facility Name": "SUIST -",
+        "latitude": 57.4,
+        "longitude": -8.7
+    },
+    {
+        "Facility Name": "SUIST -",
+        "latitude": 57.5,
+        "longitude": -10
+    },
+    {
+        "Facility Name": "Sunan LP1",
+        "latitude": 39.1878,
+        "longitude": 125.6663
+    },
+    {
+        "Facility Name": "Sunan LP2",
+        "latitude": 39.2211,
+        "longitude": 125.6638
+    },
+    {
+        "Facility Name": "Sunan LP3",
+        "latitude": 39.203,
+        "longitude": 125.7093
+    },
+    {
+        "Facility Name": "Sunan LP4",
+        "latitude": 39.2217,
+        "longitude": 125.6743
+    },
+    {
+        "Facility Name": "Sunan LP5",
+        "latitude": 39.2437,
+        "longitude": 125.6777
+    },
+    {
+        "Facility Name": "SVAL  LONG",
+        "latitude": 78.2,
+        "longitude": 15.7
+    },
+    {
+        "Facility Name": "SWRS  GBRS",
+        "latitude": 32.9909,
+        "longitude": 106.9722
+    },
+    {
+        "Facility Name": "Taiyuan Satellite Launch Center",
+        "latitude": 37.2703,
+        "longitude": 111.0789
+    },
+    {
+        "Facility Name": "TERLS Pad 1",
+        "latitude": 8.53,
+        "longitude": 76.87
+    },
+    {
+        "Facility Name": "TERLS Pad 2",
+        "latitude": 8.53,
+        "longitude": 76.87
+    },
+    {
+        "Facility Name": "TERLS Pad 3",
+        "latitude": 8.53,
+        "longitude": 76.87
+    },
+    {
+        "Facility Name": "TERLS Pad 4",
+        "latitude": 8.53,
+        "longitude": 76.87
+    },
+    {
+        "Facility Name": "TERLS Pad 5",
+        "latitude": 8.53,
+        "longitude": 76.87
+    },
+    {
+        "Facility Name": "TNSC  N",
+        "latitude": 30.3995,
+        "longitude": 130.9703
+    },
+    {
+        "Facility Name": "TNSC  T",
+        "latitude": 30.376,
+        "longitude": 130.9625
+    },
+    {
+        "Facility Name": "TNSC  Y",
+        "latitude": 30.4008,
+        "longitude": 130.9776
+    },
+    {
+        "Facility Name": "TNSC  Y",
+        "latitude": 30.4009,
+        "longitude": 130.9754
+    },
+    {
+        "Facility Name": "TONG  -",
+        "latitude": 39.6524,
+        "longitude": 124.7163
+    },
+    {
+        "Facility Name": "TONG  -",
+        "latitude": 39.6601,
+        "longitude": 124.7053
+    },
+    {
+        "Facility Name": "TONG  -",
+        "latitude": 39.6811,
+        "longitude": 124.7117
+    },
+    {
+        "Facility Name": "TORT  HAD",
+        "latitude": 18.4829,
+        "longitude": -66.4395
+    },
+    {
+        "Facility Name": "TORT  MRL",
+        "latitude": 18.4831,
+        "longitude": -66.4392
+    },
+    {
+        "Facility Name": "Toyang",
+        "latitude": 40.587,
+        "longitude": 126.553
+    },
+    {
+        "Facility Name": "TTR   -",
+        "latitude": 37.75,
+        "longitude": 116.75
+    },
+    {
+        "Facility Name": "TTR   HAD4",
+        "latitude": 37.75,
+        "longitude": 116.75
+    },
+    {
+        "Facility Name": "TTR   UL3",
+        "latitude": 37.75,
+        "longitude": 116.75
+    },
+    {
+        "Facility Name": "TTR LP1",
+        "latitude": 37.75,
+        "longitude": 117
+    },
+    {
+        "Facility Name": "TTR RW13/42",
+        "latitude": 37.7963,
+        "longitude": 116.7794
+    },
+    {
+        "Facility Name": "TYSC  LC16",
+        "latitude": 38.8681,
+        "longitude": 111.5802
+    },
+    {
+        "Facility Name": "TYSC  LC7",
+        "latitude": 38.8488,
+        "longitude": 111.6081
+    },
+    {
+        "Facility Name": "TYSC  LC9",
+        "latitude": 38.8632,
+        "longitude": 111.5895
+    },
+    {
+        "Facility Name": "TYSC  LC9A",
+        "latitude": 38.8583,
+        "longitude": 111.5802
+    },
+    {
+        "Facility Name": "UNKO  LP1",
+        "latitude": 19,
+        "longitude": 65
+    },
+    {
+        "Facility Name": "UNKO  LPO1",
+        "latitude": -59.9,
+        "longitude": 64.72
+    },
+    {
+        "Facility Name": "UNKO  LPO1",
+        "latitude": 11.12,
+        "longitude": 65.18
+    },
+    {
+        "Facility Name": "UNKO  M9072",
+        "latitude": 21.5,
+        "longitude": 150
+    },
+    {
+        "Facility Name": "UNKO  M9104",
+        "latitude": 38,
+        "longitude": 151
+    },
+    {
+        "Facility Name": "UNKO  M9105",
+        "latitude": 35,
+        "longitude": 151
+    },
+    {
+        "Facility Name": "UNKO  M9106",
+        "latitude": 36.7,
+        "longitude": 151
+    },
+    {
+        "Facility Name": "UNKO  M9109",
+        "latitude": 30,
+        "longitude": 180
+    },
+    {
+        "Facility Name": "UNKO  M9110",
+        "latitude": 36,
+        "longitude": 180
+    },
+    {
+        "Facility Name": "UNKO  M9111",
+        "latitude": 48,
+        "longitude": 180
+    },
+    {
+        "Facility Name": "UNKO  M9116",
+        "latitude": 36,
+        "longitude": 180
+    },
+    {
+        "Facility Name": "UNKO  M9120",
+        "latitude": 3.08,
+        "longitude": 64.87
+    },
+    {
+        "Facility Name": "UNKO  M9121",
+        "latitude": 14.88,
+        "longitude": 65.05
+    },
+    {
+        "Facility Name": "UNKO  M9122",
+        "latitude": -0.5,
+        "longitude": 65.15
+    },
+    {
+        "Facility Name": "UNKO  M9123",
+        "latitude": -4.18,
+        "longitude": 65
+    },
+    {
+        "Facility Name": "UNKO  M9124",
+        "latitude": -8.05,
+        "longitude": 65
+    },
+    {
+        "Facility Name": "UNKO  M9125",
+        "latitude": -11.75,
+        "longitude": 65
+    },
+    {
+        "Facility Name": "UNKO  M9127",
+        "latitude": -25,
+        "longitude": 65
+    },
+    {
+        "Facility Name": "UNKO  M9129",
+        "latitude": -49,
+        "longitude": 65
+    },
+    {
+        "Facility Name": "UNKO  M9130",
+        "latitude": -48,
+        "longitude": 65
+    },
+    {
+        "Facility Name": "UNKO  M9131",
+        "latitude": -44,
+        "longitude": 65
+    },
+    {
+        "Facility Name": "UNKO  M9132",
+        "latitude": -41,
+        "longitude": 65
+    },
+    {
+        "Facility Name": "UNKO  M9134",
+        "latitude": -39,
+        "longitude": 65
+    },
+    {
+        "Facility Name": "UNKO  M9135",
+        "latitude": -34,
+        "longitude": 65
+    },
+    {
+        "Facility Name": "UNKO  M9136",
+        "latitude": -32,
+        "longitude": 65
+    },
+    {
+        "Facility Name": "UNKO  M9137",
+        "latitude": -30,
+        "longitude": 65
+    },
+    {
+        "Facility Name": "UNKO  M9138",
+        "latitude": -28,
+        "longitude": 65
+    },
+    {
+        "Facility Name": "UNKO  M9139",
+        "latitude": -21,
+        "longitude": 65
+    },
+    {
+        "Facility Name": "UNKO  M9140",
+        "latitude": -19,
+        "longitude": 65
+    },
+    {
+        "Facility Name": "UNKO  M9141",
+        "latitude": -15,
+        "longitude": 65
+    },
+    {
+        "Facility Name": "UNKO  M9142",
+        "latitude": -12,
+        "longitude": 65
+    },
+    {
+        "Facility Name": "UNKO  M9143",
+        "latitude": -11,
+        "longitude": 65
+    },
+    {
+        "Facility Name": "UNKO  M9146",
+        "latitude": -1,
+        "longitude": 65
+    },
+    {
+        "Facility Name": "UNKO  M9147",
+        "latitude": -2,
+        "longitude": 65
+    },
+    {
+        "Facility Name": "UNKO  M9148",
+        "latitude": -6,
+        "longitude": 65
+    },
+    {
+        "Facility Name": "UNKO  M9149",
+        "latitude": -9,
+        "longitude": 65
+    },
+    {
+        "Facility Name": "UNKO  M9150",
+        "latitude": -10,
+        "longitude": 65
+    },
+    {
+        "Facility Name": "UNKO  M9151",
+        "latitude": 16,
+        "longitude": 65
+    },
+    {
+        "Facility Name": "UNKO  M9152",
+        "latitude": 20,
+        "longitude": 65
+    },
+    {
+        "Facility Name": "UNKO  M9153",
+        "latitude": 22,
+        "longitude": 65
+    },
+    {
+        "Facility Name": "UNKO  M9161",
+        "latitude": -42.13,
+        "longitude": 13.77
+    },
+    {
+        "Facility Name": "UNKO  M9165",
+        "latitude": -26,
+        "longitude": 65
+    },
+    {
+        "Facility Name": "UNKO  M9166",
+        "latitude": -24,
+        "longitude": 65
+    },
+    {
+        "Facility Name": "UNKO  M9166",
+        "latitude": 18.65,
+        "longitude": 65
+    },
+    {
+        "Facility Name": "UNKO  M9168",
+        "latitude": -47,
+        "longitude": 65
+    },
+    {
+        "Facility Name": "UNKO  M9169",
+        "latitude": 33,
+        "longitude": 155
+    },
+    {
+        "Facility Name": "UNKO  M9201",
+        "latitude": -57,
+        "longitude": 65
+    },
+    {
+        "Facility Name": "UNKO  M9202",
+        "latitude": -60,
+        "longitude": 65
+    },
+    {
+        "Facility Name": "UNKO  M9203",
+        "latitude": -54,
+        "longitude": 65
+    },
+    {
+        "Facility Name": "UNKO  M9204",
+        "latitude": -46,
+        "longitude": 65
+    },
+    {
+        "Facility Name": "UNKO  M9205",
+        "latitude": -43,
+        "longitude": 65
+    },
+    {
+        "Facility Name": "UNKO  M9206",
+        "latitude": -36,
+        "longitude": 65
+    },
+    {
+        "Facility Name": "Urumqi",
+        "latitude": 41.525,
+        "longitude": 86.4215
+    },
+    {
+        "Facility Name": "Urumqi",
+        "latitude": 41.5372,
+        "longitude": 86.353
+    },
+    {
+        "Facility Name": "Urumqi",
+        "latitude": 41.5378,
+        "longitude": 86.3719
+    },
+    {
+        "Facility Name": "Urumqi",
+        "latitude": 41.6925,
+        "longitude": 86.1718
+    },
+    {
+        "Facility Name": "USC Epsilon",
+        "latitude": 31.2474,
+        "longitude": 131.0848
+    },
+    {
+        "Facility Name": "UZHUR",
+        "latitude": 55.2075,
+        "longitude": 90.253
+    },
+    {
+        "Facility Name": "UZHUR",
+        "latitude": 55.2075,
+        "longitude": 90.253
+    },
+    {
+        "Facility Name": "UZHUR",
+        "latitude": 55.2075,
+        "longitude": 90.253
+    },
+    {
+        "Facility Name": "UZHUR",
+        "latitude": 55.2075,
+        "longitude": 90.253
+    },
+    {
+        "Facility Name": "UZHUR",
+        "latitude": 55.2075,
+        "longitude": 90.253
+    },
+    {
+        "Facility Name": "UZHUR",
+        "latitude": 55.2075,
+        "longitude": 90.253
+    },
+    {
+        "Facility Name": "UZHUR",
+        "latitude": 55.2075,
+        "longitude": 90.253
+    },
+    {
+        "Facility Name": "UZHUR",
+        "latitude": 55.2075,
+        "longitude": 90.253
+    },
+    {
+        "Facility Name": "UZHUR",
+        "latitude": 55.2075,
+        "longitude": 90.253
+    },
+    {
+        "Facility Name": "UZHUR",
+        "latitude": 55.2075,
+        "longitude": 90.253
+    },
+    {
+        "Facility Name": "V     576E",
+        "latitude": 34.7396,
+        "longitude": 120.6191
+    },
+    {
+        "Facility Name": "V     BOM-1",
+        "latitude": 34.8006,
+        "longitude": 120.5995
+    },
+    {
+        "Facility Name": "V     BOM-2",
+        "latitude": 34.8003,
+        "longitude": 120.5992
+    },
+    {
+        "Facility Name": "V     HP-06",
+        "latitude": 34.8036,
+        "longitude": 120.6005
+    },
+    {
+        "Facility Name": "V     LF02",
+        "latitude": 34.8448,
+        "longitude": 120.5847
+    },
+    {
+        "Facility Name": "V     LF03",
+        "latitude": 34.846,
+        "longitude": 120.5809
+    },
+    {
+        "Facility Name": "V     LF04",
+        "latitude": 34.8589,
+        "longitude": 120.6067
+    },
+    {
+        "Facility Name": "V     LF05",
+        "latitude": 34.8625,
+        "longitude": 120.6096
+    },
+    {
+        "Facility Name": "V     LF06",
+        "latitude": 34.883,
+        "longitude": 120.6361
+    },
+    {
+        "Facility Name": "V     LF09",
+        "latitude": 34.8784,
+        "longitude": 120.6337
+    },
+    {
+        "Facility Name": "V     LF10",
+        "latitude": 34.8505,
+        "longitude": 120.5942
+    },
+    {
+        "Facility Name": "V     LF26",
+        "latitude": 34.8883,
+        "longitude": 120.6369
+    },
+    {
+        "Facility Name": "V     RW12",
+        "latitude": 34.7519,
+        "longitude": 120.601
+    },
+    {
+        "Facility Name": "V     RW30",
+        "latitude": 34.7227,
+        "longitude": 120.5676
+    },
+    {
+        "Facility Name": "V     RW30/12",
+        "latitude": 34.7321,
+        "longitude": 120.5658
+    },
+    {
+        "Facility Name": "V     SLC2W",
+        "latitude": 34.7555,
+        "longitude": 120.6223
+    },
+    {
+        "Facility Name": "V     SLC3E",
+        "latitude": 34.6402,
+        "longitude": 120.5897
+    },
+    {
+        "Facility Name": "V     SLC4E",
+        "latitude": 34.632,
+        "longitude": 120.6106
+    },
+    {
+        "Facility Name": "V     SLC4W",
+        "latitude": 34.6331,
+        "longitude": 120.6158
+    },
+    {
+        "Facility Name": "V     SLC6",
+        "latitude": 34.5813,
+        "longitude": 120.6269
+    },
+    {
+        "Facility Name": "V     SLC8",
+        "latitude": 34.5764,
+        "longitude": 120.6324
+    },
+    {
+        "Facility Name": "V2 Haag",
+        "latitude": 52.12,
+        "longitude": 4.3693
+    },
+    {
+        "Facility Name": "V2 Haag",
+        "latitude": 52.1302,
+        "longitude": 4.3799
+    },
+    {
+        "Facility Name": "V2 Rijs",
+        "latitude": 52.8563,
+        "longitude": 5.4838
+    },
+    {
+        "Facility Name": "Vandenberg",
+        "latitude": 34.6,
+        "longitude": -120.6
+    },
+    {
+        "Facility Name": "VLAD  PL1",
+        "latitude": 48.4,
+        "longitude": 46.2
+    },
+    {
+        "Facility Name": "VORB",
+        "latitude": 32.3,
+        "longitude": 120.8
+    },
+    {
+        "Facility Name": "VORB",
+        "latitude": 32.34,
+        "longitude": 120.78
+    },
+    {
+        "Facility Name": "VORB",
+        "latitude": 33.14,
+        "longitude": 119.83
+    },
+    {
+        "Facility Name": "VORB",
+        "latitude": 33.2,
+        "longitude": 120.1
+    },
+    {
+        "Facility Name": "Vostochniy PU1S",
+        "latitude": 51.8769,
+        "longitude": 128.3322
+    },
+    {
+        "Facility Name": "Vostochny Cosmodrome",
+        "latitude": 51.8845,
+        "longitude": 128.3335
+    },
+    {
+        "Facility Name": "WAKE  -",
+        "latitude": 19.2728,
+        "longitude": 166.6539
+    },
+    {
+        "Facility Name": "WEN",
+        "latitude": 19.6143,
+        "longitude": 110.9511
+    },
+    {
+        "Facility Name": "WEN",
+        "latitude": 19.6185,
+        "longitude": 110.9555
+    },
+    {
+        "Facility Name": "Wenchang Spacecraft Launch Site",
+        "latitude": 19.6149,
+        "longitude": 110.9518
+    },
+    {
+        "Facility Name": "WI    AMGD",
+        "latitude": 37.85,
+        "longitude": -75.5
+    },
+    {
+        "Facility Name": "WI    LA0 ARC",
+        "latitude": 37.8316,
+        "longitude": -75.4894
+    },
+    {
+        "Facility Name": "WI    LA0 HAD",
+        "latitude": 37.8316,
+        "longitude": -75.4894
+    },
+    {
+        "Facility Name": "WI    LA0A",
+        "latitude": 37.8338,
+        "longitude": -75.4877
+    },
+    {
+        "Facility Name": "WI    LA0B",
+        "latitude": 37.8311,
+        "longitude": -75.4913
+    },
+    {
+        "Facility Name": "WI    LA1",
+        "latitude": 37.8352,
+        "longitude": -75.4861
+    },
+    {
+        "Facility Name": "WI    LA1 AML",
+        "latitude": 37.8352,
+        "longitude": -75.4871
+    },
+    {
+        "Facility Name": "WI    LA2",
+        "latitude": 37.8376,
+        "longitude": -75.4834
+    },
+    {
+        "Facility Name": "WI    LA2",
+        "latitude": 37.8376,
+        "longitude": -75.4834
+    },
+    {
+        "Facility Name": "WI    LA2 AML-1",
+        "latitude": 37.8381,
+        "longitude": -75.4828
+    },
+    {
+        "Facility Name": "WI    LA2 AML-2",
+        "latitude": 37.8379,
+        "longitude": -75.483
+    },
+    {
+        "Facility Name": "WI    LA2 ARC",
+        "latitude": 37.838,
+        "longitude": -75.4841
+    },
+    {
+        "Facility Name": "WI    LA2 HAD",
+        "latitude": 37.8383,
+        "longitude": -75.4826
+    },
+    {
+        "Facility Name": "WI    LA2 JUP",
+        "latitude": 37.8394,
+        "longitude": -75.482
+    },
+    {
+        "Facility Name": "WI    LA2 MLN",
+        "latitude": 37.8376,
+        "longitude": -75.4834
+    },
+    {
+        "Facility Name": "WI    LA2 MLS",
+        "latitude": 37.8374,
+        "longitude": -75.4835
+    },
+    {
+        "Facility Name": "WI    LA2 MRL",
+        "latitude": 37.8376,
+        "longitude": -75.4834
+    },
+    {
+        "Facility Name": "WI    LA2 RAG",
+        "latitude": 37.8386,
+        "longitude": -75.4824
+    },
+    {
+        "Facility Name": "WI    LA3 HAD",
+        "latitude": 37.8494,
+        "longitude": -75.4725
+    },
+    {
+        "Facility Name": "WI    LA3B",
+        "latitude": 37.8494,
+        "longitude": -75.4725
+    },
+    {
+        "Facility Name": "WI    LA4",
+        "latitude": 37.8508,
+        "longitude": -75.4702
+    },
+    {
+        "Facility Name": "WI    LA4 HAD",
+        "latitude": 37.8511,
+        "longitude": -75.4696
+    },
+    {
+        "Facility Name": "WI    LA4 MAST",
+        "latitude": 37.8508,
+        "longitude": -75.4702
+    },
+    {
+        "Facility Name": "WI    LA4 ML",
+        "latitude": 37.851,
+        "longitude": -75.4698
+    },
+    {
+        "Facility Name": "WI    LA5",
+        "latitude": 37.8529,
+        "longitude": -75.4681
+    },
+    {
+        "Facility Name": "WI    RW04/22",
+        "latitude": 37.9383,
+        "longitude": -75.4633
+    },
+    {
+        "Facility Name": "WI    RW04/22",
+        "latitude": 37.9383,
+        "longitude": -75.4633
+    },
+    {
+        "Facility Name": "WI LP1",
+        "latitude": 37.8,
+        "longitude": -75
+    },
+    {
+        "Facility Name": "WI LP2",
+        "latitude": 37.45,
+        "longitude": -75.27
+    },
+    {
+        "Facility Name": "WI LP3",
+        "latitude": 37,
+        "longitude": -75
+    },
+    {
+        "Facility Name": "WLK   579-1",
+        "latitude": 33.5972,
+        "longitude": 104.3399
+    },
+    {
+        "Facility Name": "WLK   579-2",
+        "latitude": 33.6405,
+        "longitude": 104.2025
+    },
+    {
+        "Facility Name": "WLK   579-5",
+        "latitude": 33.4225,
+        "longitude": 104.0483
+    },
+    {
+        "Facility Name": "WONSAN LP1",
+        "latitude": 39.157,
+        "longitude": 127.495
+    },
+    {
+        "Facility Name": "WONSAN LP2",
+        "latitude": 39.066,
+        "longitude": 127.2503
+    },
+    {
+        "Facility Name": "WONSAN LP3",
+        "latitude": 39.4096,
+        "longitude": 127.5328
+    },
+    {
+        "Facility Name": "WONSAN LP4",
+        "latitude": 39.25,
+        "longitude": 127.35
+    },
+    {
+        "Facility Name": "WOO   HAD",
+        "latitude": -30.9431,
+        "longitude": 136.5205
+    },
+    {
+        "Facility Name": "WOO   LA2 N",
+        "latitude": -30.925,
+        "longitude": 136.5
+    },
+    {
+        "Facility Name": "WS    FIX",
+        "latitude": 34.2049,
+        "longitude": 106.4589
+    },
+    {
+        "Facility Name": "WS    LC31",
+        "latitude": 32.4066,
+        "longitude": 106.4067
+    },
+    {
+        "Facility Name": "WS    LC32",
+        "latitude": 32.4066,
+        "longitude": 106.4067
+    },
+    {
+        "Facility Name": "WS    LC32E",
+        "latitude": 32.4066,
+        "longitude": 106.4057
+    },
+    {
+        "Facility Name": "WS    LC32W",
+        "latitude": 32.4066,
+        "longitude": 106.4057
+    },
+    {
+        "Facility Name": "WS    LC33",
+        "latitude": 32.401,
+        "longitude": 106.3782
+    },
+    {
+        "Facility Name": "WS    LC33",
+        "latitude": 32.401,
+        "longitude": 106.3782
+    },
+    {
+        "Facility Name": "WS    LC33",
+        "latitude": 32.401,
+        "longitude": 106.3782
+    },
+    {
+        "Facility Name": "WS    LC33",
+        "latitude": 32.401,
+        "longitude": 106.3782
+    },
+    {
+        "Facility Name": "WS    LC33",
+        "latitude": 32.401,
+        "longitude": 106.3782
+    },
+    {
+        "Facility Name": "WS    LC34",
+        "latitude": 32.4039,
+        "longitude": 106.3658
+    },
+    {
+        "Facility Name": "WS    LC35",
+        "latitude": 32.404,
+        "longitude": 106.343
+    },
+    {
+        "Facility Name": "WS    LC35 L-21A",
+        "latitude": 32.4043,
+        "longitude": 106.3425
+    },
+    {
+        "Facility Name": "WS    LC35 L-21B",
+        "latitude": 32.4043,
+        "longitude": 106.3419
+    },
+    {
+        "Facility Name": "WS    LC35 L-457",
+        "latitude": 32.4133,
+        "longitude": 106.3297
+    },
+    {
+        "Facility Name": "WS    LC36",
+        "latitude": 32.417,
+        "longitude": 106.322
+    },
+    {
+        "Facility Name": "WS    LC36 L-455",
+        "latitude": 32.4179,
+        "longitude": 106.3215
+    },
+    {
+        "Facility Name": "WS    LC36 L-462",
+        "latitude": 32.4181,
+        "longitude": 106.3199
+    },
+    {
+        "Facility Name": "WS    LC36 L-479",
+        "latitude": 32.4169,
+        "longitude": 106.3258
+    },
+    {
+        "Facility Name": "WS    LC36 L-536",
+        "latitude": 32.4168,
+        "longitude": 106.3256
+    },
+    {
+        "Facility Name": "WS    LC36 L-580",
+        "latitude": 32.4181,
+        "longitude": 106.32
+    },
+    {
+        "Facility Name": "WS    LC36 L-630",
+        "latitude": 32.4178,
+        "longitude": 106.321
+    },
+    {
+        "Facility Name": "WS    LC36 L-702",
+        "latitude": 32.418,
+        "longitude": 106.32
+    },
+    {
+        "Facility Name": "WS    LC36 L-738",
+        "latitude": 32.418,
+        "longitude": 106.32
+    },
+    {
+        "Facility Name": "WS    LC36 L-763",
+        "latitude": 32.418,
+        "longitude": 106.32
+    },
+    {
+        "Facility Name": "WS    LC37",
+        "latitude": 32.4112,
+        "longitude": 106.3097
+    },
+    {
+        "Facility Name": "WS    LC38",
+        "latitude": 32.4162,
+        "longitude": 106.277
+    },
+    {
+        "Facility Name": "WS    LC38",
+        "latitude": 32.4162,
+        "longitude": 106.277
+    },
+    {
+        "Facility Name": "WS    LC38 S",
+        "latitude": 32.405,
+        "longitude": 106.2791
+    },
+    {
+        "Facility Name": "WS    LC39",
+        "latitude": 32.4161,
+        "longitude": 106.2365
+    },
+    {
+        "Facility Name": "WS    LC39?",
+        "latitude": 32.4077,
+        "longitude": 106.2558
+    },
+    {
+        "Facility Name": "WS    LC50",
+        "latitude": 32.4722,
+        "longitude": 106.3236
+    },
+    {
+        "Facility Name": "WS    LP1",
+        "latitude": 32.4,
+        "longitude": 106.3
+    },
+    {
+        "Facility Name": "WS    SPEC",
+        "latitude": 32.5,
+        "longitude": 106.3
+    },
+    {
+        "Facility Name": "WS    SULF",
+        "latitude": 33.7211,
+        "longitude": 106.7364
+    },
+    {
+        "Facility Name": "WS    WSSH",
+        "latitude": 32.946,
+        "longitude": 106.414
+    },
+    {
+        "Facility Name": "WS    ZURF",
+        "latitude": 33.7581,
+        "longitude": 106.595
+    },
+    {
+        "Facility Name": "WS Don Site",
+        "latitude": 32.595,
+        "longitude": 106.3033
+    },
+    {
+        "Facility Name": "WS LER-3",
+        "latitude": 32.4238,
+        "longitude": 106.3589
+    },
+    {
+        "Facility Name": "WS LER-4",
+        "latitude": 32.4238,
+        "longitude": 106.3591
+    },
+    {
+        "Facility Name": "WS RATSCAT",
+        "latitude": 32.886,
+        "longitude": 106.355
+    },
+    {
+        "Facility Name": "WS Red Rio",
+        "latitude": 33.69,
+        "longitude": 106.22
+    },
+    {
+        "Facility Name": "WSMR",
+        "latitude": 32.564,
+        "longitude": -106.359
+    },
+    {
+        "Facility Name": "WTR   -",
+        "latitude": 16.5,
+        "longitude": 170
+    },
+    {
+        "Facility Name": "WTR   -",
+        "latitude": 32.25,
+        "longitude": 117.75
+    },
+    {
+        "Facility Name": "WTR   -",
+        "latitude": 34.75,
+        "longitude": 123.2
+    },
+    {
+        "Facility Name": "WTR SLBM",
+        "latitude": 33,
+        "longitude": 119
+    },
+    {
+        "Facility Name": "WTR W1/POR24",
+        "latitude": 36.6,
+        "longitude": 134
+    },
+    {
+        "Facility Name": "Xichang Satellite Launch Center",
+        "latitude": 28.246017,
+        "longitude": 102.026556
+    },
+    {
+        "Facility Name": "Xichang Satellite Launch Center",
+        "latitude": 28.2463,
+        "longitude": 102.0264
+    },
+    {
+        "Facility Name": "XSC   LC",
+        "latitude": 28.2472,
+        "longitude": 102.0291
+    },
+    {
+        "Facility Name": "XSC   LC2",
+        "latitude": 28.2455,
+        "longitude": 102.0271
+    },
+    {
+        "Facility Name": "XSC   LC3",
+        "latitude": 28.2472,
+        "longitude": 102.0291
+    },
+    {
+        "Facility Name": "XSC LC4",
+        "latitude": 28.2428,
+        "longitude": 102.033
+    },
+    {
+        "Facility Name": "YAS   -",
+        "latitude": 50.9729,
+        "longitude": 59.5503
+    },
+    {
+        "Facility Name": "YAS   -",
+        "latitude": 50.9729,
+        "longitude": 59.5503
+    },
+    {
+        "Facility Name": "YAS   -",
+        "latitude": 51.031,
+        "longitude": 59.69
+    },
+    {
+        "Facility Name": "YAS   -",
+        "latitude": 51.0655,
+        "longitude": 59.6975
+    },
+    {
+        "Facility Name": "YAS   -",
+        "latitude": 51.0655,
+        "longitude": 59.6975
+    },
+    {
+        "Facility Name": "YASNAYA",
+        "latitude": 50.8,
+        "longitude": 115.9
+    },
+    {
+        "Facility Name": "YASNAYA",
+        "latitude": 50.8,
+        "longitude": 115.9
+    },
+    {
+        "Facility Name": "YASNAYA",
+        "latitude": 50.8,
+        "longitude": 115.9
+    },
+    {
+        "Facility Name": "YASNAYA",
+        "latitude": 50.8,
+        "longitude": 115.9
+    },
+    {
+        "Facility Name": "YASNAYA",
+        "latitude": 50.8,
+        "longitude": 115.9
+    },
+    {
+        "Facility Name": "YASNAYA",
+        "latitude": 50.8,
+        "longitude": 115.9
+    },
+    {
+        "Facility Name": "Yasny Launch Base",
+        "latitude": 51.0938,
+        "longitude": 59.8472
+    },
+    {
+        "Facility Name": "Yoshinobu Launch Complex",
+        "latitude": 30.402222,
+        "longitude": 130.975
+    },
+    {
+        "Facility Name": "Zubov",
+        "latitude": -0.08,
+        "longitude": -17.57
+    },
+    {
+        "Facility Name": "Zubov",
+        "latitude": -0.05,
+        "longitude": -17.73
+    },
+    {
+        "Facility Name": "Zubov",
+        "latitude": 0.08,
+        "longitude": -17.52
+    },
+    {
+        "Facility Name": "Zubov",
+        "latitude": 0.13,
+        "longitude": -17.57
+    },
+    {
+        "Facility Name": "Zubov",
+        "latitude": 0.32,
+        "longitude": -17.77
+    },
+    {
+        "Facility Name": "Zubov",
+        "latitude": 30.98,
+        "longitude": -34.83
+    },
+    {
+        "Facility Name": "Zubov",
+        "latitude": 31,
+        "longitude": -34
+    },
+    {
+        "Facility Name": "Zubov",
+        "latitude": 31.08,
+        "longitude": -34.92
+    },
+    {
+        "Facility Name": "Zubov",
+        "latitude": 31.25,
+        "longitude": -34.93
+    },
+    {
+        "Facility Name": "Zubov",
+        "latitude": 45,
+        "longitude": -30
+    },
+    {
+        "Facility Name": "AFETR",
+        "latitude": "AIR FORCE EASTERN TEST RANGE"
+    },
+    {
+        "Facility Name": "AFWTR",
+        "latitude": "AIR FORCE WESTERN TEST RANGE"
+    },
+    {
+        "Facility Name": "CAS",
+        "latitude": "Pegasus launched from Canary Islands Air Space"
+    },
+    {
+        "Facility Name": "ERAS",
+        "latitude": "Pegasus launched from Eastern Range Air Space"
+    },
+    {
+        "Facility Name": "FRGUI",
+        "latitude": "FRENCH GUIANA"
+    },
+    {
+        "Facility Name": "HGSTR",
+        "latitude": "HAMMA GUIRA SPACE TRACK RANGE"
+    },
+    {
+        "Facility Name": "JSC",
+        "latitude": "Jiuquan Satellite Launch Center, China"
+    },
+    {
+        "Facility Name": "KODAK",
+        "latitude": "Kodiak Island, Alaska"
+    },
+    {
+        "Facility Name": "KSCUT",
+        "latitude": "KAGOSHIMA SPACE CENTER UNIVERSITY OF TOKYO"
+    },
+    {
+        "Facility Name": "KWAJL",
+        "latitude": "Kwajalein"
+    },
+    {
+        "Facility Name": "KYMTR",
+        "latitude": "KAPUSTIN YAR MISSILE AND SPACE COMPLEX"
+    },
+    {
+        "Facility Name": "NSC",
+        "latitude": "Naro Space Center, South Korea"
+    },
+    {
+        "Facility Name": "OREN",
+        "latitude": "Orenburg, Russia"
+    },
+    {
+        "Facility Name": "PKMTR",
+        "latitude": "PLESETSK MISSILE AND SPACE COMPLEX"
+    },
+    {
+        "Facility Name": "PMRF",
+        "latitude": "Pacific Missile Range Facility"
+    },
+    {
+        "Facility Name": "RLLC",
+        "latitude": "Rocket Lab Launch Complex"
+    },
+    {
+        "Facility Name": "SADOL",
+        "latitude": "Submarine Launch from Barents Sea, Russia"
+    },
+    {
+        "Facility Name": "SEAL",
+        "latitude": "SEA LAUNCH"
+    },
+    {
+        "Facility Name": "SEM",
+        "latitude": "Semnan, Iran"
+    },
+    {
+        "Facility Name": "SNMLP",
+        "latitude": "SAN MARCO LAUNCH PLATFORM"
+    },
+    {
+        "Facility Name": "SRI",
+        "latitude": "SIRHARIKOTA"
+    },
+    {
+        "Facility Name": "SVOB",
+        "latitude": "Svobodny, Russia"
+    },
+    {
+        "Facility Name": "TNSTA",
+        "latitude": "TANEGASHIMA SPACE CENTER"
+    },
+    {
+        "Facility Name": "TSC",
+        "latitude": "Taiyaun Space Center, China"
+    },
+    {
+        "Facility Name": "TTMTR",
+        "latitude": "TYURATAM MISSILE AND SPACE COMPLEX"
+    },
+    {
+        "Facility Name": "UNKN",
+        "latitude": "Unknown"
+    },
+    {
+        "Facility Name": "VOSTO",
+        "latitude": "VOSTOCHNY COSMODROME"
+    },
+    {
+        "Facility Name": "WLPIS",
+        "latitude": "WALLOPS ISLAND"
+    },
+    {
+        "Facility Name": "WOMRA",
+        "latitude": "WOOMERA"
+    },
+    {
+        "Facility Name": "WRAS",
+        "latitude": "Pegasus launched from Western Range Air Space"
+    },
+    {
+        "Facility Name": "WSC",
+        "latitude": "Wenchang Satellite Launch Center"
+    },
+    {
+        "Facility Name": "XSC",
+        "latitude": "Xichang Space Center, China"
+    },
+    {
+        "Facility Name": "YAVNE",
+        "latitude": "Yavne, Israel"
+    },
+    {
+        "Facility Name": "YSLA",
+        "latitude": "Yellow Sea Launch Area, China"
+    },
+    {
+        "Facility Name": "YUN",
+        "latitude": "Yunsong, DPRK"
+    },
+    {
+        "Facility Name": "Launch Site ID",
+        "latitude": "Launch Site Code",
+        "longitude": "Launch Site Name",
+        "active": "Longitude",
+        "__EMPTY": "Latitude",
+        "__EMPTY_1": "Launch Site Group Name",
+        "__EMPTY_2": "Country"
+    },
+    {
+        "Facility Name": 1
+    },
+    {
+        "Facility Name": 3,
+        "latitude": "CC",
+        "longitude": "Cape Canaveral Air Station - Eastern Test Range",
+        "active": -81,
+        "__EMPTY": 28.5,
+        "__EMPTY_1": "Cape Canaveral",
+        "__EMPTY_2": "United States"
+    },
+    {
+        "Facility Name": 4,
+        "latitude": "EAFB",
+        "longitude": "Edwards Air Force Base, California",
+        "active": -117.5,
+        "__EMPTY": 34.5,
+        "__EMPTY_1": "Edwards",
+        "__EMPTY_2": "United States"
+    },
+    {
+        "Facility Name": 5,
+        "latitude": "ESMC",
+        "longitude": "Eastern Space Missile Center - Eastern Test Range",
+        "active": -81,
+        "__EMPTY": 28.5,
+        "__EMPTY_1": "Cape Canaveral",
+        "__EMPTY_2": "United States"
+    },
+    {
+        "Facility Name": 6,
+        "latitude": "JIUQUAN",
+        "longitude": "Jiuquan Satellite Launch Centre, China",
+        "active": 100.3,
+        "__EMPTY": 41.3,
+        "__EMPTY_1": "Jiuquan",
+        "__EMPTY_2": "China"
+    },
+    {
+        "Facility Name": 7,
+        "latitude": "KOUROU",
+        "longitude": "Kourou - Guiana Space Centre",
+        "active": -52.8,
+        "__EMPTY": 5.2,
+        "__EMPTY_1": "Kourou",
+        "__EMPTY_2": "France"
+    },
+    {
+        "Facility Name": 8,
+        "latitude": "KSC",
+        "longitude": "Kennedy Space Center - Eastern Test Range",
+        "active": -81,
+        "__EMPTY": 28.5,
+        "__EMPTY_1": "Cape Canaveral",
+        "__EMPTY_2": "United States"
+    },
+    {
+        "Facility Name": 9,
+        "latitude": "KY",
+        "longitude": "Kapustin Yar Missile Test Range, Siberia",
+        "active": 46.3,
+        "__EMPTY": 48.6,
+        "__EMPTY_1": "Kapustin Yar",
+        "__EMPTY_2": "Russia"
+    },
+    {
+        "Facility Name": 10,
+        "latitude": "PALMACHIM",
+        "longitude": "Palmachim Air Force Base, Israel",
+        "active": 34.7,
+        "__EMPTY": 31.9,
+        "__EMPTY_1": "Palmachim",
+        "__EMPTY_2": "Israel"
+    },
+    {
+        "Facility Name": 11,
+        "latitude": "PL",
+        "longitude": "Plesetsk Cosmodrome, Russia",
+        "active": 40.8,
+        "__EMPTY": 62.9,
+        "__EMPTY_1": "Plesetsk",
+        "__EMPTY_2": "Russia"
+    },
+    {
+        "Facility Name": 12,
+        "latitude": "TAIYUAN",
+        "longitude": "Taiyuan Satellite Launch Centre, China",
+        "active": 111.5,
+        "__EMPTY": 37.8,
+        "__EMPTY_1": "Taiyuan",
+        "__EMPTY_2": "China"
+    },
+    {
+        "Facility Name": 14,
+        "latitude": "TNS",
+        "longitude": "Tanegashima Space Centre, Japan",
+        "active": 130.6,
+        "__EMPTY": 30.4,
+        "__EMPTY_1": "Tanegashima",
+        "__EMPTY_2": "Japan"
+    },
+    {
+        "Facility Name": 15,
+        "latitude": "TORR",
+        "longitude": "Torrejon Air Base, Spain",
+        "active": 3.457,
+        "__EMPTY": 40.488,
+        "__EMPTY_1": "Torrejon",
+        "__EMPTY_2": "Spain"
+    },
+    {
+        "Facility Name": 16,
+        "latitude": "TT",
+        "longitude": "Baikonur Cosmodrome (Tyuratam)",
+        "active": 63.4,
+        "__EMPTY": 45.6,
+        "__EMPTY_1": "Baikonur",
+        "__EMPTY_2": "Russia"
+    },
+    {
+        "Facility Name": 19,
+        "latitude": "WI",
+        "longitude": "Wallops Flight Facility (MARS), Virginia",
+        "active": -75.4,
+        "__EMPTY": 37.9,
+        "__EMPTY_1": "Wallops Island",
+        "__EMPTY_2": "United States"
+    },
+    {
+        "Facility Name": 20,
+        "latitude": "WTR",
+        "longitude": "Vandenberg Air Force Base (Western Test Range)",
+        "active": -120.6,
+        "__EMPTY": 34.7,
+        "__EMPTY_1": "Vandenberg",
+        "__EMPTY_2": "United States"
+    },
+    {
+        "Facility Name": 21,
+        "latitude": "XICHANG",
+        "longitude": "Xichang Satellite Launch Centre, China",
+        "active": 102,
+        "__EMPTY": 28.2,
+        "__EMPTY_1": "Xichang",
+        "__EMPTY_2": "China"
+    },
+    {
+        "Facility Name": 22,
+        "latitude": "SVOBODNY",
+        "longitude": "Svobodny Cosmodrome (rebuilt as Vostochny), Russia",
+        "active": 128.4,
+        "__EMPTY": 51.8,
+        "__EMPTY_1": "Vostochny",
+        "__EMPTY_2": "Russia"
+    },
+    {
+        "Facility Name": 25,
+        "latitude": "KAGOSHIMA",
+        "longitude": "Kagoshima (Uchinoura Space Centre), Japan",
+        "active": 131.1,
+        "__EMPTY": 31.2,
+        "__EMPTY_1": "Kagoshima",
+        "__EMPTY_2": "Japan"
+    },
+    {
+        "Facility Name": 26,
+        "latitude": "GANDO",
+        "longitude": "Gando Air Force Base, Spain",
+        "active": -15.2,
+        "__EMPTY": 27.6,
+        "__EMPTY_1": "Gando",
+        "__EMPTY_2": "Spain"
+    },
+    {
+        "Facility Name": 27,
+        "latitude": "SRIHARIKOTA",
+        "longitude": "Sriharikota (Satish Dhawan Space Centre), India",
+        "active": 80.4,
+        "__EMPTY": 13.9,
+        "__EMPTY_1": "Sriharikota",
+        "__EMPTY_2": "India"
+    },
+    {
+        "Facility Name": 28,
+        "latitude": "ALCT",
+        "longitude": "Alcantara Launch Centre, Brazil",
+        "active": -44.4,
+        "__EMPTY": -2.3,
+        "__EMPTY_1": "Alcantara",
+        "__EMPTY_2": "Brazil"
+    },
+    {
+        "Facility Name": 31,
+        "latitude": "ODYSSEY-PACIFIC",
+        "longitude": "Sea Launch Odyssey - Equatorial Pacific",
+        "active": -154,
+        "__EMPTY": 0,
+        "__EMPTY_1": "Odyssey",
+        "__EMPTY_2": "International"
+    },
+    {
+        "Facility Name": 32,
+        "latitude": "MUSUDAN-RI",
+        "longitude": "Musudan-Ri Missile Test Site, N. Korea",
+        "active": 129.665,
+        "__EMPTY": 40.855,
+        "__EMPTY_1": "Musudan Ri",
+        "__EMPTY_2": "North Korea"
+    },
+    {
+        "Facility Name": 33,
+        "latitude": "KWAJALEIN",
+        "longitude": "Kwajalein Missile Range, Marshall Islands",
+        "active": -166.1,
+        "__EMPTY": 19.5,
+        "__EMPTY_1": "Kwajalein",
+        "__EMPTY_2": "United States"
+    },
+    {
+        "Facility Name": 34,
+        "latitude": "KODIAK",
+        "longitude": "Kodiak Island (Pacific Spaceport Complex), Alaska",
+        "active": -152.2,
+        "__EMPTY": 57.6,
+        "__EMPTY_1": "Kodiak",
+        "__EMPTY_2": "United States"
+    },
+    {
+        "Facility Name": 35,
+        "latitude": "WOOMERA",
+        "longitude": "Woomera Test Range, Australia",
+        "active": 136.6,
+        "__EMPTY": -31.1,
+        "__EMPTY_1": "Woomera",
+        "__EMPTY_2": "Australia"
+    },
+    {
+        "Facility Name": 36,
+        "latitude": "SUB BARENTS SEA",
+        "longitude": "Barents Sea Test Range, Russia",
+        "active": 35.3,
+        "__EMPTY": 69.3,
+        "__EMPTY_1": "Barents Sea",
+        "__EMPTY_2": "Russia"
+    },
+    {
+        "Facility Name": 37,
+        "latitude": "SAN MARCO",
+        "longitude": "San Marco Platform, Kenyan Coastal Waters",
+        "active": 40.3,
+        "__EMPTY": -2.9,
+        "__EMPTY_1": "San Marco",
+        "__EMPTY_2": "Italy"
+    },
+    {
+        "Facility Name": 38,
+        "latitude": "HAMMAGUIR",
+        "longitude": "Hammaguir Air Base, Algeria",
+        "active": -3.1,
+        "__EMPTY": 30.9,
+        "__EMPTY_1": "Hammaguir",
+        "__EMPTY_2": "France"
+    },
+    {
+        "Facility Name": 39,
+        "latitude": "Unspecified"
+    },
+    {
+        "Facility Name": 40,
+        "latitude": "CHINA LAKE",
+        "longitude": "Naval Air Weapons Station China Lake, California",
+        "active": -117.68,
+        "__EMPTY": 36.94,
+        "__EMPTY_1": "China Lake",
+        "__EMPTY_2": "United States"
+    },
+    {
+        "Facility Name": 42,
+        "latitude": "MOJAVE",
+        "longitude": "Mojave Air and Space Port, California",
+        "active": -118.16,
+        "__EMPTY": 35.05,
+        "__EMPTY_1": "Mojave",
+        "__EMPTY_2": "United States"
+    },
+    {
+        "Facility Name": 43,
+        "latitude": "EMAMSHAHR",
+        "longitude": "Emamshahr Military Test Range (Qom), Iran",
+        "active": 55.016,
+        "__EMPTY": 36.41,
+        "__EMPTY_1": "Emamshahr",
+        "__EMPTY_2": "Iran"
+    },
+    {
+        "Facility Name": 48,
+        "latitude": "YASNIY-DOMBAROVSKIY",
+        "longitude": "Yasnyy (Dombarovsky)",
+        "active": 60,
+        "__EMPTY": 50.9,
+        "__EMPTY_1": "Yasnyy",
+        "__EMPTY_2": "Russia"
+    },
+    {
+        "Facility Name": 49,
+        "latitude": "VOSTOCHNY",
+        "longitude": "Vostochny Cosmodrome (rebuilt Svobodny), Russia",
+        "active": 128.15,
+        "__EMPTY": 51.816,
+        "__EMPTY_1": "Vostochny",
+        "__EMPTY_2": "Russia"
+    },
+    {
+        "Facility Name": 51,
+        "latitude": "NARO",
+        "longitude": "Naro Space Centre, S. Korea",
+        "active": 127.535,
+        "__EMPTY": 34.43,
+        "__EMPTY_1": "Naro",
+        "__EMPTY_2": "South Korea"
+    },
+    {
+        "Facility Name": 52,
+        "latitude": "WENCHANG",
+        "longitude": "Wenchang Satellite Launch Centre, Hainan Island",
+        "active": 110.867,
+        "__EMPTY": 19.567,
+        "__EMPTY_1": "Wenchang",
+        "__EMPTY_2": "China"
+    },
+    {
+        "Facility Name": 59,
+        "latitude": "KHOMEINI",
+        "longitude": "Khomeini Space Centre - Semnan, Iran",
+        "active": 53.92,
+        "__EMPTY": 35.24,
+        "__EMPTY_1": "Semnan",
+        "__EMPTY_2": "Iran"
+    },
+    {
+        "Facility Name": 60,
+        "latitude": "AL ANBAR",
+        "longitude": "Al Anbar Test Centre, Iraq",
+        "active": 44.3,
+        "__EMPTY": 32.78,
+        "__EMPTY_1": "Al Anbar ",
+        "__EMPTY_2": "Iraq"
+    },
+    {
+        "Facility Name": 62,
+        "latitude": "BORNHOLM-BALTIC",
+        "longitude": "Spaceport Nexoe, Bornholm Island, Denmark",
+        "active": 15.45,
+        "__EMPTY": 55.16,
+        "__EMPTY_1": "Bornholm Baltic",
+        "__EMPTY_2": "Denmark"
+    },
+    {
+        "Facility Name": 63,
+        "latitude": "SINNAMARY",
+        "longitude": "Sinnamary - Guiana Space Centre",
+        "active": -52.835,
+        "__EMPTY": 5.302,
+        "__EMPTY_1": "Kourou",
+        "__EMPTY_2": "France"
+    },
+    {
+        "Facility Name": 67,
+        "latitude": "BARKING SANDS - KAUAI",
+        "longitude": "Barking Sands (Pacific Missile Range Facility)",
+        "active": -159.785,
+        "__EMPTY": 22.023,
+        "__EMPTY_1": "Barking Sands, Kauai",
+        "__EMPTY_2": "United States"
+    },
+    {
+        "Facility Name": 70,
+        "longitude": "Moon"
+    },
+    {
+        "Facility Name": 71,
+        "latitude": "SOHAE/TONGCHANG-RI",
+        "longitude": "Sohae (Tongchang-Ri), N. Korea",
+        "active": 124.67,
+        "__EMPTY": 39.77,
+        "__EMPTY_1": "Sohae/Tongchang-Ri",
+        "__EMPTY_2": "North Korea"
+    },
+    {
+        "Facility Name": 72,
+        "latitude": "CECIL FIELD FLORIDA",
+        "longitude": "Cecil Airport, Florida",
+        "active": -81.876,
+        "__EMPTY": 30.22,
+        "__EMPTY_1": "Cecil Field",
+        "__EMPTY_2": "United States"
+    },
+    {
+        "Facility Name": 75,
+        "latitude": "BC",
+        "longitude": "Boca Chica Beach, Brownsville, Texas",
+        "active": -97,
+        "__EMPTY": 26,
+        "__EMPTY_1": "Brownsville",
+        "__EMPTY_2": "United States"
+    },
+    {
+        "Facility Name": 76,
+        "latitude": "VAN HORN",
+        "longitude": "Van Horn, Texas",
+        "active": -104.78,
+        "__EMPTY": 31.05,
+        "__EMPTY_2": "United States"
+    },
+    {
+        "Facility Name": 77,
+        "latitude": "KAITORETE SPIT",
+        "longitude": "Kaitorete Spit, Birdlings Flat, New Zealand",
+        "active": 172.6,
+        "__EMPTY": -43.81,
+        "__EMPTY_2": "New Zealand"
+    },
+    {
+        "Facility Name": 78,
+        "latitude": "ONENUI - MAHIA PENINSULA",
+        "longitude": "Onenui Station, Mahia Peninsula, North Island, NZ",
+        "active": 177.86,
+        "__EMPTY": -39.26,
+        "__EMPTY_2": "New Zealand"
+    },
+    {
+        "Facility Name": 79,
+        "latitude": "CANSO HAZEL HILL",
+        "longitude": "Canso-Hazel Hill, Novia Scotia, Canada",
+        "active": -61.03,
+        "__EMPTY": 45.32,
+        "__EMPTY_2": "Canada"
+    },
+    {
+        "Facility Name": 80,
+        "latitude": "CHONGQING",
+        "longitude": "Chongqing Liangjiang, China",
+        "active": 107,
+        "__EMPTY": 29,
+        "__EMPTY_2": "China"
+    },
+    {
+        "Facility Name": 81,
+        "latitude": "HAIKOU",
+        "longitude": "Haikou Space and Sub-Orbital Launch Centre.",
+        "active": 100.29,
+        "__EMPTY": 41.27,
+        "__EMPTY_1": "Jiuquan",
+        "__EMPTY_2": "China"
+    },
+    {
+        "Facility Name": 82,
+        "latitude": "ELHIERRO",
+        "longitude": "El Hierro, Canary Islands",
+        "__EMPTY_2": "Spain"
+    },
+    {
+        "Facility Name": 83,
+        "latitude": "CI",
+        "longitude": "Canary Islands",
+        "__EMPTY_2": "Spain"
+    },
+    {
+        "Facility Name": 84,
+        "latitude": "SEMNAN",
+        "longitude": "Semnan - Iran",
+        "__EMPTY_1": "Semnan",
+        "__EMPTY_2": "Iran"
+    },
+    {
+        "Facility Name": 85,
+        "latitude": "SUTHERLAND",
+        "longitude": "Sutherland Space Port, Scotland, UK",
+        "__EMPTY_2": "United Kingdom"
+    },
+    {
+        "Facility Name": 86,
+        "latitude": "CAMDEN",
+        "longitude": "Camden, Georgia, USA",
+        "__EMPTY_2": "United States"
+    },
+    {
+        "Facility Name": 87,
+        "latitude": "CHINA (UNK)",
+        "longitude": "China (Unknown)",
+        "__EMPTY_2": "China"
+    },
+    {
+        "Facility Name": 88,
+        "latitude": "TAI RUI PLATFORM - YELLOW SEA",
+        "longitude": "Tai Rui Platform -Yellow Sea",
+        "__EMPTY_2": "China"
+    },
+    {
+        "Facility Name": 90,
+        "latitude": "GUAM",
+        "longitude": "Guam International Airport",
+        "__EMPTY_2": "United States"
+    },
+    {
+        "Facility Name": 91,
+        "latitude": "NANTIAN",
+        "longitude": "Nantian, Taiwan",
+        "active": 120.89,
+        "__EMPTY": 22.26,
+        "__EMPTY_2": "Taiwan"
+    },
+    {
+        "Facility Name": 92,
+        "latitude": "SHRD",
+        "longitude": "Shahroud, Dasht-e Kavir desert, Iran",
+        "active": 36.2,
+        "__EMPTY": 55.33,
+        "__EMPTY_2": "Iran"
+    },
+    {
+        "Facility Name": 93,
+        "latitude": "NEGEV",
+        "longitude": "Negev Desert, Israel",
+        "__EMPTY_2": "Israel"
+    },
+    {
+        "Facility Name": 94,
+        "latitude": "YAVNE - NEGEV",
+        "longitude": "Yavne, Negev Desert",
+        "__EMPTY_1": "Yasnyy",
+        "__EMPTY_2": "Israel"
+    },
+    {
+        "Facility Name": 95,
+        "latitude": "SANTA MARIA",
+        "longitude": "Santa Maria Island, Azores, Portugal",
+        "active": -25.06,
+        "__EMPTY": 36.58,
+        "__EMPTY_1": "Santa Maria",
+        "__EMPTY_2": "Portugal"
+    },
+    {
+        "Facility Name": 96,
+        "latitude": "WENDOVER",
+        "longitude": "Wendover Air Force Base",
+        "active": 114.01,
+        "__EMPTY": 40.43,
+        "__EMPTY_2": "United States"
+    },
+    {
+        "Facility Name": 97,
+        "latitude": "Be Do 3",
+        "longitude": "Be Do 3 Barge, Yellow Sea",
+        "__EMPTY_2": "China"
+    },
+    {
+        "Facility Name": 98,
+        "latitude": "SPACEPORT AMERICA",
+        "longitude": "Spaceport America, New Mexico",
+        "active": -106.97,
+        "__EMPTY": 32.99,
+        "__EMPTY_2": "United States"
+    },
+    {
+        "Facility Name": 99,
+        "latitude": "SVA",
+        "longitude": "Svalbard Rocket Range, Norway",
+        "__EMPTY_2": "Norway"
+    },
+    {
+        "Facility Name": 100,
+        "latitude": "UN",
+        "longitude": "Unst, Shetland Isles, UK",
+        "__EMPTY_2": "United Kingdom"
+    },
+    {
+        "Facility Name": 101,
+        "latitude": "JOHNSON ISLAND",
+        "longitude": "Johnson Island, Pacific",
+        "active": -169.5,
+        "__EMPTY": 16.75,
+        "__EMPTY_2": "United States"
+    },
+    {
+        "Facility Name": 102,
+        "latitude": "ANDOYA",
+        "longitude": "AndÃ¸ya Spaceport",
+        "__EMPTY_2": "Norway"
+    },
+    {
+        "Facility Name": 103,
+        "latitude": "AP",
+        "longitude": "Abbot Point, Queensland, Australia",
+        "__EMPTY_2": "Australia"
+    },
+    {
+        "Facility Name": 104,
+        "latitude": "WHALERS WAY",
+        "longitude": "Whalers Way Orbital Launch Complex, S. Australia",
+        "active": 135.65,
+        "__EMPTY": -34.91,
+        "__EMPTY_2": "Australia"
+    }
+]

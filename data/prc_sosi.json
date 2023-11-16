@@ -1,0 +1,79 @@
+[
+    {
+        "Site Name": "Sheshan Base",
+        "Nearest Town (size)": " Shanghai (65m)",
+        "Lat (d-m-s)": "31° 5'31.31\"N",
+        "Long (d-m-s)": "121° 8' 9.49\"E",
+        "Lat (degrees)": 31.09203056,
+        "Long (degrees)": 121.1359694
+    },
+    {
+        "Site Name": "Miyun Base",
+        "Nearest Town (size)": " Beijing (50m)",
+        "Lat (d-m-s)": "40°33′27.79″N",
+        "Long (d-m-s)": "116°58′33.11″E",
+        "Elevation (meters)": "178m (centre of antenna)",
+        "Lat (degrees)": 40.55771944,
+        "Long (degrees)": 116.9758639
+    },
+    {
+        "Site Name": "Kunming Base",
+        "Nearest Town (size)": " Kunming (40m)",
+        "Lat (d-m-s)": "25°01'38.54\"N",
+        "Long (d-m-s)": "102°47'45.41\"E",
+        "Elevation (meters)": "2014m",
+        "Lat (degrees)": 25.02737222,
+        "Long (degrees)": 102.7959472
+    },
+    {
+        "Site Name": "Nanshan Base",
+        "Nearest Town (size)": " Urumqi (25m)",
+        "Lat (d-m-s)": "43°28'17.34\"N",
+        "Long (d-m-s)": " 87°10'41.25\"E",
+        "Elevation (meters)": "2084m",
+        "Lat (degrees)": 43.47148333,
+        "Long (degrees)": 87.178125
+    },
+    {
+        "Site Name": "Jiamusi Base",
+        "Nearest Town (size)": " Jiamusi (66m)",
+        "Lat (d-m-s)": "46°29′37.18″N ",
+        "Long (d-m-s)": "130°46′15.54″E",
+        "Elevation (meters)": "242m",
+        "Lat (degrees)": 46.49366111,
+        "Long (degrees)": 130.7709833
+    },
+    {
+        "Site Name": "Kashi Base",
+        "Nearest Town (size)": " Kashi (35m)",
+        "Lat (d-m-s)": "38°25′22.53″N",
+        "Long (d-m-s)": " 76°42′52.60″E",
+        "Lat (degrees)": 38.422925,
+        "Long (degrees)": 76.71461111
+    },
+    {
+        "Site Name": "Namibia Station",
+        "Nearest Town (size)": "? (18m)",
+        "Lat (d-m-s)": "22.574746°S",
+        "Long (d-m-s)": "14.54778°E",
+        "Lat (degrees)": -22.574746,
+        "Long (degrees)": 14.54778
+    },
+    {
+        "Site Name": "FAST",
+        "Nearest Town (size)": "? (300m)",
+        "Lat (d-m-s)": "25°39′10.51″N",
+        "Long (d-m-s)": "106°51′23.69″E",
+        "Lat (degrees)": 25.65291944,
+        "Long (degrees)": 106.8565806
+    },
+    {
+        "Site Name": "Base China",
+        "Nearest Town (size)": "Prov de Neuquén (35m)",
+        "Lat (d-m-s)": "38º11’29.47”S",
+        "Long (d-m-s)": " 70º08’57.82”W",
+        "Elevation (meters)": "260m?",
+        "Lat (degrees)": -38.19151944,
+        "Long (degrees)": -70.14939444
+    }
+]
