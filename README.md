@@ -41,6 +41,34 @@ The script will read each sheet from the Excel file and convert it into a JSON f
 - **Non-blocking**: Utilizes Node.js's asynchronous capabilities to ensure efficient processing.
 - **No Overwrite**: Skips processing sheets for which the output JSON file already exists.
 
+## Generating Schemas
+
+This project includes a script to automatically generate JSON schema files from FlatBuffers `.fbs` files.
+
+### Generation Prerequisites
+
+Before running the `generateSchema` script, ensure that you have FlatBuffers installed and the `flatc` compiler is available in your system's PATH.
+
+### Generation Usage
+
+To generate JSON schema files, follow these steps:
+
+1. Open your terminal or command prompt.
+2. Navigate to the root directory of the project where the `generateSchema.sh` script is located.
+3. Run the script by entering the following command:
+
+```bash
+./generateSchema.sh
+```
+
+## Manual Source Code Generation
+
+To manually generate TypeScript source code from FlatBuffers schema files, use the flatc compiler with the following command:
+
+```bash
+flatc --ts -o lib/[output folder]/ ./[path to IDL]/[idlname].fbs
+```
+
 ## Customization
 
 You can modify the `index.js` file to change the input file path, output directory, or to add additional data processing logic as per your requirements.
