@@ -13,7 +13,7 @@ if (cluster.isPrimary) {
   console.log(`Master ${process.pid} is running`);
 
   sheetNames.forEach((sheetName) => {
-    const outputFilePath = `./data/${sheetName
+    const outputFilePath = `./raw/json/${sheetName
       .replaceAll(" ", "_")
       .toLowerCase()}.json`;
 

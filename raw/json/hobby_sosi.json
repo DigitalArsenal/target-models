@@ -36,7 +36,7 @@
         "percentObs": 0.12588224510373
     },
     {
-        "Name": "Leo Barhorst ",
+        "Name": "Leo Barhorst",
         "SensorID": 796,
         "Lat": "51.3486N",
         "Lon": "8.6961E",
@@ -131,7 +131,7 @@
         "percentObs": 0.0116104983348101
     },
     {
-        "Name": "Pierros Papadeas ",
+        "Name": "Pierros Papadeas",
         "SensorID": 797,
         "Lat": "36.9708N",
         "Lon": "22.1448E",
@@ -167,7 +167,7 @@
         "percentObs": 0.00488863087781478
     },
     {
-        "Name": "Kevin Fetter ",
+        "Name": "Kevin Fetter",
         "SensorID": 1775,
         "Lat": "44.6062N",
         "Lon": "75.6910W",
@@ -251,9 +251,9 @@
         "percentObs": 50.6596596290751
     },
     {
-        "Name": "Leo Barhorst ",
+        "Name": "Leo Barhorst",
         "SensorID": 4172,
-        "Lat": "52.3713 N ",
+        "Lat": "52.3713 N",
         "Lon": "5.2580 E",
         "Alt (m)": -3,
         "minAz": 0.0907300778933381,
