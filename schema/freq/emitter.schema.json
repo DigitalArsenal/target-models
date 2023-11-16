@@ -1,0 +1,104 @@
+{
+  "$schema": "https://json-schema.org/draft/2019-09/schema",
+  "definitions": {
+    "PolarizationType" : {
+      "type" : "string",
+      "enum": ["linear", "circular", "elliptical", "unpolarized"]
+    },
+    "SimplePolarization" : {
+      "type" : "string",
+      "enum": ["vertical", "horizontal", "leftHandCircular", "rightHandCircular"]
+    },
+    "FrequencyRange" : {
+      "type" : "object",
+      "properties" : {
+        "LOWER" : {
+                "type" : "number"
+              },
+        "UPPER" : {
+                "type" : "number"
+              }
+      },
+      "additionalProperties" : false
+    },
+    "StokesParameters" : {
+      "type" : "object",
+      "properties" : {
+        "I" : {
+                "type" : "number"
+              },
+        "Q" : {
+                "type" : "number"
+              },
+        "U" : {
+                "type" : "number"
+              },
+        "V" : {
+                "type" : "number"
+              }
+      },
+      "additionalProperties" : false
+    },
+    "Band" : {
+      "type" : "object",
+      "properties" : {
+        "NAME" : {
+                "type" : "string"
+              },
+        "FREQUENCY_RANGE" : {
+                "$ref" : "#/definitions/FrequencyRange"
+              }
+      },
+      "additionalProperties" : false
+    },
+    "Emitter" : {
+      "type" : "object",
+      "properties" : {
+        "ID" : {
+                "type" : "string"
+              },
+        "NAME" : {
+                "type" : "string"
+              },
+        "UPLINK" : {
+                "$ref" : "#/definitions/FrequencyRange"
+              },
+        "DOWNLINK" : {
+                "$ref" : "#/definitions/FrequencyRange"
+              },
+        "BEACON" : {
+                "$ref" : "#/definitions/FrequencyRange"
+              },
+        "BAND" : {
+                "type" : "array", "items" : {"$ref" : "#/definitions/Band"}
+              },
+        "POLARIZATION_TYPE" : {
+                "$ref" : "#/definitions/PolarizationType"
+              },
+        "SIMPLE_POLARIZATION" : {
+                "$ref" : "#/definitions/SimplePolarization"
+              },
+        "STOKES_PARAMETERS" : {
+                "$ref" : "#/definitions/StokesParameters"
+              },
+        "POWER_REQUIRED" : {
+                "type" : "number"
+              },
+        "POWER_TYPE" : {
+                "type" : "string"
+              }
+      },
+      "additionalProperties" : false
+    },
+    "EmitterCollection" : {
+      "type" : "object",
+      "properties" : {
+        "EMITTERS" : {
+                "type" : "array", "items" : {"$ref" : "#/definitions/Emitter"}
+              }
+      },
+      "additionalProperties" : false
+    }
+  },
+  "$ref" : "#/definitions/Emitter"
+}

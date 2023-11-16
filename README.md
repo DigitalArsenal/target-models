@@ -1,4 +1,3 @@
-
 # Geospatial Data Parser
 
 ## Overview

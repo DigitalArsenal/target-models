@@ -1,0 +1,52 @@
+enum PolarizationType: byte {
+  linear,
+  circular,
+  elliptical,
+  unpolarized
+}
+
+enum SimplePolarization: byte {
+  vertical,
+  horizontal,
+  leftHandCircular,
+  rightHandCircular
+}
+
+table FrequencyRange {
+  LOWER: double; // Lower frequency in MHz
+  UPPER: double; // Upper frequency in MHz
+}
+
+table StokesParameters {
+  I: double; // Intensity
+  Q: double; // Linear polarization
+  U: double; // Another linear polarization, orthogonal to Q
+  V: double; // Circular polarization
+}
+
+table Band {
+  NAME: string;
+  FREQUENCY_RANGE: FrequencyRange;
+}
+
+table Emitter {
+  ID: string;
+  NAME: string;
+  UPLINK: FrequencyRange;
+  DOWNLINK: FrequencyRange;
+  BEACON: FrequencyRange;
+  BAND: [Band];
+  POLARIZATION_TYPE: PolarizationType;
+  SIMPLE_POLARIZATION: SimplePolarization;
+  STOKES_PARAMETERS: StokesParameters;
+  POWER_REQUIRED: double; // Power required in Watts
+  POWER_TYPE: string; // AC or DC
+  // Additional properties can be added here
+}
+
+table EmitterCollection {
+  EMITTERS: [Emitter];
+}
+
+root_type Emitter;
+file_identifier "$EMT";
