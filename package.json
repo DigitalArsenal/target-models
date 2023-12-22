@@ -5,14 +5,15 @@
   "description": "Node.js application to parse Excel data and convert geospatial information to GeoJSON.",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
-    "build": "tsc",
-    "dev": "nodemon index.js -w index.js"
+    "start": "nodemon index.js",
+    "dev": "nodemon index.js -w index.js",
+    "dev:launch": "nodemon launch.js -w launch.js"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "flatbuffers": "@23.3.3",
+    "csv-parser": "^3.0.0",
+    "flatbuffers": "23.3.3",
     "geojson": "^0.5.0",
     "xlsx": "^0.18.5"
   },
