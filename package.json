@@ -12,10 +12,13 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "axios": "^1.6.2",
+    "cheerio": "^1.0.0-rc.12",
     "csv-parser": "^3.0.0",
     "flatbuffers": "23.3.3",
     "geojson": "^0.5.0",
-    "xlsx": "^0.18.5"
+    "xlsx": "^0.18.5",
+    "xxhashjs": "^0.2.2"
   },
   "devDependencies": {
     "nodemon": "^2.0.19",
