@@ -1,0 +1,551 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Manuel Belgrano Space Center",
+                "Country": "Argentina"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    61.715,
+                    38.9628
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Whaler's Way Orbital Launch Complex",
+                "Country": "Australia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.6523,
+                    34.934
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Arnhem Space Center",
+                "Country": "Australia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.821402,
+                    12.378021
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Alcantara Launch Site",
+                "Country": "Brazil"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44.3676,
+                    2.316
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Barreira do Inferno Launch Center",
+                "Country": "Brazil"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.383,
+                    5.866
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Churchill Rocket Research Range",
+                "Country": "Canada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    93.8203,
+                    58.7343
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Jiuquan Launch Center",
+                "Country": "China"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.29833,
+                    40.96056
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Xichang Launch Center ",
+                "Country": "China"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.02814,
+                    28.24646
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Wenchang Launch Center",
+                "Country": "China"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.951133,
+                    19.614492
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Taiyuan Launch center ",
+                "Country": "China"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    111.608497,
+                    38.849086
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Eastern Coastal Spaceport ",
+                "Country": "China"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.25476,
+                    36.72386
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Kourou, French Guiana",
+                "Country": "EU/France"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    52.7695,
+                    5.23739
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Satish Dhawan Space Center",
+                "Country": "India"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2351,
+                    13.7374
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Vikram Sarabhai Space Center",
+                "Country": "India"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.869,
+                    8.5314
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Stasiun Peluncuran Roket rocket luanch facility",
+                "Country": "Indonesia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.689018,
+                    7.646643
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Imam Khomeini Space Center",
+                "Country": "Iran"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    53.920941,
+                    35.234631
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Shahroud Space Center",
+                "Country": "Iran"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.02,
+                    36.42
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Qom Space Center",
+                "Country": "Iran"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    50.9,
+                    34.65
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Palmachim Airbase ",
+                "Country": "Israel"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.6802,
+                    31.88484
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Broglio Space Center",
+                "Country": "Kenya (Italy)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40.2134,
+                    2.9408
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Tanegashima Space Center/Yoshinobu Launch Complex",
+                "Country": "Japan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    130.96813,
+                    30.39096
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Uchinoura Space Center",
+                "Country": "Japan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    131.07914,
+                    31.25186
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Baikonur Cosmodrome/Space Center",
+                "Country": "Kazakhstan (Russia)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    63.35028,
+                    45.95515
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Sohae Satellite Launching Station",
+                "Country": "North Korea"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    124.705,
+                    39.66
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Tonghaie Satellite Launching Ground ",
+                "Country": "North Korea"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    129.66587,
+                    40.85572
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Naro Space Center ",
+                "Country": "South Korea"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    127.52793,
+                    34.42585
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Mahia Peninsula Launch Complex",
+                "Country": "New Zealand"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    177.86431,
+                    39.26044
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Andoya Space Center",
+                "Country": "Norway"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.0207,
+                    69.2943
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Somiani flight Test Range ",
+                "Country": "Pakistan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    66.74881,
+                    25.19242
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Tilla Satellite Launch Center",
+                "Country": "Pakistan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.29608,
+                    33.3961
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Punta Lobos Rocket Range ",
+                "Country": "Peru"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.8,
+                    12.5
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Vostochny Cosmodrome",
+                "Country": "Russia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    128.333,
+                    51.883
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Plesetsk Cosmodrome",
+                "Country": "Russia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40.577778,
+                    62.925556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Arniston Launch Facility ",
+                "Country": "South Africa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.30248,
+                    34.60265
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "El Arenosillo Experiment Center/Range",
+                "Country": "Spain"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.73863,
+                    37.09687
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Esrange Space Center",
+                "Country": "Sweden"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.10429,
+                    67.89342
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Cape Canaveral Space Force Station ",
+                "Country": "United States"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.55852,
+                    28.46675
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Vandenberg SFB",
+                "Country": "United States"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.60124,
+                    34.77204
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "SpaceX Starbase Spaceport, Boca Chica",
+                "Country": "United States"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    97.154,
+                    25.996
+                ]
+            }
+        }
+    ]
+}

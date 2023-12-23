@@ -128,7 +128,7 @@ const convertToGeoJSON = async () => {
         return [{
             type: "FeatureCollection",
             features: geoJSON
-        }, sittcollection];
+        }, { SITCOLLECTION: sittcollection }];
     }
 };
 

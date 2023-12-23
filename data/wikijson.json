@@ -1,0 +1,1741 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Centre interarmées d'essais d'engins spéciaux (CIEES), Hammaguir",
+        "location": "French Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.83581,
+          31.09951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Reggane",
+        "location": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.27691,
+          26.71895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shaba North, Kapani Tonneo OTRAG Launch Center",
+        "location": "Zaire"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.52766,
+          -7.92587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jabal Hamzah ballistic missile test and launch facility",
+        "location": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.605139,
+          30.12575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Broglio Space Centre (San Marco), Malindi",
+        "location": "Kenya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.2134,
+          -2.9408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sabha, Tawiwa OTRAG Launch Center",
+        "location": "Libya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.46425,
+          26.99392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nouadhibou",
+        "location": "Mauritania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.03153,
+          20.92856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Overberg South African Test Centre",
+        "location": "South Africa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.30248,
+          -34.60265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Base 603, Shijiedu, Guangde",
+        "location": "China"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.20575,
+          30.93743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jiuquan Satellite Launch Center",
+        "location": "China"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.29833,
+          40.96056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taiyuan Satellite Launch Center",
+        "location": "China"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.6084972,
+          38.8490861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Xichang Satellite Launch Center",
+        "location": "China"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.02814,
+          28.24646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wenchang Satellite Launch Center",
+        "location": "China"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.9511333,
+          19.6144917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jingyu",
+        "location": "China"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.5,
+          42
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vikram Sarabhai Space Centre (Thumba Equatorial), Thiruvananthapuram District, Kerala",
+        "location": "India"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.869,
+          8.5314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Satish Dhawan Space Centre (Sriharikota Range), Tirupati District, Andhra Pradesh",
+        "location": "India"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2351,
+          13.7374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Abdul Kalam Island, Bhadrak District, Odisha",
+        "location": "India"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.085533,
+          20.75804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "LAPAN Rocket Launcher Station, Pameungpeuk, Garut",
+        "location": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.689018,
+          -7.646643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Qom Space Center",
+        "location": "Iran"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.9,
+          34.65
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Emamshahr Space Center",
+        "location": "Iran"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.02,
+          36.42
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Semnan spaceport",
+        "location": "Iran"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.920941,
+          35.234631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Al-Anbar Test Center",
+        "location": "Iraq"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.29962,
+          32.7822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Palmachim Air Force Base",
+        "location": "Israel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.6802,
+          31.88484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Akita Rocket Range",
+        "location": "Japan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.05785,
+          39.57148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Uchinoura Space Center",
+        "location": "Japan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.07914,
+          31.25186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taiki Aerospace Research Field, Hokkaido",
+        "location": "Japan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.2629,
+          42.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tanegashima Space Center, Tanegashima Island",
+        "location": "Japan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.96813,
+          30.39096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ryori[21]",
+        "location": "Japan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.83,
+          39.03
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Niijima [ja]",
+        "location": "Japan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.26575,
+          34.33766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Obachi[24]",
+        "location": "Japan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.36938,
+          40.70342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Baikonur Cosmodrome, Tyuratam",
+        "location": "Soviet Union/ Kazakhstan\n(Operated by  Russia)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.35028,
+          45.95515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sary Shagan[citation needed]",
+        "location": "Soviet Union/ Kazakhstan\n(Partly operated by  Russia)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.87,
+          46.38
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tonghae Satellite Launching Ground",
+        "location": "North Korea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.66587,
+          40.85572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sohae Satellite Launching Station",
+        "location": "North Korea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.705,
+          39.66
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Anheung Proving Ground",
+        "location": "South Korea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.47158,
+          36.70211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Naro Space Center, Goheung",
+        "location": "South Korea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.52793,
+          34.42585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gan Island",
+        "location": "Maldives"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.15672,
+          -0.69328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sonmiani Satellite Launch Center, Las Bela, Balochistan",
+        "location": "Pakistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.74881,
+          25.19242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tilla Satellite Launch Center, Jhelum District, Punjab",
+        "location": "Pakistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.29608,
+          33.3961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kheysa",
+        "location": "Soviet Union"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.05,
+          80.45
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Svobodny Cosmodrome, Amur Oblast",
+        "location": "Soviet Union/  Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.2757,
+          51.83441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sovetskaya Gavan",
+        "location": "Soviet Union"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.3,
+          48.97
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Okhotsk[citation needed]",
+        "location": "Soviet Union/  Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.25,
+          59.367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yasny Cosmodrome (formerly Dombarovsky), Orenburg Oblast",
+        "location": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.85003,
+          51.20706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vostochny Cosmodrome, Amur Oblast[36]",
+        "location": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.333,
+          51.883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gangzi Station, Haiqian, Pingtung County",
+        "location": "Taiwan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9,
+          22.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nantian Launch Facility, Taitung County",
+        "location": "Taiwan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.89037,
+          22.26212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ahtopol",
+        "location": "Bulgaria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.955125,
+          42.085846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ile du Levant",
+        "location": "France"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.47887,
+          43.04507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rocket Launch Site Berlin, Berlin-Tegel",
+        "location": "Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.21,
+          52.35
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Peenemünde/Greifswalder Oie",
+        "location": "Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.794,
+          54.143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cuxhaven",
+        "location": "West Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.59154,
+          53.84884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hespenbusch, Großenkneten",
+        "location": "West Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.312515,
+          52.939002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zingst",
+        "location": "Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.78431,
+          54.44008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Koroni",
+        "location": "Greece"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.9316,
+          36.7698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Salto di Quirra",
+        "location": "Italy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.63303,
+          39.52731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Andøya Space Center",
+        "location": "Norway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.0207,
+          69.2943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Marka",
+        "location": "Norway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3,
+          58.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SvalRak",
+        "location": "Norway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.647,
+          78.2234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SS-Proving Ground Westpreußen today Poland (Tuchola Forest)",
+        "location": "Nazi-occupied Poland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.98492,
+          53.6197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Leba in Pommern since 1945 part of Poland",
+        "location": "Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.59355,
+          54.76904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Łeba-Rąbka[citation needed]",
+        "location": "Poland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.517919,
+          54.754486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "V-2 missile launch site, Blizna",
+        "location": "Nazi-occupied Poland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.6162,
+          50.1819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kapustin Yar Cosmodrome, Astrakhan Oblast",
+        "location": "Soviet Union/ Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.2542,
+          48.57807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nyonoksa",
+        "location": "Soviet Union/ Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.18721,
+          64.64928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Plesetsk Cosmodrome",
+        "location": "Soviet Union/ Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.57778,
+          62.92556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "El Arenosillo",
+        "location": "Spain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.73863,
+          37.09687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nausta",
+        "location": "Sweden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.275813,
+          66.357202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kronogård",
+        "location": "Sweden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2767,
+          66.4147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Esrange, Kiruna",
+        "location": "Sweden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.10429,
+          67.89342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "South Uist",
+        "location": "United Kingdom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.33,
+          57.33
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Churchill Rocket Research Range, Manitoba",
+        "location": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.8203,
+          58.7343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Resolute Bay, Nunavut",
+        "location": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.8962,
+          74.687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hall Beach, Nunavut",
+        "location": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.24346,
+          68.77607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Southend, Saskatchewan",
+        "location": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.14,
+          56.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maritime Spaceport, Canso, Nova Scotia",
+        "location": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.98767,
+          45.30688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pituffik Space Base",
+        "location": "Greenland ( Denmark)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.2936,
+          76.424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Clark University Physics Laboratory, Worcester, Massachusetts",
+        "location": "United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.823169,
+          42.250977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Goddard Test Site, Auburn, Massachusetts",
+        "location": "United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.81194,
+          42.21882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eden Valley Test Site, Roswell, New Mexico",
+        "location": "United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.5,
+          33.626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wallops Flight Facility, Delmarva Peninsula, Virginia",
+        "location": "United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.47938,
+          37.84621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "White Sands Missile Range, New Mexico",
+        "location": "United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.35908,
+          32.5646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nevada Test and Training Range (formerly Nellis Air Force Range)",
+        "location": "United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.11374,
+          36.7715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Poker Flat Research Range, Alaska",
+        "location": "United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -147.47894,
+          65.12599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cape Canaveral Space Force Station, Florida",
+        "location": "United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.55852,
+          28.46675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vandenberg Space Force Base, California",
+        "location": "United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.60124,
+          34.77204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kennedy Space Center, Florida",
+        "location": "United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.604,
+          28.6082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pacific Missile Range Facility, Hawaii",
+        "location": "United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -159.785,
+          22.02278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Keweenaw, Michigan",
+        "location": "United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.71443,
+          47.4298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pacific Spaceport Complex, Kodiak, Alaska",
+        "location": "United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -152.33931,
+          57.43533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mid-Atlantic Regional Spaceport (MARS), Delmarva Peninsula, Virginia",
+        "location": "United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.483284,
+          37.833378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mojave Air and Space Port, California",
+        "location": "United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.1488,
+          35.0591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Spaceport America, Upham, New Mexico",
+        "location": "United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.99945,
+          32.88943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Corn Ranch, Van Horn, Texas",
+        "location": "United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.4532,
+          31.2524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Spaceport Camden, Camden County, Georgia",
+        "location": "United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3053,
+          30.5539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SpaceX Starbase Spaceport, Boca Chica, Texas",
+        "location": "United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.154,
+          25.996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maine Spaceport Complex, Washington County, Maine",
+        "location": "United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.6,
+          44.4444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pampa de Achala",
+        "location": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.8333,
+          -31.5833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CELPA",
+        "location": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.34082,
+          -30.12737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Las Palmas",
+        "location": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.75352,
+          -27.09531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tartagal",
+        "location": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.82381,
+          -22.76158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mar Chiquita",
+        "location": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.40512,
+          -37.72427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Villa Reynolds",
+        "location": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.3773,
+          -33.7246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Serrezuela",
+        "location": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.3833,
+          -30.6333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Punta Indio",
+        "location": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.183889,
+          -35.523889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puerto Belgrano",
+        "location": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.715,
+          -38.9628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Natal-Barreira do Inferno",
+        "location": "Brazil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.383,
+          -5.866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Praia do Cassino",
+        "location": "Brazil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.16725,
+          -32.08338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alcântara Launch Center, Maranhão",
+        "location": "Brazil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.3676,
+          -2.316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Guiana Space Centre, Kourou",
+        "location": "French Guiana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.7695,
+          5.23739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chilca Launch Range",
+        "location": "Peru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.79849,
+          -12.50477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chilca PLOB, Punta Lobos Range",
+        "location": "Peru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8,
+          -12.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Coronie",
+        "location": "Dutch Suriname"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.28908,
+          5.87241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Woomera Test Range, SA",
+        "location": "Australia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.50366,
+          -30.95875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Carnarvon, WA",
+        "location": "Australia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.40866,
+          -24.48564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lancelin, WA",
+        "location": "Australia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.31774,
+          -30.98309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Koonibba Test Range, SA",
+        "location": "Australia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.448686,
+          -31.885558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Whalers Way Orbital Launch Complex, SA",
+        "location": "Australia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.6523,
+          -34.934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arnhem Space Centre, NT",
+        "location": "Australia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.821402,
+          -12.378021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Reagan Test Site, Omelek Island, Kwajalein Atoll",
+        "location": "Marshall Islands"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          167.743083,
+          9.048167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Birdling's Flat",
+        "location": "New Zealand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.683,
+          -43.817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Great Mercury Island",
+        "location": "New Zealand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.46006,
+          -36.35511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mahia Peninsula",
+        "location": "New Zealand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.86431,
+          -39.26044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MLP Sputnik",
+        "location": "Denmark"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.60306,
+          55.04917
+        ]
+      }
+    }
+  ]
+}
