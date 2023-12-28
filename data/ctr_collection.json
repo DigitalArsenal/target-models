@@ -1,0 +1,2730 @@
+{
+  "CTRCOLLECTION": {
+    "RECORDS": [
+      {
+        "ID": "004",
+        "NAME": "Afghanistan",
+        "GENC_CODE": "AFG",
+        "STANAG_CODE": "AFG",
+        "INTERNET_CCTLD": ".af",
+        "Comment": "",
+        "ALPHA_2_CODE": "AF",
+        "ALPHA_3_CODE": "AFG"
+      },
+      {
+        "NAME": "Akrotiri",
+        "GENC_CODE": "XQZ",
+        "STANAG_CODE": "-",
+        "INTERNET_CCTLD": "-",
+        "Comment": "",
+        "ALPHA_2_CODE": "-"
+      },
+      {
+        "ID": "008",
+        "NAME": "Albania",
+        "GENC_CODE": "ALB",
+        "STANAG_CODE": "ALB",
+        "INTERNET_CCTLD": ".al",
+        "Comment": "",
+        "ALPHA_2_CODE": "AL",
+        "ALPHA_3_CODE": "ALB"
+      },
+      {
+        "ID": "012",
+        "NAME": "Algeria",
+        "GENC_CODE": "DZA",
+        "STANAG_CODE": "DZA",
+        "INTERNET_CCTLD": ".dz",
+        "Comment": "",
+        "ALPHA_2_CODE": "DZ",
+        "ALPHA_3_CODE": "DZA"
+      },
+      {
+        "ID": "016",
+        "NAME": "American Samoa",
+        "GENC_CODE": "ASM",
+        "STANAG_CODE": "ASM",
+        "INTERNET_CCTLD": ".as",
+        "Comment": "",
+        "ALPHA_2_CODE": "AS",
+        "ALPHA_3_CODE": "ASM"
+      },
+      {
+        "ID": "020",
+        "NAME": "Andorra",
+        "GENC_CODE": "AND",
+        "STANAG_CODE": "AND",
+        "INTERNET_CCTLD": ".ad",
+        "Comment": "",
+        "ALPHA_2_CODE": "AD",
+        "ALPHA_3_CODE": "AND"
+      },
+      {
+        "ID": "024",
+        "NAME": "Angola",
+        "GENC_CODE": "AGO",
+        "STANAG_CODE": "AGO",
+        "INTERNET_CCTLD": ".ao",
+        "Comment": "",
+        "ALPHA_2_CODE": "AO",
+        "ALPHA_3_CODE": "AGO"
+      },
+      {
+        "ID": "660",
+        "NAME": "Anguilla",
+        "GENC_CODE": "AIA",
+        "STANAG_CODE": "AIA",
+        "INTERNET_CCTLD": ".ai",
+        "Comment": "",
+        "ALPHA_2_CODE": "AI",
+        "ALPHA_3_CODE": "AIA"
+      },
+      {
+        "ID": "010",
+        "NAME": "Antarctica",
+        "GENC_CODE": "ATA",
+        "STANAG_CODE": "ATA",
+        "INTERNET_CCTLD": ".aq",
+        "Comment": "ISO defines as the territory south of 60 degrees south latitude",
+        "ALPHA_2_CODE": "AQ",
+        "ALPHA_3_CODE": "ATA"
+      },
+      {
+        "ID": "028",
+        "NAME": "Antigua and Barbuda",
+        "GENC_CODE": "ATG",
+        "STANAG_CODE": "ATG",
+        "INTERNET_CCTLD": ".ag",
+        "Comment": "",
+        "ALPHA_2_CODE": "AG",
+        "ALPHA_3_CODE": "ATG"
+      },
+      {
+        "ID": "032",
+        "NAME": "Argentina",
+        "GENC_CODE": "ARG",
+        "STANAG_CODE": "ARG",
+        "INTERNET_CCTLD": ".ar",
+        "Comment": "",
+        "ALPHA_2_CODE": "AR",
+        "ALPHA_3_CODE": "ARG"
+      },
+      {
+        "ID": "051",
+        "NAME": "Armenia",
+        "GENC_CODE": "ARM",
+        "STANAG_CODE": "ARM",
+        "INTERNET_CCTLD": ".am",
+        "Comment": "",
+        "ALPHA_2_CODE": "AM",
+        "ALPHA_3_CODE": "ARM"
+      },
+      {
+        "ID": "533",
+        "NAME": "Aruba",
+        "GENC_CODE": "ABW",
+        "STANAG_CODE": "ABW",
+        "INTERNET_CCTLD": ".aw",
+        "Comment": "",
+        "ALPHA_2_CODE": "AW",
+        "ALPHA_3_CODE": "ABW"
+      },
+      {
+        "NAME": "Ashmore and Cartier Islands",
+        "GENC_CODE": "XAC",
+        "STANAG_CODE": "AUS",
+        "INTERNET_CCTLD": "-",
+        "Comment": "ISO includes with Australia",
+        "ALPHA_2_CODE": "-"
+      },
+      {
+        "ID": "036",
+        "NAME": "Australia",
+        "GENC_CODE": "AUS",
+        "STANAG_CODE": "AUS",
+        "INTERNET_CCTLD": ".au",
+        "Comment": "ISO includes Ashmore and Cartier Islands, Coral Sea Islands",
+        "ALPHA_2_CODE": "AU",
+        "ALPHA_3_CODE": "AUS"
+      },
+      {
+        "ID": "040",
+        "NAME": "Austria",
+        "GENC_CODE": "AUT",
+        "STANAG_CODE": "AUT",
+        "INTERNET_CCTLD": ".at",
+        "Comment": "",
+        "ALPHA_2_CODE": "AT",
+        "ALPHA_3_CODE": "AUT"
+      },
+      {
+        "ID": "031",
+        "NAME": "Azerbaijan",
+        "GENC_CODE": "AZE",
+        "STANAG_CODE": "AZE",
+        "INTERNET_CCTLD": ".az",
+        "Comment": "",
+        "ALPHA_2_CODE": "AZ",
+        "ALPHA_3_CODE": "AZE"
+      },
+      {
+        "ID": "044",
+        "NAME": "Bahamas, The",
+        "GENC_CODE": "BHS",
+        "STANAG_CODE": "BHS",
+        "INTERNET_CCTLD": ".bs",
+        "Comment": "",
+        "ALPHA_2_CODE": "BS",
+        "ALPHA_3_CODE": "BHS"
+      },
+      {
+        "ID": "048",
+        "NAME": "Bahrain",
+        "GENC_CODE": "BHR",
+        "STANAG_CODE": "BHR",
+        "INTERNET_CCTLD": ".bh",
+        "Comment": "",
+        "ALPHA_2_CODE": "BH",
+        "ALPHA_3_CODE": "BHR"
+      },
+      {
+        "NAME": "Baker Island",
+        "GENC_CODE": "XBK",
+        "STANAG_CODE": "UMI",
+        "INTERNET_CCTLD": "-",
+        "Comment": "ISO includes with the US Minor Outlying Islands",
+        "ALPHA_2_CODE": "-"
+      },
+      {
+        "ID": "050",
+        "NAME": "Bangladesh",
+        "GENC_CODE": "BGD",
+        "STANAG_CODE": "BGD",
+        "INTERNET_CCTLD": ".bd",
+        "Comment": "",
+        "ALPHA_2_CODE": "BD",
+        "ALPHA_3_CODE": "BGD"
+      },
+      {
+        "ID": "052",
+        "NAME": "Barbados",
+        "GENC_CODE": "BRB",
+        "STANAG_CODE": "BRB",
+        "INTERNET_CCTLD": ".bb",
+        "Comment": "",
+        "ALPHA_2_CODE": "BB",
+        "ALPHA_3_CODE": "BRB"
+      },
+      {
+        "NAME": "Bassas da India",
+        "GENC_CODE": "XBI",
+        "STANAG_CODE": "-",
+        "INTERNET_CCTLD": "-",
+        "Comment": "administered as part of French Southern and Antarctic Lands; no ISO codes assigned",
+        "ALPHA_2_CODE": "-"
+      },
+      {
+        "ID": "112",
+        "NAME": "Belarus",
+        "GENC_CODE": "BLR",
+        "STANAG_CODE": "BLR",
+        "INTERNET_CCTLD": ".by",
+        "Comment": "",
+        "ALPHA_2_CODE": "BY",
+        "ALPHA_3_CODE": "BLR"
+      },
+      {
+        "ID": "056",
+        "NAME": "Belgium",
+        "GENC_CODE": "BEL",
+        "STANAG_CODE": "BEL",
+        "INTERNET_CCTLD": ".be",
+        "Comment": "",
+        "ALPHA_2_CODE": "BE",
+        "ALPHA_3_CODE": "BEL"
+      },
+      {
+        "ID": "084",
+        "NAME": "Belize",
+        "GENC_CODE": "BLZ",
+        "STANAG_CODE": "BLZ",
+        "INTERNET_CCTLD": ".bz",
+        "Comment": "",
+        "ALPHA_2_CODE": "BZ",
+        "ALPHA_3_CODE": "BLZ"
+      },
+      {
+        "ID": "204",
+        "NAME": "Benin",
+        "GENC_CODE": "BEN",
+        "STANAG_CODE": "BEN",
+        "INTERNET_CCTLD": ".bj",
+        "Comment": "",
+        "ALPHA_2_CODE": "BJ",
+        "ALPHA_3_CODE": "BEN"
+      },
+      {
+        "ID": "060",
+        "NAME": "Bermuda",
+        "GENC_CODE": "BMU",
+        "STANAG_CODE": "BMU",
+        "INTERNET_CCTLD": ".bm",
+        "Comment": "",
+        "ALPHA_2_CODE": "BM",
+        "ALPHA_3_CODE": "BMU"
+      },
+      {
+        "ID": "064",
+        "NAME": "Bhutan",
+        "GENC_CODE": "BTN",
+        "STANAG_CODE": "BTN",
+        "INTERNET_CCTLD": ".bt",
+        "Comment": "",
+        "ALPHA_2_CODE": "BT",
+        "ALPHA_3_CODE": "BTN"
+      },
+      {
+        "ID": "068",
+        "NAME": "Bolivia",
+        "GENC_CODE": "BOL",
+        "STANAG_CODE": "BOL",
+        "INTERNET_CCTLD": ".bo",
+        "Comment": "",
+        "ALPHA_2_CODE": "BO",
+        "ALPHA_3_CODE": "BOL"
+      },
+      {
+        "ID": "070",
+        "NAME": "Bosnia and Herzegovina",
+        "GENC_CODE": "BIH",
+        "STANAG_CODE": "BIH",
+        "INTERNET_CCTLD": ".ba",
+        "Comment": "",
+        "ALPHA_2_CODE": "BA",
+        "ALPHA_3_CODE": "BIH"
+      },
+      {
+        "ID": "072",
+        "NAME": "Botswana",
+        "GENC_CODE": "BWA",
+        "STANAG_CODE": "BWA",
+        "INTERNET_CCTLD": ".bw",
+        "Comment": "",
+        "ALPHA_2_CODE": "BW",
+        "ALPHA_3_CODE": "BWA"
+      },
+      {
+        "ID": "074",
+        "NAME": "Bouvet Island",
+        "GENC_CODE": "BVT",
+        "STANAG_CODE": "BVT",
+        "INTERNET_CCTLD": ".bv",
+        "Comment": "",
+        "ALPHA_2_CODE": "BV",
+        "ALPHA_3_CODE": "BVT"
+      },
+      {
+        "ID": "076",
+        "NAME": "Brazil",
+        "GENC_CODE": "BRA",
+        "STANAG_CODE": "BRA",
+        "INTERNET_CCTLD": ".br",
+        "Comment": "",
+        "ALPHA_2_CODE": "BR",
+        "ALPHA_3_CODE": "BRA"
+      },
+      {
+        "ID": "086",
+        "NAME": "British Indian Ocean Territory",
+        "GENC_CODE": "IOT",
+        "STANAG_CODE": "IOT",
+        "INTERNET_CCTLD": ".io",
+        "Comment": "",
+        "ALPHA_2_CODE": "IO",
+        "ALPHA_3_CODE": "IOT"
+      },
+      {
+        "ID": "092",
+        "NAME": "British Virgin Islands",
+        "GENC_CODE": "VGB",
+        "STANAG_CODE": "VGB",
+        "INTERNET_CCTLD": ".vg",
+        "Comment": "",
+        "ALPHA_2_CODE": "VG",
+        "ALPHA_3_CODE": "VGB"
+      },
+      {
+        "ID": "096",
+        "NAME": "Brunei",
+        "GENC_CODE": "BRN",
+        "STANAG_CODE": "BRN",
+        "INTERNET_CCTLD": ".bn",
+        "Comment": "",
+        "ALPHA_2_CODE": "BN",
+        "ALPHA_3_CODE": "BRN"
+      },
+      {
+        "ID": "100",
+        "NAME": "Bulgaria",
+        "GENC_CODE": "BGR",
+        "STANAG_CODE": "BGR",
+        "INTERNET_CCTLD": ".bg",
+        "Comment": "",
+        "ALPHA_2_CODE": "BG",
+        "ALPHA_3_CODE": "BGR"
+      },
+      {
+        "ID": "854",
+        "NAME": "Burkina Faso",
+        "GENC_CODE": "BFA",
+        "STANAG_CODE": "BFA",
+        "INTERNET_CCTLD": ".bf",
+        "Comment": "",
+        "ALPHA_2_CODE": "BF",
+        "ALPHA_3_CODE": "BFA"
+      },
+      {
+        "ID": "104",
+        "NAME": "Burma",
+        "GENC_CODE": "MMR",
+        "STANAG_CODE": "MMR",
+        "INTERNET_CCTLD": ".mm",
+        "Comment": "ISO uses the name Myanmar",
+        "ALPHA_2_CODE": "MM",
+        "ALPHA_3_CODE": "MMR"
+      },
+      {
+        "ID": "108",
+        "NAME": "Burundi",
+        "GENC_CODE": "BDI",
+        "STANAG_CODE": "BDI",
+        "INTERNET_CCTLD": ".bi",
+        "Comment": "",
+        "ALPHA_2_CODE": "BI",
+        "ALPHA_3_CODE": "BDI"
+      },
+      {
+        "ID": "132",
+        "NAME": "Cabo Verde",
+        "GENC_CODE": "CPV",
+        "STANAG_CODE": "CPV",
+        "INTERNET_CCTLD": ".cv",
+        "Comment": "",
+        "ALPHA_2_CODE": "CV",
+        "ALPHA_3_CODE": "CPV"
+      },
+      {
+        "ID": "116",
+        "NAME": "Cambodia",
+        "GENC_CODE": "KHM",
+        "STANAG_CODE": "KHM",
+        "INTERNET_CCTLD": ".kh",
+        "Comment": "",
+        "ALPHA_2_CODE": "KH",
+        "ALPHA_3_CODE": "KHM"
+      },
+      {
+        "ID": "120",
+        "NAME": "Cameroon",
+        "GENC_CODE": "CMR",
+        "STANAG_CODE": "CMR",
+        "INTERNET_CCTLD": ".cm",
+        "Comment": "",
+        "ALPHA_2_CODE": "CM",
+        "ALPHA_3_CODE": "CMR"
+      },
+      {
+        "ID": "124",
+        "NAME": "Canada",
+        "GENC_CODE": "CAN",
+        "STANAG_CODE": "CAN",
+        "INTERNET_CCTLD": ".ca",
+        "Comment": "",
+        "ALPHA_2_CODE": "CA",
+        "ALPHA_3_CODE": "CAN"
+      },
+      {
+        "ID": "136",
+        "NAME": "Cayman Islands",
+        "GENC_CODE": "CYM",
+        "STANAG_CODE": "CYM",
+        "INTERNET_CCTLD": ".ky",
+        "Comment": "",
+        "ALPHA_2_CODE": "KY",
+        "ALPHA_3_CODE": "CYM"
+      },
+      {
+        "ID": "140",
+        "NAME": "Central African Republic",
+        "GENC_CODE": "CAF",
+        "STANAG_CODE": "CAF",
+        "INTERNET_CCTLD": ".cf",
+        "Comment": "",
+        "ALPHA_2_CODE": "CF",
+        "ALPHA_3_CODE": "CAF"
+      },
+      {
+        "ID": "148",
+        "NAME": "Chad",
+        "GENC_CODE": "TCD",
+        "STANAG_CODE": "TCD",
+        "INTERNET_CCTLD": ".td",
+        "Comment": "",
+        "ALPHA_2_CODE": "TD",
+        "ALPHA_3_CODE": "TCD"
+      },
+      {
+        "ID": "152",
+        "NAME": "Chile",
+        "GENC_CODE": "CHL",
+        "STANAG_CODE": "CHL",
+        "INTERNET_CCTLD": ".cl",
+        "Comment": "",
+        "ALPHA_2_CODE": "CL",
+        "ALPHA_3_CODE": "CHL"
+      },
+      {
+        "ID": "156",
+        "NAME": "China",
+        "GENC_CODE": "CHN",
+        "STANAG_CODE": "CHN",
+        "INTERNET_CCTLD": ".cn",
+        "Comment": "see also Taiwan",
+        "ALPHA_2_CODE": "CN",
+        "ALPHA_3_CODE": "CHN"
+      },
+      {
+        "ID": "162",
+        "NAME": "Christmas Island",
+        "GENC_CODE": "CXR",
+        "STANAG_CODE": "CXR",
+        "INTERNET_CCTLD": ".cx",
+        "Comment": "",
+        "ALPHA_2_CODE": "CX",
+        "ALPHA_3_CODE": "CXR"
+      },
+      {
+        "NAME": "Clipperton Island",
+        "GENC_CODE": "CPT",
+        "STANAG_CODE": "FYP",
+        "INTERNET_CCTLD": "-",
+        "Comment": "ISO includes with France",
+        "ALPHA_2_CODE": "-"
+      },
+      {
+        "ID": "166",
+        "NAME": "Cocos (Keeling) Islands",
+        "GENC_CODE": "CCK",
+        "STANAG_CODE": "AUS",
+        "INTERNET_CCTLD": ".cc",
+        "Comment": "",
+        "ALPHA_2_CODE": "CC",
+        "ALPHA_3_CODE": "CCK"
+      },
+      {
+        "ID": "170",
+        "NAME": "Colombia",
+        "GENC_CODE": "COL",
+        "STANAG_CODE": "COL",
+        "INTERNET_CCTLD": ".co",
+        "Comment": "",
+        "ALPHA_2_CODE": "CO",
+        "ALPHA_3_CODE": "COL"
+      },
+      {
+        "ID": "174",
+        "NAME": "Comoros",
+        "GENC_CODE": "COM",
+        "STANAG_CODE": "COM",
+        "INTERNET_CCTLD": ".km",
+        "Comment": "",
+        "ALPHA_2_CODE": "KM",
+        "ALPHA_3_CODE": "COM"
+      },
+      {
+        "ID": "180",
+        "NAME": "Congo, Democratic Republic of the",
+        "GENC_CODE": "COD",
+        "STANAG_CODE": "COD",
+        "INTERNET_CCTLD": ".cd",
+        "Comment": "formerly Zaire",
+        "ALPHA_2_CODE": "CD",
+        "ALPHA_3_CODE": "COD"
+      },
+      {
+        "ID": "178",
+        "NAME": "Congo, Republic of the",
+        "GENC_CODE": "COG",
+        "STANAG_CODE": "COG",
+        "INTERNET_CCTLD": ".cg",
+        "Comment": "",
+        "ALPHA_2_CODE": "CG",
+        "ALPHA_3_CODE": "COG"
+      },
+      {
+        "ID": "184",
+        "NAME": "Cook Islands",
+        "GENC_CODE": "COK",
+        "STANAG_CODE": "COK",
+        "INTERNET_CCTLD": ".ck",
+        "Comment": "",
+        "ALPHA_2_CODE": "CK",
+        "ALPHA_3_CODE": "COK"
+      },
+      {
+        "NAME": "Coral Sea Islands",
+        "GENC_CODE": "XCS",
+        "STANAG_CODE": "AUS",
+        "INTERNET_CCTLD": "-",
+        "Comment": "ISO includes with Australia",
+        "ALPHA_2_CODE": "-"
+      },
+      {
+        "ID": "188",
+        "NAME": "Costa Rica",
+        "GENC_CODE": "CRI",
+        "STANAG_CODE": "CRI",
+        "INTERNET_CCTLD": ".cr",
+        "Comment": "",
+        "ALPHA_2_CODE": "CR",
+        "ALPHA_3_CODE": "CRI"
+      },
+      {
+        "ID": "384",
+        "NAME": "Cote d'Ivoire",
+        "GENC_CODE": "CIV",
+        "STANAG_CODE": "CIV",
+        "INTERNET_CCTLD": ".ci",
+        "Comment": "",
+        "ALPHA_2_CODE": "CI",
+        "ALPHA_3_CODE": "CIV"
+      },
+      {
+        "ID": "191",
+        "NAME": "Croatia",
+        "GENC_CODE": "HRV",
+        "STANAG_CODE": "HRV",
+        "INTERNET_CCTLD": ".hr",
+        "Comment": "",
+        "ALPHA_2_CODE": "HR",
+        "ALPHA_3_CODE": "HRV"
+      },
+      {
+        "ID": "192",
+        "NAME": "Cuba",
+        "GENC_CODE": "CUB",
+        "STANAG_CODE": "CUB",
+        "INTERNET_CCTLD": ".cu",
+        "Comment": "",
+        "ALPHA_2_CODE": "CU",
+        "ALPHA_3_CODE": "CUB"
+      },
+      {
+        "ID": "531",
+        "NAME": "Curacao",
+        "GENC_CODE": "CUW",
+        "STANAG_CODE": "-",
+        "INTERNET_CCTLD": ".cw",
+        "Comment": "",
+        "ALPHA_2_CODE": "CW",
+        "ALPHA_3_CODE": "CUW"
+      },
+      {
+        "ID": "196",
+        "NAME": "Cyprus",
+        "GENC_CODE": "CYP",
+        "STANAG_CODE": "CYP",
+        "INTERNET_CCTLD": ".cy",
+        "Comment": "",
+        "ALPHA_2_CODE": "CY",
+        "ALPHA_3_CODE": "CYP"
+      },
+      {
+        "ID": "203",
+        "NAME": "Czechia",
+        "GENC_CODE": "CZE",
+        "STANAG_CODE": "CZE",
+        "INTERNET_CCTLD": ".cz",
+        "Comment": "",
+        "ALPHA_2_CODE": "CZ",
+        "ALPHA_3_CODE": "CZE"
+      },
+      {
+        "ID": "208",
+        "NAME": "Denmark",
+        "GENC_CODE": "DNK",
+        "STANAG_CODE": "DNK",
+        "INTERNET_CCTLD": ".dk",
+        "Comment": "",
+        "ALPHA_2_CODE": "DK",
+        "ALPHA_3_CODE": "DNK"
+      },
+      {
+        "NAME": "Dhekelia",
+        "GENC_CODE": "XXD",
+        "STANAG_CODE": "-",
+        "INTERNET_CCTLD": "-",
+        "Comment": "",
+        "ALPHA_2_CODE": "-"
+      },
+      {
+        "ID": "262",
+        "NAME": "Djibouti",
+        "GENC_CODE": "DJI",
+        "STANAG_CODE": "DJI",
+        "INTERNET_CCTLD": ".dj",
+        "Comment": "",
+        "ALPHA_2_CODE": "DJ",
+        "ALPHA_3_CODE": "DJI"
+      },
+      {
+        "ID": "212",
+        "NAME": "Dominica",
+        "GENC_CODE": "DMA",
+        "STANAG_CODE": "DMA",
+        "INTERNET_CCTLD": ".dm",
+        "Comment": "",
+        "ALPHA_2_CODE": "DM",
+        "ALPHA_3_CODE": "DMA"
+      },
+      {
+        "ID": "214",
+        "NAME": "Dominican Republic",
+        "GENC_CODE": "DOM",
+        "STANAG_CODE": "DOM",
+        "INTERNET_CCTLD": ".do",
+        "Comment": "",
+        "ALPHA_2_CODE": "DO",
+        "ALPHA_3_CODE": "DOM"
+      },
+      {
+        "ID": "218",
+        "NAME": "Ecuador",
+        "GENC_CODE": "ECU",
+        "STANAG_CODE": "ECU",
+        "INTERNET_CCTLD": ".ec",
+        "Comment": "",
+        "ALPHA_2_CODE": "EC",
+        "ALPHA_3_CODE": "ECU"
+      },
+      {
+        "ID": "818",
+        "NAME": "Egypt",
+        "GENC_CODE": "EGY",
+        "STANAG_CODE": "EGY",
+        "INTERNET_CCTLD": ".eg",
+        "Comment": "",
+        "ALPHA_2_CODE": "EG",
+        "ALPHA_3_CODE": "EGY"
+      },
+      {
+        "ID": "222",
+        "NAME": "El Salvador",
+        "GENC_CODE": "SLV",
+        "STANAG_CODE": "SLV",
+        "INTERNET_CCTLD": ".sv",
+        "Comment": "",
+        "ALPHA_2_CODE": "SV",
+        "ALPHA_3_CODE": "SLV"
+      },
+      {
+        "ID": "226",
+        "NAME": "Equatorial Guinea",
+        "GENC_CODE": "GNQ",
+        "STANAG_CODE": "GNQ",
+        "INTERNET_CCTLD": ".gq",
+        "Comment": "",
+        "ALPHA_2_CODE": "GQ",
+        "ALPHA_3_CODE": "GNQ"
+      },
+      {
+        "ID": "232",
+        "NAME": "Eritrea",
+        "GENC_CODE": "ERI",
+        "STANAG_CODE": "ERI",
+        "INTERNET_CCTLD": ".er",
+        "Comment": "",
+        "ALPHA_2_CODE": "ER",
+        "ALPHA_3_CODE": "ERI"
+      },
+      {
+        "ID": "233",
+        "NAME": "Estonia",
+        "GENC_CODE": "EST",
+        "STANAG_CODE": "EST",
+        "INTERNET_CCTLD": ".ee",
+        "Comment": "",
+        "ALPHA_2_CODE": "EE",
+        "ALPHA_3_CODE": "EST"
+      },
+      {
+        "ID": "748",
+        "NAME": "Eswatini",
+        "GENC_CODE": "SWZ",
+        "STANAG_CODE": "SWZ",
+        "INTERNET_CCTLD": ".sz",
+        "Comment": "",
+        "ALPHA_2_CODE": "SZ",
+        "ALPHA_3_CODE": "SWZ"
+      },
+      {
+        "ID": "231",
+        "NAME": "Ethiopia",
+        "GENC_CODE": "ETH",
+        "STANAG_CODE": "ETH",
+        "INTERNET_CCTLD": ".et",
+        "Comment": "",
+        "ALPHA_2_CODE": "ET",
+        "ALPHA_3_CODE": "ETH"
+      },
+      {
+        "NAME": "Europa Island",
+        "GENC_CODE": "XEU",
+        "STANAG_CODE": "-",
+        "INTERNET_CCTLD": "-",
+        "Comment": "administered as part of French Southern and Antarctic Lands; no ISO codes assigned",
+        "ALPHA_2_CODE": "-"
+      },
+      {
+        "ID": "238",
+        "NAME": "Falkland Islands (Islas Malvinas)",
+        "GENC_CODE": "FLK",
+        "STANAG_CODE": "FLK",
+        "INTERNET_CCTLD": ".fk",
+        "Comment": "",
+        "ALPHA_2_CODE": "FK",
+        "ALPHA_3_CODE": "FLK"
+      },
+      {
+        "ID": "234",
+        "NAME": "Faroe Islands",
+        "GENC_CODE": "FRO",
+        "STANAG_CODE": "FRO",
+        "INTERNET_CCTLD": ".fo",
+        "Comment": "",
+        "ALPHA_2_CODE": "FO",
+        "ALPHA_3_CODE": "FRO"
+      },
+      {
+        "ID": "242",
+        "NAME": "Fiji",
+        "GENC_CODE": "FJI",
+        "STANAG_CODE": "FJI",
+        "INTERNET_CCTLD": ".fj",
+        "Comment": "",
+        "ALPHA_2_CODE": "FJ",
+        "ALPHA_3_CODE": "FJI"
+      },
+      {
+        "ID": "246",
+        "NAME": "Finland",
+        "GENC_CODE": "FIN",
+        "STANAG_CODE": "FIN",
+        "INTERNET_CCTLD": ".fi",
+        "Comment": "",
+        "ALPHA_2_CODE": "FI",
+        "ALPHA_3_CODE": "FIN"
+      },
+      {
+        "ID": "250",
+        "NAME": "France",
+        "GENC_CODE": "FRA",
+        "STANAG_CODE": "FRA",
+        "INTERNET_CCTLD": ".fr",
+        "Comment": "ISO includes metropolitan France along with the dependencies of Clipperton Island, French Guiana, French Polynesia, French Southern and Antarctic Lands, Guadeloupe, Martinique, Mayotte, New Caledonia, Reunion, Saint Pierre and Miquelon, Wallis and Futuna",
+        "ALPHA_2_CODE": "FR",
+        "ALPHA_3_CODE": "FRA"
+      },
+      {
+        "ID": "249",
+        "NAME": "France, Metropolitan",
+        "GENC_CODE": "-",
+        "STANAG_CODE": "-",
+        "INTERNET_CCTLD": ".fx",
+        "Comment": "ISO limits to the European part of France",
+        "ALPHA_2_CODE": "FX",
+        "ALPHA_3_CODE": "FXX"
+      },
+      {
+        "ID": "254",
+        "NAME": "French Guiana",
+        "GENC_CODE": "GUF",
+        "STANAG_CODE": "GUF",
+        "INTERNET_CCTLD": ".gf",
+        "Comment": "",
+        "ALPHA_2_CODE": "GF",
+        "ALPHA_3_CODE": "GUF"
+      },
+      {
+        "ID": "258",
+        "NAME": "French Polynesia",
+        "GENC_CODE": "PYF",
+        "STANAG_CODE": "PYF",
+        "INTERNET_CCTLD": ".pf",
+        "Comment": "",
+        "ALPHA_2_CODE": "PF",
+        "ALPHA_3_CODE": "PYF"
+      },
+      {
+        "ID": "260",
+        "NAME": "French Southern and Antarctic Lands",
+        "GENC_CODE": "ATF",
+        "STANAG_CODE": "ATF",
+        "INTERNET_CCTLD": ".tf",
+        "Comment": "GENC does not include the French-claimed portion of Antarctica (Terre Adelie)",
+        "ALPHA_2_CODE": "TF",
+        "ALPHA_3_CODE": "ATF"
+      },
+      {
+        "ID": "266",
+        "NAME": "Gabon",
+        "GENC_CODE": "GAB",
+        "STANAG_CODE": "GAB",
+        "INTERNET_CCTLD": ".ga",
+        "Comment": "",
+        "ALPHA_2_CODE": "GA",
+        "ALPHA_3_CODE": "GAB"
+      },
+      {
+        "ID": "270",
+        "NAME": "Gambia, The",
+        "GENC_CODE": "GMB",
+        "STANAG_CODE": "GMB",
+        "INTERNET_CCTLD": ".gm",
+        "Comment": "",
+        "ALPHA_2_CODE": "GM",
+        "ALPHA_3_CODE": "GMB"
+      },
+      {
+        "ID": "275",
+        "NAME": "Gaza Strip",
+        "GENC_CODE": "XGZ",
+        "STANAG_CODE": "PSE",
+        "INTERNET_CCTLD": ".ps",
+        "Comment": "ISO identifies as Occupied Palestinian Territory",
+        "ALPHA_2_CODE": "PS",
+        "ALPHA_3_CODE": "PSE"
+      },
+      {
+        "ID": "268",
+        "NAME": "Georgia",
+        "GENC_CODE": "GEO",
+        "STANAG_CODE": "GEO",
+        "INTERNET_CCTLD": ".ge",
+        "Comment": "",
+        "ALPHA_2_CODE": "GE",
+        "ALPHA_3_CODE": "GEO"
+      },
+      {
+        "ID": "276",
+        "NAME": "Germany",
+        "GENC_CODE": "DEU",
+        "STANAG_CODE": "DEU",
+        "INTERNET_CCTLD": ".de",
+        "Comment": "",
+        "ALPHA_2_CODE": "DE",
+        "ALPHA_3_CODE": "DEU"
+      },
+      {
+        "ID": "288",
+        "NAME": "Ghana",
+        "GENC_CODE": "GHA",
+        "STANAG_CODE": "GHA",
+        "INTERNET_CCTLD": ".gh",
+        "Comment": "",
+        "ALPHA_2_CODE": "GH",
+        "ALPHA_3_CODE": "GHA"
+      },
+      {
+        "ID": "292",
+        "NAME": "Gibraltar",
+        "GENC_CODE": "GIB",
+        "STANAG_CODE": "GIB",
+        "INTERNET_CCTLD": ".gi",
+        "Comment": "",
+        "ALPHA_2_CODE": "GI",
+        "ALPHA_3_CODE": "GIB"
+      },
+      {
+        "NAME": "Glorioso Islands",
+        "GENC_CODE": "XGL",
+        "STANAG_CODE": "-",
+        "INTERNET_CCTLD": "-",
+        "Comment": "administered as part of French Southern and Antarctic Lands; no ISO codes assigned",
+        "ALPHA_2_CODE": "-"
+      },
+      {
+        "ID": "300",
+        "NAME": "Greece",
+        "GENC_CODE": "GRC",
+        "STANAG_CODE": "GRC",
+        "INTERNET_CCTLD": ".gr",
+        "Comment": "For its internal communications, the  European Union recommends the use of the code EL in lieu of the ISO 3166-2 code of GR",
+        "ALPHA_2_CODE": "GR",
+        "ALPHA_3_CODE": "GRC"
+      },
+      {
+        "ID": "304",
+        "NAME": "Greenland",
+        "GENC_CODE": "GRL",
+        "STANAG_CODE": "GRL",
+        "INTERNET_CCTLD": ".gl",
+        "Comment": "",
+        "ALPHA_2_CODE": "GL",
+        "ALPHA_3_CODE": "GRL"
+      },
+      {
+        "ID": "308",
+        "NAME": "Grenada",
+        "GENC_CODE": "GRD",
+        "STANAG_CODE": "GRD",
+        "INTERNET_CCTLD": ".gd",
+        "Comment": "",
+        "ALPHA_2_CODE": "GD",
+        "ALPHA_3_CODE": "GRD"
+      },
+      {
+        "ID": "312",
+        "NAME": "Guadeloupe",
+        "GENC_CODE": "GLP",
+        "STANAG_CODE": "GLP",
+        "INTERNET_CCTLD": ".gp",
+        "Comment": "",
+        "ALPHA_2_CODE": "GP",
+        "ALPHA_3_CODE": "GLP"
+      },
+      {
+        "ID": "316",
+        "NAME": "Guam",
+        "GENC_CODE": "GUM",
+        "STANAG_CODE": "GUM",
+        "INTERNET_CCTLD": ".gu",
+        "Comment": "",
+        "ALPHA_2_CODE": "GU",
+        "ALPHA_3_CODE": "GUM"
+      },
+      {
+        "ID": "320",
+        "NAME": "Guatemala",
+        "GENC_CODE": "GTM",
+        "STANAG_CODE": "GTM",
+        "INTERNET_CCTLD": ".gt",
+        "Comment": "",
+        "ALPHA_2_CODE": "GT",
+        "ALPHA_3_CODE": "GTM"
+      },
+      {
+        "ID": "831",
+        "NAME": "Guernsey",
+        "GENC_CODE": "GGY",
+        "STANAG_CODE": "UK",
+        "INTERNET_CCTLD": ".gg",
+        "Comment": "",
+        "ALPHA_2_CODE": "GG",
+        "ALPHA_3_CODE": "GGY"
+      },
+      {
+        "ID": "324",
+        "NAME": "Guinea",
+        "GENC_CODE": "GIN",
+        "STANAG_CODE": "GIN",
+        "INTERNET_CCTLD": ".gn",
+        "Comment": "",
+        "ALPHA_2_CODE": "GN",
+        "ALPHA_3_CODE": "GIN"
+      },
+      {
+        "ID": "624",
+        "NAME": "Guinea-Bissau",
+        "GENC_CODE": "GNB",
+        "STANAG_CODE": "GNB",
+        "INTERNET_CCTLD": ".gw",
+        "Comment": "",
+        "ALPHA_2_CODE": "GW",
+        "ALPHA_3_CODE": "GNB"
+      },
+      {
+        "ID": "328",
+        "NAME": "Guyana",
+        "GENC_CODE": "GUY",
+        "STANAG_CODE": "GUY",
+        "INTERNET_CCTLD": ".gy",
+        "Comment": "",
+        "ALPHA_2_CODE": "GY",
+        "ALPHA_3_CODE": "GUY"
+      },
+      {
+        "ID": "332",
+        "NAME": "Haiti",
+        "GENC_CODE": "HTI",
+        "STANAG_CODE": "HTI",
+        "INTERNET_CCTLD": ".ht",
+        "Comment": "",
+        "ALPHA_2_CODE": "HT",
+        "ALPHA_3_CODE": "HTI"
+      },
+      {
+        "ID": "334",
+        "NAME": "Heard Island and McDonald Islands",
+        "GENC_CODE": "HMD",
+        "STANAG_CODE": "HMD",
+        "INTERNET_CCTLD": ".hm",
+        "Comment": "",
+        "ALPHA_2_CODE": "HM",
+        "ALPHA_3_CODE": "HMD"
+      },
+      {
+        "ID": "336",
+        "NAME": "Holy See (Vatican City)",
+        "GENC_CODE": "VAT",
+        "STANAG_CODE": "VAT",
+        "INTERNET_CCTLD": ".va",
+        "Comment": "",
+        "ALPHA_2_CODE": "VA",
+        "ALPHA_3_CODE": "VAT"
+      },
+      {
+        "ID": "340",
+        "NAME": "Honduras",
+        "GENC_CODE": "HND",
+        "STANAG_CODE": "HND",
+        "INTERNET_CCTLD": ".hn",
+        "Comment": "",
+        "ALPHA_2_CODE": "HN",
+        "ALPHA_3_CODE": "HND"
+      },
+      {
+        "ID": "344",
+        "NAME": "Hong Kong",
+        "GENC_CODE": "HKG",
+        "STANAG_CODE": "HKG",
+        "INTERNET_CCTLD": ".hk",
+        "Comment": "",
+        "ALPHA_2_CODE": "HK",
+        "ALPHA_3_CODE": "HKG"
+      },
+      {
+        "NAME": "Howland Island",
+        "GENC_CODE": "XHO",
+        "STANAG_CODE": "UMI",
+        "INTERNET_CCTLD": "-",
+        "Comment": "ISO includes with the US Minor Outlying Islands",
+        "ALPHA_2_CODE": "-"
+      },
+      {
+        "ID": "348",
+        "NAME": "Hungary",
+        "GENC_CODE": "HUN",
+        "STANAG_CODE": "HUN",
+        "INTERNET_CCTLD": ".hu",
+        "Comment": "",
+        "ALPHA_2_CODE": "HU",
+        "ALPHA_3_CODE": "HUN"
+      },
+      {
+        "ID": "352",
+        "NAME": "Iceland",
+        "GENC_CODE": "ISL",
+        "STANAG_CODE": "ISL",
+        "INTERNET_CCTLD": ".is",
+        "Comment": "",
+        "ALPHA_2_CODE": "IS",
+        "ALPHA_3_CODE": "ISL"
+      },
+      {
+        "ID": "356",
+        "NAME": "India",
+        "GENC_CODE": "IND",
+        "STANAG_CODE": "IND",
+        "INTERNET_CCTLD": ".in",
+        "Comment": "",
+        "ALPHA_2_CODE": "IN",
+        "ALPHA_3_CODE": "IND"
+      },
+      {
+        "ID": "360",
+        "NAME": "Indonesia",
+        "GENC_CODE": "IDN",
+        "STANAG_CODE": "IDN",
+        "INTERNET_CCTLD": ".id",
+        "Comment": "",
+        "ALPHA_2_CODE": "ID",
+        "ALPHA_3_CODE": "IDN"
+      },
+      {
+        "ID": "364",
+        "NAME": "Iran",
+        "GENC_CODE": "IRN",
+        "STANAG_CODE": "IRN",
+        "INTERNET_CCTLD": ".ir",
+        "Comment": "",
+        "ALPHA_2_CODE": "IR",
+        "ALPHA_3_CODE": "IRN"
+      },
+      {
+        "ID": "368",
+        "NAME": "Iraq",
+        "GENC_CODE": "IRQ",
+        "STANAG_CODE": "IRQ",
+        "INTERNET_CCTLD": ".iq",
+        "Comment": "",
+        "ALPHA_2_CODE": "IQ",
+        "ALPHA_3_CODE": "IRQ"
+      },
+      {
+        "ID": "372",
+        "NAME": "Ireland",
+        "GENC_CODE": "IRL",
+        "STANAG_CODE": "IRL",
+        "INTERNET_CCTLD": ".ie",
+        "Comment": "",
+        "ALPHA_2_CODE": "IE",
+        "ALPHA_3_CODE": "IRL"
+      },
+      {
+        "ID": "833",
+        "NAME": "Isle of Man",
+        "GENC_CODE": "IMN",
+        "STANAG_CODE": "UK",
+        "INTERNET_CCTLD": ".im",
+        "Comment": "",
+        "ALPHA_2_CODE": "IM",
+        "ALPHA_3_CODE": "IMN"
+      },
+      {
+        "ID": "376",
+        "NAME": "Israel",
+        "GENC_CODE": "ISR",
+        "STANAG_CODE": "ISR",
+        "INTERNET_CCTLD": ".il",
+        "Comment": "",
+        "ALPHA_2_CODE": "IL",
+        "ALPHA_3_CODE": "ISR"
+      },
+      {
+        "ID": "380",
+        "NAME": "Italy",
+        "GENC_CODE": "ITA",
+        "STANAG_CODE": "ITA",
+        "INTERNET_CCTLD": ".it",
+        "Comment": "",
+        "ALPHA_2_CODE": "IT",
+        "ALPHA_3_CODE": "ITA"
+      },
+      {
+        "ID": "388",
+        "NAME": "Jamaica",
+        "GENC_CODE": "JAM",
+        "STANAG_CODE": "JAM",
+        "INTERNET_CCTLD": ".jm",
+        "Comment": "",
+        "ALPHA_2_CODE": "JM",
+        "ALPHA_3_CODE": "JAM"
+      },
+      {
+        "NAME": "Jan Mayen",
+        "GENC_CODE": "XJM",
+        "STANAG_CODE": "SJM",
+        "INTERNET_CCTLD": "-",
+        "Comment": "ISO includes with Svalbard",
+        "ALPHA_2_CODE": "-"
+      },
+      {
+        "ID": "392",
+        "NAME": "Japan",
+        "GENC_CODE": "JPN",
+        "STANAG_CODE": "JPN",
+        "INTERNET_CCTLD": ".jp",
+        "Comment": "",
+        "ALPHA_2_CODE": "JP",
+        "ALPHA_3_CODE": "JPN"
+      },
+      {
+        "NAME": "Jarvis Island",
+        "GENC_CODE": "XJV",
+        "STANAG_CODE": "UMI",
+        "INTERNET_CCTLD": "-",
+        "Comment": "ISO includes with the US Minor Outlying Islands",
+        "ALPHA_2_CODE": "-"
+      },
+      {
+        "ID": "832",
+        "NAME": "Jersey",
+        "GENC_CODE": "JEY",
+        "STANAG_CODE": "UK",
+        "INTERNET_CCTLD": ".je",
+        "Comment": "",
+        "ALPHA_2_CODE": "JE",
+        "ALPHA_3_CODE": "JEY"
+      },
+      {
+        "NAME": "Johnston Atoll",
+        "GENC_CODE": "XJA",
+        "STANAG_CODE": "UMI",
+        "INTERNET_CCTLD": "-",
+        "Comment": "ISO includes with the US Minor Outlying Islands",
+        "ALPHA_2_CODE": "-"
+      },
+      {
+        "ID": "400",
+        "NAME": "Jordan",
+        "GENC_CODE": "JOR",
+        "STANAG_CODE": "JOR",
+        "INTERNET_CCTLD": ".jo",
+        "Comment": "",
+        "ALPHA_2_CODE": "JO",
+        "ALPHA_3_CODE": "JOR"
+      },
+      {
+        "NAME": "Juan de Nova Island",
+        "GENC_CODE": "XJN",
+        "STANAG_CODE": "-",
+        "INTERNET_CCTLD": "-",
+        "Comment": "administered as part of French Southern and Antarctic Lands; no ISO codes assigned",
+        "ALPHA_2_CODE": "-"
+      },
+      {
+        "ID": "398",
+        "NAME": "Kazakhstan",
+        "GENC_CODE": "KAZ",
+        "STANAG_CODE": "KAZ",
+        "INTERNET_CCTLD": ".kz",
+        "Comment": "",
+        "ALPHA_2_CODE": "KZ",
+        "ALPHA_3_CODE": "KAZ"
+      },
+      {
+        "ID": "404",
+        "NAME": "Kenya",
+        "GENC_CODE": "KEN",
+        "STANAG_CODE": "KEN",
+        "INTERNET_CCTLD": ".ke",
+        "Comment": "",
+        "ALPHA_2_CODE": "KE",
+        "ALPHA_3_CODE": "KEN"
+      },
+      {
+        "NAME": "Kingman Reef",
+        "GENC_CODE": "XKR",
+        "STANAG_CODE": "UMI",
+        "INTERNET_CCTLD": "-",
+        "Comment": "ISO includes with the US Minor Outlying Islands",
+        "ALPHA_2_CODE": "-"
+      },
+      {
+        "ID": "296",
+        "NAME": "Kiribati",
+        "GENC_CODE": "KIR",
+        "STANAG_CODE": "KIR",
+        "INTERNET_CCTLD": ".ki",
+        "Comment": "",
+        "ALPHA_2_CODE": "KI",
+        "ALPHA_3_CODE": "KIR"
+      },
+      {
+        "ID": "408",
+        "NAME": "Korea, North",
+        "GENC_CODE": "PRK",
+        "STANAG_CODE": "PRK",
+        "INTERNET_CCTLD": ".kp",
+        "Comment": "",
+        "ALPHA_2_CODE": "KP",
+        "ALPHA_3_CODE": "PRK"
+      },
+      {
+        "ID": "410",
+        "NAME": "Korea, South",
+        "GENC_CODE": "KOR",
+        "STANAG_CODE": "KOR",
+        "INTERNET_CCTLD": ".kr",
+        "Comment": "",
+        "ALPHA_2_CODE": "KR",
+        "ALPHA_3_CODE": "KOR"
+      },
+      {
+        "ID": "",
+        "NAME": "Kosovo",
+        "GENC_CODE": "XKS",
+        "STANAG_CODE": "-",
+        "INTERNET_CCTLD": "-",
+        "Comment": "XK and XKS are  ISO 3166 user assigned codes; ISO 3166 Maintenace Authority has not assigned codes",
+        "ALPHA_2_CODE": "XK",
+        "ALPHA_3_CODE": "XKS"
+      },
+      {
+        "ID": "414",
+        "NAME": "Kuwait",
+        "GENC_CODE": "KWT",
+        "STANAG_CODE": "KWT",
+        "INTERNET_CCTLD": ".kw",
+        "Comment": "",
+        "ALPHA_2_CODE": "KW",
+        "ALPHA_3_CODE": "KWT"
+      },
+      {
+        "ID": "417",
+        "NAME": "Kyrgyzstan",
+        "GENC_CODE": "KGZ",
+        "STANAG_CODE": "KGZ",
+        "INTERNET_CCTLD": ".kg",
+        "Comment": "",
+        "ALPHA_2_CODE": "KG",
+        "ALPHA_3_CODE": "KGZ"
+      },
+      {
+        "ID": "418",
+        "NAME": "Laos",
+        "GENC_CODE": "LAO",
+        "STANAG_CODE": "LAO",
+        "INTERNET_CCTLD": ".la",
+        "Comment": "",
+        "ALPHA_2_CODE": "LA",
+        "ALPHA_3_CODE": "LAO"
+      },
+      {
+        "ID": "428",
+        "NAME": "Latvia",
+        "GENC_CODE": "LVA",
+        "STANAG_CODE": "LVA",
+        "INTERNET_CCTLD": ".lv",
+        "Comment": "",
+        "ALPHA_2_CODE": "LV",
+        "ALPHA_3_CODE": "LVA"
+      },
+      {
+        "ID": "422",
+        "NAME": "Lebanon",
+        "GENC_CODE": "LBN",
+        "STANAG_CODE": "LBN",
+        "INTERNET_CCTLD": ".lb",
+        "Comment": "",
+        "ALPHA_2_CODE": "LB",
+        "ALPHA_3_CODE": "LBN"
+      },
+      {
+        "ID": "426",
+        "NAME": "Lesotho",
+        "GENC_CODE": "LSO",
+        "STANAG_CODE": "LSO",
+        "INTERNET_CCTLD": ".ls",
+        "Comment": "",
+        "ALPHA_2_CODE": "LS",
+        "ALPHA_3_CODE": "LSO"
+      },
+      {
+        "ID": "430",
+        "NAME": "Liberia",
+        "GENC_CODE": "LBR",
+        "STANAG_CODE": "LBR",
+        "INTERNET_CCTLD": ".lr",
+        "Comment": "",
+        "ALPHA_2_CODE": "LR",
+        "ALPHA_3_CODE": "LBR"
+      },
+      {
+        "ID": "434",
+        "NAME": "Libya",
+        "GENC_CODE": "LBY",
+        "STANAG_CODE": "LBY",
+        "INTERNET_CCTLD": ".ly",
+        "Comment": "",
+        "ALPHA_2_CODE": "LY",
+        "ALPHA_3_CODE": "LBY"
+      },
+      {
+        "ID": "438",
+        "NAME": "Liechtenstein",
+        "GENC_CODE": "LIE",
+        "STANAG_CODE": "LIE",
+        "INTERNET_CCTLD": ".li",
+        "Comment": "",
+        "ALPHA_2_CODE": "LI",
+        "ALPHA_3_CODE": "LIE"
+      },
+      {
+        "ID": "440",
+        "NAME": "Lithuania",
+        "GENC_CODE": "LTU",
+        "STANAG_CODE": "LTU",
+        "INTERNET_CCTLD": ".lt",
+        "Comment": "",
+        "ALPHA_2_CODE": "LT",
+        "ALPHA_3_CODE": "LTU"
+      },
+      {
+        "ID": "442",
+        "NAME": "Luxembourg",
+        "GENC_CODE": "LUX",
+        "STANAG_CODE": "LUX",
+        "INTERNET_CCTLD": ".lu",
+        "Comment": "",
+        "ALPHA_2_CODE": "LU",
+        "ALPHA_3_CODE": "LUX"
+      },
+      {
+        "ID": "446",
+        "NAME": "Macau",
+        "GENC_CODE": "MAC",
+        "STANAG_CODE": "MAC",
+        "INTERNET_CCTLD": ".mo",
+        "Comment": "",
+        "ALPHA_2_CODE": "MO",
+        "ALPHA_3_CODE": "MAC"
+      },
+      {
+        "ID": "450",
+        "NAME": "Madagascar",
+        "GENC_CODE": "MDG",
+        "STANAG_CODE": "MDG",
+        "INTERNET_CCTLD": ".mg",
+        "Comment": "",
+        "ALPHA_2_CODE": "MG",
+        "ALPHA_3_CODE": "MDG"
+      },
+      {
+        "ID": "454",
+        "NAME": "Malawi",
+        "GENC_CODE": "MWI",
+        "STANAG_CODE": "MWI",
+        "INTERNET_CCTLD": ".mw",
+        "Comment": "",
+        "ALPHA_2_CODE": "MW",
+        "ALPHA_3_CODE": "MWI"
+      },
+      {
+        "ID": "458",
+        "NAME": "Malaysia",
+        "GENC_CODE": "MYS",
+        "STANAG_CODE": "MYS",
+        "INTERNET_CCTLD": ".my",
+        "Comment": "",
+        "ALPHA_2_CODE": "MY",
+        "ALPHA_3_CODE": "MYS"
+      },
+      {
+        "ID": "462",
+        "NAME": "Maldives",
+        "GENC_CODE": "MDV",
+        "STANAG_CODE": "MDV",
+        "INTERNET_CCTLD": ".mv",
+        "Comment": "",
+        "ALPHA_2_CODE": "MV",
+        "ALPHA_3_CODE": "MDV"
+      },
+      {
+        "ID": "466",
+        "NAME": "Mali",
+        "GENC_CODE": "MLI",
+        "STANAG_CODE": "MLI",
+        "INTERNET_CCTLD": ".ml",
+        "Comment": "",
+        "ALPHA_2_CODE": "ML",
+        "ALPHA_3_CODE": "MLI"
+      },
+      {
+        "ID": "470",
+        "NAME": "Malta",
+        "GENC_CODE": "MLT",
+        "STANAG_CODE": "MLT",
+        "INTERNET_CCTLD": ".mt",
+        "Comment": "",
+        "ALPHA_2_CODE": "MT",
+        "ALPHA_3_CODE": "MLT"
+      },
+      {
+        "ID": "584",
+        "NAME": "Marshall Islands",
+        "GENC_CODE": "MHL",
+        "STANAG_CODE": "MHL",
+        "INTERNET_CCTLD": ".mh",
+        "Comment": "",
+        "ALPHA_2_CODE": "MH",
+        "ALPHA_3_CODE": "MHL"
+      },
+      {
+        "ID": "474",
+        "NAME": "Martinique",
+        "GENC_CODE": "MTQ",
+        "STANAG_CODE": "MTQ",
+        "INTERNET_CCTLD": ".mq",
+        "Comment": "",
+        "ALPHA_2_CODE": "MQ",
+        "ALPHA_3_CODE": "MTQ"
+      },
+      {
+        "ID": "478",
+        "NAME": "Mauritania",
+        "GENC_CODE": "MRT",
+        "STANAG_CODE": "MRT",
+        "INTERNET_CCTLD": ".mr",
+        "Comment": "",
+        "ALPHA_2_CODE": "MR",
+        "ALPHA_3_CODE": "MRT"
+      },
+      {
+        "ID": "480",
+        "NAME": "Mauritius",
+        "GENC_CODE": "MUS",
+        "STANAG_CODE": "MUS",
+        "INTERNET_CCTLD": ".mu",
+        "Comment": "",
+        "ALPHA_2_CODE": "MU",
+        "ALPHA_3_CODE": "MUS"
+      },
+      {
+        "ID": "175",
+        "NAME": "Mayotte",
+        "GENC_CODE": "MYT",
+        "STANAG_CODE": "FRA",
+        "INTERNET_CCTLD": ".yt",
+        "Comment": "",
+        "ALPHA_2_CODE": "YT",
+        "ALPHA_3_CODE": "MYT"
+      },
+      {
+        "ID": "484",
+        "NAME": "Mexico",
+        "GENC_CODE": "MEX",
+        "STANAG_CODE": "MEX",
+        "INTERNET_CCTLD": ".mx",
+        "Comment": "",
+        "ALPHA_2_CODE": "MX",
+        "ALPHA_3_CODE": "MEX"
+      },
+      {
+        "ID": "583",
+        "NAME": "Micronesia, Federated States of",
+        "GENC_CODE": "FSM",
+        "STANAG_CODE": "FSM",
+        "INTERNET_CCTLD": ".fm",
+        "Comment": "",
+        "ALPHA_2_CODE": "FM",
+        "ALPHA_3_CODE": "FSM"
+      },
+      {
+        "NAME": "Midway Islands",
+        "GENC_CODE": "XMW",
+        "STANAG_CODE": "UMI",
+        "INTERNET_CCTLD": "-",
+        "Comment": "ISO includes with the US Minor Outlying Islands",
+        "ALPHA_2_CODE": "-"
+      },
+      {
+        "ID": "498",
+        "NAME": "Moldova",
+        "GENC_CODE": "MDA",
+        "STANAG_CODE": "MDA",
+        "INTERNET_CCTLD": ".md",
+        "Comment": "",
+        "ALPHA_2_CODE": "MD",
+        "ALPHA_3_CODE": "MDA"
+      },
+      {
+        "ID": "492",
+        "NAME": "Monaco",
+        "GENC_CODE": "MCO",
+        "STANAG_CODE": "MCO",
+        "INTERNET_CCTLD": ".mc",
+        "Comment": "",
+        "ALPHA_2_CODE": "MC",
+        "ALPHA_3_CODE": "MCO"
+      },
+      {
+        "ID": "496",
+        "NAME": "Mongolia",
+        "GENC_CODE": "MNG",
+        "STANAG_CODE": "MNG",
+        "INTERNET_CCTLD": ".mn",
+        "Comment": "",
+        "ALPHA_2_CODE": "MN",
+        "ALPHA_3_CODE": "MNG"
+      },
+      {
+        "ID": "499",
+        "NAME": "Montenegro",
+        "GENC_CODE": "MNE",
+        "STANAG_CODE": "MNE",
+        "INTERNET_CCTLD": ".me",
+        "Comment": "",
+        "ALPHA_2_CODE": "ME",
+        "ALPHA_3_CODE": "MNE"
+      },
+      {
+        "ID": "500",
+        "NAME": "Montserrat",
+        "GENC_CODE": "MSR",
+        "STANAG_CODE": "MSR",
+        "INTERNET_CCTLD": ".ms",
+        "Comment": "",
+        "ALPHA_2_CODE": "MS",
+        "ALPHA_3_CODE": "MSR"
+      },
+      {
+        "ID": "504",
+        "NAME": "Morocco",
+        "GENC_CODE": "MAR",
+        "STANAG_CODE": "MAR",
+        "INTERNET_CCTLD": ".ma",
+        "Comment": "",
+        "ALPHA_2_CODE": "MA",
+        "ALPHA_3_CODE": "MAR"
+      },
+      {
+        "ID": "508",
+        "NAME": "Mozambique",
+        "GENC_CODE": "MOZ",
+        "STANAG_CODE": "MOZ",
+        "INTERNET_CCTLD": ".mz",
+        "Comment": "",
+        "ALPHA_2_CODE": "MZ",
+        "ALPHA_3_CODE": "MOZ"
+      },
+      {
+        "NAME": "Myanmar",
+        "GENC_CODE": "-",
+        "STANAG_CODE": "-",
+        "INTERNET_CCTLD": "-",
+        "Comment": "see Burma",
+        "ALPHA_2_CODE": "-"
+      },
+      {
+        "ID": "516",
+        "NAME": "Namibia",
+        "GENC_CODE": "NAM",
+        "STANAG_CODE": "NAM",
+        "INTERNET_CCTLD": ".na",
+        "Comment": "",
+        "ALPHA_2_CODE": "NA",
+        "ALPHA_3_CODE": "NAM"
+      },
+      {
+        "ID": "520",
+        "NAME": "Nauru",
+        "GENC_CODE": "NRU",
+        "STANAG_CODE": "NRU",
+        "INTERNET_CCTLD": ".nr",
+        "Comment": "",
+        "ALPHA_2_CODE": "NR",
+        "ALPHA_3_CODE": "NRU"
+      },
+      {
+        "NAME": "Navassa Island",
+        "GENC_CODE": "XNV",
+        "STANAG_CODE": "UMI",
+        "INTERNET_CCTLD": "-",
+        "Comment": "ISO includes with the US Minor Outlying Islands",
+        "ALPHA_2_CODE": "-"
+      },
+      {
+        "ID": "524",
+        "NAME": "Nepal",
+        "GENC_CODE": "NPL",
+        "STANAG_CODE": "NPL",
+        "INTERNET_CCTLD": ".np",
+        "Comment": "",
+        "ALPHA_2_CODE": "NP",
+        "ALPHA_3_CODE": "NPL"
+      },
+      {
+        "ID": "528",
+        "NAME": "Netherlands",
+        "GENC_CODE": "NLD",
+        "STANAG_CODE": "NLD",
+        "INTERNET_CCTLD": ".nl",
+        "Comment": "",
+        "ALPHA_2_CODE": "NL",
+        "ALPHA_3_CODE": "NLD"
+      },
+      {
+        "ID": "540",
+        "NAME": "New Caledonia",
+        "GENC_CODE": "NCL",
+        "STANAG_CODE": "NCL",
+        "INTERNET_CCTLD": ".nc",
+        "Comment": "",
+        "ALPHA_2_CODE": "NC",
+        "ALPHA_3_CODE": "NCL"
+      },
+      {
+        "ID": "554",
+        "NAME": "New Zealand",
+        "GENC_CODE": "NZL",
+        "STANAG_CODE": "NZL",
+        "INTERNET_CCTLD": ".nz",
+        "Comment": "",
+        "ALPHA_2_CODE": "NZ",
+        "ALPHA_3_CODE": "NZL"
+      },
+      {
+        "ID": "558",
+        "NAME": "Nicaragua",
+        "GENC_CODE": "NIC",
+        "STANAG_CODE": "NIC",
+        "INTERNET_CCTLD": ".ni",
+        "Comment": "",
+        "ALPHA_2_CODE": "NI",
+        "ALPHA_3_CODE": "NIC"
+      },
+      {
+        "ID": "562",
+        "NAME": "Niger",
+        "GENC_CODE": "NER",
+        "STANAG_CODE": "NER",
+        "INTERNET_CCTLD": ".ne",
+        "Comment": "",
+        "ALPHA_2_CODE": "NE",
+        "ALPHA_3_CODE": "NER"
+      },
+      {
+        "ID": "566",
+        "NAME": "Nigeria",
+        "GENC_CODE": "NGA",
+        "STANAG_CODE": "NGA",
+        "INTERNET_CCTLD": ".ng",
+        "Comment": "",
+        "ALPHA_2_CODE": "NG",
+        "ALPHA_3_CODE": "NGA"
+      },
+      {
+        "ID": "570",
+        "NAME": "Niue",
+        "GENC_CODE": "NIU",
+        "STANAG_CODE": "NIU",
+        "INTERNET_CCTLD": ".nu",
+        "Comment": "",
+        "ALPHA_2_CODE": "NU",
+        "ALPHA_3_CODE": "NIU"
+      },
+      {
+        "ID": "574",
+        "NAME": "Norfolk Island",
+        "GENC_CODE": "NFK",
+        "STANAG_CODE": "NFK",
+        "INTERNET_CCTLD": ".nf",
+        "Comment": "",
+        "ALPHA_2_CODE": "NF",
+        "ALPHA_3_CODE": "NFK"
+      },
+      {
+        "ID": "807",
+        "NAME": "North Macedonia",
+        "GENC_CODE": "MKD",
+        "STANAG_CODE": "FYR",
+        "INTERNET_CCTLD": ".mk",
+        "Comment": "",
+        "ALPHA_2_CODE": "MK",
+        "ALPHA_3_CODE": "MKD"
+      },
+      {
+        "ID": "580",
+        "NAME": "Northern Mariana Islands",
+        "GENC_CODE": "MNP",
+        "STANAG_CODE": "MNP",
+        "INTERNET_CCTLD": ".mp",
+        "Comment": "",
+        "ALPHA_2_CODE": "MP",
+        "ALPHA_3_CODE": "MNP"
+      },
+      {
+        "ID": "578",
+        "NAME": "Norway",
+        "GENC_CODE": "NOR",
+        "STANAG_CODE": "NOR",
+        "INTERNET_CCTLD": ".no",
+        "Comment": "",
+        "ALPHA_2_CODE": "NO",
+        "ALPHA_3_CODE": "NOR"
+      },
+      {
+        "ID": "512",
+        "NAME": "Oman",
+        "GENC_CODE": "OMN",
+        "STANAG_CODE": "OMN",
+        "INTERNET_CCTLD": ".om",
+        "Comment": "",
+        "ALPHA_2_CODE": "OM",
+        "ALPHA_3_CODE": "OMN"
+      },
+      {
+        "ID": "586",
+        "NAME": "Pakistan",
+        "GENC_CODE": "PAK",
+        "STANAG_CODE": "PAK",
+        "INTERNET_CCTLD": ".pk",
+        "Comment": "",
+        "ALPHA_2_CODE": "PK",
+        "ALPHA_3_CODE": "PAK"
+      },
+      {
+        "ID": "585",
+        "NAME": "Palau",
+        "GENC_CODE": "PLW",
+        "STANAG_CODE": "PLW",
+        "INTERNET_CCTLD": ".pw",
+        "Comment": "",
+        "ALPHA_2_CODE": "PW",
+        "ALPHA_3_CODE": "PLW"
+      },
+      {
+        "NAME": "Palmyra Atoll",
+        "GENC_CODE": "XPL",
+        "STANAG_CODE": "UMI",
+        "INTERNET_CCTLD": "-",
+        "Comment": "ISO includes with the US Minor Outlying Islands",
+        "ALPHA_2_CODE": "-"
+      },
+      {
+        "ID": "591",
+        "NAME": "Panama",
+        "GENC_CODE": "PAN",
+        "STANAG_CODE": "PAN",
+        "INTERNET_CCTLD": ".pa",
+        "Comment": "",
+        "ALPHA_2_CODE": "PA",
+        "ALPHA_3_CODE": "PAN"
+      },
+      {
+        "ID": "598",
+        "NAME": "Papua New Guinea",
+        "GENC_CODE": "PNG",
+        "STANAG_CODE": "PNG",
+        "INTERNET_CCTLD": ".pg",
+        "Comment": "",
+        "ALPHA_2_CODE": "PG",
+        "ALPHA_3_CODE": "PNG"
+      },
+      {
+        "NAME": "Paracel Islands",
+        "GENC_CODE": "XPR",
+        "STANAG_CODE": "-",
+        "INTERNET_CCTLD": "-",
+        "Comment": "",
+        "ALPHA_2_CODE": "-"
+      },
+      {
+        "ID": "600",
+        "NAME": "Paraguay",
+        "GENC_CODE": "PRY",
+        "STANAG_CODE": "PRY",
+        "INTERNET_CCTLD": ".py",
+        "Comment": "",
+        "ALPHA_2_CODE": "PY",
+        "ALPHA_3_CODE": "PRY"
+      },
+      {
+        "ID": "604",
+        "NAME": "Peru",
+        "GENC_CODE": "PER",
+        "STANAG_CODE": "PER",
+        "INTERNET_CCTLD": ".pe",
+        "Comment": "",
+        "ALPHA_2_CODE": "PE",
+        "ALPHA_3_CODE": "PER"
+      },
+      {
+        "ID": "608",
+        "NAME": "Philippines",
+        "GENC_CODE": "PHL",
+        "STANAG_CODE": "PHL",
+        "INTERNET_CCTLD": ".ph",
+        "Comment": "",
+        "ALPHA_2_CODE": "PH",
+        "ALPHA_3_CODE": "PHL"
+      },
+      {
+        "ID": "612",
+        "NAME": "Pitcairn Islands",
+        "GENC_CODE": "PCN",
+        "STANAG_CODE": "PCN",
+        "INTERNET_CCTLD": ".pn",
+        "Comment": "",
+        "ALPHA_2_CODE": "PN",
+        "ALPHA_3_CODE": "PCN"
+      },
+      {
+        "ID": "616",
+        "NAME": "Poland",
+        "GENC_CODE": "POL",
+        "STANAG_CODE": "POL",
+        "INTERNET_CCTLD": ".pl",
+        "Comment": "",
+        "ALPHA_2_CODE": "PL",
+        "ALPHA_3_CODE": "POL"
+      },
+      {
+        "ID": "620",
+        "NAME": "Portugal",
+        "GENC_CODE": "PRT",
+        "STANAG_CODE": "PRT",
+        "INTERNET_CCTLD": ".pt",
+        "Comment": "",
+        "ALPHA_2_CODE": "PT",
+        "ALPHA_3_CODE": "PRT"
+      },
+      {
+        "ID": "630",
+        "NAME": "Puerto Rico",
+        "GENC_CODE": "PRI",
+        "STANAG_CODE": "PRI",
+        "INTERNET_CCTLD": ".pr",
+        "Comment": "",
+        "ALPHA_2_CODE": "PR",
+        "ALPHA_3_CODE": "PRI"
+      },
+      {
+        "ID": "634",
+        "NAME": "Qatar",
+        "GENC_CODE": "QAT",
+        "STANAG_CODE": "QAT",
+        "INTERNET_CCTLD": ".qa",
+        "Comment": "",
+        "ALPHA_2_CODE": "QA",
+        "ALPHA_3_CODE": "QAT"
+      },
+      {
+        "ID": "638",
+        "NAME": "Reunion",
+        "GENC_CODE": "REU",
+        "STANAG_CODE": "REU",
+        "INTERNET_CCTLD": ".re",
+        "Comment": "",
+        "ALPHA_2_CODE": "RE",
+        "ALPHA_3_CODE": "REU"
+      },
+      {
+        "ID": "642",
+        "NAME": "Romania",
+        "GENC_CODE": "ROU",
+        "STANAG_CODE": "ROU",
+        "INTERNET_CCTLD": ".ro",
+        "Comment": "",
+        "ALPHA_2_CODE": "RO",
+        "ALPHA_3_CODE": "ROU"
+      },
+      {
+        "ID": "643",
+        "NAME": "Russia",
+        "GENC_CODE": "RUS",
+        "STANAG_CODE": "RUS",
+        "INTERNET_CCTLD": ".ru",
+        "Comment": "",
+        "ALPHA_2_CODE": "RU",
+        "ALPHA_3_CODE": "RUS"
+      },
+      {
+        "ID": "646",
+        "NAME": "Rwanda",
+        "GENC_CODE": "RWA",
+        "STANAG_CODE": "RWA",
+        "INTERNET_CCTLD": ".rw",
+        "Comment": "",
+        "ALPHA_2_CODE": "RW",
+        "ALPHA_3_CODE": "RWA"
+      },
+      {
+        "ID": "652",
+        "NAME": "Saint Barthelemy",
+        "GENC_CODE": "BLM",
+        "STANAG_CODE": "-",
+        "INTERNET_CCTLD": ".bl",
+        "Comment": "ccTLD  .fr and .gp may also be used",
+        "ALPHA_2_CODE": "BL",
+        "ALPHA_3_CODE": "BLM"
+      },
+      {
+        "ID": "654",
+        "NAME": "Saint Helena, Ascension, and Tristan da Cunha",
+        "GENC_CODE": "SHN",
+        "STANAG_CODE": "SHN",
+        "INTERNET_CCTLD": ".sh",
+        "Comment": "includes Saint Helena Island, Ascension Island, and the Tristan da Cunha archipelago",
+        "ALPHA_2_CODE": "SH",
+        "ALPHA_3_CODE": "SHN"
+      },
+      {
+        "ID": "659",
+        "NAME": "Saint Kitts and Nevis",
+        "GENC_CODE": "KNA",
+        "STANAG_CODE": "KNA",
+        "INTERNET_CCTLD": ".kn",
+        "Comment": "",
+        "ALPHA_2_CODE": "KN",
+        "ALPHA_3_CODE": "KNA"
+      },
+      {
+        "ID": "662",
+        "NAME": "Saint Lucia",
+        "GENC_CODE": "LCA",
+        "STANAG_CODE": "LCA",
+        "INTERNET_CCTLD": ".lc",
+        "Comment": "",
+        "ALPHA_2_CODE": "LC",
+        "ALPHA_3_CODE": "LCA"
+      },
+      {
+        "ID": "663",
+        "NAME": "Saint Martin",
+        "GENC_CODE": "MAF",
+        "STANAG_CODE": "-",
+        "INTERNET_CCTLD": ".mf",
+        "Comment": "ccTLD  .fr and .gp may also be used",
+        "ALPHA_2_CODE": "MF",
+        "ALPHA_3_CODE": "MAF"
+      },
+      {
+        "ID": "666",
+        "NAME": "Saint Pierre and Miquelon",
+        "GENC_CODE": "SPM",
+        "STANAG_CODE": "SPM",
+        "INTERNET_CCTLD": ".pm",
+        "Comment": "",
+        "ALPHA_2_CODE": "PM",
+        "ALPHA_3_CODE": "SPM"
+      },
+      {
+        "ID": "670",
+        "NAME": "Saint Vincent and the Grenadines",
+        "GENC_CODE": "VCT",
+        "STANAG_CODE": "VCT",
+        "INTERNET_CCTLD": ".vc",
+        "Comment": "",
+        "ALPHA_2_CODE": "VC",
+        "ALPHA_3_CODE": "VCT"
+      },
+      {
+        "ID": "882",
+        "NAME": "Samoa",
+        "GENC_CODE": "WSM",
+        "STANAG_CODE": "WSM",
+        "INTERNET_CCTLD": ".ws",
+        "Comment": "",
+        "ALPHA_2_CODE": "WS",
+        "ALPHA_3_CODE": "WSM"
+      },
+      {
+        "ID": "674",
+        "NAME": "San Marino",
+        "GENC_CODE": "SMR",
+        "STANAG_CODE": "SMR",
+        "INTERNET_CCTLD": ".sm",
+        "Comment": "",
+        "ALPHA_2_CODE": "SM",
+        "ALPHA_3_CODE": "SMR"
+      },
+      {
+        "ID": "678",
+        "NAME": "Sao Tome and Principe",
+        "GENC_CODE": "STP",
+        "STANAG_CODE": "STP",
+        "INTERNET_CCTLD": ".st",
+        "Comment": "",
+        "ALPHA_2_CODE": "ST",
+        "ALPHA_3_CODE": "STP"
+      },
+      {
+        "ID": "682",
+        "NAME": "Saudi Arabia",
+        "GENC_CODE": "SAU",
+        "STANAG_CODE": "SAU",
+        "INTERNET_CCTLD": ".sa",
+        "Comment": "",
+        "ALPHA_2_CODE": "SA",
+        "ALPHA_3_CODE": "SAU"
+      },
+      {
+        "ID": "686",
+        "NAME": "Senegal",
+        "GENC_CODE": "SEN",
+        "STANAG_CODE": "SEN",
+        "INTERNET_CCTLD": ".sn",
+        "Comment": "",
+        "ALPHA_2_CODE": "SN",
+        "ALPHA_3_CODE": "SEN"
+      },
+      {
+        "ID": "688",
+        "NAME": "Serbia",
+        "GENC_CODE": "SRB",
+        "STANAG_CODE": "-",
+        "INTERNET_CCTLD": ".rs",
+        "Comment": "",
+        "ALPHA_2_CODE": "RS",
+        "ALPHA_3_CODE": "SRB"
+      },
+      {
+        "ID": "690",
+        "NAME": "Seychelles",
+        "GENC_CODE": "SYC",
+        "STANAG_CODE": "SYC",
+        "INTERNET_CCTLD": ".sc",
+        "Comment": "",
+        "ALPHA_2_CODE": "SC",
+        "ALPHA_3_CODE": "SYC"
+      },
+      {
+        "ID": "694",
+        "NAME": "Sierra Leone",
+        "GENC_CODE": "SLE",
+        "STANAG_CODE": "SLE",
+        "INTERNET_CCTLD": ".sl",
+        "Comment": "",
+        "ALPHA_2_CODE": "SL",
+        "ALPHA_3_CODE": "SLE"
+      },
+      {
+        "ID": "702",
+        "NAME": "Singapore",
+        "GENC_CODE": "SGP",
+        "STANAG_CODE": "SGP",
+        "INTERNET_CCTLD": ".sg",
+        "Comment": "",
+        "ALPHA_2_CODE": "SG",
+        "ALPHA_3_CODE": "SGP"
+      },
+      {
+        "ID": "534",
+        "NAME": "Sint Maarten",
+        "GENC_CODE": "SXM",
+        "STANAG_CODE": "-",
+        "INTERNET_CCTLD": ".sx",
+        "Comment": "",
+        "ALPHA_2_CODE": "SX",
+        "ALPHA_3_CODE": "SXM"
+      },
+      {
+        "ID": "703",
+        "NAME": "Slovakia",
+        "GENC_CODE": "SVK",
+        "STANAG_CODE": "SVK",
+        "INTERNET_CCTLD": ".sk",
+        "Comment": "",
+        "ALPHA_2_CODE": "SK",
+        "ALPHA_3_CODE": "SVK"
+      },
+      {
+        "ID": "705",
+        "NAME": "Slovenia",
+        "GENC_CODE": "SVN",
+        "STANAG_CODE": "SVN",
+        "INTERNET_CCTLD": ".si",
+        "Comment": "",
+        "ALPHA_2_CODE": "SI",
+        "ALPHA_3_CODE": "SVN"
+      },
+      {
+        "ID": "090",
+        "NAME": "Solomon Islands",
+        "GENC_CODE": "SLB",
+        "STANAG_CODE": "SLB",
+        "INTERNET_CCTLD": ".sb",
+        "Comment": "",
+        "ALPHA_2_CODE": "SB",
+        "ALPHA_3_CODE": "SLB"
+      },
+      {
+        "ID": "706",
+        "NAME": "Somalia",
+        "GENC_CODE": "SOM",
+        "STANAG_CODE": "SOM",
+        "INTERNET_CCTLD": ".so",
+        "Comment": "",
+        "ALPHA_2_CODE": "SO",
+        "ALPHA_3_CODE": "SOM"
+      },
+      {
+        "ID": "710",
+        "NAME": "South Africa",
+        "GENC_CODE": "ZAF",
+        "STANAG_CODE": "ZAF",
+        "INTERNET_CCTLD": ".za",
+        "Comment": "",
+        "ALPHA_2_CODE": "ZA",
+        "ALPHA_3_CODE": "ZAF"
+      },
+      {
+        "ID": "239",
+        "NAME": "South Georgia and the Islands",
+        "GENC_CODE": "SGS",
+        "STANAG_CODE": "SGS",
+        "INTERNET_CCTLD": ".gs",
+        "Comment": "",
+        "ALPHA_2_CODE": "GS",
+        "ALPHA_3_CODE": "SGS"
+      },
+      {
+        "ID": "728",
+        "NAME": "South Sudan",
+        "GENC_CODE": "SSD",
+        "STANAG_CODE": "-",
+        "INTERNET_CCTLD": "-",
+        "Comment": "IANA has designated .ss as the ccTLD for South Sudan, however it has not been activated in DNS root zone",
+        "ALPHA_2_CODE": "SS",
+        "ALPHA_3_CODE": "SSD"
+      },
+      {
+        "ID": "724",
+        "NAME": "Spain",
+        "GENC_CODE": "ESP",
+        "STANAG_CODE": "ESP",
+        "INTERNET_CCTLD": ".es",
+        "Comment": "",
+        "ALPHA_2_CODE": "ES",
+        "ALPHA_3_CODE": "ESP"
+      },
+      {
+        "NAME": "Spratly Islands",
+        "GENC_CODE": "XSP",
+        "STANAG_CODE": "-",
+        "INTERNET_CCTLD": "-",
+        "Comment": "",
+        "ALPHA_2_CODE": "-"
+      },
+      {
+        "ID": "144",
+        "NAME": "Sri Lanka",
+        "GENC_CODE": "LKA",
+        "STANAG_CODE": "LKA",
+        "INTERNET_CCTLD": ".lk",
+        "Comment": "",
+        "ALPHA_2_CODE": "LK",
+        "ALPHA_3_CODE": "LKA"
+      },
+      {
+        "ID": "729",
+        "NAME": "Sudan",
+        "GENC_CODE": "SDN",
+        "STANAG_CODE": "SDN",
+        "INTERNET_CCTLD": ".sd",
+        "Comment": "",
+        "ALPHA_2_CODE": "SD",
+        "ALPHA_3_CODE": "SDN"
+      },
+      {
+        "ID": "740",
+        "NAME": "Suriname",
+        "GENC_CODE": "SUR",
+        "STANAG_CODE": "SUR",
+        "INTERNET_CCTLD": ".sr",
+        "Comment": "",
+        "ALPHA_2_CODE": "SR",
+        "ALPHA_3_CODE": "SUR"
+      },
+      {
+        "ID": "744",
+        "NAME": "Svalbard",
+        "GENC_CODE": "XSV",
+        "STANAG_CODE": "SJM",
+        "INTERNET_CCTLD": ".sj",
+        "Comment": "ISO includes Jan Mayen",
+        "ALPHA_2_CODE": "SJ",
+        "ALPHA_3_CODE": "SJM"
+      },
+      {
+        "ID": "752",
+        "NAME": "Sweden",
+        "GENC_CODE": "SWE",
+        "STANAG_CODE": "SWE",
+        "INTERNET_CCTLD": ".se",
+        "Comment": "",
+        "ALPHA_2_CODE": "SE",
+        "ALPHA_3_CODE": "SWE"
+      },
+      {
+        "ID": "756",
+        "NAME": "Switzerland",
+        "GENC_CODE": "CHE",
+        "STANAG_CODE": "CHE",
+        "INTERNET_CCTLD": ".ch",
+        "Comment": "",
+        "ALPHA_2_CODE": "CH",
+        "ALPHA_3_CODE": "CHE"
+      },
+      {
+        "ID": "760",
+        "NAME": "Syria",
+        "GENC_CODE": "SYR",
+        "STANAG_CODE": "SYR",
+        "INTERNET_CCTLD": ".sy",
+        "Comment": "",
+        "ALPHA_2_CODE": "SY",
+        "ALPHA_3_CODE": "SYR"
+      },
+      {
+        "ID": "158",
+        "NAME": "Taiwan",
+        "GENC_CODE": "TWN",
+        "STANAG_CODE": "TWN",
+        "INTERNET_CCTLD": ".tw",
+        "Comment": "",
+        "ALPHA_2_CODE": "TW",
+        "ALPHA_3_CODE": "TWN"
+      },
+      {
+        "ID": "762",
+        "NAME": "Tajikistan",
+        "GENC_CODE": "TJK",
+        "STANAG_CODE": "TJK",
+        "INTERNET_CCTLD": ".tj",
+        "Comment": "",
+        "ALPHA_2_CODE": "TJ",
+        "ALPHA_3_CODE": "TJK"
+      },
+      {
+        "ID": "834",
+        "NAME": "Tanzania",
+        "GENC_CODE": "TZA",
+        "STANAG_CODE": "TZA",
+        "INTERNET_CCTLD": ".tz",
+        "Comment": "",
+        "ALPHA_2_CODE": "TZ",
+        "ALPHA_3_CODE": "TZA"
+      },
+      {
+        "ID": "764",
+        "NAME": "Thailand",
+        "GENC_CODE": "THA",
+        "STANAG_CODE": "THA",
+        "INTERNET_CCTLD": ".th",
+        "Comment": "",
+        "ALPHA_2_CODE": "TH",
+        "ALPHA_3_CODE": "THA"
+      },
+      {
+        "ID": "626",
+        "NAME": "Timor-Leste",
+        "GENC_CODE": "TLS",
+        "STANAG_CODE": "TLS",
+        "INTERNET_CCTLD": ".tl",
+        "Comment": "",
+        "ALPHA_2_CODE": "TL",
+        "ALPHA_3_CODE": "TLS"
+      },
+      {
+        "ID": "768",
+        "NAME": "Togo",
+        "GENC_CODE": "TGO",
+        "STANAG_CODE": "TGO",
+        "INTERNET_CCTLD": ".tg",
+        "Comment": "",
+        "ALPHA_2_CODE": "TG",
+        "ALPHA_3_CODE": "TGO"
+      },
+      {
+        "ID": "772",
+        "NAME": "Tokelau",
+        "GENC_CODE": "TKL",
+        "STANAG_CODE": "TKL",
+        "INTERNET_CCTLD": ".tk",
+        "Comment": "",
+        "ALPHA_2_CODE": "TK",
+        "ALPHA_3_CODE": "TKL"
+      },
+      {
+        "ID": "776",
+        "NAME": "Tonga",
+        "GENC_CODE": "TON",
+        "STANAG_CODE": "TON",
+        "INTERNET_CCTLD": ".to",
+        "Comment": "",
+        "ALPHA_2_CODE": "TO",
+        "ALPHA_3_CODE": "TON"
+      },
+      {
+        "ID": "780",
+        "NAME": "Trinidad and Tobago",
+        "GENC_CODE": "TTO",
+        "STANAG_CODE": "TTO",
+        "INTERNET_CCTLD": ".tt",
+        "Comment": "",
+        "ALPHA_2_CODE": "TT",
+        "ALPHA_3_CODE": "TTO"
+      },
+      {
+        "NAME": "Tromelin Island",
+        "GENC_CODE": "XTR",
+        "STANAG_CODE": "-",
+        "INTERNET_CCTLD": "-",
+        "Comment": "administered as part of French Southern and Antarctic Lands; no ISO codes assigned",
+        "ALPHA_2_CODE": "-"
+      },
+      {
+        "ID": "788",
+        "NAME": "Tunisia",
+        "GENC_CODE": "TUN",
+        "STANAG_CODE": "TUN",
+        "INTERNET_CCTLD": ".tn",
+        "Comment": "",
+        "ALPHA_2_CODE": "TN",
+        "ALPHA_3_CODE": "TUN"
+      },
+      {
+        "ID": "792",
+        "NAME": "Turkey (Turkiye)",
+        "GENC_CODE": "TUR",
+        "STANAG_CODE": "TUR",
+        "INTERNET_CCTLD": ".tr",
+        "Comment": "",
+        "ALPHA_2_CODE": "TR",
+        "ALPHA_3_CODE": "TUR"
+      },
+      {
+        "ID": "795",
+        "NAME": "Turkmenistan",
+        "GENC_CODE": "TKM",
+        "STANAG_CODE": "TKM",
+        "INTERNET_CCTLD": ".tm",
+        "Comment": "",
+        "ALPHA_2_CODE": "TM",
+        "ALPHA_3_CODE": "TKM"
+      },
+      {
+        "ID": "796",
+        "NAME": "Turks and Caicos Islands",
+        "GENC_CODE": "TCA",
+        "STANAG_CODE": "TCA",
+        "INTERNET_CCTLD": ".tc",
+        "Comment": "",
+        "ALPHA_2_CODE": "TC",
+        "ALPHA_3_CODE": "TCA"
+      },
+      {
+        "ID": "798",
+        "NAME": "Tuvalu",
+        "GENC_CODE": "TUV",
+        "STANAG_CODE": "TUV",
+        "INTERNET_CCTLD": ".tv",
+        "Comment": "",
+        "ALPHA_2_CODE": "TV",
+        "ALPHA_3_CODE": "TUV"
+      },
+      {
+        "ID": "800",
+        "NAME": "Uganda",
+        "GENC_CODE": "UGA",
+        "STANAG_CODE": "UGA",
+        "INTERNET_CCTLD": ".ug",
+        "Comment": "",
+        "ALPHA_2_CODE": "UG",
+        "ALPHA_3_CODE": "UGA"
+      },
+      {
+        "ID": "804",
+        "NAME": "Ukraine",
+        "GENC_CODE": "UKR",
+        "STANAG_CODE": "UKR",
+        "INTERNET_CCTLD": ".ua",
+        "Comment": "",
+        "ALPHA_2_CODE": "UA",
+        "ALPHA_3_CODE": "UKR"
+      },
+      {
+        "ID": "784",
+        "NAME": "United Arab Emirates",
+        "GENC_CODE": "ARE",
+        "STANAG_CODE": "ARE",
+        "INTERNET_CCTLD": ".ae",
+        "Comment": "",
+        "ALPHA_2_CODE": "AE",
+        "ALPHA_3_CODE": "ARE"
+      },
+      {
+        "ID": "826",
+        "NAME": "United Kingdom",
+        "GENC_CODE": "GBR",
+        "STANAG_CODE": "GBR",
+        "INTERNET_CCTLD": ".uk",
+        "Comment": "for its internal communications, the  European Union recommends the use of the code UK in lieu of the ISO 3166-2 code of GB",
+        "ALPHA_2_CODE": "GB",
+        "ALPHA_3_CODE": "GBR"
+      },
+      {
+        "ID": "840",
+        "NAME": "United States",
+        "GENC_CODE": "USA",
+        "STANAG_CODE": "USA",
+        "INTERNET_CCTLD": ".us",
+        "Comment": "",
+        "ALPHA_2_CODE": "US",
+        "ALPHA_3_CODE": "USA"
+      },
+      {
+        "ID": "581",
+        "NAME": "U.S. Minor Outlying Islands",
+        "GENC_CODE": "-",
+        "STANAG_CODE": "-",
+        "INTERNET_CCTLD": ".um",
+        "Comment": "ISO includes Baker Island, Howland Island, Jarvis Island, Johnston Atoll, Kingman Reef, Midway Islands, Navassa Island, Palmyra Atoll, Wake Island",
+        "ALPHA_2_CODE": "UM",
+        "ALPHA_3_CODE": "UMI"
+      },
+      {
+        "ID": "858",
+        "NAME": "Uruguay",
+        "GENC_CODE": "URY",
+        "STANAG_CODE": "URY",
+        "INTERNET_CCTLD": ".uy",
+        "Comment": "",
+        "ALPHA_2_CODE": "UY",
+        "ALPHA_3_CODE": "URY"
+      },
+      {
+        "ID": "860",
+        "NAME": "Uzbekistan",
+        "GENC_CODE": "UZB",
+        "STANAG_CODE": "UZB",
+        "INTERNET_CCTLD": ".uz",
+        "Comment": "",
+        "ALPHA_2_CODE": "UZ",
+        "ALPHA_3_CODE": "UZB"
+      },
+      {
+        "ID": "548",
+        "NAME": "Vanuatu",
+        "GENC_CODE": "VUT",
+        "STANAG_CODE": "VUT",
+        "INTERNET_CCTLD": ".vu",
+        "Comment": "",
+        "ALPHA_2_CODE": "VU",
+        "ALPHA_3_CODE": "VUT"
+      },
+      {
+        "ID": "862",
+        "NAME": "Venezuela",
+        "GENC_CODE": "VEN",
+        "STANAG_CODE": "VEN",
+        "INTERNET_CCTLD": ".ve",
+        "Comment": "",
+        "ALPHA_2_CODE": "VE",
+        "ALPHA_3_CODE": "VEN"
+      },
+      {
+        "ID": "704",
+        "NAME": "Vietnam",
+        "GENC_CODE": "VNM",
+        "STANAG_CODE": "VNM",
+        "INTERNET_CCTLD": ".vn",
+        "Comment": "",
+        "ALPHA_2_CODE": "VN",
+        "ALPHA_3_CODE": "VNM"
+      },
+      {
+        "ID": "850",
+        "NAME": "Virgin Islands",
+        "GENC_CODE": "VIR",
+        "STANAG_CODE": "VIR",
+        "INTERNET_CCTLD": ".vi",
+        "Comment": "",
+        "ALPHA_2_CODE": "VI",
+        "ALPHA_3_CODE": "VIR"
+      },
+      {
+        "NAME": "Virgin Islands (UK)",
+        "GENC_CODE": "-",
+        "STANAG_CODE": "-",
+        "INTERNET_CCTLD": ".vg",
+        "Comment": "see British Virgin Islands",
+        "ALPHA_2_CODE": "-"
+      },
+      {
+        "NAME": "Virgin Islands (US)",
+        "GENC_CODE": "-",
+        "STANAG_CODE": "-",
+        "INTERNET_CCTLD": ".vi",
+        "Comment": "see Virgin Islands",
+        "ALPHA_2_CODE": "-"
+      },
+      {
+        "NAME": "Wake Island",
+        "GENC_CODE": "XWK",
+        "STANAG_CODE": "UMI",
+        "INTERNET_CCTLD": "-",
+        "Comment": "ISO includes with the US Minor Outlying Islands",
+        "ALPHA_2_CODE": "-"
+      },
+      {
+        "ID": "876",
+        "NAME": "Wallis and Futuna",
+        "GENC_CODE": "WLF",
+        "STANAG_CODE": "WLF",
+        "INTERNET_CCTLD": ".wf",
+        "Comment": "",
+        "ALPHA_2_CODE": "WF",
+        "ALPHA_3_CODE": "WLF"
+      },
+      {
+        "ID": "275",
+        "NAME": "West Bank",
+        "GENC_CODE": "XWB",
+        "STANAG_CODE": "PSE",
+        "INTERNET_CCTLD": ".ps",
+        "Comment": "ISO identifies as Occupied Palestinian Territory",
+        "ALPHA_2_CODE": "PS",
+        "ALPHA_3_CODE": "PSE"
+      },
+      {
+        "ID": "732",
+        "NAME": "Western Sahara",
+        "GENC_CODE": "WI",
+        "STANAG_CODE": "ESH",
+        "INTERNET_CCTLD": ".eh",
+        "Comment": "",
+        "ALPHA_2_CODE": "EH",
+        "ALPHA_3_CODE": "ESH"
+      },
+      {
+        "NAME": "Western Samoa",
+        "GENC_CODE": "-",
+        "STANAG_CODE": "-",
+        "INTERNET_CCTLD": ".ws",
+        "Comment": "see Samoa",
+        "ALPHA_2_CODE": "-"
+      },
+      {
+        "NAME": "World",
+        "GENC_CODE": "-",
+        "STANAG_CODE": "-",
+        "INTERNET_CCTLD": "-",
+        "Comment": "the Factbook uses the W data code from DIAM 65-18 Geopolitical Data Elements and Related Features, Data Standard No. 3, December 1994, published by the Defense Intelligence Agency",
+        "ALPHA_2_CODE": "-"
+      },
+      {
+        "ID": "887",
+        "NAME": "Yemen",
+        "GENC_CODE": "YEM",
+        "STANAG_CODE": "YEM",
+        "INTERNET_CCTLD": ".ye",
+        "Comment": "",
+        "ALPHA_2_CODE": "YE",
+        "ALPHA_3_CODE": "YEM"
+      },
+      {
+        "NAME": "Zaire",
+        "GENC_CODE": "-",
+        "STANAG_CODE": "-",
+        "INTERNET_CCTLD": "-",
+        "Comment": "see Democratic Republic of the Congo",
+        "ALPHA_2_CODE": "-"
+      },
+      {
+        "ID": "894",
+        "NAME": "Zambia",
+        "GENC_CODE": "ZMB",
+        "STANAG_CODE": "ZMB",
+        "INTERNET_CCTLD": ".zm",
+        "Comment": "",
+        "ALPHA_2_CODE": "ZM",
+        "ALPHA_3_CODE": "ZMB"
+      },
+      {
+        "ID": "716",
+        "NAME": "Zimbabwe",
+        "GENC_CODE": "ZWE",
+        "STANAG_CODE": "ZWE",
+        "INTERNET_CCTLD": ".zw",
+        "Comment": "",
+        "ALPHA_2_CODE": "ZW",
+        "ALPHA_3_CODE": "ZWE"
+      }
+    ]
+  }
+}
