@@ -49,7 +49,7 @@
             }
         ],
         "created": "2015-07-22T14:24:10Z",
-        "last_seen": "2023-12-28T15:50:13Z",
+        "last_seen": "2023-12-28T21:37:13Z",
         "status": "Online",
         "observations": 64368,
         "description": "Yaesu G-5500 with M2 cross yagi antennas and S-band parabolic dish\r\n\r\nNOTE: S-band temporarily offline",
@@ -138,7 +138,7 @@
             }
         ],
         "created": "2016-01-17T19:28:26Z",
-        "last_seen": "2023-12-28T15:49:47Z",
+        "last_seen": "2023-12-28T21:36:47Z",
         "status": "Testing",
         "observations": 284759,
         "description": "Patch 435 MHz , RTL-SDR V3",
@@ -188,7 +188,7 @@
             }
         ],
         "created": "2017-05-17T18:34:49Z",
-        "last_seen": "2023-12-28T15:50:12Z",
+        "last_seen": "2023-12-28T21:37:12Z",
         "status": "Testing",
         "observations": 7425,
         "description": "LimeSDR-mini with WIMO X-Quad antenna",
@@ -284,7 +284,7 @@
             }
         ],
         "created": "2017-06-02T14:29:33Z",
-        "last_seen": "2023-12-28T15:50:14Z",
+        "last_seen": "2023-12-28T21:37:14Z",
         "status": "Online",
         "observations": 27856,
         "description": "The preamp had a broken power lead.  Fixed as of May 6 2023.  Should have put in testing earlier.  Sorry about that.",
@@ -416,7 +416,7 @@
             }
         ],
         "created": "2017-08-29T22:03:38Z",
-        "last_seen": "2023-12-28T15:50:14Z",
+        "last_seen": "2023-12-28T21:37:14Z",
         "status": "Testing",
         "observations": 256,
         "description": "This is the official ground station of the Portland State Aerospace Society. It was created to track the group's satellite OreSAT and to facilitate the open source aerospace movement.",
@@ -541,7 +541,7 @@
             }
         ],
         "created": "2017-10-09T01:59:47Z",
-        "last_seen": "2023-12-28T15:50:30Z",
+        "last_seen": "2023-12-28T21:36:30Z",
         "status": "Testing",
         "observations": 12207,
         "description": "",
@@ -637,7 +637,7 @@
             }
         ],
         "created": "2017-10-11T22:13:35Z",
-        "last_seen": "2023-12-28T15:50:27Z",
+        "last_seen": "2023-12-28T21:37:27Z",
         "status": "Testing",
         "observations": 12209,
         "description": "Turnstile Antenna, LNA4ALL, NooElec NESDR SMArt",
@@ -662,7 +662,7 @@
             }
         ],
         "created": "2017-10-11T22:17:21Z",
-        "last_seen": "2023-12-28T15:50:29Z",
+        "last_seen": "2023-12-28T21:36:59Z",
         "status": "Testing",
         "observations": 14840,
         "description": "Turnstile Antenna, LNA4ALL, NooElec NESDR SMArt",
@@ -762,7 +762,7 @@
             }
         ],
         "created": "2017-12-13T18:06:01Z",
-        "last_seen": "2023-12-28T15:50:28Z",
+        "last_seen": "2023-12-28T21:37:28Z",
         "status": "Online",
         "observations": 4371,
         "description": "Run by M0SZT\r\n\r\nUsing a quadhelix antenna at the bottom of a garden\r\nhttps://bitjam.org.uk",
@@ -854,7 +854,7 @@
             }
         ],
         "created": "2017-12-27T19:36:08Z",
-        "last_seen": "2023-12-28T15:50:42Z",
+        "last_seen": "2023-12-28T21:36:42Z",
         "status": "Testing",
         "observations": 8786,
         "description": "2022-04-03: station close being reopend after rotor replacement\r\n2019-12-19: Still experiance issues with rotor - PLEASE ONLY EMERGENCY RECEPTIONS UNTIL ROTOR IS BACK, TNX!\r\n2019-12-10: Shutdown to service rotor again (stall issue), \r\n\r\noffsite location in the alps with low noise, operating with pstrotator hamlib interface",
@@ -936,7 +936,7 @@
             }
         ],
         "created": "2018-03-09T17:42:56Z",
-        "last_seen": "2023-12-28T15:49:52Z",
+        "last_seen": "2023-12-28T21:36:52Z",
         "status": "Online",
         "observations": 49134,
         "description": "Ground station using a RTLSDR with a Stanislav Palo VHF turnstile antenna.",
@@ -961,7 +961,7 @@
             }
         ],
         "created": "2018-03-09T17:43:50Z",
-        "last_seen": "2023-12-28T15:49:57Z",
+        "last_seen": "2023-12-28T21:36:57Z",
         "status": "Online",
         "observations": 60757,
         "description": "Ground station using an RTLSDR and Stanislav Palo UHF turnstile.",
@@ -1196,7 +1196,7 @@
             }
         ],
         "created": "2018-03-24T01:06:46Z",
-        "last_seen": "2023-12-28T15:49:49Z",
+        "last_seen": "2023-12-28T21:36:49Z",
         "status": "Testing",
         "observations": 42132,
         "description": "AMSAT OZ ground station. Wimo VHF/UHF X-Quads with SSB low-noise preamp and bandpass filters. Yaesu G-5500 rotator with G6LVB computer interface. Airspy One connected to PC (AMD Athlon II X4 620) running Debian 10 (Buster).",
@@ -1221,7 +1221,7 @@
             }
         ],
         "created": "2018-03-24T12:09:00Z",
-        "last_seen": "2023-12-28T15:49:10Z",
+        "last_seen": "2023-12-28T21:37:10Z",
         "status": "Testing",
         "observations": 23531,
         "description": "UHF omni eggbeater antenna with UHF preamplifier",
@@ -1702,7 +1702,7 @@
             }
         ],
         "created": "2018-04-03T18:42:14Z",
-        "last_seen": "2023-12-28T15:50:36Z",
+        "last_seen": "2023-12-28T21:36:36Z",
         "status": "Testing",
         "observations": 5815,
         "description": "Antenna: Wimo turnstile AT1(gain 0-4 dB); no preamp; SDR: SDR-RTL dongle from RTL-SDR.com on a Raspberry Pi 3B. 73 de Bent,OZ6BL@amsat.org",
@@ -1727,9 +1727,9 @@
             }
         ],
         "created": "2018-04-03T19:21:49Z",
-        "last_seen": "2023-12-28T15:50:40Z",
+        "last_seen": "2023-12-28T21:36:40Z",
         "status": "Online",
-        "observations": 8338,
+        "observations": 8353,
         "description": "UHF Helical",
         "client_version": "1.8.1",
         "target_utilization": 3
@@ -1905,7 +1905,7 @@
             }
         ],
         "created": "2018-04-09T14:13:32Z",
-        "last_seen": "2023-12-28T15:50:41Z",
+        "last_seen": "2023-12-28T21:36:41Z",
         "status": "Online",
         "observations": 15756,
         "description": "Eggbeater antenna with preamplifier",
@@ -2080,7 +2080,7 @@
             }
         ],
         "created": "2018-04-13T17:52:59Z",
-        "last_seen": "2023-12-28T15:50:10Z",
+        "last_seen": "2023-12-28T21:37:10Z",
         "status": "Online",
         "observations": 7548,
         "description": "[new antenna, maybe flaky/unstable?] AirSpy HF+ receiver. 2m band only, V-dipole antenna. Raspberry Pi 4",
@@ -2137,7 +2137,7 @@
             }
         ],
         "created": "2018-04-15T13:55:20Z",
-        "last_seen": "2023-12-28T15:50:13Z",
+        "last_seen": "2023-12-28T21:37:13Z",
         "status": "Testing",
         "observations": 3890,
         "description": "15.04.2018, Testing software with temporary home rig location, 23.04.2018, Home rig set, added LNA and filter for 145M band. Enjoy! 26.04.2018, Rig won't get 137M, 07.05.2018, Updated to 0.6.1, In case it was not clear, this station will not receive NOAA. 29.08.2018, now sitting in Surrey Space Centre temporarily. 14.12.2018: Tracking ESEO only on UHF, no tracking available for other sats. 08.02.2019: Added ISS for ARISS SSTV Event. 27.06.2019: Tracking ESA ESEO. From Nov 2019, tracking OPS-SAT.",
@@ -2233,9 +2233,9 @@
             }
         ],
         "created": "2018-04-24T07:39:25Z",
-        "last_seen": "2023-12-28T15:50:07Z",
+        "last_seen": "2023-12-28T21:36:35Z",
         "status": "Online",
-        "observations": 290803,
+        "observations": 290842,
         "description": "Timestep Stainless Steel QFH + LNA (136-150MHz), \r\n70cms Eggbeater (400-470MHz) + GaAs FET LNA, \r\nL-Band LHCP omni + GaAs FET LNA (1500-1600MHz), \r\nM0EYT antenna switcher",
         "client_version": "1.6",
         "target_utilization": 100
@@ -2358,7 +2358,7 @@
             }
         ],
         "created": "2018-04-28T11:51:34Z",
-        "last_seen": "2023-12-28T15:50:32Z",
+        "last_seen": "2023-12-28T21:37:32Z",
         "status": "Testing",
         "observations": 10440,
         "description": "2m/70cm diplexer with VHF Quadrafilar Helix and UHF whip amplified by a shared SPF5189Z LNA before a RTL-SDR v3.",
@@ -2458,7 +2458,7 @@
             }
         ],
         "created": "2018-05-07T11:33:43Z",
-        "last_seen": "2023-12-28T15:49:52Z",
+        "last_seen": "2023-12-28T21:36:52Z",
         "status": "Online",
         "observations": 10315,
         "description": "",
@@ -2607,9 +2607,9 @@
             }
         ],
         "created": "2018-05-18T13:12:41Z",
-        "last_seen": "2023-12-28T15:50:50Z",
+        "last_seen": "2023-12-28T21:36:50Z",
         "status": "Online",
-        "observations": 13032,
+        "observations": 13035,
         "description": "Berlin Experimental and Educational Ground Station (BEEGND) are a series of stations built as part of a students project at TU Berlin. \r\n\r\nBEEGND-1 is a simple station in a remote, low noise location (Hoher Fläming) about 80 km southwest of our University.\r\n\r\nAntenna: fixed UHF Turnstile",
         "client_version": "1.8.1",
         "target_utilization": 0
@@ -2956,7 +2956,7 @@
             }
         ],
         "created": "2018-05-29T15:09:21Z",
-        "last_seen": "2023-12-28T15:50:18Z",
+        "last_seen": "2023-12-28T21:37:18Z",
         "status": "Testing",
         "observations": 4824,
         "description": "",
@@ -3498,9 +3498,9 @@
             }
         ],
         "created": "2018-06-26T15:13:47Z",
-        "last_seen": "2023-12-28T15:50:17Z",
+        "last_seen": "2023-12-28T21:37:17Z",
         "status": "Online",
-        "observations": 8124,
+        "observations": 8126,
         "description": "removed MAST AMP just use gain of  49.6 inside works OK - \r\nVHF Moxon antenna, pager trap, fm trap, splitter, rtl-sdr, RPi3 Satnogs image.",
         "client_version": "1.1.2",
         "target_utilization": 0
@@ -3573,7 +3573,7 @@
             }
         ],
         "created": "2018-06-29T15:31:56Z",
-        "last_seen": "2023-12-28T15:50:15Z",
+        "last_seen": "2023-12-28T21:37:15Z",
         "status": "Online",
         "observations": 18782,
         "description": "31 Oct 2020 moved down street - 90 degree elevation crossed Yagi+LNA\r\n13 feb 2021 - wire antenna back - UHF LNA\r\n27 feb 2021 - short cross yagi looking up\r\n25 Sep 2022 - new location down the road - just monopole and no LNA - 3 stories\r\n22 Oct 2022 - UHF Yagi looking straight up with LNA",
@@ -3598,7 +3598,7 @@
             }
         ],
         "created": "2018-06-30T13:12:21Z",
-        "last_seen": "2023-12-28T15:50:22Z",
+        "last_seen": "2023-12-28T21:37:22Z",
         "status": "Testing",
         "observations": 17349,
         "description": "Turnstile antenna since 2018-08-04 (about 15H00 UT).\r\nSDR changed to AirspyMini since 2018-10-06.",
@@ -3690,7 +3690,7 @@
             }
         ],
         "created": "2018-07-09T11:00:53Z",
-        "last_seen": "2023-12-28T15:50:32Z",
+        "last_seen": "2023-12-28T21:37:32Z",
         "status": "Online",
         "observations": 11596,
         "description": "Ground station of Slovak Organisation for Space Activities (SOSA) located in Partizanske Observatory.",
@@ -3757,7 +3757,7 @@
             }
         ],
         "created": "2018-07-14T07:17:14Z",
-        "last_seen": "2023-12-28T15:50:36Z",
+        "last_seen": "2023-12-28T21:37:35Z",
         "status": "Online",
         "observations": 9920,
         "description": "Rpi3 with RTL-SDR.com V3 SDR + LNA (The USB powered one with the FM notch filter). Current antenna is Nagara QFH435.",
@@ -3981,7 +3981,7 @@
             }
         ],
         "created": "2018-07-20T17:31:38Z",
-        "last_seen": "2023-12-28T15:50:31Z",
+        "last_seen": "2023-12-28T21:37:31Z",
         "status": "Online",
         "observations": 15074,
         "description": "South coast England. RPI3 + RTLSDR + TA1 Antenna.",
@@ -4013,7 +4013,7 @@
             }
         ],
         "created": "2018-07-21T04:14:33Z",
-        "last_seen": "2023-12-28T15:50:21Z",
+        "last_seen": "2023-12-28T21:37:21Z",
         "status": "Online",
         "observations": 3531,
         "description": "Raspberry Pi 3B+ and RTL-SDR,  X-700 Vertical antenna.",
@@ -4102,7 +4102,7 @@
             }
         ],
         "created": "2018-07-24T11:21:45Z",
-        "last_seen": "2023-12-28T15:50:27Z",
+        "last_seen": "2023-12-28T21:37:28Z",
         "status": "Testing",
         "observations": 15741,
         "description": "Satellite station located at IQ1RY ARI Radio Club in Bra, Italy.\r\nUHF 42 El. Crossed Yagi M2-436CP42UG + SP7000\r\nVHF 11 El Yagi\r\nOriginally built to support the PICPOT, E-St@r and E-St@r-II cubesats from Politecnico di Torino.\r\nwww.aribra.it\r\nwww.cubesatteam-polito.com",
@@ -4159,7 +4159,7 @@
             }
         ],
         "created": "2018-07-25T09:54:01Z",
-        "last_seen": "2023-12-28T15:50:56Z",
+        "last_seen": "2023-12-28T21:36:56Z",
         "status": "Testing",
         "observations": 14195,
         "description": "",
@@ -4234,7 +4234,7 @@
             }
         ],
         "created": "2018-07-31T14:39:39Z",
-        "last_seen": "2023-12-28T15:50:19Z",
+        "last_seen": "2023-12-28T21:37:19Z",
         "status": "Testing",
         "observations": 6751,
         "description": "",
@@ -4309,7 +4309,7 @@
             }
         ],
         "created": "2018-08-01T20:32:47Z",
-        "last_seen": "2023-12-28T15:50:27Z",
+        "last_seen": "2023-12-28T21:37:27Z",
         "status": "Online",
         "observations": 3254,
         "description": "VHF Turnstile: WiMo TA-1 (at 12m AGL, 145m ASL)",
@@ -4398,7 +4398,7 @@
             }
         ],
         "created": "2018-08-06T11:17:33Z",
-        "last_seen": "2023-12-28T15:50:50Z",
+        "last_seen": "2023-12-28T21:36:50Z",
         "status": "Online",
         "observations": 18261,
         "description": "",
@@ -4737,7 +4737,7 @@
             }
         ],
         "created": "2018-08-17T21:13:56Z",
-        "last_seen": "2023-12-28T15:50:05Z",
+        "last_seen": "2023-12-28T21:37:05Z",
         "status": "Online",
         "observations": 7333,
         "description": "This station is collocated with Ground Station 177.",
@@ -4901,7 +4901,7 @@
             }
         ],
         "created": "2018-08-21T16:09:47Z",
-        "last_seen": "2023-12-28T15:50:58Z",
+        "last_seen": "2023-12-28T21:36:58Z",
         "status": "Online",
         "observations": 11109,
         "description": "GP on a rusty table leg",
@@ -5125,7 +5125,7 @@
             }
         ],
         "created": "2018-08-25T12:40:50Z",
-        "last_seen": "2023-12-28T15:50:47Z",
+        "last_seen": "2023-12-28T21:36:47Z",
         "status": "Online",
         "observations": 13488,
         "description": "UHF moxon, minikits eme235, rtl-sdr, RPi3 Satnogs image updated 8/23/2021 to  2020122700.",
@@ -5313,7 +5313,7 @@
             }
         ],
         "created": "2018-08-26T18:58:54Z",
-        "last_seen": "2023-12-28T15:50:48Z",
+        "last_seen": "2023-12-28T21:36:48Z",
         "status": "Online",
         "observations": 51930,
         "description": "Gloucester County ARC clubhouse station, Mullica Hill NJ.\r\nDedicated SatNOGS receiving station",
@@ -5494,7 +5494,7 @@
             }
         ],
         "created": "2018-08-31T12:13:00Z",
-        "last_seen": "2023-12-28T15:50:08Z",
+        "last_seen": "2023-12-28T21:37:06Z",
         "status": "Testing",
         "observations": 3540,
         "description": "2m/70cm Wimo X-Quads, on a RF HamDesign SPX-02 Rotator. Minikits masthead preamps, RTLSDR v3. May be used for special events and new sats, though please contact me first! (VK5QI on #satnogs-dev)",
@@ -6041,7 +6041,7 @@
             }
         ],
         "created": "2018-09-13T17:49:01Z",
-        "last_seen": "2023-12-28T15:50:35Z",
+        "last_seen": "2023-12-28T21:37:35Z",
         "status": "Online",
         "observations": 5103,
         "description": "",
@@ -6582,7 +6582,7 @@
             }
         ],
         "created": "2018-10-03T03:52:37Z",
-        "last_seen": "2023-12-28T15:51:03Z",
+        "last_seen": "2023-12-28T21:37:03Z",
         "status": "Testing",
         "observations": 1144,
         "description": "station is alive with RTL-SDR.  attached to UHF antenna with a active multi-coupler.  LNA with 4 cavity preselector in front of it all.",
@@ -6714,7 +6714,7 @@
             }
         ],
         "created": "2018-10-09T07:30:28Z",
-        "last_seen": "2023-12-28T15:50:06Z",
+        "last_seen": "2023-12-28T21:36:06Z",
         "status": "Testing",
         "observations": 92,
         "description": "Yagi 430M-440M with SP70 preamplifier and rtl-sdr NOOS. \r\nDO NOT SCHEDULE OBSERVATIONS DUE TO ROTATOR NOISE, THANKS REMI",
@@ -7287,7 +7287,7 @@
             }
         ],
         "created": "2018-10-28T13:29:26Z",
-        "last_seen": "2023-12-28T15:50:27Z",
+        "last_seen": "2023-12-28T21:37:27Z",
         "status": "Online",
         "observations": 11328,
         "description": "| Committee for Space Programme Development | http://2comnet.info/komsat/en/| mail: cspd.office@gmail.com | SysOp: VA3TZA, YT2CQ |",
@@ -7412,7 +7412,7 @@
             }
         ],
         "created": "2018-10-30T03:04:55Z",
-        "last_seen": "2023-12-28T15:50:29Z",
+        "last_seen": "2023-12-28T21:37:29Z",
         "status": "Online",
         "observations": 2040,
         "description": "Raspberry Pi 3 with RTL-SDR Blog V3 and LNA",
@@ -7494,7 +7494,7 @@
             }
         ],
         "created": "2018-10-30T21:52:21Z",
-        "last_seen": "2023-12-28T15:50:18Z",
+        "last_seen": "2023-12-28T21:37:18Z",
         "status": "Online",
         "observations": 8866,
         "description": "",
@@ -7740,7 +7740,7 @@
             }
         ],
         "created": "2018-11-06T23:58:48Z",
-        "last_seen": "2023-12-28T15:50:53Z",
+        "last_seen": "2023-12-28T21:36:54Z",
         "status": "Online",
         "observations": 17634,
         "description": "Raspberry Pi 3B+ using a RTL-SDR Blog v3 SDR dongle connected to Diamond X300 antenna.\r\nNo LNA for now. Best results are obtained in VHF.\r\nKeep in mind this Raspberry is also used on my field activations (very sporadic and mainly during Spring/Summer). When such the station will be taken offline.",
@@ -7790,7 +7790,7 @@
             }
         ],
         "created": "2018-11-07T09:44:14Z",
-        "last_seen": "2023-12-28T15:50:14Z",
+        "last_seen": "2023-12-28T21:37:14Z",
         "status": "Online",
         "observations": 13748,
         "description": "Yagi, fixed position @ az 360, ele 90 degs (yes straight up :)",
@@ -7929,7 +7929,7 @@
             }
         ],
         "created": "2018-11-11T02:53:53Z",
-        "last_seen": "2023-12-28T15:50:54Z",
+        "last_seen": "2023-12-28T21:36:54Z",
         "status": "Online",
         "observations": 3657,
         "description": "Uses a simple dipole for 2m and 70cm.\r\nThe 2m Dipole runs East the West (So best for North and South Passes near closer to zenith or East and West near the horizon) and the 70cm dipole runs North to South. (So best for East and West Passes near closer to zenith or North and South near the horizon) This may affect observations in the freqs depending on satellite to antenna orientation.",
@@ -8079,7 +8079,7 @@
             }
         ],
         "created": "2018-11-16T21:39:07Z",
-        "last_seen": "2023-12-28T15:50:14Z",
+        "last_seen": "2023-12-28T21:37:14Z",
         "status": "Online",
         "observations": 27864,
         "description": "RTL-SDR v3 running on a raspberry pi 3 testing different antennas. Actually with a homemade Eggbeater 2 Antenna + LNA made by EA4BFK (UHF)",
@@ -8382,7 +8382,7 @@
             }
         ],
         "created": "2018-11-28T17:17:21Z",
-        "last_seen": "2023-12-28T15:50:23Z",
+        "last_seen": "2023-12-28T21:37:23Z",
         "status": "Online",
         "observations": 13644,
         "description": "I/Q data can be recorded upon request.",
@@ -8631,7 +8631,7 @@
             }
         ],
         "created": "2018-12-03T18:41:05Z",
-        "last_seen": "2023-12-28T15:50:16Z",
+        "last_seen": "2023-12-28T21:37:16Z",
         "status": "Online",
         "observations": 6765,
         "description": "Wimo TA-1 -> Airspy HF+ Discovery -> on Pi 3B+ (without preamp and with auto-gain enabled)",
@@ -9008,7 +9008,7 @@
             }
         ],
         "created": "2018-12-07T18:02:49Z",
-        "last_seen": "2023-12-28T15:50:43Z",
+        "last_seen": "2023-12-28T21:37:43Z",
         "status": "Online",
         "observations": 8643,
         "description": "Educational VHF Ground Station of TUM Department of Aerospace and Geodesy (LRG).\r\nAntenna: EGB145RE Eggbeater.\r\nPre-Amplifier: SSB LNA 200.\r\nSDR: Nooelec NESDR SMArt v4.",
@@ -9058,7 +9058,7 @@
             }
         ],
         "created": "2018-12-09T16:01:39Z",
-        "last_seen": "2023-12-28T15:50:14Z",
+        "last_seen": "2023-12-28T21:37:14Z",
         "status": "Testing",
         "observations": 1780,
         "description": "",
@@ -9157,7 +9157,7 @@
             }
         ],
         "created": "2018-12-10T16:36:17Z",
-        "last_seen": "2023-12-28T15:50:41Z",
+        "last_seen": "2023-12-28T21:37:41Z",
         "status": "Testing",
         "observations": 1339,
         "description": "",
@@ -9182,7 +9182,7 @@
             }
         ],
         "created": "2018-12-10T23:09:41Z",
-        "last_seen": "2023-12-28T15:50:17Z",
+        "last_seen": "2023-12-28T21:37:18Z",
         "status": "Online",
         "observations": 5319,
         "description": "Wimo VHF turnstyle +RTL-SDR or sewer pipe UHF turnstyle +rtl-sdr",
@@ -9449,7 +9449,7 @@
             }
         ],
         "created": "2018-12-14T22:16:03Z",
-        "last_seen": "2023-12-28T15:50:33Z",
+        "last_seen": "2023-12-28T21:37:33Z",
         "status": "Testing",
         "observations": 2762,
         "description": "Station for DL0XK. (https://www.amateurfunk.uni-kl.de/station/)\r\n\r\nCurrently installed on the roof of building 24 at TU Kaiserslautern.",
@@ -9644,7 +9644,7 @@
             }
         ],
         "created": "2018-12-15T19:16:26Z",
-        "last_seen": "2023-12-28T15:50:19Z",
+        "last_seen": "2023-12-28T21:37:19Z",
         "status": "Online",
         "observations": 7137,
         "description": "Turnstile main antenna tuned for 137MHz NOAA & Meteor-M2 VHF reception.  Station already tested in the staging enviroment.",
@@ -10296,7 +10296,7 @@
             }
         ],
         "created": "2018-12-31T09:36:21Z",
-        "last_seen": "2023-12-28T15:50:38Z",
+        "last_seen": "2023-12-28T21:37:38Z",
         "status": "Online",
         "observations": 12516,
         "description": "EggBeater EGB435R with RTL-SDR",
@@ -10321,9 +10321,9 @@
             }
         ],
         "created": "2018-12-31T18:16:26Z",
-        "last_seen": "2023-12-28T15:50:46Z",
+        "last_seen": "2023-12-28T21:37:46Z",
         "status": "Online",
-        "observations": 79039,
+        "observations": 79073,
         "description": "Fujitsu Esprimo Q920, Intel i5 | Debian Bullseye (amd64) | SDR RX: RTL-SDR V3 | Antenna: 3 Element RHCP Yagi",
         "client_version": "1.8.1",
         "target_utilization": 0
@@ -10353,7 +10353,7 @@
             }
         ],
         "created": "2019-01-01T04:08:32Z",
-        "last_seen": "2023-12-28T15:50:34Z",
+        "last_seen": "2023-12-28T21:37:34Z",
         "status": "Online",
         "observations": 15019,
         "description": "",
@@ -10485,7 +10485,7 @@
             }
         ],
         "created": "2019-01-06T16:25:51Z",
-        "last_seen": "2023-12-28T15:51:07Z",
+        "last_seen": "2023-12-28T21:37:07Z",
         "status": "Online",
         "observations": 21407,
         "description": "Running on a Raspberry Pi3, SDR RX: RTL-SDR, Antenna: QHA.",
@@ -10827,7 +10827,7 @@
             }
         ],
         "created": "2019-01-15T15:33:53Z",
-        "last_seen": "2023-12-28T15:50:25Z",
+        "last_seen": "2023-12-28T21:37:25Z",
         "status": "Online",
         "observations": 4256,
         "description": "RTL-SDR  and Procom CXL70-3LW/f + UPU Preamp",
@@ -11358,7 +11358,7 @@
             }
         ],
         "created": "2019-02-01T22:07:02Z",
-        "last_seen": "2023-12-28T15:51:14Z",
+        "last_seen": "2023-12-28T21:37:14Z",
         "status": "Testing",
         "observations": 114,
         "description": "This is a mobile station for testing the GPS feature",
@@ -11718,7 +11718,7 @@
             }
         ],
         "created": "2019-02-09T18:56:09Z",
-        "last_seen": "2023-12-28T15:51:04Z",
+        "last_seen": "2023-12-28T21:38:04Z",
         "status": "Testing",
         "observations": 6791,
         "description": "QFH",
@@ -12035,7 +12035,7 @@
             }
         ],
         "created": "2019-02-20T15:50:09Z",
-        "last_seen": "2023-12-28T15:50:43Z",
+        "last_seen": "2023-12-28T21:37:43Z",
         "status": "Online",
         "observations": 7041,
         "description": "@F4KLD ( https://youtu.be/2lGgyGdK42E )\r\nF4KLD is a part of CSUT ground station network: https://www.csut.eu/\r\nNew UHF QFH Antenna with Build-In LNA / Yagis are dedicated to Cubesat Operations",
@@ -12181,7 +12181,7 @@
             }
         ],
         "created": "2019-02-23T12:45:11Z",
-        "last_seen": "2023-12-28T15:50:30Z",
+        "last_seen": "2023-12-28T21:37:30Z",
         "status": "Testing",
         "observations": 599,
         "description": "",
@@ -12452,7 +12452,7 @@
             }
         ],
         "created": "2019-03-01T01:18:01Z",
-        "last_seen": "2023-12-28T15:51:21Z",
+        "last_seen": "2023-12-28T21:37:21Z",
         "status": "Online",
         "observations": 4712,
         "description": "",
@@ -13014,7 +13014,7 @@
             }
         ],
         "created": "2019-03-13T02:29:45Z",
-        "last_seen": "2023-12-28T15:50:25Z",
+        "last_seen": "2023-12-28T21:37:25Z",
         "status": "Online",
         "observations": 9521,
         "description": "Ignacio Mzzitelli",
@@ -13455,7 +13455,7 @@
             }
         ],
         "created": "2019-03-25T03:41:44Z",
-        "last_seen": "2023-12-28T15:51:13Z",
+        "last_seen": "2023-12-28T21:37:13Z",
         "status": "Online",
         "observations": 5047,
         "description": "Raspberry Pi4B, RTL-SDR, LNA4ALL & VHF home-brew QFH antenna. \r\nIf you schedule an observation, please vet your observation.\r\n2022 10 06. Upgraded to the latest image.",
@@ -13726,7 +13726,7 @@
             }
         ],
         "created": "2019-04-01T12:55:04Z",
-        "last_seen": "2023-12-28T15:51:12Z",
+        "last_seen": "2023-12-28T21:37:12Z",
         "status": "Online",
         "observations": 19413,
         "description": "Um Alaish 4 is an initiative of Orbital Space as the first CubeSat ground station in Kuwait to provide free access to signals from satellites. \r\nThe station uses Cushcraft 2M/70cm Wideband Yagi Beam Antenna, Gamma-match, unbalanced, Beam Antenna Gain: 7.8 dBi",
@@ -13815,7 +13815,7 @@
             }
         ],
         "created": "2019-04-03T20:30:12Z",
-        "last_seen": "2023-12-28T15:50:45Z",
+        "last_seen": "2023-12-28T21:37:45Z",
         "status": "Testing",
         "observations": 3113,
         "description": "Turnstile homemade antenna. It's placed on the East side of the block of flats.",
@@ -13975,7 +13975,7 @@
             }
         ],
         "created": "2019-04-06T12:42:20Z",
-        "last_seen": "2023-12-28T15:50:51Z",
+        "last_seen": "2023-12-28T21:37:51Z",
         "status": "Testing",
         "observations": 1131,
         "description": "USRP N210 + 2m RHCP 5 element yagi (DK7ZB homebrew) + 70 cm helical (Helix 70) + old rotator.\r\n\r\nOur N210 is currently broken (https://www.la1k.no/2020/03/11/satnogs-station-qrt-broken-usrp-n210) and we're currently under COVID-19 lockout (https://www.la1k.no/2020/03/18/la1k-under-covid-19-lockout), so it'll take some time before we get online again.",
@@ -14374,7 +14374,7 @@
             }
         ],
         "created": "2019-04-16T02:29:22Z",
-        "last_seen": "2023-12-28T15:50:31Z",
+        "last_seen": "2023-12-28T21:37:31Z",
         "status": "Testing",
         "observations": 18159,
         "description": "RTL-SDR with Raspberry Pi 3, Omni antenna (Arrow VHF/UHF J-Pole).  ~50 ft Flex4XL feedline from antenna to SDR.  No LNA (working on it).  Trees to SSE-S, low elevation obstruction (house) to W. Performance on VHF appears to be OK with some local RF noise.  Performance on UHF is spotty, probably needs LNA.",
@@ -15059,7 +15059,7 @@
             }
         ],
         "created": "2019-04-19T22:59:05Z",
-        "last_seen": "2023-12-28T15:50:44Z",
+        "last_seen": "2023-12-28T21:37:44Z",
         "status": "Testing",
         "observations": 303,
         "description": "k8zk",
@@ -15514,7 +15514,7 @@
             }
         ],
         "created": "2019-04-21T11:02:25Z",
-        "last_seen": "2023-12-28T15:50:50Z",
+        "last_seen": "2023-12-28T21:37:50Z",
         "status": "Online",
         "observations": 27594,
         "description": "Ground station  Masterton, NZ",
@@ -15656,7 +15656,7 @@
             }
         ],
         "created": "2019-04-22T00:28:27Z",
-        "last_seen": "2023-12-28T15:50:44Z",
+        "last_seen": "2023-12-28T21:37:44Z",
         "status": "Online",
         "observations": 13184,
         "description": "Basic RTL ground station with LNA and a M2 EB-432 Eggbeater",
@@ -15748,7 +15748,7 @@
             }
         ],
         "created": "2019-04-22T18:44:48Z",
-        "last_seen": "2023-12-28T15:51:27Z",
+        "last_seen": "2023-12-28T21:37:27Z",
         "status": "Online",
         "observations": 7860,
         "description": "Raspberry Pi3B+, NESDR SMArt SDR 0.5ppm TCXO, LNA and turnstile antenna.",
@@ -15917,7 +15917,7 @@
             }
         ],
         "created": "2019-04-23T18:00:24Z",
-        "last_seen": "2023-12-28T15:51:14Z",
+        "last_seen": "2023-12-28T21:38:14Z",
         "status": "Online",
         "observations": 14702,
         "description": "Portuguese amateur radio station. Check my QRZ.com page or my website at http://www.airlomba.net/radio/",
@@ -16232,7 +16232,7 @@
             }
         ],
         "created": "2019-04-26T15:50:41Z",
-        "last_seen": "2023-12-28T15:51:09Z",
+        "last_seen": "2023-12-28T21:38:09Z",
         "status": "Online",
         "observations": 1510,
         "description": "",
@@ -16576,8 +16576,8 @@
         "name": "CA,USA-Fixed UHF",
         "altitude": 400,
         "min_horizon": 10,
-        "lat": 33.49641,
-        "lng": -117.089502,
+        "lat": 33.4965,
+        "lng": -117.087,
         "qthlocator": "DM13kl",
         "antenna": [
             {
@@ -16589,7 +16589,7 @@
             }
         ],
         "created": "2019-05-01T14:56:04Z",
-        "last_seen": "2023-12-28T15:51:27Z",
+        "last_seen": "2023-12-28T21:37:49Z",
         "status": "Testing",
         "observations": 21928,
         "description": "QHF UHF (antennas.us). LNA -> RTLSDRv3 -> Pi 4",
@@ -17154,7 +17154,7 @@
             }
         ],
         "created": "2019-05-07T08:22:38Z",
-        "last_seen": "2023-12-28T15:50:48Z",
+        "last_seen": "2023-12-28T21:37:48Z",
         "status": "Online",
         "observations": 8323,
         "description": "Raspberry Pi3B, RTL-SDR, LNA4ALL & home-brew UHF QFH antenna.\r\nIf you schedule observations, then please vet your observations.",
@@ -17406,7 +17406,7 @@
             }
         ],
         "created": "2019-05-11T12:31:50Z",
-        "last_seen": "2023-12-28T15:51:16Z",
+        "last_seen": "2023-12-28T21:38:16Z",
         "status": "Online",
         "observations": 18367,
         "description": "SATNOGS Ground Station.\r\nNo amplifier.\r\nAntennas connected through diplexer.",
@@ -17513,7 +17513,7 @@
             }
         ],
         "created": "2019-05-12T18:49:28Z",
-        "last_seen": "2023-12-28T15:50:43Z",
+        "last_seen": "2023-12-28T21:37:43Z",
         "status": "Testing",
         "observations": 106,
         "description": "",
@@ -18080,7 +18080,7 @@
             }
         ],
         "created": "2019-05-26T10:40:22Z",
-        "last_seen": "2023-12-28T15:51:14Z",
+        "last_seen": "2023-12-28T21:38:14Z",
         "status": "Online",
         "observations": 6775,
         "description": "",
@@ -18169,9 +18169,9 @@
             }
         ],
         "created": "2019-05-27T15:09:43Z",
-        "last_seen": "2023-12-28T15:51:14Z",
+        "last_seen": "2023-12-28T21:38:14Z",
         "status": "Online",
-        "observations": 238466,
+        "observations": 238495,
         "description": "Raspberry Pi 4 with RTL-SDR dongle, WiMo TA-1 Turnstile and Stanislav Palo UHF Turnstile",
         "client_version": "1.8.1",
         "target_utilization": 100
@@ -18308,9 +18308,9 @@
             }
         ],
         "created": "2019-06-01T10:16:46Z",
-        "last_seen": "2023-12-28T15:50:44Z",
+        "last_seen": "2023-12-28T21:37:44Z",
         "status": "Online",
-        "observations": 73192,
+        "observations": 73217,
         "description": "Running on docker: https://github.com/kng/satnogs-client-docker/blob/main/lsf/LSF-GUIDE.md | Wimo TA-1 cross dipole  + RTL SDR V3 + Raspberry Pi 4 shared together with Stations 971 and 812, and an ADSB Service, all set under the roof of my home in Pforzheim, Germany.",
         "client_version": "1.8.1+47.gf2e0c2f.dirty",
         "target_utilization": 100
@@ -18528,7 +18528,7 @@
             }
         ],
         "created": "2019-06-05T05:29:04Z",
-        "last_seen": "2023-12-28T15:50:49Z",
+        "last_seen": "2023-12-28T21:37:49Z",
         "status": "Testing",
         "observations": 134,
         "description": "",
@@ -18767,7 +18767,7 @@
             }
         ],
         "created": "2019-06-10T21:21:16Z",
-        "last_seen": "2023-12-28T15:51:17Z",
+        "last_seen": "2023-12-28T21:38:17Z",
         "status": "Online",
         "observations": 7823,
         "description": "Station de réception du radio-club de Saint-Quentin-en-Yvelines : https://blog.f6krk.org/\r\n\r\nStation description :\r\n\r\n137 MHz V-dipole antenna + 137-138 MHz (NOAA) band pass filter (OM) + LNA4ALL + RTL-SDR (V3 R820T2 RTL2832U 1PPM TCXO) + RPi 3B+",
@@ -18974,7 +18974,7 @@
             }
         ],
         "created": "2019-06-15T15:24:11Z",
-        "last_seen": "2023-12-28T15:51:16Z",
+        "last_seen": "2023-12-28T21:38:21Z",
         "status": "Online",
         "observations": 8447,
         "description": "Antenna: UHF Turnstile (home made) + 433MHz BPF + LNA + RTL-SDR V3 + 15m USB cable + RPi-4",
@@ -19177,9 +19177,9 @@
             }
         ],
         "created": "2019-06-20T17:24:49Z",
-        "last_seen": "2023-12-28T15:51:20Z",
+        "last_seen": "2023-12-28T21:38:19Z",
         "status": "Online",
-        "observations": 114126,
+        "observations": 114162,
         "description": "Running on docker: https://github.com/kng/satnogs-client-docker/blob/main/lsf/LSF-GUIDE.md | Winkler Cross Dipole 446 MHz + RTL SDR V3 + Raspberry Pi 4 shared together with Stations 771 and 980, all set under the roof of my home in Pforzheim, Germany.",
         "client_version": "1.8.1+47.gf2e0c2f.dirty",
         "target_utilization": 100
@@ -19760,9 +19760,9 @@
             }
         ],
         "created": "2019-07-01T15:50:36Z",
-        "last_seen": "2023-12-28T15:50:51Z",
+        "last_seen": "2023-12-28T21:37:51Z",
         "status": "Online",
-        "observations": 24577,
+        "observations": 24582,
         "description": "VHF 12 dBi cross-yagi M2 2MCP14.\r\nUHF 15 dBi cross-yagi M2 436CP30.\r\nYaesu G5500 Az/El rotator with AMSAT LVB Tracker.\r\nRTLSDR v3 receiver.\r\nRaspberry Pi 4, 4GB.\r\n\r\nMessage twitter @ValpoWIREDlab for obs requests, this station is auto-scheduled but is available for changes for, e.g. ARISS events.  We keep raw IQ recordings of all observations for at least 4 weeks, contact us if you want access to these.",
         "client_version": "1.8.1",
         "target_utilization": 100
@@ -19899,7 +19899,7 @@
             }
         ],
         "created": "2019-07-02T15:10:33Z",
-        "last_seen": "2023-12-28T15:51:20Z",
+        "last_seen": "2023-12-28T21:38:20Z",
         "status": "Testing",
         "observations": 3238,
         "description": "VHF unreliable at the moment !\r\nEuropean Space Agency Education Office ground station at ESTEC (NL). \r\nhttps://www.esa.int/Education/ESA_Academy\r\n- VHF: 2x 2MCP14 Cross Yagi  + SP2000 pre-amp.\r\n- UHF: 2x 436CP30 Cross Yagi + SP7000 pre-amp.\r\n- 1200: TBC in progress\r\n- 2200: TBC in progress",
@@ -20013,7 +20013,7 @@
             }
         ],
         "created": "2019-07-03T17:39:54Z",
-        "last_seen": "2023-12-28T15:51:08Z",
+        "last_seen": "2023-12-28T21:38:08Z",
         "status": "Testing",
         "observations": 6605,
         "description": "Berlin Experimental and Educational Ground Station (BEEGND) are a series of stations built as part of a students project at TU Berlin. \r\n\r\nBEEGND-2 is a simple rotator setup with so far unresolved noise and antenna performance problems about 25 km southwest of our University.\r\n\r\nAntenna: 2x UHF Cross Yagi on a SatNOGS Rotator v3 controlled by a SatNOGS Rotator Controller v2",
@@ -20377,7 +20377,7 @@
             }
         ],
         "created": "2019-07-10T16:36:59Z",
-        "last_seen": "2023-12-28T15:51:06Z",
+        "last_seen": "2023-12-28T21:37:06Z",
         "status": "Online",
         "observations": 13498,
         "description": "Sollentuna, Stockholm (Sweden). Current antenna is 5 el UHF DK7ZB Yagi, elevation 90 degree (zenit). Running on RPI4 with Airspy Mini, satnogs_gr-satellites, auto-scheduler and sometimes the new Soapy Airspy driver. More info at https://www.larsthunberg.se/amatorradio-och-satelliter/",
@@ -20641,7 +20641,7 @@
             }
         ],
         "created": "2019-07-15T00:08:10Z",
-        "last_seen": "2023-12-28T15:51:48Z",
+        "last_seen": "2023-12-28T21:37:48Z",
         "status": "Testing",
         "observations": 61,
         "description": "Low effort ground station.  Will probably never progress beyond turnstile or QFH antenna.  \r\nRaspi-3B+, RTL-SDR, starting with whip antenna.",
@@ -21234,7 +21234,7 @@
             }
         ],
         "created": "2019-07-29T07:22:30Z",
-        "last_seen": "2023-12-28T15:51:28Z",
+        "last_seen": "2023-12-28T21:38:28Z",
         "status": "Online",
         "observations": 7726,
         "description": "Stanislav Turnstile -> Airspy R2 -> Pi 3B",
@@ -21334,9 +21334,9 @@
             }
         ],
         "created": "2019-08-01T16:30:51Z",
-        "last_seen": "2023-12-28T15:51:52Z",
+        "last_seen": "2023-12-28T21:37:52Z",
         "status": "Online",
-        "observations": 201467,
+        "observations": 201513,
         "description": "homemade UHF turnstile, SDR no LNA - 12 meters high\r\n73 de VE2WI \r\nemail : ve2wi at myRAC.ca",
         "client_version": "0.9",
         "target_utilization": 99
@@ -21455,7 +21455,7 @@
             }
         ],
         "created": "2019-08-03T14:27:38Z",
-        "last_seen": "2023-12-28T15:51:08Z",
+        "last_seen": "2023-12-28T21:38:08Z",
         "status": "Testing",
         "observations": 5838,
         "description": "NB: The antenna is under repair.\r\nVHF No Rotator Turnstile Antenna working with Raspberry Pi 3B+, RTL-SDR.COM V3 dongle, and 88-108 Mhz Band Stopper.",
@@ -21530,7 +21530,7 @@
             }
         ],
         "created": "2019-08-04T21:43:21Z",
-        "last_seen": "2023-12-28T15:51:10Z",
+        "last_seen": "2023-12-28T21:38:10Z",
         "status": "Testing",
         "observations": 11176,
         "description": "QFH VFH -> LNA -> RTLSDRv3 -> Pi3+",
@@ -22131,7 +22131,7 @@
             }
         ],
         "created": "2019-08-18T19:57:09Z",
-        "last_seen": "2023-12-28T15:51:40Z",
+        "last_seen": "2023-12-28T21:38:40Z",
         "status": "Testing",
         "observations": 10507,
         "description": "Homemade tall QFH + RTL-SDR on RaspberryPi",
@@ -22213,7 +22213,7 @@
             }
         ],
         "created": "2019-08-20T21:33:03Z",
-        "last_seen": "2023-12-28T15:51:13Z",
+        "last_seen": "2023-12-28T21:38:12Z",
         "status": "Online",
         "observations": 6807,
         "description": "Turnstile VHF",
@@ -22976,7 +22976,7 @@
             }
         ],
         "created": "2019-09-09T18:19:42Z",
-        "last_seen": "2023-12-28T15:51:13Z",
+        "last_seen": "2023-12-28T21:38:13Z",
         "status": "Testing",
         "observations": 10965,
         "description": "Testing station for rpi4 with limesdr-mini, Uputronics LNA and M2 433-eggbeater antenna",
@@ -23058,9 +23058,9 @@
             }
         ],
         "created": "2019-09-13T07:10:00Z",
-        "last_seen": "2023-12-28T15:51:36Z",
+        "last_seen": "2023-12-28T21:38:36Z",
         "status": "Online",
-        "observations": 42028,
+        "observations": 42080,
         "description": "Running on docker: https://github.com/kng/satnogs-client-docker/blob/main/lsf/LSF-GUIDE.md | 7 Element Yagi UHF antenna pointed some 30 degrees from cenit oriented south west + RTL SDR V3 running on a BananaPi R2 OpenWrt Router.  All set under the roof of my home in Pforzheim, Germany.",
         "client_version": "1.8.1+47.gf2e0c2f.dirty",
         "target_utilization": 100
@@ -23165,7 +23165,7 @@
             }
         ],
         "created": "2019-09-14T06:00:36Z",
-        "last_seen": "2023-12-28T15:51:40Z",
+        "last_seen": "2023-12-28T21:38:40Z",
         "status": "Online",
         "observations": 5414,
         "description": "Running on a 24v PoE HAT~ (Rpi 4 8gb)--( RTL-sdr V3 )--3v--(LNA for ALL)--(Hartwig 144-149mhz LNA)---(WiMo TA-1 w/ Custom Reflector) at 10m ASL.  Relocated to a less Noisy environment. Located on cost line of SF Bay area. Feel free to add observations. Note: the band pass filter make it hard to pullin NOAA apt passes.",
@@ -23240,7 +23240,7 @@
             }
         ],
         "created": "2019-09-14T22:18:47Z",
-        "last_seen": "2023-12-28T15:51:03Z",
+        "last_seen": "2023-12-28T21:38:03Z",
         "status": "Online",
         "observations": 16912,
         "description": "Three element Yagi antenna targeting zenith. LNA4ALL and bandpass filter.",
@@ -23483,7 +23483,7 @@
             }
         ],
         "created": "2019-09-16T21:54:06Z",
-        "last_seen": "2023-12-28T15:51:06Z",
+        "last_seen": "2023-12-28T21:38:06Z",
         "status": "Testing",
         "observations": 3556,
         "description": "S band 1.9m dish with SPID BIG RAS/HR rotator and USRP B210",
@@ -23565,7 +23565,7 @@
             }
         ],
         "created": "2019-09-17T10:21:31Z",
-        "last_seen": "2023-12-28T15:51:21Z",
+        "last_seen": "2023-12-28T21:38:21Z",
         "status": "Testing",
         "observations": 1260,
         "description": "Raspberry Pi 3B+ with a VHF QFH Antenna",
@@ -23691,7 +23691,7 @@
             }
         ],
         "created": "2019-09-20T02:59:01Z",
-        "last_seen": "2023-12-28T15:52:01Z",
+        "last_seen": "2023-12-28T21:38:01Z",
         "status": "Testing",
         "observations": 263,
         "description": "Testing configuration/antenna",
@@ -24101,7 +24101,7 @@
             }
         ],
         "created": "2019-09-25T23:13:35Z",
-        "last_seen": "2023-12-28T15:51:28Z",
+        "last_seen": "2023-12-28T21:38:28Z",
         "status": "Testing",
         "observations": 5269,
         "description": "Home QTH, back on the air with new antennas",
@@ -24176,7 +24176,7 @@
             }
         ],
         "created": "2019-09-26T17:44:10Z",
-        "last_seen": "2023-12-28T15:51:13Z",
+        "last_seen": "2023-12-28T21:38:13Z",
         "status": "Online",
         "observations": 16510,
         "description": "Raspberry PI 4 in an outside housing.",
@@ -24383,7 +24383,7 @@
             }
         ],
         "created": "2019-09-29T04:35:53Z",
-        "last_seen": "2023-12-28T15:51:11Z",
+        "last_seen": "2023-12-28T21:38:11Z",
         "status": "Online",
         "observations": 3720,
         "description": "WIMO TA-1 (VHF) Turstile Antenna -> 5m LMR240 cable -> RTL-SDR v3+Pi4.",
@@ -24629,7 +24629,7 @@
             }
         ],
         "created": "2019-10-04T16:16:34Z",
-        "last_seen": "2023-12-28T15:51:39Z",
+        "last_seen": "2023-12-28T21:38:39Z",
         "status": "Online",
         "observations": 4730,
         "description": "RTL-SDR with a 2m eggbeater, Mirage KP-2 2m amplifier, and Raspberry Pi 4.",
@@ -24743,7 +24743,7 @@
             }
         ],
         "created": "2019-10-06T17:39:31Z",
-        "last_seen": "2023-12-28T15:51:55Z",
+        "last_seen": "2023-12-28T21:37:55Z",
         "status": "Testing",
         "observations": 2281,
         "description": "",
@@ -24768,7 +24768,7 @@
             }
         ],
         "created": "2019-10-06T19:09:50Z",
-        "last_seen": "2023-12-28T15:51:31Z",
+        "last_seen": "2023-12-28T21:38:31Z",
         "status": "Testing",
         "observations": 557,
         "description": "",
@@ -24907,7 +24907,7 @@
             }
         ],
         "created": "2019-10-09T01:50:35Z",
-        "last_seen": "2023-12-28T15:51:11Z",
+        "last_seen": "2023-12-28T21:38:11Z",
         "status": "Online",
         "observations": 13478,
         "description": "VHF and UHF Eggbeaters w/GAaSFET masthead preamps",
@@ -25384,7 +25384,7 @@
             }
         ],
         "created": "2019-10-18T08:38:59Z",
-        "last_seen": "2023-12-28T15:51:13Z",
+        "last_seen": "2023-12-28T21:38:13Z",
         "status": "Testing",
         "observations": 8712,
         "description": "This Station will host multiple SDR transceivers. For now only 70cm 435Mhz",
@@ -25584,7 +25584,7 @@
             }
         ],
         "created": "2019-10-23T19:48:07Z",
-        "last_seen": "2023-12-28T15:51:15Z",
+        "last_seen": "2023-12-28T21:38:15Z",
         "status": "Testing",
         "observations": 1439,
         "description": "Raspberry Pi 3 , RTL-SDR v3 , Discone",
@@ -25940,7 +25940,7 @@
             }
         ],
         "created": "2019-11-02T21:29:44Z",
-        "last_seen": "2023-12-28T15:51:41Z",
+        "last_seen": "2023-12-28T21:38:41Z",
         "status": "Online",
         "observations": 10358,
         "description": "70 cm 10 element yagi -> rtl-sdr -> pi3b",
@@ -26482,7 +26482,7 @@
             }
         ],
         "created": "2019-11-11T20:48:10Z",
-        "last_seen": "2023-12-28T15:51:54Z",
+        "last_seen": "2023-12-28T21:38:54Z",
         "status": "Testing",
         "observations": 684,
         "description": "",
@@ -26926,7 +26926,7 @@
             }
         ],
         "created": "2019-11-20T22:56:28Z",
-        "last_seen": "2023-12-28T15:52:06Z",
+        "last_seen": "2023-12-28T21:38:11Z",
         "status": "Testing",
         "observations": 4980,
         "description": "Built by Villanova University's CubeSat Club. Utilizes a Lindenblad antenna mounted on roof of Tolentine Hall.",
@@ -27146,7 +27146,7 @@
             }
         ],
         "created": "2019-11-27T23:00:03Z",
-        "last_seen": "2023-12-28T15:52:09Z",
+        "last_seen": "2023-12-28T21:38:10Z",
         "status": "Online",
         "observations": 3479,
         "description": "rooftop setup for BBN Cambridge currently set up on bench at 52 Hancock, Lexington; small mag mount whip inside house",
@@ -27625,7 +27625,7 @@
             }
         ],
         "created": "2019-12-06T21:42:53Z",
-        "last_seen": "2023-12-28T15:51:29Z",
+        "last_seen": "2023-12-28T21:38:29Z",
         "status": "Online",
         "observations": 2222,
         "description": "",
@@ -28216,7 +28216,7 @@
             }
         ],
         "created": "2019-12-15T19:27:17Z",
-        "last_seen": "2023-12-28T15:51:48Z",
+        "last_seen": "2023-12-28T21:38:48Z",
         "status": "Online",
         "observations": 14797,
         "description": "Testing - Pi3 | RTLSDR | V Dipole | On Thursdays between 01:00 - 02:00 UTC we hold a local simplex test.  Satellites in the 2m and below will not be heard easily.\r\nUpdate: 12/22/2019 - Failure in wireless.  System in now hard wired internet. If failure continue, may implement a 24 hour reboot.\r\n\r\nWe now have a live dashboard at http://ke0rwz.ddns.net:9090/",
@@ -28716,7 +28716,7 @@
             }
         ],
         "created": "2019-12-23T16:42:37Z",
-        "last_seen": "2023-12-28T15:52:16Z",
+        "last_seen": "2023-12-28T21:38:16Z",
         "status": "Testing",
         "observations": 15,
         "description": "",
@@ -29715,9 +29715,9 @@
             }
         ],
         "created": "2020-01-09T13:15:39Z",
-        "last_seen": "2023-12-28T15:51:43Z",
+        "last_seen": "2023-12-28T21:38:41Z",
         "status": "Online",
-        "observations": 74241,
+        "observations": 74271,
         "description": "Twitter: @mfalkvidd\r\n* RTLSDRv3\r\n* Raspberry Pi 4\r\n* Inverted Vee UHF dipole\r\n* Feel free to schedule as many observations as you like.",
         "client_version": "1.6",
         "target_utilization": 100
@@ -30113,7 +30113,7 @@
             }
         ],
         "created": "2020-01-15T02:51:10Z",
-        "last_seen": "2023-12-28T15:52:06Z",
+        "last_seen": "2023-12-28T21:39:06Z",
         "status": "Online",
         "observations": 8180,
         "description": "USRP B200 mini, LANA LNA, 3 element zenith-pointed yagi.",
@@ -30138,7 +30138,7 @@
             }
         ],
         "created": "2020-01-15T03:56:54Z",
-        "last_seen": "2023-12-28T15:52:03Z",
+        "last_seen": "2023-12-28T21:39:03Z",
         "status": "Testing",
         "observations": 553,
         "description": "Testing Docker Client w/ Portainer\r\nV-Dipole, RasPi v3b, NESDR, Nooelec SAWbird+ NOAA (136-138MHz)\r\nRestricted to (136MHz - 138MHz) for testing & benchmarking",
@@ -30238,7 +30238,7 @@
             }
         ],
         "created": "2020-01-16T04:54:39Z",
-        "last_seen": "2023-12-28T15:51:31Z",
+        "last_seen": "2023-12-28T21:38:31Z",
         "status": "Testing",
         "observations": 3708,
         "description": "This station is presently a VHF/UHF monopole on the roof of the Francois-Xavier Bagnoud building at the University of Michigan.",
@@ -30320,7 +30320,7 @@
             }
         ],
         "created": "2020-01-18T10:22:36Z",
-        "last_seen": "2023-12-28T15:51:55Z",
+        "last_seen": "2023-12-28T21:38:55Z",
         "status": "Online",
         "observations": 12196,
         "description": "QTH Locator\r\nJN76GC\r\nLatitude 46.0882      Longitude 14.5106",
@@ -30647,8 +30647,8 @@
             }
         ],
         "created": "2020-01-22T14:18:34Z",
-        "last_seen": "2023-12-23T21:58:48Z",
-        "status": "Offline",
+        "last_seen": "2023-12-28T21:38:40Z",
+        "status": "Testing",
         "observations": 473,
         "description": "Fixed omnidirectional VHF/UHF Whip or Satnogs tracking yagi (7 element) + RTL-SDR + Raspberry Pi 3b.  Radio Club + Cybernetics Club at ESOC (European Space Operation Centre), ESA, Darmstadt, Germany.",
         "client_version": "1.8.1",
@@ -31132,9 +31132,9 @@
             }
         ],
         "created": "2020-01-31T17:45:14Z",
-        "last_seen": "2023-12-28T15:51:42Z",
+        "last_seen": "2023-12-28T21:38:16Z",
         "status": "Online",
-        "observations": 7009,
+        "observations": 7014,
         "description": "F1AFW, Brétigny sur Orge\r\nStation without rotor, for Satellite experimental purpose.",
         "client_version": "1.4",
         "target_utilization": 0
@@ -31221,7 +31221,7 @@
             }
         ],
         "created": "2020-02-02T17:19:59Z",
-        "last_seen": "2023-12-28T15:52:23Z",
+        "last_seen": "2023-12-28T21:38:23Z",
         "status": "Online",
         "observations": 7683,
         "description": "RTL SDR V3 with LNA",
@@ -31303,7 +31303,7 @@
             }
         ],
         "created": "2020-02-04T09:42:56Z",
-        "last_seen": "2023-12-28T15:52:17Z",
+        "last_seen": "2023-12-28T21:39:17Z",
         "status": "Online",
         "observations": 3598,
         "description": "QFH with 137.5Mhz center -> LNA -> RTL-SDR. OK for VHF! :)",
@@ -31328,7 +31328,7 @@
             }
         ],
         "created": "2020-02-04T19:46:28Z",
-        "last_seen": "2023-12-28T15:52:25Z",
+        "last_seen": "2023-12-28T21:38:23Z",
         "status": "Testing",
         "observations": 2547,
         "description": "Raspberry PI, Discone, no LNA, approx 3m coax, rtl_sdr, mounted on shed",
@@ -31773,8 +31773,8 @@
             }
         ],
         "created": "2020-02-17T01:32:55Z",
-        "last_seen": "2023-12-28T14:24:19Z",
-        "status": "Offline",
+        "last_seen": "2023-12-28T20:47:19Z",
+        "status": "Online",
         "observations": 5478,
         "description": "QFHA (RHCP) -> LNA/Filter -> RTL-SDR",
         "client_version": "1.8.1",
@@ -32008,7 +32008,7 @@
             }
         ],
         "created": "2020-02-21T14:55:08Z",
-        "last_seen": "2023-12-28T15:52:09Z",
+        "last_seen": "2023-12-28T21:39:09Z",
         "status": "Testing",
         "observations": 3859,
         "description": "QFHA (LHCP) -> Filter-Preamp-> Airspy Mini",
@@ -32158,7 +32158,7 @@
             }
         ],
         "created": "2020-02-23T23:52:45Z",
-        "last_seen": "2023-12-28T15:51:37Z",
+        "last_seen": "2023-12-28T21:38:37Z",
         "status": "Online",
         "observations": 25128,
         "description": "This is one of five stations participating in the pilot phase of LSTN (Library Space Technology Network), a program to support space exploration in public libraries. More information at: https://lstn.wolba.ch. Kit: Raspberry Pi 4 Model B; Uputronics LNA; RTL-SDR v3; M2 EB-432/RK70cm; MiniCircuits RF Cables, RF Elements StationBox",
@@ -32183,7 +32183,7 @@
             }
         ],
         "created": "2020-02-24T15:00:16Z",
-        "last_seen": "2023-12-28T15:52:13Z",
+        "last_seen": "2023-12-28T21:39:13Z",
         "status": "Online",
         "observations": 4310,
         "description": "The MSparc GroundStation, by EvoMetric",
@@ -32240,7 +32240,7 @@
             }
         ],
         "created": "2020-02-27T04:10:33Z",
-        "last_seen": "2023-12-28T15:52:29Z",
+        "last_seen": "2023-12-28T21:38:29Z",
         "status": "Testing",
         "observations": 11572,
         "description": "Provided by the \r\nInstitute for Telecommunication Research (ITR),\r\nUniversity of South Australia.\r\nCross Yagi centred at 437MHz.\r\nRX LNA and FILTER supports 400 to 510 MHz.",
@@ -32721,7 +32721,7 @@
             }
         ],
         "created": "2020-03-07T19:06:46Z",
-        "last_seen": "2023-12-28T15:52:24Z",
+        "last_seen": "2023-12-28T21:38:24Z",
         "status": "Online",
         "observations": 17300,
         "description": "Raspberry Pi3B+, Nooelec NESDR SMAR XTR, Nooelec LaNA, VHF-UHF QFH antenna.",
@@ -32813,9 +32813,9 @@
             }
         ],
         "created": "2020-03-10T13:17:12Z",
-        "last_seen": "2023-12-28T15:52:19Z",
+        "last_seen": "2023-12-28T21:39:19Z",
         "status": "Online",
-        "observations": 65442,
+        "observations": 65460,
         "description": "InSight 1 Ground Station, Operated by Station M7ENP.\r\n station may go offline without warning.",
         "client_version": "1.8.1",
         "target_utilization": 100
@@ -33101,7 +33101,7 @@
             }
         ],
         "created": "2020-03-14T20:00:36Z",
-        "last_seen": "2023-12-28T15:52:08Z",
+        "last_seen": "2023-12-28T21:39:08Z",
         "status": "Online",
         "observations": 56921,
         "description": "First test setup",
@@ -33239,7 +33239,7 @@
             }
         ],
         "created": "2020-03-19T19:50:06Z",
-        "last_seen": "2023-12-28T15:52:09Z",
+        "last_seen": "2023-12-28T21:39:16Z",
         "status": "Online",
         "observations": 30097,
         "description": "5469 CDMX.\r\nEddyosp@Santa Ursula.\r\nUHF Turnstile Antenna + RTL-SDR LNA+ RTL-SDR + Raspberry Pi 4.\r\nBy los forajidos de Celaya.\r\nOpen to the public, but remember, if you schedule it, you vet it.\r\n#OstaniDoma.\r\nGround Station for the Habitat Marte Mission 40-Dragon Mission and Mission 56.",
@@ -33264,7 +33264,7 @@
             }
         ],
         "created": "2020-03-20T10:52:41Z",
-        "last_seen": "2023-12-28T15:52:09Z",
+        "last_seen": "2023-12-28T21:39:09Z",
         "status": "Testing",
         "observations": 418,
         "description": "Provided by the Institute for Telecommunication Research (ITR), University of South Australia.",
@@ -33389,7 +33389,7 @@
             }
         ],
         "created": "2020-03-21T16:39:23Z",
-        "last_seen": "2023-12-28T15:52:09Z",
+        "last_seen": "2023-12-28T21:39:09Z",
         "status": "Online",
         "observations": 40863,
         "description": "Odroid N2+ with HackRF with 10 MHz clock",
@@ -33546,7 +33546,7 @@
             }
         ],
         "created": "2020-03-26T11:13:55Z",
-        "last_seen": "2023-12-28T15:52:02Z",
+        "last_seen": "2023-12-28T21:39:02Z",
         "status": "Online",
         "observations": 6002,
         "description": "rtl with 430 QFH",
@@ -33578,7 +33578,7 @@
             }
         ],
         "created": "2020-03-26T14:58:02Z",
-        "last_seen": "2023-12-28T15:51:46Z",
+        "last_seen": "2023-12-28T21:38:46Z",
         "status": "Online",
         "observations": 4800,
         "description": "",
@@ -33811,7 +33811,7 @@
             }
         ],
         "created": "2020-03-30T16:15:30Z",
-        "last_seen": "2023-12-28T15:52:22Z",
+        "last_seen": "2023-12-28T21:39:22Z",
         "status": "Testing",
         "observations": 7773,
         "description": "Ham band vertical antenna @20 meters",
@@ -33925,7 +33925,7 @@
             }
         ],
         "created": "2020-04-04T04:57:33Z",
-        "last_seen": "2023-12-28T15:49:57Z",
+        "last_seen": "2023-12-28T21:38:44Z",
         "status": "Testing",
         "observations": 4431,
         "description": "",
@@ -34060,7 +34060,7 @@
             }
         ],
         "created": "2020-04-04T14:37:10Z",
-        "last_seen": "2023-12-28T15:51:44Z",
+        "last_seen": "2023-12-28T21:38:44Z",
         "status": "Online",
         "observations": 19236,
         "description": "Montreal Ground Station RPi4 with Circular Polarization U&V Antennas with gr_satellites option.",
@@ -34205,9 +34205,9 @@
             }
         ],
         "created": "2020-04-06T14:37:07Z",
-        "last_seen": "2023-12-28T15:51:46Z",
+        "last_seen": "2023-12-28T21:38:46Z",
         "status": "Testing",
-        "observations": 19177,
+        "observations": 19187,
         "description": "Fujitsu Esprimo Q920, Intel i5 | Debian Bullseye (amd64) | SDR RX: AirSPY R2 | Antenna: DK7ZB 9 Element Yagi Pointing bearing 315 / elevation 70, beam angle 40 degrees.",
         "client_version": "1.8.1",
         "target_utilization": 0
@@ -34856,9 +34856,9 @@
             }
         ],
         "created": "2020-04-13T11:31:07Z",
-        "last_seen": "2023-12-28T15:52:18Z",
+        "last_seen": "2023-12-28T21:39:18Z",
         "status": "Online",
-        "observations": 68290,
+        "observations": 68307,
         "description": "Up and running. Waiting for the LNA4ALL to be delivered and installed",
         "client_version": "1.5.1",
         "target_utilization": 100
@@ -35102,7 +35102,7 @@
             }
         ],
         "created": "2020-04-19T09:36:44Z",
-        "last_seen": "2023-12-28T15:51:56Z",
+        "last_seen": "2023-12-28T21:38:56Z",
         "status": "Testing",
         "observations": 313,
         "description": "",
@@ -35241,7 +35241,7 @@
             }
         ],
         "created": "2020-04-21T22:52:10Z",
-        "last_seen": "2023-12-28T15:52:29Z",
+        "last_seen": "2023-12-28T21:39:29Z",
         "status": "Testing",
         "observations": 2285,
         "description": "Antenna: antennas.us UC-1464-531L\r\n\r\nPreamp: Nooelec \"Lana\" noise figure 0.8 dB\r\n\r\nSDR: NooElec / NESDR SMArTee v2\r\n\r\n73 DE N9NFB vince@mulhollon.com\r\n\r\nNote 2021-04-28 Installation destroyed by failed upgrade, so leaving in testing.",
@@ -35512,7 +35512,7 @@
             }
         ],
         "created": "2020-04-24T19:31:44Z",
-        "last_seen": "2023-12-28T15:52:10Z",
+        "last_seen": "2023-12-28T21:39:10Z",
         "status": "Online",
         "observations": 6777,
         "description": "Surplus AV2040-3 looking straight up without directors, GPIO Labs 70cm LNA, RTL-SDR.com V3 dongle, RPi3, not quite in range of East St Louis. Previous 70cm homebrew \"eggbeater\" is down for maintenance.",
@@ -35854,7 +35854,7 @@
             }
         ],
         "created": "2020-04-27T10:02:05Z",
-        "last_seen": "2023-12-28T15:52:20Z",
+        "last_seen": "2023-12-28T21:39:20Z",
         "status": "Online",
         "observations": 4719,
         "description": "Quadrafilar using an AirSpy HF +",
@@ -35929,7 +35929,7 @@
             }
         ],
         "created": "2020-04-27T21:30:12Z",
-        "last_seen": "2023-12-28T15:51:54Z",
+        "last_seen": "2023-12-28T21:38:54Z",
         "status": "Online",
         "observations": 4866,
         "description": "RTL-SDR with a 70cm eggbeater, Mirage KP-2 2m amplifier, and Raspberry Pi 4.",
@@ -36513,7 +36513,7 @@
             }
         ],
         "created": "2020-05-12T19:22:32Z",
-        "last_seen": "2023-12-28T15:52:13Z",
+        "last_seen": "2023-12-28T21:39:13Z",
         "status": "Online",
         "observations": 7936,
         "description": "Arrow Alaskan 2M/440 Yagi antenna pointed straight upwards -> Uputronics broadband LNA -> RTL-SDR V.3 -> RPi 3B+.  Best reception from 60 degrees in any direction.  Good reception from 30 degrees Northwest through Southeast.  Details at www.FredricRaab.com",
@@ -36545,7 +36545,7 @@
             }
         ],
         "created": "2020-05-13T04:57:57Z",
-        "last_seen": "2023-12-28T15:51:50Z",
+        "last_seen": "2023-12-28T21:38:50Z",
         "status": "Online",
         "observations": 7848,
         "description": "SDR with a Discone with an 8DB preamp.",
@@ -37110,7 +37110,7 @@
             }
         ],
         "created": "2020-05-26T18:41:45Z",
-        "last_seen": "2023-12-28T15:52:51Z",
+        "last_seen": "2023-12-28T21:38:51Z",
         "status": "Online",
         "observations": 6107,
         "description": "2*6el UHF cross yagi on AZ/EL rotator. \r\n\r\nSetup:\r\nOrange Pi One, \r\nBlue RTL-SDR with diy shielding, \r\ndiy filter with ~2dB loss, \r\nSPF5043Z ~0.6NF 20dB LNA, \r\ndiy antenna. \r\n\r\nContact me on the community forms if you have any questions.",
@@ -37401,9 +37401,9 @@
             }
         ],
         "created": "2020-06-03T12:53:53Z",
-        "last_seen": "2023-12-28T15:52:12Z",
+        "last_seen": "2023-12-28T21:39:12Z",
         "status": "Online",
-        "observations": 68508,
+        "observations": 68527,
         "description": "I want to try to contribute to the satnog.\r\nmy RTL SDR USB V3 And Raspberry 3 B+ and QFH  2 Band UHF VHF.\r\nhttps://www.qrz.com/db/YB8XM",
         "client_version": "1.6",
         "target_utilization": 74
@@ -37629,7 +37629,7 @@
             }
         ],
         "created": "2020-06-07T02:10:53Z",
-        "last_seen": "2023-12-28T15:52:50Z",
+        "last_seen": "2023-12-28T21:38:50Z",
         "status": "Online",
         "observations": 1714,
         "description": "RTLSDR on Raspi 4 with QFH antenna",
@@ -37814,7 +37814,7 @@
             }
         ],
         "created": "2020-06-09T16:48:51Z",
-        "last_seen": "2023-12-28T15:52:04Z",
+        "last_seen": "2023-12-28T21:39:00Z",
         "status": "Online",
         "observations": 12400,
         "description": "Current Setup (19.05.2021): QFH (UHF) -> RTL-SDR -> RPi 3B+\r\nPossible Setups: 4el-Yagi(VHF), 6el-Yagi(UHF)\r\nPlease contact me to request setup change. mfatiherturk@outlook.com\r\nRed areas on the sky chart image are not visible from my balcony.",
@@ -38653,7 +38653,7 @@
             }
         ],
         "created": "2020-07-02T06:34:17Z",
-        "last_seen": "2023-12-28T15:52:15Z",
+        "last_seen": "2023-12-28T21:39:15Z",
         "status": "Online",
         "observations": 14834,
         "description": "V1.16: 18/jun/22:  black failed  observations caused by internet outages. Current HW setup:  rtl-sdr-v3/dongle w/heatsink, homebrew QFH antenna built  as per J. Coppens calculator (jcoppens.com/ant/qfh/calc.en.php) + 10 mt rg58 coax, no LNA, no trap filter.\r\nSatnogs setup: gain: 43.9, ppm: -2, waterfall auto scale: disabled, waterfall minimum power: -75, waterfall maximum power: -65, all other parameters: default values.",
@@ -38916,7 +38916,7 @@
             }
         ],
         "created": "2020-07-08T21:48:53Z",
-        "last_seen": "2023-12-28T15:52:09Z",
+        "last_seen": "2023-12-28T21:39:09Z",
         "status": "Online",
         "observations": 2813,
         "description": "Bochum Observatory (AMSAT-DL / IUZ) | NOAA APT | TA-1 Turnstile, 137 MHz Preamp.+Filter, Airspy HF+ Discovery SDR, RPI 4B (8GB)",
@@ -38941,7 +38941,7 @@
             }
         ],
         "created": "2020-07-08T21:51:19Z",
-        "last_seen": "2023-12-28T15:52:08Z",
+        "last_seen": "2023-12-28T21:39:08Z",
         "status": "Online",
         "observations": 4055,
         "description": "Bochum Observatory (AMSAT-DL / IUZ) | 2m-Eggbeater, Preamp., Airspy HF+ Discovery SDR, RPI 4B (8GB)",
@@ -38966,9 +38966,9 @@
             }
         ],
         "created": "2020-07-08T21:54:04Z",
-        "last_seen": "2023-12-28T15:52:49Z",
+        "last_seen": "2023-12-28T21:38:49Z",
         "status": "Online",
-        "observations": 11952,
+        "observations": 11957,
         "description": "Bochum Observatory (AMSAT-DL / IUZ) | 70cm-Eggbeater, Preamp., Airspy R2, RPI 4B (8GB)  --> Currently strong QRM from local FM Repeater.",
         "client_version": "1.3.4",
         "target_utilization": 0
@@ -39087,9 +39087,9 @@
             }
         ],
         "created": "2020-07-09T20:35:13Z",
-        "last_seen": "2023-12-28T15:52:38Z",
+        "last_seen": "2023-12-28T21:39:38Z",
         "status": "Online",
-        "observations": 86878,
+        "observations": 86893,
         "description": "Bergar SatNOGS station, Airspy + homemade QFH",
         "client_version": "1.4",
         "target_utilization": 0
@@ -39187,9 +39187,9 @@
             }
         ],
         "created": "2020-07-12T20:26:46Z",
-        "last_seen": "2023-12-28T15:52:51Z",
+        "last_seen": "2023-12-28T21:38:51Z",
         "status": "Online",
-        "observations": 2522,
+        "observations": 2529,
         "description": "Station to perform some tests. ADSB Antenna +  SDR-RTL + BananaPi R2 Router running OpenWrt",
         "client_version": "1.8.1+47.gf2e0c2f.dirty",
         "target_utilization": 100
@@ -39219,9 +39219,9 @@
             }
         ],
         "created": "2020-07-12T21:47:02Z",
-        "last_seen": "2023-12-28T15:52:45Z",
+        "last_seen": "2023-12-28T21:39:45Z",
         "status": "Online",
-        "observations": 90557,
+        "observations": 90577,
         "description": "Ager SatNOGS station, Airspy + homemade QFH",
         "client_version": "1.4",
         "target_utilization": 0
@@ -39301,9 +39301,9 @@
             }
         ],
         "created": "2020-07-14T13:21:56Z",
-        "last_seen": "2023-12-28T15:52:02Z",
+        "last_seen": "2023-12-28T21:39:02Z",
         "status": "Online",
-        "observations": 60785,
+        "observations": 60808,
         "description": "March 16,2023 static pointing east @ 30 deg elevation -  15-element Diamond yagi, RTL-SDR Blog Wideband LNA , debian bullseye w/ ansible satnogs-client image",
         "client_version": "1.8.1",
         "target_utilization": 100
@@ -39497,9 +39497,9 @@
             }
         ],
         "created": "2020-07-20T07:29:05Z",
-        "last_seen": "2023-12-28T15:52:36Z",
+        "last_seen": "2023-12-28T21:39:36Z",
         "status": "Online",
-        "observations": 17354,
+        "observations": 17357,
         "description": "Helical Antenna by N5ZKK with LMR400 into a passband filter to an RTLSDR processing is via Raspberry Pi 4.\r\n\r\nDecember 2022 the antenna fully articulates on a rooftop mast along with the UHF Helix.",
         "client_version": "1.8.1",
         "target_utilization": 0
@@ -39824,7 +39824,7 @@
             }
         ],
         "created": "2020-08-02T07:55:44Z",
-        "last_seen": "2023-12-28T15:52:24Z",
+        "last_seen": "2023-12-28T21:39:24Z",
         "status": "Online",
         "observations": 1084,
         "description": "Airspy HF+, RPI 4B (4GB), 137 MHz APT reception, QTH Breisgau area",
@@ -39863,7 +39863,7 @@
             }
         ],
         "created": "2020-08-02T08:00:51Z",
-        "last_seen": "2023-12-28T15:52:32Z",
+        "last_seen": "2023-12-28T21:39:32Z",
         "status": "Online",
         "observations": 8288,
         "description": "Airspy Mini, RPI 4B (4GB), VHF/UHF/L-band reception, Discone Antenna, QTH Unterland area",
@@ -40115,7 +40115,7 @@
             }
         ],
         "created": "2020-08-05T19:34:52Z",
-        "last_seen": "2023-12-28T15:52:47Z",
+        "last_seen": "2023-12-28T21:39:47Z",
         "status": "Online",
         "observations": 54858,
         "description": "Yagi, vertical polarization, directed to east (100°), elevation 25° -> Uputronix 433-438 MHz filtred preamp -> RTL-SDR v3 -> Raspberry Pi 4.\r\nPlease, do not use this station for west passes. Antenna is directed to east.\r\nUse station #2029 for west passes.",
@@ -40172,7 +40172,7 @@
             }
         ],
         "created": "2020-08-06T10:24:33Z",
-        "last_seen": "2023-12-28T15:52:57Z",
+        "last_seen": "2023-12-28T21:39:39Z",
         "status": "Online",
         "observations": 1355,
         "description": "Keep 5 minutes breaks between observations on different bands.\r\n\r\nLive stream: https://www.youtube.com/channel/UCt-viKcn0RNVEabYV2YvKfA/live",
@@ -40653,7 +40653,7 @@
             }
         ],
         "created": "2020-08-19T19:36:54Z",
-        "last_seen": "2023-12-28T15:52:16Z",
+        "last_seen": "2023-12-28T21:38:15Z",
         "status": "Online",
         "observations": 7183,
         "description": "| Committee for Space Programme Development | http://2comnet.info/komsat/en/ | Intercontinental Aerospace Command |\r\nNovi Sad-AP Vojvodina-Serbia | mail: cspd.office@gmail.com | SysOp: YU7RJD |",
@@ -40678,7 +40678,7 @@
             }
         ],
         "created": "2020-08-19T20:00:29Z",
-        "last_seen": "2023-12-28T15:52:33Z",
+        "last_seen": "2023-12-28T21:39:33Z",
         "status": "Online",
         "observations": 1743,
         "description": "Marathon Library",
@@ -40703,7 +40703,7 @@
             }
         ],
         "created": "2020-08-21T16:53:05Z",
-        "last_seen": "2023-12-28T15:52:20Z",
+        "last_seen": "2023-12-28T21:39:20Z",
         "status": "Online",
         "observations": 2732,
         "description": "RPI, NESDR Smart and LNA, VHF Turnstile",
@@ -40828,7 +40828,7 @@
             }
         ],
         "created": "2020-08-26T15:38:05Z",
-        "last_seen": "2023-12-28T15:52:10Z",
+        "last_seen": "2023-12-28T21:39:10Z",
         "status": "Testing",
         "observations": 48,
         "description": "Simple Omni ground station in Suffolk, UK.",
@@ -41475,7 +41475,7 @@
             }
         ],
         "created": "2020-09-09T05:29:30Z",
-        "last_seen": "2023-12-28T15:52:20Z",
+        "last_seen": "2023-12-28T21:39:20Z",
         "status": "Online",
         "observations": 8016,
         "description": "NOTE: UHF available again (still bad, but somewhat better than previously)",
@@ -41560,7 +41560,7 @@
             }
         ],
         "created": "2020-09-09T17:38:57Z",
-        "last_seen": "2023-12-28T15:52:27Z",
+        "last_seen": "2023-12-28T21:39:27Z",
         "status": "Online",
         "observations": 2203,
         "description": "USAGE -- \r\nThis ground station is set up to primarily receive and process APT/LRPT from NOAA/METEOR satellites between 137-138MHz. \r\n// \r\nHARDWARE -- \r\nPi: 4B | \r\nSDR: SMArTee XTR | \r\nFilter: Distill FM | \r\nLNA: SAWbird+ NOAA | \r\nAntenna: WXSAT QFH RHCP (UC-1374-531R) \r\n// \r\nNOTES -- \r\nLocation is approximated. \r\nAntenna is right-hand circular polarized.",
@@ -41617,7 +41617,7 @@
             }
         ],
         "created": "2020-09-12T09:20:25Z",
-        "last_seen": "2023-12-28T15:52:15Z",
+        "last_seen": "2023-12-28T21:39:10Z",
         "status": "Online",
         "observations": 9283,
         "description": "ANTENA DIAMOND X-30 + LNA BFK RF Designs",
@@ -41642,7 +41642,7 @@
             }
         ],
         "created": "2020-09-13T16:54:09Z",
-        "last_seen": "2023-12-28T15:52:51Z",
+        "last_seen": "2023-12-28T21:39:51Z",
         "status": "Testing",
         "observations": 3013,
         "description": "USAGE -- \r\nThis ground station is set up to operate between 143-150MHz. \r\n// \r\nHARDWARE -- \r\nPi: 4B | \r\nSDR: SMArTee XTR | \r\nFilter: Distill FM | \r\nLNA: NooElec LaNA | \r\nAntenna: VHF QFH LHCP (UC-1464-531L) \r\n// \r\nNOTES -- \r\nLocation is approximated. \r\nAntenna is left-hand circular polarized.",
@@ -41780,7 +41780,7 @@
             }
         ],
         "created": "2020-09-17T06:19:37Z",
-        "last_seen": "2023-12-28T15:53:03Z",
+        "last_seen": "2023-12-28T21:39:03Z",
         "status": "Testing",
         "observations": 23616,
         "description": "Dual-Band Log Periodic Antenna or LPDA  (log-periodic dipole array) VHF/UHF. 2 Meter gain is 6.8 dbd (8.9 dBi) and 440 Gain is 7 dBd (9 dBi). Set up on a 360° Rotator, Azimuth only with a set angle of 30°. The Azimuth changes from time to time when manually scheduling for Satellites on the Polar Plot. Rpi 3B+, RTL-SDR + RTL-LNA. Trying this all out and we'll see what happens, 1st Station on the Island.\r\nJuly'22: Added a Rotator Wifi controller on the LAN/WAN to control the Rotator on/off site.",
@@ -42497,7 +42497,7 @@
             }
         ],
         "created": "2020-10-03T23:48:00Z",
-        "last_seen": "2023-12-28T15:52:37Z",
+        "last_seen": "2023-12-28T21:39:37Z",
         "status": "Testing",
         "observations": 6,
         "description": "New Az/El control unit being deployed. Making sure the Az/El is working as expected.",
@@ -42838,7 +42838,7 @@
             }
         ],
         "created": "2020-10-10T11:43:53Z",
-        "last_seen": "2023-12-28T15:53:13Z",
+        "last_seen": "2023-12-28T21:39:13Z",
         "status": "Testing",
         "observations": 693,
         "description": "",
@@ -43027,7 +43027,7 @@
             }
         ],
         "created": "2020-10-13T23:28:01Z",
-        "last_seen": "2023-12-28T15:52:42Z",
+        "last_seen": "2023-12-28T21:39:42Z",
         "status": "Testing",
         "observations": 4307,
         "description": "As at 20220116 In the process of re-commissioning w/new antennae from Vinnant and better mounting. Note RX gain is still quite low, I think I may have fried pre-amp :( Omni station using RTL-SDR V3 and Minikits preamp. Anyone is welcome to schedule time on station.",
@@ -43826,9 +43826,9 @@
             }
         ],
         "created": "2020-11-01T19:42:19Z",
-        "last_seen": "2023-12-28T15:52:22Z",
+        "last_seen": "2023-12-28T21:39:23Z",
         "status": "Online",
-        "observations": 19166,
+        "observations": 19196,
         "description": "UHF telemetria\r\nVHF telemetria",
         "client_version": "1.8.1",
         "target_utilization": 99
@@ -43915,9 +43915,9 @@
             }
         ],
         "created": "2020-11-06T13:48:24Z",
-        "last_seen": "2023-12-28T15:52:27Z",
+        "last_seen": "2023-12-28T21:39:27Z",
         "status": "Online",
-        "observations": 174517,
+        "observations": 174572,
         "description": "Running on docker: https://github.com/kng/satnogs-client-docker/blob/main/lsf/LSF-GUIDE.md | Raspberry Pi 4 | Raspberry Pi OS |  SDR RX: RTL-SDR v3 | Antenna: Turnstile Vinnant 137MHz, QFH 435MHz.",
         "client_version": "1.8.1+sa2kng",
         "target_utilization": 100
@@ -44029,7 +44029,7 @@
             }
         ],
         "created": "2020-11-07T23:06:07Z",
-        "last_seen": "2023-12-28T15:52:56Z",
+        "last_seen": "2023-12-28T21:39:56Z",
         "status": "Online",
         "observations": 4240,
         "description": "My little s-band station: 4G feed on fixed dish pointing roughly at 300° (WNW) and 30-45° elevation-> VLNA13 -> Coax -> 1.5GHz LPF -> HackRF SDR -> RPi 4 8GB. The HackRF uses a Leo Bodnar GPSDO mini reference. On a first floor balcony with mostly west opening. Not a terrible location but the best I can do living in a flat.",
@@ -44086,7 +44086,7 @@
             }
         ],
         "created": "2020-11-09T17:01:25Z",
-        "last_seen": "2023-12-28T15:52:25Z",
+        "last_seen": "2023-12-28T21:39:25Z",
         "status": "Testing",
         "observations": 417,
         "description": "ESTACA ground station",
@@ -44348,7 +44348,7 @@
             }
         ],
         "created": "2020-11-16T08:59:13Z",
-        "last_seen": "2023-12-28T15:53:17Z",
+        "last_seen": "2023-12-28T21:39:17Z",
         "status": "Online",
         "observations": 216,
         "description": "WH7PK, Waimea",
@@ -44451,7 +44451,7 @@
             }
         ],
         "created": "2020-11-19T03:43:39Z",
-        "last_seen": "2023-12-28T15:52:58Z",
+        "last_seen": "2023-12-28T21:39:58Z",
         "status": "Testing",
         "observations": 4502,
         "description": "USAGE -- \r\nThis ground station is set up to operate between 435-438MHz. \r\n// \r\nHARDWARE -- \r\nPi: 4B | \r\nSDR: SMArTee XTR | \r\nLNA: NooElec LaNA | \r\nAntenna: UHF QFH RHCP (UC-4364-328) \r\n// \r\nNOTES -- \r\nLocation is approximated. \r\nAntenna is right-hand circular polarized.",
@@ -44540,11 +44540,11 @@
             }
         ],
         "created": "2020-11-21T15:10:01Z",
-        "last_seen": "2023-12-28T15:53:04Z",
+        "last_seen": "2023-12-28T21:39:47Z",
         "status": "Online",
-        "observations": 47276,
+        "observations": 47305,
         "description": "Running on docker: https://github.com/kng/satnogs-client-docker/blob/main/lsf/LSF-GUIDE.md | Intel NUC 11, Ubuntu 22 | SDR RX: usrp b205mini | Antenna: M2 30el rhcp yagi",
-        "client_version": "0+untagged.1.g3e76d1a",
+        "client_version": "0+untagged.1.g0f43f81",
         "target_utilization": 100
     },
     {
@@ -44572,9 +44572,9 @@
             }
         ],
         "created": "2020-11-21T23:12:50Z",
-        "last_seen": "2023-12-28T15:52:40Z",
+        "last_seen": "2023-12-28T21:39:40Z",
         "status": "Online",
-        "observations": 8480,
+        "observations": 8495,
         "description": "RPI4 + RTLSDR+ LNA +\r\nArrow II Model 146/437-10 - situated indoors.    \r\nOperated by Scouters  from 1st Meath Navan Scout group supported by Radio Scouting Ireland to bring Amateur Radio, science, technology, engineering and mathematics (STEM) activities in a fun and interesting way across the scout groups of Ireland.\r\n\r\nhttps://www.radioscouting.ie",
         "client_version": "1.8.1",
         "target_utilization": 0
@@ -44742,7 +44742,7 @@
             }
         ],
         "created": "2020-11-27T15:59:52Z",
-        "last_seen": "2023-12-28T15:52:57Z",
+        "last_seen": "2023-12-28T21:39:57Z",
         "status": "Online",
         "observations": 280,
         "description": "Vinnant turnstile with 2m/70cm preamp",
@@ -45335,7 +45335,7 @@
             }
         ],
         "created": "2020-12-11T20:57:01Z",
-        "last_seen": "2023-12-28T15:53:11Z",
+        "last_seen": "2023-12-28T21:40:11Z",
         "status": "Testing",
         "observations": 206,
         "description": "",
@@ -45392,7 +45392,7 @@
             }
         ],
         "created": "2020-12-13T02:43:39Z",
-        "last_seen": "2023-12-28T15:52:33Z",
+        "last_seen": "2023-12-28T21:39:33Z",
         "status": "Online",
         "observations": 6252,
         "description": "(If Station is in Testing Mode it's being used for SSB Sat work or down for Maintenance) \r\nPi 3 B+, RSP1A, Nooelec LNA, DIY Folded Dipole Driven 7el X-Pol Yagi on 10ft Boom.\r\nhttps://www.arrl.org/shop/files/pdfs/Satellite%20project.pdf",
@@ -45825,9 +45825,9 @@
             }
         ],
         "created": "2020-12-28T22:46:41Z",
-        "last_seen": "2023-12-28T15:52:35Z",
+        "last_seen": "2023-12-28T21:39:35Z",
         "status": "Online",
-        "observations": 117887,
+        "observations": 117913,
         "description": "",
         "client_version": "1.8.1",
         "target_utilization": 50
@@ -45999,7 +45999,7 @@
             }
         ],
         "created": "2020-12-31T13:52:39Z",
-        "last_seen": "2023-12-28T15:52:55Z",
+        "last_seen": "2023-12-28T21:39:55Z",
         "status": "Testing",
         "observations": 5067,
         "description": "UNDER MAINTENANCE\r\n\r\nCzech Aerospace Research Centre Ground Station in Prague (Antenna: M2 436CP30, Rotator: SPID SPX-01, SDR: RTL-SDR, LNA: MKU LNA 432 A)",
@@ -46088,7 +46088,7 @@
             }
         ],
         "created": "2021-01-02T02:36:36Z",
-        "last_seen": "2023-12-28T15:52:31Z",
+        "last_seen": "2023-12-28T21:39:31Z",
         "status": "Online",
         "observations": 1903,
         "description": "",
@@ -46245,7 +46245,7 @@
             }
         ],
         "created": "2021-01-04T10:33:48Z",
-        "last_seen": "2023-12-28T15:53:18Z",
+        "last_seen": "2023-12-28T21:40:18Z",
         "status": "Testing",
         "observations": 2292,
         "description": "M2 Eggbeater EB-432/RK70CM, 420-450 MHz with mast amplifier\r\nThe station belongs to the university of Luxembourg/SnT CubeSatLab: https://ism.uni.lu/facility/cubesat-lab/  .",
@@ -46427,7 +46427,7 @@
             }
         ],
         "created": "2021-01-07T20:23:07Z",
-        "last_seen": "2023-12-28T15:53:26Z",
+        "last_seen": "2023-12-28T21:39:26Z",
         "status": "Testing",
         "observations": 74,
         "description": "",
@@ -46738,7 +46738,7 @@
             }
         ],
         "created": "2021-01-16T07:33:15Z",
-        "last_seen": "2023-12-28T15:53:10Z",
+        "last_seen": "2023-12-28T21:40:10Z",
         "status": "Testing",
         "observations": 1972,
         "description": "YAGI antenna pointed straight up!",
@@ -46872,7 +46872,7 @@
             }
         ],
         "created": "2021-01-23T05:46:18Z",
-        "last_seen": "2023-12-28T15:52:36Z",
+        "last_seen": "2023-12-28T21:39:36Z",
         "status": "Online",
         "observations": 272,
         "description": "",
@@ -46954,7 +46954,7 @@
             }
         ],
         "created": "2021-01-23T21:07:09Z",
-        "last_seen": "2023-12-28T15:52:42Z",
+        "last_seen": "2023-12-28T21:39:42Z",
         "status": "Online",
         "observations": 3672,
         "description": "Vestal, NY",
@@ -47381,7 +47381,7 @@
             }
         ],
         "created": "2021-01-31T01:37:43Z",
-        "last_seen": "2023-12-28T15:52:53Z",
+        "last_seen": "2023-12-28T21:39:53Z",
         "status": "Online",
         "observations": 6800,
         "description": "Raspberry Pi3B+ on WiFi --> Nooelec Smart RTL-SDR --> LNA-70cm-EME VHFdesign.com --> DIY Folded Dipole Driven 13el X-Pol Yagi on 10ft Boom pointing straight UP.\r\nhttps://www.arrl.org/shop/files/pdfs/Satellite%20project.pdf",
@@ -47463,9 +47463,9 @@
             }
         ],
         "created": "2021-01-31T18:39:15Z",
-        "last_seen": "2023-12-28T15:52:44Z",
+        "last_seen": "2023-12-28T21:39:44Z",
         "status": "Online",
-        "observations": 67217,
+        "observations": 67221,
         "description": "Rpi3 + RTL-SDRv3 + LNA SPF5189Z + 88-108 FILTER + Test anteny QFH-435MHz.",
         "client_version": "1.8.1",
         "target_utilization": 79
@@ -47545,9 +47545,9 @@
             }
         ],
         "created": "2021-02-01T13:42:26Z",
-        "last_seen": "2023-12-28T15:53:18Z",
+        "last_seen": "2023-12-28T21:40:18Z",
         "status": "Online",
-        "observations": 91818,
+        "observations": 91847,
         "description": "Raspberry Pi 4B, RTL-SDR-V3, Vinnant Turnstile.",
         "client_version": "1.8.1",
         "target_utilization": 100
@@ -47620,9 +47620,9 @@
             }
         ],
         "created": "2021-02-02T18:33:30Z",
-        "last_seen": "2023-12-28T15:53:04Z",
+        "last_seen": "2023-12-28T21:40:05Z",
         "status": "Testing",
-        "observations": 9315,
+        "observations": 9320,
         "description": "Omni137 & 145 Share the same 130-150MHz QFH antenna, but have a pair of differently tuned SAW filters and LNAs",
         "client_version": "1.6",
         "target_utilization": 100
@@ -47930,7 +47930,7 @@
             }
         ],
         "created": "2021-02-07T08:37:08Z",
-        "last_seen": "2023-12-28T15:53:23Z",
+        "last_seen": "2023-12-28T21:40:23Z",
         "status": "Online",
         "observations": 95440,
         "description": "Yagi, vertical polarization, directed to west (270°), elevation 30° -> Uputronix 433-438 MHz filtred preamp -> RTL-SDR v3 -> Raspberry Pi 4.\r\n\r\nPlease, do not use this station for east passes. Antenna is directed to west.\r\nUse station #1710 for east passes.",
@@ -47987,7 +47987,7 @@
             }
         ],
         "created": "2021-02-08T15:14:23Z",
-        "last_seen": "2023-12-28T15:53:30Z",
+        "last_seen": "2023-12-28T21:40:30Z",
         "status": "Online",
         "observations": 2645,
         "description": "",
@@ -48012,7 +48012,7 @@
             }
         ],
         "created": "2021-02-09T16:46:42Z",
-        "last_seen": "2023-12-28T15:53:33Z",
+        "last_seen": "2023-12-28T21:39:33Z",
         "status": "Online",
         "observations": 6150,
         "description": "Educational VHF Ground Station of TUM Chair of Astronautics (LRT). Antenna: Custom 2m double quad. Pre-Amplifier: Pole LNA 144-146 MHz. SDR: Nooelec NESDR SMArt v4.",
@@ -48175,7 +48175,7 @@
             }
         ],
         "created": "2021-02-12T13:36:57Z",
-        "last_seen": "2023-12-28T15:53:29Z",
+        "last_seen": "2023-12-28T21:40:29Z",
         "status": "Testing",
         "observations": 4194,
         "description": "5469-Wielkopolska. Eddyosp@LunAres. \r\nUHF Yagi-Uda antenna+RTL-SDR LNA+RTL-SDR+Raspberry Pi 3.\r\nGround Station for LUNARES 11-ORPHEUS MISSION. \r\nMembebrs: Ben, Ola, Edziu, Alicja, Marcin, Sara, Shawna. \r\nLocation: LunAres Research Station, Pila, Poland. \r\nManaged by @yiea and @eddyosp.\r\nMinor modifications made during VERNE mission-Victoria Olivar was here XD",
@@ -48239,7 +48239,7 @@
             }
         ],
         "created": "2021-02-13T12:50:13Z",
-        "last_seen": "2023-12-28T15:52:59Z",
+        "last_seen": "2023-12-28T21:39:59Z",
         "status": "Testing",
         "observations": 6863,
         "description": "Omni137 & 145 Share the same 130-150MHz QFH antenna, but have a pair of differently tuned SAW filters and LNAs",
@@ -48516,9 +48516,9 @@
             }
         ],
         "created": "2021-02-17T18:18:02Z",
-        "last_seen": "2023-12-28T15:52:42Z",
+        "last_seen": "2023-12-28T21:39:43Z",
         "status": "Online",
-        "observations": 32817,
+        "observations": 32847,
         "description": "Located at University of Alaska Fairbanks - Alaska Satellite Facility which hosts University of Colorado Boulder - Laboratory for Atmospheric and Space Physics UHF ground station. A static 5 element yagi on a tower mast pointed NW @ 35 ele , Nooelec LANA LNA, 50' LMR-400, Airspy mini, rpi4 running dockerized satnogs-client. Contact scott.gennari [at] lasp.colorado.edu with any inquires.",
         "client_version": "1.8.1+47.gf2e0c2f.dirty",
         "target_utilization": 100
@@ -49327,7 +49327,7 @@
             }
         ],
         "created": "2021-03-11T16:24:37Z",
-        "last_seen": "2023-12-28T15:53:05Z",
+        "last_seen": "2023-12-28T21:40:05Z",
         "status": "Testing",
         "observations": 474,
         "description": "La Biblioteca de Santiago, dependiente del Servicio Nacional del Patrimonio Cultural, es una biblioteca pública modelo, que entrega servicios innovadores con calidad y equidad, generando igualdad de oportunidades en el acceso a la información, conocimiento, recreación, cultura, educación y fomento a la lectura y escritura, a las y los habitantes de la Región Metropolitana y a las usuarias y usuarios del Sistema Nacional de Bibliotecas Públicas del país.",
@@ -49473,7 +49473,7 @@
             }
         ],
         "created": "2021-03-14T13:25:42Z",
-        "last_seen": "2023-12-28T15:53:06Z",
+        "last_seen": "2023-12-28T21:40:06Z",
         "status": "Testing",
         "observations": 6143,
         "description": "Satellite Ground Station currently using an Airspy-mini and home brew Parasitic Lindenblad antennas for VHF/UHF.",
@@ -49683,7 +49683,7 @@
             }
         ],
         "created": "2021-03-16T02:16:50Z",
-        "last_seen": "2023-12-28T15:53:10Z",
+        "last_seen": "2023-12-28T21:40:10Z",
         "status": "Online",
         "observations": 439,
         "description": "Madison, AL",
@@ -49829,7 +49829,7 @@
             }
         ],
         "created": "2021-03-20T09:43:50Z",
-        "last_seen": "2023-12-28T15:53:22Z",
+        "last_seen": "2023-12-28T21:40:22Z",
         "status": "Online",
         "observations": 1669,
         "description": "",
@@ -49918,9 +49918,9 @@
             }
         ],
         "created": "2021-03-21T05:15:19Z",
-        "last_seen": "2023-12-28T15:53:33Z",
+        "last_seen": "2023-12-28T21:40:33Z",
         "status": "Online",
-        "observations": 20071,
+        "observations": 20072,
         "description": "Pi4 + Airspy Mini +  3ele(145MHz)/6ele(435MHz) YAGI Fixed beam to the SouthWest.+ LNA",
         "client_version": "1.8.1",
         "target_utilization": 0
@@ -49943,7 +49943,7 @@
             }
         ],
         "created": "2021-03-21T10:46:27Z",
-        "last_seen": "2023-12-28T15:53:15Z",
+        "last_seen": "2023-12-28T21:40:15Z",
         "status": "Online",
         "observations": 1283,
         "description": "0.7dB NF pre-amp\r\nMcCaffrey Airfield\r\n22ndAug'21. Antenna repaired. signals back to normal",
@@ -50000,7 +50000,7 @@
             }
         ],
         "created": "2021-03-21T22:05:06Z",
-        "last_seen": "2023-12-28T15:53:13Z",
+        "last_seen": "2023-12-28T21:40:13Z",
         "status": "Testing",
         "observations": 186,
         "description": "",
@@ -50330,7 +50330,7 @@
             }
         ],
         "created": "2021-03-25T13:40:27Z",
-        "last_seen": "2023-12-28T15:53:32Z",
+        "last_seen": "2023-12-28T21:40:32Z",
         "status": "Testing",
         "observations": 1097,
         "description": "Antenna MR77S, 144/430MHz Band Magnet Mount Antenna, DIAMOND ANTENNA. 3.4 dBi (430MHz), 0.5m, 50ohm UHF/VHF non radial whip antenna.",
@@ -50429,9 +50429,9 @@
             }
         ],
         "created": "2021-03-27T15:33:56Z",
-        "last_seen": "2023-12-28T15:53:45Z",
+        "last_seen": "2023-12-28T21:39:45Z",
         "status": "Online",
-        "observations": 14372,
+        "observations": 14378,
         "description": "",
         "client_version": "1.8.1",
         "target_utilization": 100
@@ -50650,9 +50650,9 @@
             }
         ],
         "created": "2021-03-30T14:55:16Z",
-        "last_seen": "2023-12-28T15:53:07Z",
+        "last_seen": "2023-12-28T21:40:07Z",
         "status": "Online",
-        "observations": 71002,
+        "observations": 71025,
         "description": "10-element Arrow II yagi antenna fixed position pointing west at 30 deg elevation. Nooelec wideband (LANA) LNA,  RG8x coax, Debian11 ansible satnogs-client  & RTL-SDR .",
         "client_version": "1.8.1",
         "target_utilization": 100
@@ -50675,7 +50675,7 @@
             }
         ],
         "created": "2021-04-01T01:00:40Z",
-        "last_seen": "2023-12-28T15:53:06Z",
+        "last_seen": "2023-12-28T21:40:06Z",
         "status": "Online",
         "observations": 15186,
         "description": "Raspberry Pi + SDR DVB-T+FM+DAB",
@@ -50700,7 +50700,7 @@
             }
         ],
         "created": "2021-04-01T14:02:45Z",
-        "last_seen": "2023-12-28T15:53:20Z",
+        "last_seen": "2023-12-28T21:40:20Z",
         "status": "Online",
         "observations": 2012,
         "description": "Ground station located in San Siro area, Milano",
@@ -50757,9 +50757,9 @@
             }
         ],
         "created": "2021-04-02T21:32:22Z",
-        "last_seen": "2023-12-28T15:53:35Z",
+        "last_seen": "2023-12-28T21:40:35Z",
         "status": "Online",
-        "observations": 14153,
+        "observations": 14152,
         "description": "2x10 element cross yagi UHF (Wimo WX-7020), 2x4 element cross yagi VHF (Wimo WX-208), Wimo duplexer, lna4all (bias-T powered), SPID RAS rotator, RTL-SDR v3. Enjoy!\r\n\r\nNews: \r\n1st May 2023 The station has returned bad observations because of USB error... After rebooting the station is up again.\r\n13th June 2022: The station was down because of faulty relay in rot2prog. Relays have been replaced by MOSFETs and the station is up again.",
         "client_version": "1.6",
         "target_utilization": 7
@@ -51008,7 +51008,7 @@
             }
         ],
         "created": "2021-04-09T19:14:14Z",
-        "last_seen": "2023-12-28T15:53:14Z",
+        "last_seen": "2023-12-28T21:40:14Z",
         "status": "Online",
         "observations": 3128,
         "description": "37.103, -121.634",
@@ -51058,7 +51058,7 @@
             }
         ],
         "created": "2021-04-11T10:18:36Z",
-        "last_seen": "2023-12-28T15:53:19Z",
+        "last_seen": "2023-12-28T21:40:16Z",
         "status": "Online",
         "observations": 7753,
         "description": "Raspberry Pi 3 Model B + RTL-SDR V3 + LNA(+20dB Max, 430MHz), Discone antenna Diamond D130 (25-1300MHz for receiving)",
@@ -51104,7 +51104,7 @@
             }
         ],
         "created": "2021-04-11T13:58:57Z",
-        "last_seen": "2023-12-28T15:53:17Z",
+        "last_seen": "2023-12-28T21:40:17Z",
         "status": "Testing",
         "observations": 237,
         "description": "ON TRIAL AND INTERMITTENT !\r\nRPi3B, Adalm Pluto: currently testing rotator and S-band reception chain ... \r\nOnly passes between NE thru SE to SW - antenna has no sky view from west to north.",
@@ -51253,7 +51253,7 @@
             }
         ],
         "created": "2021-04-14T12:46:51Z",
-        "last_seen": "2023-12-28T15:53:18Z",
+        "last_seen": "2023-12-28T21:40:18Z",
         "status": "Online",
         "observations": 12453,
         "description": "ITSDLab SatNOGS\r\nRPi4 + RTL-SDRv3 + UHF Amateur Satellite Antenna with built-in LNA(435-438 MHz)",
@@ -51392,7 +51392,7 @@
             }
         ],
         "created": "2021-04-16T14:17:39Z",
-        "last_seen": "2023-12-28T15:53:25Z",
+        "last_seen": "2023-12-28T21:40:25Z",
         "status": "Testing",
         "observations": 559,
         "description": "This Satnogs system will run a rtl-sdr for VHF and UHF 5/8 Vertical",
@@ -51417,7 +51417,7 @@
             }
         ],
         "created": "2021-04-16T21:20:07Z",
-        "last_seen": "2023-12-28T15:53:26Z",
+        "last_seen": "2023-12-28T21:40:26Z",
         "status": "Testing",
         "observations": 402,
         "description": "",
@@ -51630,9 +51630,9 @@
             }
         ],
         "created": "2021-04-21T14:24:33Z",
-        "last_seen": "2023-12-28T15:53:48Z",
+        "last_seen": "2023-12-28T21:39:48Z",
         "status": "Online",
-        "observations": 41324,
+        "observations": 41352,
         "description": "Fujitsu Esprimo Q920, Intel i3 | Debian Bullseye (amd64) | SDR Airspy Mini | Spacewalker LNA 434MHz by decent.org and ha7dcd | Antenna: 3 Element Yagi",
         "client_version": "1.8.1",
         "target_utilization": 0
@@ -51719,9 +51719,9 @@
             }
         ],
         "created": "2021-04-23T11:57:29Z",
-        "last_seen": "2023-12-28T15:53:50Z",
+        "last_seen": "2023-12-28T21:39:50Z",
         "status": "Online",
-        "observations": 33911,
+        "observations": 33925,
         "description": "Fujitsu Esprimo Q920, Intel i3 | Debian Bullseye (amd64) | SDR RX: RTL-SDR v4 | Antenna: Turnstile",
         "client_version": "1.8.1",
         "target_utilization": 0
@@ -51776,7 +51776,7 @@
             }
         ],
         "created": "2021-04-24T18:55:55Z",
-        "last_seen": "2023-12-28T15:53:32Z",
+        "last_seen": "2023-12-28T21:40:32Z",
         "status": "Online",
         "observations": 6484,
         "description": "Tiny Ground Station. Dongle DVB-T+DAB+FM, Dual Band Antenna, 10 meter RG-8 cable. Raspberry-Pi 3. Where the birds fly and chirp!",
@@ -51899,7 +51899,7 @@
             }
         ],
         "created": "2021-04-26T20:33:59Z",
-        "last_seen": "2023-12-28T15:53:37Z",
+        "last_seen": "2023-12-28T21:40:37Z",
         "status": "Online",
         "observations": 4792,
         "description": "",
@@ -52395,7 +52395,7 @@
             }
         ],
         "created": "2021-05-06T20:45:45Z",
-        "last_seen": "2023-12-28T15:52:57Z",
+        "last_seen": "2023-12-28T21:39:57Z",
         "status": "Online",
         "observations": 9826,
         "description": "VHF 5/8 -> RTL-SDR v3 -> Raspberry Pi 4.",
@@ -52569,7 +52569,7 @@
             }
         ],
         "created": "2021-05-10T01:39:48Z",
-        "last_seen": "2023-12-28T15:53:40Z",
+        "last_seen": "2023-12-28T21:40:40Z",
         "status": "Online",
         "observations": 2706,
         "description": "RTL-SDR with TCXO & LNA connected to roof mounted Turnstile antenna. Terrain may restrict the successful reception of lower passes to the North and East.",
@@ -52626,7 +52626,7 @@
             }
         ],
         "created": "2021-05-11T13:52:36Z",
-        "last_seen": "2023-12-28T15:53:10Z",
+        "last_seen": "2023-12-28T21:40:10Z",
         "status": "Testing",
         "observations": 2775,
         "description": "LZ1NY Ground Station",
@@ -52651,7 +52651,7 @@
             }
         ],
         "created": "2021-05-11T16:12:44Z",
-        "last_seen": "2023-12-28T15:53:05Z",
+        "last_seen": "2023-12-28T21:40:05Z",
         "status": "Testing",
         "observations": 2442,
         "description": "AarhusUniversity_UHF Satellite Ground Station \r\nGomspace GS 100 With rtlsdr receiver\r\noperated by 5P4SS",
@@ -53044,9 +53044,9 @@
             }
         ],
         "created": "2021-05-21T16:57:36Z",
-        "last_seen": "2023-12-28T15:53:21Z",
+        "last_seen": "2023-12-28T21:40:20Z",
         "status": "Online",
-        "observations": 12335,
+        "observations": 12339,
         "description": "RPI3 + RTL SDR v3 -> Antenna build log: https://sp6hfe.eu/antena-turnstile-uhf-do-obserwacji-satelitarnych/",
         "client_version": "1.6",
         "target_utilization": 100
@@ -53494,7 +53494,7 @@
             }
         ],
         "created": "2021-06-15T11:29:24Z",
-        "last_seen": "2023-12-28T15:53:41Z",
+        "last_seen": "2023-12-28T21:40:41Z",
         "status": "Online",
         "observations": 1516,
         "description": "UHF Quadrafilar Helix Antenna",
@@ -53892,7 +53892,7 @@
             }
         ],
         "created": "2021-06-24T12:25:57Z",
-        "last_seen": "2023-12-28T15:53:36Z",
+        "last_seen": "2023-12-28T21:40:36Z",
         "status": "Testing",
         "observations": 10765,
         "description": "",
@@ -54234,9 +54234,9 @@
             }
         ],
         "created": "2021-06-29T19:13:07Z",
-        "last_seen": "2023-12-28T15:53:08Z",
-        "status": "Testing",
-        "observations": 9534,
+        "last_seen": "2023-12-28T20:13:08Z",
+        "status": "Offline",
+        "observations": 9535,
         "description": "EIRSAT-1 Ground Station at University College Dublin.\r\n\r\nCurrently the UHF Yagi is connected to SatNOGS. Will do our best to keep this online when not required for EIRSAT-1 activities.\r\n\r\n2x18 element UHF crossed Yagi phased for RHCP, SHF Elektronik Mini 70 Preamp, Yaesu G-5500 Rotator, NESDR, Raspberry Pi 3B+.",
         "client_version": "1.8.1+47.gf2e0c2f.dirty",
         "target_utilization": 100
@@ -54266,7 +54266,7 @@
             }
         ],
         "created": "2021-06-30T06:40:11Z",
-        "last_seen": "2023-12-28T15:53:59Z",
+        "last_seen": "2023-12-28T21:40:59Z",
         "status": "Online",
         "observations": 1317,
         "description": "433 MHz Turnstile from Winkler Antennenbau, BPF, LNA. 144 MHz Turnstile from Wimo TA-1, LNA.\r\nNote: X-Quad Yagis shown in the image are used for two-way ham radio contacts via Amateur radio satellites. During this time, LNA's for SatNOGS will be switched off to avoid any damage.",
@@ -54584,7 +54584,7 @@
             }
         ],
         "created": "2021-07-11T13:19:04Z",
-        "last_seen": "2023-12-28T15:54:02Z",
+        "last_seen": "2023-12-28T21:40:02Z",
         "status": "Online",
         "observations": 6508,
         "description": "",
@@ -54609,7 +54609,7 @@
             }
         ],
         "created": "2021-07-12T15:40:21Z",
-        "last_seen": "2023-12-28T15:53:08Z",
+        "last_seen": "2023-12-28T21:40:08Z",
         "status": "Testing",
         "observations": 966,
         "description": "Home made QFH RX antenna (437MHz centered) / Uputronics 435MHz cubesat filtered preamp / Nooelec RTL-SDR dongle / Raspberry Pi 4B",
@@ -54708,7 +54708,7 @@
             }
         ],
         "created": "2021-07-14T09:13:39Z",
-        "last_seen": "2023-12-28T15:53:29Z",
+        "last_seen": "2023-12-28T21:40:29Z",
         "status": "Testing",
         "observations": 55,
         "description": "",
@@ -54985,7 +54985,7 @@
             }
         ],
         "created": "2021-07-21T17:15:40Z",
-        "last_seen": "2023-12-28T15:53:09Z",
+        "last_seen": "2023-12-28T21:40:09Z",
         "status": "Testing",
         "observations": 35404,
         "description": "SatNOGS project",
@@ -55391,7 +55391,7 @@
             }
         ],
         "created": "2021-07-29T21:16:27Z",
-        "last_seen": "2023-12-28T15:53:36Z",
+        "last_seen": "2023-12-28T21:40:36Z",
         "status": "Testing",
         "observations": 15,
         "description": "Raspberry Pi + RTL-SDR",
@@ -55752,7 +55752,7 @@
             }
         ],
         "created": "2021-08-08T18:06:57Z",
-        "last_seen": "2023-12-28T15:53:13Z",
+        "last_seen": "2023-12-28T21:40:13Z",
         "status": "Testing",
         "observations": 22243,
         "description": "Raspberry Pi, RTL-SDR, LNA and VHF Turnstile.\r\n= Ground station currently out of service and temporarily restricted frequency range (NOAA), awaiting repairs to main antenna =",
@@ -55866,7 +55866,7 @@
             }
         ],
         "created": "2021-08-10T18:05:44Z",
-        "last_seen": "2023-12-28T15:53:41Z",
+        "last_seen": "2023-12-28T21:40:41Z",
         "status": "Testing",
         "observations": 66,
         "description": "",
@@ -56030,7 +56030,7 @@
             }
         ],
         "created": "2021-08-18T21:33:11Z",
-        "last_seen": "2023-12-28T15:53:09Z",
+        "last_seen": "2023-12-28T21:40:09Z",
         "status": "Testing",
         "observations": 432,
         "description": "",
@@ -56176,7 +56176,7 @@
             }
         ],
         "created": "2021-08-20T11:43:22Z",
-        "last_seen": "2023-12-28T15:53:12Z",
+        "last_seen": "2023-12-28T21:40:12Z",
         "status": "Testing",
         "observations": 2866,
         "description": "Amateur satellite rig, currently focused on 135Mhz - 150Mhz.\r\n\r\nAt the moment RPi4, RTL-SDR v3, LNA4ALL and a v-dipole",
@@ -56777,9 +56777,9 @@
             }
         ],
         "created": "2021-09-03T16:57:08Z",
-        "last_seen": "2023-12-28T15:54:03Z",
+        "last_seen": "2023-12-28T21:41:03Z",
         "status": "Online",
-        "observations": 1085,
+        "observations": 1091,
         "description": "",
         "client_version": "1.8.1",
         "target_utilization": 0
@@ -56880,7 +56880,7 @@
             }
         ],
         "created": "2021-09-05T05:53:27Z",
-        "last_seen": "2023-12-28T15:53:44Z",
+        "last_seen": "2023-12-28T21:40:44Z",
         "status": "Online",
         "observations": 3304,
         "description": "\"Code in Space\" Ground Station by Orbital Space.\r\nDiscone Antenna (Comet DS-150S). Receive 25-1300 MHz, Gain 5.12 dBi",
@@ -56905,9 +56905,9 @@
             }
         ],
         "created": "2021-09-06T12:39:41Z",
-        "last_seen": "2023-12-28T15:53:26Z",
+        "last_seen": "2023-12-28T21:40:48Z",
         "status": "Online",
-        "observations": 23377,
+        "observations": 23388,
         "description": "SPID RAS Rotator + 2x2 stacked WIMO X-Quad 70 cm + power combiner + LNA434 HA7DCD (triple filtered, double amplified) https://decent.org/ + RTL-SDR v3 + PC Engines APU2 with Devuan + custom pre/postprocessing extensions + hooks. More details and pictures: https://ccdsh.konkoly.hu/wiki/SatNOGS_station_2380.\r\n* \r\nPlease do not schedule observations that coincide with GRBAlpha, MRC-100, BDSAT-2 and VZLUSAT-2 passes. Thanks!",
         "client_version": "1.6",
         "target_utilization": 0
@@ -56930,9 +56930,9 @@
             }
         ],
         "created": "2021-09-07T12:43:54Z",
-        "last_seen": "2023-12-28T15:54:12Z",
+        "last_seen": "2023-12-28T21:41:12Z",
         "status": "Online",
-        "observations": 52603,
+        "observations": 52623,
         "description": "VHF omni station at Konkoly Observatory, Piszkesteto. Diamond DP-KE137 VHF QFH + Uputronics HAB-FPANOSAW wide band preamp + RTL-SDR V3 + RPi4.",
         "client_version": "1.8.1",
         "target_utilization": 0
@@ -57151,7 +57151,7 @@
             }
         ],
         "created": "2021-09-15T15:24:16Z",
-        "last_seen": "2023-12-28T15:54:13Z",
+        "last_seen": "2023-12-28T21:40:13Z",
         "status": "Testing",
         "observations": 750,
         "description": "",
@@ -57603,9 +57603,9 @@
             }
         ],
         "created": "2021-10-11T16:58:42Z",
-        "last_seen": "2023-12-28T15:54:12Z",
+        "last_seen": "2023-12-28T21:41:12Z",
         "status": "Online",
-        "observations": 55354,
+        "observations": 55368,
         "description": "Test station at ELTE Gothard Observatory, Szombathely, Hungary. DIY UHF QFH (3D printed, based on surligas design, see in wiki) + Uputronics HAB-FPA440 LNA/SAW + RTL-SDR V3 + RPi4.",
         "client_version": "1.8.1",
         "target_utilization": 0
@@ -57685,7 +57685,7 @@
             }
         ],
         "created": "2021-10-14T03:00:34Z",
-        "last_seen": "2023-12-28T15:53:46Z",
+        "last_seen": "2023-12-28T21:40:46Z",
         "status": "Online",
         "observations": 28398,
         "description": "Now with full AZ/EL support when I am not using the system.  Helical antenna 433MHz mounted on the roof with a G-5500DC rotator and Pre-amp into an RTL SDR using LMR400 and an FM notch filter.  Computer is a J1900 running Ubuntu 20.x and loaded with SatNOGS software compiled from source. ROTCTRLD to my windows computer with PstRotator.",
@@ -58089,7 +58089,7 @@
             }
         ],
         "created": "2021-11-06T03:47:43Z",
-        "last_seen": "2023-12-28T15:54:15Z",
+        "last_seen": "2023-12-28T21:41:15Z",
         "status": "Testing",
         "observations": 406,
         "description": "Rasberry Pi 4 Model B\r\nRTL SDR v. 3\r\nLNA4ALL\r\nNooelec Flamingo FM - Broadcast FM Bandstop Filter\r\nDIY V-Dipole tuned for NOAA APT",
@@ -58692,9 +58692,9 @@
             }
         ],
         "created": "2021-11-29T11:54:22Z",
-        "last_seen": "2023-12-28T15:54:13Z",
+        "last_seen": "2023-12-28T21:41:13Z",
         "status": "Online",
-        "observations": 2581,
+        "observations": 2598,
         "description": "Ground Station in Taucho, south of Tenerife, Canary Islands\r\nHomemade QFH Antenna with EA4BFK preamplifier.",
         "client_version": "1.8.1",
         "target_utilization": 0
@@ -58749,9 +58749,9 @@
             }
         ],
         "created": "2021-12-02T03:47:29Z",
-        "last_seen": "2023-12-28T15:53:29Z",
+        "last_seen": "2023-12-28T21:40:29Z",
         "status": "Online",
-        "observations": 10881,
+        "observations": 10883,
         "description": "LSTN in Loudon County, TN",
         "client_version": "1.6",
         "target_utilization": 100
@@ -58954,7 +58954,7 @@
             }
         ],
         "created": "2021-12-13T16:35:37Z",
-        "last_seen": "2023-12-28T15:54:18Z",
+        "last_seen": "2023-12-28T21:41:18Z",
         "status": "Testing",
         "observations": 665,
         "description": "sites.google.com/site/astronauticamateur/",
@@ -59086,7 +59086,7 @@
             }
         ],
         "created": "2021-12-19T01:14:45Z",
-        "last_seen": "2023-12-28T15:53:54Z",
+        "last_seen": "2023-12-28T21:40:54Z",
         "status": "Testing",
         "observations": 590,
         "description": "This is a ground station developed and managed by the Electronics and Communications Laboratory and the Aerospace Sciences Research Group of Instituto Tecnologico de Santo Domingo (INTEC) from Dominican Republic.",
@@ -59850,7 +59850,7 @@
             }
         ],
         "created": "2022-01-15T22:04:17Z",
-        "last_seen": "2023-12-28T15:53:36Z",
+        "last_seen": "2023-12-28T21:40:37Z",
         "status": "Online",
         "observations": 3087,
         "description": "DL5FAB´s Satellite Receive Ground Station running SatNOGS Client 1.6 on RBPi4.\r\nVHF and UHF Turnstile type antennas with Diplexfilters and LNAs used also for two-way ham radio contacts via Cubesats.\r\n\r\nNote: During two-way ham radio contacts scheduled SatNOGS passes will be ignored!",
@@ -60133,7 +60133,7 @@
             }
         ],
         "created": "2022-01-23T13:09:40Z",
-        "last_seen": "2023-12-28T15:54:02Z",
+        "last_seen": "2023-12-28T21:41:02Z",
         "status": "Testing",
         "observations": 161,
         "description": "Experimental SatNOGS ground station, installed in VM (PC with Intel i5) and compiled for Debian 10 (Buster) with GNU Radio 3.8, as part of SDR4FUN network, for testing purposes with different SDR units and antennas.",
@@ -60300,7 +60300,7 @@
             }
         ],
         "created": "2022-01-26T05:23:15Z",
-        "last_seen": "2023-12-28T15:53:34Z",
+        "last_seen": "2023-12-28T21:40:26Z",
         "status": "Testing",
         "observations": 3467,
         "description": "Testing Ground Station",
@@ -60535,7 +60535,7 @@
             }
         ],
         "created": "2022-02-02T08:52:12Z",
-        "last_seen": "2023-12-28T15:53:46Z",
+        "last_seen": "2023-12-28T21:40:46Z",
         "status": "Testing",
         "observations": 14976,
         "description": "M2 Antennas VHF/UHF Eggbeaters (136-148MHz)/(400-470MHz) -> 100ft LMR 400 ->Icom 9700 w/ PTRX 9700 Panadapter (Radio Analog) -> RTL-SDR Blog LNA -> RTLSDRv3\r\n*UHF de-sensitization during VHF TX",
@@ -60762,7 +60762,7 @@
             }
         ],
         "created": "2022-02-06T03:24:08Z",
-        "last_seen": "2023-12-28T15:53:31Z",
+        "last_seen": "2023-12-28T21:40:31Z",
         "status": "Testing",
         "observations": 178,
         "description": "",
@@ -61010,7 +61010,7 @@
             }
         ],
         "created": "2022-02-12T16:51:01Z",
-        "last_seen": "2023-12-28T15:54:07Z",
+        "last_seen": "2023-12-28T21:41:07Z",
         "status": "Online",
         "observations": 1972,
         "description": "experimental",
@@ -61138,7 +61138,7 @@
             }
         ],
         "created": "2022-02-13T18:16:18Z",
-        "last_seen": "2023-12-28T15:54:16Z",
+        "last_seen": "2023-12-28T21:41:16Z",
         "status": "Online",
         "observations": 2503,
         "description": "",
@@ -61163,9 +61163,9 @@
             }
         ],
         "created": "2022-02-14T08:18:51Z",
-        "last_seen": "2023-12-28T15:54:01Z",
+        "last_seen": "2023-12-28T21:41:01Z",
         "status": "Online",
-        "observations": 9721,
+        "observations": 9726,
         "description": "Utah State University Get Away Special Team's main ground station. RX Equipment: M2 436CP16 (Using in linear configuration, not CP) -> Alfa SPID RAS + GH RT-21 Az+El -> SSB SP-70 -> SSB DC-5000 Pro Bias-Tee -> RTL-SDR -> Raspberry Pi\r\n\r\n          Watch the ground station live at: https://www.youtube.com/@usugetawayspecial/live",
         "client_version": "1.8.1",
         "target_utilization": 0
@@ -61291,7 +61291,7 @@
             }
         ],
         "created": "2022-02-20T19:59:39Z",
-        "last_seen": "2023-12-28T15:53:35Z",
+        "last_seen": "2023-12-28T21:40:35Z",
         "status": "Online",
         "observations": 642,
         "description": "5469 CDMX. Eddyosp@Santa Ursula. VHF Quadrafilar Antenna + RTL-SDR LNA+ RTL-SDR + Raspberry Pi 4. By los forajidos de Celaya. Open to the public, but remember, if you schedule it, you vet it. #OstaniDoma.",
@@ -61373,8 +61373,8 @@
             }
         ],
         "created": "2022-02-22T21:22:50Z",
-        "last_seen": "2023-12-27T15:52:15Z",
-        "status": "Offline",
+        "last_seen": "2023-12-28T21:41:15Z",
+        "status": "Testing",
         "observations": 806,
         "description": "Azusa Pacific University CubeSat Ground Station.  Ettius B205mini, M2 Antenna Systems LEO-Pack, Yaesu AZ/EL rotator, Raspberry Pi 4B+.",
         "client_version": "1.8.1",
@@ -61398,9 +61398,9 @@
             }
         ],
         "created": "2022-02-24T20:43:57Z",
-        "last_seen": "2023-12-28T15:53:36Z",
+        "last_seen": "2023-12-28T21:40:36Z",
         "status": "Online",
-        "observations": 3215,
+        "observations": 3224,
         "description": "70cm QFHA + LNA + RTLSDR.",
         "client_version": "1.6",
         "target_utilization": 0
@@ -61579,7 +61579,7 @@
             }
         ],
         "created": "2022-03-01T09:05:54Z",
-        "last_seen": "2023-12-28T15:53:52Z",
+        "last_seen": "2023-12-28T21:40:52Z",
         "status": "Testing",
         "observations": 2116,
         "description": "UHF QFH antenna, 430-440MHz filter, LNA4ALL, RTL-SDR v3, Raspberry Pi zero",
@@ -61743,7 +61743,7 @@
             }
         ],
         "created": "2022-03-06T13:51:20Z",
-        "last_seen": "2023-12-28T15:54:01Z",
+        "last_seen": "2023-12-28T21:41:01Z",
         "status": "Online",
         "observations": 423,
         "description": "Southern MD",
@@ -61775,7 +61775,7 @@
             }
         ],
         "created": "2022-03-09T06:59:34Z",
-        "last_seen": "2023-12-28T15:54:22Z",
+        "last_seen": "2023-12-28T21:41:22Z",
         "status": "Testing",
         "observations": 155,
         "description": "Experimental SatNOGS ground station, installed in RPI3B+ with GNU Radio 3.8, as part of SDR4FUN network, for testing purposes with different SDR units and antennas.",
@@ -62078,9 +62078,9 @@
             }
         ],
         "created": "2022-03-19T07:01:40Z",
-        "last_seen": "2023-12-28T15:53:43Z",
+        "last_seen": "2023-12-28T21:41:04Z",
         "status": "Testing",
-        "observations": 3242,
+        "observations": 3244,
         "description": "",
         "client_version": "1.8.1",
         "target_utilization": 50
@@ -62103,9 +62103,9 @@
             }
         ],
         "created": "2022-03-20T14:34:58Z",
-        "last_seen": "2023-12-28T15:53:49Z",
+        "last_seen": "2023-12-28T21:41:04Z",
         "status": "Online",
-        "observations": 4690,
+        "observations": 4693,
         "description": "",
         "client_version": "1.8.1",
         "target_utilization": 50
@@ -62466,7 +62466,7 @@
             }
         ],
         "created": "2022-03-28T22:12:52Z",
-        "last_seen": "2023-12-28T15:53:51Z",
+        "last_seen": "2023-12-28T21:40:51Z",
         "status": "Testing",
         "observations": 21707,
         "description": "Static Yagi facing south at ~60 degrees above horizon",
@@ -62491,7 +62491,7 @@
             }
         ],
         "created": "2022-03-29T04:29:22Z",
-        "last_seen": "2023-12-28T15:54:18Z",
+        "last_seen": "2023-12-28T21:41:17Z",
         "status": "Testing",
         "observations": 67,
         "description": "UniClOGS station",
@@ -62623,7 +62623,7 @@
             }
         ],
         "created": "2022-04-02T03:05:22Z",
-        "last_seen": "2023-12-28T15:54:26Z",
+        "last_seen": "2023-12-28T21:41:26Z",
         "status": "Online",
         "observations": 6224,
         "description": "Warrenton, VA\r\nRaspberry Pi4, SDRPlay RSP1A, 5 Element 2 and 440 Yagi pointed 70 degrees up direct to East.  Observations best to the east side of my location.",
@@ -62860,7 +62860,7 @@
             }
         ],
         "created": "2022-04-07T22:56:45Z",
-        "last_seen": "2023-12-28T15:54:00Z",
+        "last_seen": "2023-12-28T21:41:00Z",
         "status": "Testing",
         "observations": 30,
         "description": "Hello from Roane State Community College Tamke-Allen Observatory, future home of TAOsat.  RPi3, student-built Eggbeater antenna, preamp, 820 dongle, with WiFi link to router.  Cheers, N4HBO and the TAOsat team!",
@@ -62885,9 +62885,9 @@
             }
         ],
         "created": "2022-04-09T20:14:40Z",
-        "last_seen": "2023-12-28T15:54:29Z",
+        "last_seen": "2023-12-28T21:41:28Z",
         "status": "Testing",
-        "observations": 8880,
+        "observations": 8888,
         "description": "",
         "client_version": "1.8.1",
         "target_utilization": 50
@@ -63052,7 +63052,7 @@
             }
         ],
         "created": "2022-04-20T14:05:49Z",
-        "last_seen": "2023-12-28T15:54:04Z",
+        "last_seen": "2023-12-28T21:41:05Z",
         "status": "Online",
         "observations": 248,
         "description": "Plana de Vic GS",
@@ -63158,7 +63158,7 @@
             }
         ],
         "created": "2022-04-21T15:05:28Z",
-        "last_seen": "2023-12-28T15:54:16Z",
+        "last_seen": "2023-12-28T21:41:16Z",
         "status": "Online",
         "observations": 1353,
         "description": "Clare in Suffolk",
@@ -63397,9 +63397,9 @@
             }
         ],
         "created": "2022-04-28T08:07:02Z",
-        "last_seen": "2023-12-28T15:53:43Z",
+        "last_seen": "2023-12-28T21:40:42Z",
         "status": "Online",
-        "observations": 11775,
+        "observations": 11782,
         "description": "Fixed 3/5 el Dual band Yagi beaming 210 deg (SW) 20 deg elevation",
         "client_version": "1.8.1+47.gf2e0c2f.dirty",
         "target_utilization": 75
@@ -63977,9 +63977,9 @@
             }
         ],
         "created": "2022-05-23T14:12:06Z",
-        "last_seen": "2023-12-28T15:54:17Z",
+        "last_seen": "2023-12-28T21:41:22Z",
         "status": "Online",
-        "observations": 2379,
+        "observations": 2386,
         "description": "QPH +  LNA + Airspy Mini + RPI 4 Client v1.8.1 (satnogs_gr-satellites)",
         "client_version": "1.8.1+45.gb376f69",
         "target_utilization": 100
@@ -64187,7 +64187,7 @@
             }
         ],
         "created": "2022-05-30T21:55:00Z",
-        "last_seen": "2023-12-28T15:54:28Z",
+        "last_seen": "2023-12-28T21:41:28Z",
         "status": "Online",
         "observations": 2736,
         "description": "A homebrew turnstile antenna having a reflector is used with an RTL-SDR and a RaspBerry Pi 4 with 8 GB of RAM and a 32 GB SD card. Details are at https://brentpetersen.ca/satnogs/2685/",
@@ -64328,7 +64328,7 @@
             }
         ],
         "created": "2022-06-05T18:58:14Z",
-        "last_seen": "2023-12-28T15:53:57Z",
+        "last_seen": "2023-12-28T21:40:57Z",
         "status": "Online",
         "observations": 731,
         "description": "",
@@ -64542,7 +64542,7 @@
             }
         ],
         "created": "2022-06-10T18:37:36Z",
-        "last_seen": "2023-12-28T15:53:56Z",
+        "last_seen": "2023-12-28T21:40:56Z",
         "status": "Testing",
         "observations": 5057,
         "description": "",
@@ -64574,7 +64574,7 @@
             }
         ],
         "created": "2022-06-10T21:39:14Z",
-        "last_seen": "2023-12-28T15:54:46Z",
+        "last_seen": "2023-12-28T21:41:46Z",
         "status": "Online",
         "observations": 1509,
         "description": "",
@@ -64631,7 +64631,7 @@
             }
         ],
         "created": "2022-06-11T23:48:23Z",
-        "last_seen": "2023-12-28T15:54:30Z",
+        "last_seen": "2023-12-28T21:41:30Z",
         "status": "Testing",
         "observations": 43,
         "description": "UHF EggNOGS (Halibut Electronics), LNA on, into an RTL-SDR Dongle.",
@@ -65287,9 +65287,9 @@
             }
         ],
         "created": "2022-07-03T06:21:12Z",
-        "last_seen": "2023-12-28T15:54:06Z",
+        "last_seen": "2023-12-28T21:41:06Z",
         "status": "Online",
-        "observations": 3296,
+        "observations": 3299,
         "description": "Ground station of the  Small Spacecraft Systems Research Center (SSSRC) at Osaka Metropolitan University (OMU).\r\nCurrently, the rotator system is not linked to the SatNOGS.\r\n\r\nStacked Cross Yagi Antenna -> SSB LNA70 -> Bias tee -> RSP1A -> Raspberry pi 4B",
         "client_version": "1.6",
         "target_utilization": 10
@@ -65362,9 +65362,9 @@
             }
         ],
         "created": "2022-07-07T21:19:51Z",
-        "last_seen": "2023-12-28T15:54:45Z",
+        "last_seen": "2023-12-28T21:41:45Z",
         "status": "Online",
-        "observations": 441,
+        "observations": 445,
         "description": "8 el yagi antenna (430-450 MHz), Az 140, El 30, no rotator",
         "client_version": "1.8.1",
         "target_utilization": 100
@@ -65394,8 +65394,8 @@
             }
         ],
         "created": "2022-07-08T17:49:47Z",
-        "last_seen": "2023-12-28T15:54:48Z",
-        "status": "Online",
+        "last_seen": "2023-12-28T20:33:50Z",
+        "status": "Offline",
         "observations": 1686,
         "description": "TOG Hackerspace, Dublin\r\nSatellite Ground Station\r\nOwner: Balázs Lécz (leczbalazs+satnogs@gmail.com)",
         "client_version": "1.8.1",
@@ -65690,7 +65690,7 @@
             }
         ],
         "created": "2022-07-18T10:37:35Z",
-        "last_seen": "2023-12-28T15:54:12Z",
+        "last_seen": "2023-12-28T21:41:12Z",
         "status": "Online",
         "observations": 2719,
         "description": "Station build Q2 2022",
@@ -65779,7 +65779,7 @@
             }
         ],
         "created": "2022-07-21T14:02:24Z",
-        "last_seen": "2023-12-28T15:53:58Z",
+        "last_seen": "2023-12-28T21:40:58Z",
         "status": "Testing",
         "observations": 111,
         "description": "SDR Test",
@@ -65957,9 +65957,9 @@
             }
         ],
         "created": "2022-07-30T12:22:14Z",
-        "last_seen": "2023-12-28T15:54:39Z",
+        "last_seen": "2023-12-28T21:41:39Z",
         "status": "Online",
-        "observations": 6484,
+        "observations": 6486,
         "description": "",
         "client_version": "1.6",
         "target_utilization": 0
@@ -66057,7 +66057,7 @@
             }
         ],
         "created": "2022-08-06T15:33:06Z",
-        "last_seen": "2023-12-28T15:54:46Z",
+        "last_seen": "2023-12-28T21:41:46Z",
         "status": "Testing",
         "observations": 17814,
         "description": "2nd Yagi antenna stack",
@@ -66249,7 +66249,7 @@
             }
         ],
         "created": "2022-08-09T20:58:13Z",
-        "last_seen": "2023-12-28T15:54:10Z",
+        "last_seen": "2023-12-28T21:41:10Z",
         "status": "Testing",
         "observations": 2300,
         "description": "A low cost experimental ground station. There is a good view to the East, South and North. West is blocked by a building.",
@@ -66331,7 +66331,7 @@
             }
         ],
         "created": "2022-08-13T14:51:33Z",
-        "last_seen": "2023-12-28T15:54:19Z",
+        "last_seen": "2023-12-28T21:41:19Z",
         "status": "Testing",
         "observations": 4285,
         "description": "Raspberry Pi 400, RTL-SDR",
@@ -66690,7 +66690,7 @@
             }
         ],
         "created": "2022-08-24T16:07:36Z",
-        "last_seen": "2023-12-28T15:54:47Z",
+        "last_seen": "2023-12-28T21:41:47Z",
         "status": "Online",
         "observations": 1302,
         "description": "5469 Jalisco. Eddyosp@Victoria. UHF Turnstile Antenna + SatNOGS Diplexer + RTL-SDR LNA + RTL-SDR + DELL Laptop with Debian 11. By los forajidos de Celaya. Open to the public, but remember, if you schedule it, you vet it. #OstaniDoma.",
@@ -67237,7 +67237,7 @@
             }
         ],
         "created": "2022-09-09T10:15:49Z",
-        "last_seen": "2023-12-28T15:54:13Z",
+        "last_seen": "2023-12-28T21:41:13Z",
         "status": "Testing",
         "observations": 600,
         "description": "",
@@ -67362,9 +67362,9 @@
             }
         ],
         "created": "2022-09-15T01:11:44Z",
-        "last_seen": "2023-12-28T15:54:49Z",
+        "last_seen": "2023-12-28T21:41:50Z",
         "status": "Testing",
-        "observations": 14760,
+        "observations": 14765,
         "description": "",
         "client_version": "1.8.1",
         "target_utilization": 50
@@ -67426,7 +67426,7 @@
             }
         ],
         "created": "2022-09-16T06:23:24Z",
-        "last_seen": "2023-12-28T15:54:49Z",
+        "last_seen": "2023-12-28T21:41:50Z",
         "status": "Online",
         "observations": 2371,
         "description": "Personal ground station of BX6AP in Tainan,Taiwan",
@@ -67518,7 +67518,7 @@
             }
         ],
         "created": "2022-09-18T17:36:21Z",
-        "last_seen": "2023-12-28T15:54:18Z",
+        "last_seen": "2023-12-28T21:41:18Z",
         "status": "Online",
         "observations": 421,
         "description": "Escola Vedruna Tona - Ground Station",
@@ -67550,7 +67550,7 @@
             }
         ],
         "created": "2022-09-20T16:52:10Z",
-        "last_seen": "2023-12-28T15:54:28Z",
+        "last_seen": "2023-12-28T21:41:28Z",
         "status": "Online",
         "observations": 1325,
         "description": "IARU coordinated satellites only.",
@@ -67607,9 +67607,9 @@
             }
         ],
         "created": "2022-09-21T12:27:33Z",
-        "last_seen": "2023-12-28T15:54:34Z",
+        "last_seen": "2023-12-28T21:41:34Z",
         "status": "Online",
-        "observations": 43,
+        "observations": 57,
         "description": "Vengal Rao Nagar Ground Station, Hyderabad by Asim.\r\nThis is created to help open network satellites and make students aware with projects related to space, science and technology.",
         "client_version": "1.8.1",
         "target_utilization": 0
@@ -67657,9 +67657,9 @@
             }
         ],
         "created": "2022-09-22T09:29:30Z",
-        "last_seen": "2023-12-28T15:54:56Z",
+        "last_seen": "2023-12-28T21:41:56Z",
         "status": "Online",
-        "observations": 48708,
+        "observations": 48761,
         "description": "Running on docker: https://github.com/kng/satnogs-client-docker/blob/main/lsf/LSF-GUIDE.md | Lenovo M910q | SDR: b200mini | Antenna: helical with pga103+ at feedpoint",
         "client_version": "1.8.1+sa2kng",
         "target_utilization": 0
@@ -67878,7 +67878,7 @@
             }
         ],
         "created": "2022-09-28T12:29:21Z",
-        "last_seen": "2023-12-28T15:53:15Z",
+        "last_seen": "2023-12-28T21:41:15Z",
         "status": "Online",
         "observations": 835,
         "description": "Sollentuna, Stockholm (Sweden). Test station for S-Band. Currently running disconne antenna, no LNA, HackRF One, RPI4, satnogs_gr-satellites.",
@@ -68026,7 +68026,7 @@
             }
         ],
         "created": "2022-10-02T17:47:31Z",
-        "last_seen": "2023-12-28T15:54:55Z",
+        "last_seen": "2023-12-28T21:41:55Z",
         "status": "Testing",
         "observations": 8,
         "description": "Building first ground station - note AZ rotator only - EL set at about 30 degrees",
@@ -68725,7 +68725,7 @@
             }
         ],
         "created": "2022-10-29T15:35:05Z",
-        "last_seen": "2023-12-28T15:54:23Z",
+        "last_seen": "2023-12-28T21:41:23Z",
         "status": "Testing",
         "observations": 571,
         "description": "",
@@ -68967,7 +68967,7 @@
             }
         ],
         "created": "2022-11-07T06:38:24Z",
-        "last_seen": "2023-12-28T15:54:15Z",
+        "last_seen": "2023-12-28T21:41:15Z",
         "status": "Testing",
         "observations": 390,
         "description": "Satnogs virtual machine running on solar power, to a RTL-SDR dongle, into a 2m/440mhz log periodic beam pointed straight up, used for station testing and evaluation",
@@ -68999,7 +68999,7 @@
             }
         ],
         "created": "2022-11-07T08:17:34Z",
-        "last_seen": "2023-12-28T15:54:45Z",
+        "last_seen": "2023-12-28T21:41:45Z",
         "status": "Testing",
         "observations": 326,
         "description": "SatNOGS station of the Club Alpino Italiano, Sezione dell'Etna; Hardware: Raspberry Pi 4b, RTL-SDR, Discone VHF and UHF",
@@ -69031,7 +69031,7 @@
             }
         ],
         "created": "2022-11-09T22:21:28Z",
-        "last_seen": "2023-12-28T15:54:24Z",
+        "last_seen": "2023-12-28T21:41:24Z",
         "status": "Testing",
         "observations": 143,
         "description": "This is a simple fixed antenna SatNOGS observation only station on the EB roof",
@@ -69113,7 +69113,7 @@
             }
         ],
         "created": "2022-11-12T16:02:07Z",
-        "last_seen": "2023-12-28T15:54:54Z",
+        "last_seen": "2023-12-28T21:41:54Z",
         "status": "Testing",
         "observations": 55,
         "description": "VHF/UHF",
@@ -69195,7 +69195,7 @@
             }
         ],
         "created": "2022-11-13T00:32:30Z",
-        "last_seen": "2023-12-28T15:54:13Z",
+        "last_seen": "2023-12-28T21:41:13Z",
         "status": "Testing",
         "observations": 779,
         "description": "M2 UHF Eggbeater -> MKU LNA 432 A -> HackRF SDR",
@@ -69320,7 +69320,7 @@
             }
         ],
         "created": "2022-11-14T16:43:26Z",
-        "last_seen": "2023-12-28T15:54:16Z",
+        "last_seen": "2023-12-28T21:41:16Z",
         "status": "Testing",
         "observations": 84,
         "description": "Embry-Riddle Aeronautical University's ground station built for communicating with EagleSat-2.",
@@ -69638,7 +69638,7 @@
             }
         ],
         "created": "2022-11-22T02:08:59Z",
-        "last_seen": "2023-12-28T15:54:22Z",
+        "last_seen": "2023-12-28T21:41:22Z",
         "status": "Online",
         "observations": 1206,
         "description": "M2 Eggbeater -> LNA -> RTLSDR -> Debian VM.\r\n\r\nUHF only, solar powered.\r\n\r\nNote that occasionally local 440 APRS beacon appears on waterfall as a broadband blip every 2 minutes.\r\n\r\n28May - upgraded Virtualbox version..should be more reliable now.\r\nRTLSDR directly connected to antenna, bypassing coax.\r\nWill upgrade LNA at a later date.",
@@ -69727,7 +69727,7 @@
             }
         ],
         "created": "2022-11-24T04:22:27Z",
-        "last_seen": "2023-12-28T15:54:54Z",
+        "last_seen": "2023-12-28T21:41:54Z",
         "status": "Testing",
         "observations": 65,
         "description": "Home station",
@@ -69752,7 +69752,7 @@
             }
         ],
         "created": "2022-11-25T17:34:40Z",
-        "last_seen": "2023-12-28T15:54:52Z",
+        "last_seen": "2023-12-28T21:41:52Z",
         "status": "Online",
         "observations": 373,
         "description": "Ground station at the Faculty of Physics, Astronomy and Applied Computer Science of the Jagiellonian University.\r\nLocation: the lower roof of the J building,\r\nAmplifier: no,\r\nSDR device: RTL SDR v.3,\r\nMade in Garage of Complexity.",
@@ -69836,7 +69836,7 @@
             }
         ],
         "created": "2022-11-29T14:26:10Z",
-        "last_seen": "2023-12-28T15:54:59Z",
+        "last_seen": "2023-12-28T21:41:59Z",
         "status": "Testing",
         "observations": 338,
         "description": "",
@@ -69875,7 +69875,7 @@
             }
         ],
         "created": "2022-11-29T16:56:57Z",
-        "last_seen": "2023-12-28T15:54:56Z",
+        "last_seen": "2023-12-28T21:41:56Z",
         "status": "Online",
         "observations": 1077,
         "description": "Antenna Diamond X-5000\r\nRicevitore Raspberry PI3 + RTL-SDR \r\n7/24, offline between 11:00 to 15:00 GMT every day",
@@ -70171,7 +70171,7 @@
             }
         ],
         "created": "2022-12-06T09:27:09Z",
-        "last_seen": "2023-12-28T15:54:13Z",
+        "last_seen": "2023-12-28T21:41:13Z",
         "status": "Online",
         "observations": 991,
         "description": "",
@@ -70302,9 +70302,9 @@
             }
         ],
         "created": "2022-12-09T22:15:11Z",
-        "last_seen": "2023-12-28T15:54:44Z",
+        "last_seen": "2023-12-28T21:41:44Z",
         "status": "Online",
-        "observations": 1384,
+        "observations": 1388,
         "description": "University of Michigan Station at the Climate and Space Research Building, managed by Michigan eXploration Lab and Space Physics Research Laboratory. \r\n\r\nRaspberry Pi 4, USRP B210, Mini Circuits ZX60-P103LN+, BEKO HPP-432, 20dB Pad, M2 436CP42 U/G Cross Polarized Yagi",
         "client_version": "1.7+13.g3964bfe",
         "target_utilization": 0
@@ -70327,7 +70327,7 @@
             }
         ],
         "created": "2022-12-11T19:38:50Z",
-        "last_seen": "2023-12-28T15:54:14Z",
+        "last_seen": "2023-12-28T21:41:13Z",
         "status": "Online",
         "observations": 1252,
         "description": "Prototype for a \"low cost\" ground station buildable by schools.\r\nAntenna is a 3d printed quadrifilar helix (https://community.libre.space/t/an-easy-3d-printed-quadrifilar-helix-antenna/1487), receiver is a RTL-SDR v3 with a PoE powered Pi3B and an SPF5189Z LNA.",
@@ -70473,7 +70473,7 @@
             }
         ],
         "created": "2022-12-18T02:18:14Z",
-        "last_seen": "2023-12-28T15:54:23Z",
+        "last_seen": "2023-12-28T21:41:23Z",
         "status": "Online",
         "observations": 2609,
         "description": "BK29 Pahoa, Hawaii",
@@ -71121,7 +71121,7 @@
             }
         ],
         "created": "2023-01-02T21:47:56Z",
-        "last_seen": "2023-12-28T15:54:21Z",
+        "last_seen": "2023-12-28T21:41:21Z",
         "status": "Online",
         "observations": 378,
         "description": "Hobbyist",
@@ -71228,9 +71228,9 @@
             }
         ],
         "created": "2023-01-04T21:25:44Z",
-        "last_seen": "2023-12-28T15:55:01Z",
+        "last_seen": "2023-12-28T21:42:00Z",
         "status": "Online",
-        "observations": 11602,
+        "observations": 11616,
         "description": "",
         "client_version": "1.8.1",
         "target_utilization": 0
@@ -71572,7 +71572,7 @@
             }
         ],
         "created": "2023-01-11T20:18:51Z",
-        "last_seen": "2023-12-28T15:55:17Z",
+        "last_seen": "2023-12-28T21:41:17Z",
         "status": "Testing",
         "observations": 668,
         "description": "",
@@ -71728,7 +71728,7 @@
             }
         ],
         "created": "2023-01-17T10:35:56Z",
-        "last_seen": "2023-12-28T14:59:31Z",
+        "last_seen": "2023-12-28T19:06:55Z",
         "status": "Offline",
         "observations": 56,
         "description": "Amateur Radio Station, Bengaluru, India",
@@ -71945,7 +71945,7 @@
             }
         ],
         "created": "2023-01-20T05:35:46Z",
-        "last_seen": "2023-12-28T15:54:57Z",
+        "last_seen": "2023-12-28T21:41:57Z",
         "status": "Online",
         "observations": 1725,
         "description": "CIRA Building",
@@ -72178,7 +72178,7 @@
             }
         ],
         "created": "2023-01-23T20:04:04Z",
-        "last_seen": "2023-12-28T15:54:37Z",
+        "last_seen": "2023-12-28T21:41:37Z",
         "status": "Online",
         "observations": 5807,
         "description": "Raspberry Pi 4 + RTL-SDR + QFH 137MHz antenna. NOA satellite images are automatically published at https://ub3alb.ru/ and https://t.me/ub3alb",
@@ -72235,7 +72235,7 @@
             }
         ],
         "created": "2023-01-27T21:48:43Z",
-        "last_seen": "2023-12-28T15:54:55Z",
+        "last_seen": "2023-12-28T21:41:55Z",
         "status": "Testing",
         "observations": 104,
         "description": "",
@@ -72267,7 +72267,7 @@
             }
         ],
         "created": "2023-01-29T16:01:58Z",
-        "last_seen": "2023-12-28T15:55:03Z",
+        "last_seen": "2023-12-28T21:42:03Z",
         "status": "Testing",
         "observations": 303,
         "description": "",
@@ -72292,7 +72292,7 @@
             }
         ],
         "created": "2023-01-30T00:26:08Z",
-        "last_seen": "2023-12-28T15:55:09Z",
+        "last_seen": "2023-12-28T21:42:09Z",
         "status": "Online",
         "observations": 734,
         "description": "Fixed homebrew 2m circularly polarized antenna",
@@ -72356,7 +72356,7 @@
             }
         ],
         "created": "2023-01-30T18:35:01Z",
-        "last_seen": "2023-12-28T15:55:16Z",
+        "last_seen": "2023-12-28T21:42:16Z",
         "status": "Online",
         "observations": 4137,
         "description": "VHF and UHF Beam\r\nUSRP",
@@ -72505,7 +72505,7 @@
             }
         ],
         "created": "2023-02-07T03:14:10Z",
-        "last_seen": "2023-12-28T15:54:34Z",
+        "last_seen": "2023-12-28T21:41:34Z",
         "status": "Online",
         "observations": 1233,
         "description": "440 eggbeater to RTLSDR with LNA",
@@ -72587,7 +72587,7 @@
             }
         ],
         "created": "2023-02-09T16:21:22Z",
-        "last_seen": "2023-12-28T15:54:39Z",
+        "last_seen": "2023-12-28T21:41:40Z",
         "status": "Online",
         "observations": 4664,
         "description": "Quadrafilar antenna with LNA/SAW filter.  Connected to sdrplay receiver",
@@ -72612,7 +72612,7 @@
             }
         ],
         "created": "2023-02-10T15:58:50Z",
-        "last_seen": "2023-12-28T15:54:31Z",
+        "last_seen": "2023-12-28T21:41:31Z",
         "status": "Testing",
         "observations": 1472,
         "description": "SDR with Preamp on Raspberry Pi 4 using M2 eggbeater antenna\r\nTemporarily set up for testing until permanent at library",
@@ -72629,7 +72629,7 @@
         "qthlocator": "DL80gr",
         "antenna": [],
         "created": "2023-02-12T04:00:41Z",
-        "last_seen": "2023-12-28T15:55:00Z",
+        "last_seen": "2023-12-28T21:42:00Z",
         "status": "Online",
         "observations": 0,
         "description": "",
@@ -72679,9 +72679,9 @@
             }
         ],
         "created": "2023-02-13T20:11:49Z",
-        "last_seen": "2023-12-28T15:55:21Z",
+        "last_seen": "2023-12-28T21:41:21Z",
         "status": "Online",
-        "observations": 11940,
+        "observations": 11960,
         "description": "Experimental set up for S band. The 3.5 turn helical antenna is pointing east at an elevation of about 45 degrees. It is under a metal roof, so nothing will be received from the west half of the sky. Please only schedule passes that pass through the east half of the sky.",
         "client_version": "1.8.1",
         "target_utilization": 100
@@ -72736,7 +72736,7 @@
             }
         ],
         "created": "2023-02-14T13:23:17Z",
-        "last_seen": "2023-12-28T15:54:59Z",
+        "last_seen": "2023-12-28T21:41:59Z",
         "status": "Testing",
         "observations": 78,
         "description": "",
@@ -72761,7 +72761,7 @@
             }
         ],
         "created": "2023-02-15T21:09:19Z",
-        "last_seen": "2023-12-28T15:54:44Z",
+        "last_seen": "2023-12-28T21:41:44Z",
         "status": "Online",
         "observations": 273,
         "description": "BK29NJ Pahoa HI",
@@ -73133,7 +73133,7 @@
             }
         ],
         "created": "2023-03-03T08:32:34Z",
-        "last_seen": "2023-12-28T15:54:57Z",
+        "last_seen": "2023-12-28T21:41:57Z",
         "status": "Testing",
         "observations": 1124,
         "description": "Fachhochschule Wiener Neustadt (FHWN) / University of Applied Sciences Wiener Neustadt\r\nUHF SDR Ground Station for PEGASUS (AT03, NORAD ID: 42784, Space Data Center: https://spacedatacenter.at/pegasus/index.php)\r\nSetup:\r\n- RaspberryPi (SatNOGS Client, Soapy PlutoSDR, SatNOGS gr-satellites, SatNOGS auto-scheduler)\r\n- ADALM-PLUTO SDR\r\n- RX: UHF Cross-Yagi (70 cm) + Sattrack BIG-RAS Rotator (0,5° Resolution) + SPID MD-01 Controller + Mast Pre-Amplifier DBA-270 + Bias-Tee DCC-5000 pro",
@@ -73265,7 +73265,7 @@
             }
         ],
         "created": "2023-03-05T18:16:42Z",
-        "last_seen": "2023-12-28T15:54:57Z",
+        "last_seen": "2023-12-28T21:41:57Z",
         "status": "Testing",
         "observations": 1189,
         "description": "v0.1: uhf qfh antenna, nesdr, rg6 x 6 mts, rpi4, initial setup",
@@ -73322,7 +73322,7 @@
             }
         ],
         "created": "2023-03-14T09:22:45Z",
-        "last_seen": "2023-12-28T15:55:08Z",
+        "last_seen": "2023-12-28T21:42:08Z",
         "status": "Online",
         "observations": 3005,
         "description": "",
@@ -73443,7 +73443,7 @@
             }
         ],
         "created": "2023-03-16T09:49:25Z",
-        "last_seen": "2023-12-28T15:55:17Z",
+        "last_seen": "2023-12-28T21:42:17Z",
         "status": "Online",
         "observations": 3053,
         "description": "",
@@ -73550,7 +73550,7 @@
             }
         ],
         "created": "2023-03-20T10:40:17Z",
-        "last_seen": "2023-12-28T15:55:00Z",
+        "last_seen": "2023-12-28T21:42:00Z",
         "status": "Online",
         "observations": 446,
         "description": "",
@@ -73674,7 +73674,7 @@
             }
         ],
         "created": "2023-03-24T10:48:43Z",
-        "last_seen": "2023-12-28T15:54:31Z",
+        "last_seen": "2023-12-28T21:41:31Z",
         "status": "Online",
         "observations": 1936,
         "description": "Hello Space Ground Station - Mars On Earth Project",
@@ -73706,9 +73706,9 @@
             }
         ],
         "created": "2023-03-28T01:14:22Z",
-        "last_seen": "2023-12-28T15:54:48Z",
+        "last_seen": "2023-12-28T21:41:48Z",
         "status": "Online",
-        "observations": 6783,
+        "observations": 6806,
         "description": "Mahanakorn University of technology ,BANGKOK THAILAND",
         "client_version": "1.8.1",
         "target_utilization": 30
@@ -73926,7 +73926,7 @@
             }
         ],
         "created": "2023-04-02T17:17:41Z",
-        "last_seen": "2023-12-28T15:55:12Z",
+        "last_seen": "2023-12-28T21:42:12Z",
         "status": "Testing",
         "observations": 1145,
         "description": "",
@@ -74000,7 +74000,7 @@
             }
         ],
         "created": "2023-04-05T16:36:12Z",
-        "last_seen": "2023-12-28T15:55:18Z",
+        "last_seen": "2023-12-28T21:42:18Z",
         "status": "Online",
         "observations": 1420,
         "description": "A ground station in the Highlands of Scotland. Raspberry Pi 3B, RTL-SDR Blog SDR dongle, ANjo EGB0435R eggbeater antenna. UHF only. gr-satellites add-on. Patchy wifi connection.",
@@ -74107,7 +74107,7 @@
             }
         ],
         "created": "2023-04-11T03:53:40Z",
-        "last_seen": "2023-12-28T15:54:54Z",
+        "last_seen": "2023-12-28T21:41:50Z",
         "status": "Online",
         "observations": 1442,
         "description": "",
@@ -74430,7 +74430,7 @@
             }
         ],
         "created": "2023-04-20T01:53:16Z",
-        "last_seen": "2023-12-28T15:55:17Z",
+        "last_seen": "2023-12-28T21:42:17Z",
         "status": "Online",
         "observations": 730,
         "description": "M2 Eggbeater at 6m asl. ARR pre-amp into noelec SDR rx.",
@@ -74662,9 +74662,9 @@
             }
         ],
         "created": "2023-04-21T16:46:37Z",
-        "last_seen": "2023-12-28T15:55:16Z",
+        "last_seen": "2023-12-28T21:42:16Z",
         "status": "Online",
-        "observations": 2107,
+        "observations": 2116,
         "description": "",
         "client_version": "1.8.1",
         "target_utilization": 0
@@ -74719,7 +74719,7 @@
             }
         ],
         "created": "2023-04-24T11:49:36Z",
-        "last_seen": "2023-12-28T15:55:06Z",
+        "last_seen": "2023-12-28T21:42:06Z",
         "status": "Online",
         "observations": 829,
         "description": "Antenna Circular polarized cross Yagi M2 Antenna Systems, Yaesu rotator, Ettus B205 sdr. Tracking mainly central Europe satellites. VZLUSAT-2, BDSAT-2, VERONIKA, GRBAlpha. Any planned track can be interrupted without previous notice.",
@@ -74922,7 +74922,7 @@
             }
         ],
         "created": "2023-04-28T09:10:33Z",
-        "last_seen": "2023-12-28T15:55:26Z",
+        "last_seen": "2023-12-28T21:42:26Z",
         "status": "Online",
         "observations": 6799,
         "description": "1 meter dish usually pointed straight up with Airspy Mini and 1.688GHz preamp&filter using the Raspberry Pi4. LHCP helical feedpoint by DerekSGC.",
@@ -74954,9 +74954,9 @@
             }
         ],
         "created": "2023-04-28T13:40:09Z",
-        "last_seen": "2023-12-28T15:54:57Z",
+        "last_seen": "2023-12-28T21:41:57Z",
         "status": "Online",
-        "observations": 3224,
+        "observations": 3228,
         "description": "",
         "client_version": "1.8.1",
         "target_utilization": 0
@@ -74979,7 +74979,7 @@
             }
         ],
         "created": "2023-04-29T02:14:49Z",
-        "last_seen": "2023-12-28T15:54:58Z",
+        "last_seen": "2023-12-28T21:41:58Z",
         "status": "Testing",
         "observations": 1012,
         "description": "",
@@ -74990,24 +74990,24 @@
         "id": 3119,
         "name": "Marc's SatNOGS Station",
         "altitude": 41,
-        "min_horizon": 30,
+        "min_horizon": 40,
         "lat": 38.988849,
         "lng": -76.869396,
         "qthlocator": "FM18nx",
         "antenna": [
             {
-                "frequency": 24000000,
-                "frequency_max": 1700000000,
-                "band": "HF, VHF, UHF, L",
+                "frequency": 1500000000,
+                "frequency_max": 1760000000,
+                "band": "L",
                 "antenna_type": "parabolic",
                 "antenna_type_name": "Parabolic"
             }
         ],
         "created": "2023-04-29T05:15:21Z",
-        "last_seen": "2023-12-28T15:54:43Z",
+        "last_seen": "2023-12-28T21:41:38Z",
         "status": "Testing",
-        "observations": 14,
-        "description": "zxczc",
+        "observations": 17,
+        "description": "G550 Rotator using K3NG rotator software on an arduino\r\nLNA is a Mini Circuits ZX60-242GLN-S+ which is 1.7-2.4 GHz\r\nMin elevation is 40 deg just because there's a small region of azimuth where the antenna would hit the roof...",
         "client_version": "1.8.1",
         "target_utilization": 0
     },
@@ -75061,7 +75061,7 @@
             }
         ],
         "created": "2023-04-30T16:02:25Z",
-        "last_seen": "2023-12-28T15:55:19Z",
+        "last_seen": "2023-12-28T21:42:19Z",
         "status": "Testing",
         "observations": 322,
         "description": "",
@@ -75093,9 +75093,9 @@
             }
         ],
         "created": "2023-05-01T13:26:56Z",
-        "last_seen": "2023-12-28T15:54:55Z",
+        "last_seen": "2023-12-28T21:41:55Z",
         "status": "Online",
-        "observations": 36449,
+        "observations": 36499,
         "description": "Testing UHF fixed antenna",
         "client_version": "1.8.1",
         "target_utilization": 100
@@ -75315,7 +75315,7 @@
             }
         ],
         "created": "2023-05-09T07:55:36Z",
-        "last_seen": "2023-12-28T15:55:23Z",
+        "last_seen": "2023-12-28T21:42:23Z",
         "status": "Testing",
         "observations": 52,
         "description": "Initial test base station, will upgrade.",
@@ -75340,9 +75340,9 @@
             }
         ],
         "created": "2023-05-10T14:05:00Z",
-        "last_seen": "2023-12-28T15:55:07Z",
+        "last_seen": "2023-12-28T21:42:07Z",
         "status": "Online",
-        "observations": 5402,
+        "observations": 5406,
         "description": "Parasitic Lindenblad -> 2m KMR240 -> Nooelec wideband LNA -> 15m KMR240 -> Nooelec RTLSDR-v2 -> Pi3B",
         "client_version": "1.8.1",
         "target_utilization": 0
@@ -75464,7 +75464,7 @@
             }
         ],
         "created": "2023-05-10T22:21:58Z",
-        "last_seen": "2023-12-28T15:55:16Z",
+        "last_seen": "2023-12-28T21:42:16Z",
         "status": "Online",
         "observations": 1484,
         "description": "M2 Leopack (UHF and VHF antennas) with a Yaesu G5500 rotator. Dual SSB preamps to an MJT duplexer into an RTL-SDR on a Pi. Alternate configuration bypasses the duplexer and connects directly into an ICOM-9700 for transmitting. Hosted by NCAR.",
@@ -75571,9 +75571,9 @@
             }
         ],
         "created": "2023-05-13T20:11:45Z",
-        "last_seen": "2023-07-25T21:36:21Z",
-        "status": "Offline",
-        "observations": 459,
+        "last_seen": "2023-12-28T21:42:02Z",
+        "status": "Online",
+        "observations": 469,
         "description": "",
         "client_version": "1.8.1",
         "target_utilization": 50
@@ -75646,7 +75646,7 @@
             }
         ],
         "created": "2023-05-16T08:07:11Z",
-        "last_seen": "2023-12-28T15:54:46Z",
+        "last_seen": "2023-12-28T21:41:46Z",
         "status": "Testing",
         "observations": 206,
         "description": "http://www.hasdeu.md/en/despre-biblioteca-prezentare-1/",
@@ -75835,9 +75835,9 @@
             }
         ],
         "created": "2023-05-25T16:56:10Z",
-        "last_seen": "2023-12-28T15:54:48Z",
+        "last_seen": "2023-12-28T21:41:49Z",
         "status": "Online",
-        "observations": 5656,
+        "observations": 5661,
         "description": "Beta testing for SatNOGS Kit.  UHF turnstile + LSF LNA + RTLSDRv3 + Pi4B",
         "client_version": "1.8.1",
         "target_utilization": 100
@@ -75917,7 +75917,7 @@
             }
         ],
         "created": "2023-05-31T10:30:30Z",
-        "last_seen": "2023-12-28T15:54:46Z",
+        "last_seen": "2023-12-28T21:41:46Z",
         "status": "Online",
         "observations": 1262,
         "description": "Basic UHF Omni station using a home made turnstile antenna",
@@ -76278,7 +76278,7 @@
             }
         ],
         "created": "2023-06-13T06:21:57Z",
-        "last_seen": "2023-12-28T15:55:19Z",
+        "last_seen": "2023-12-28T21:42:19Z",
         "status": "Testing",
         "observations": 360,
         "description": "NOTE: please note, that the availability of my station will be restricted during passes of LEDSAT. As I'm sharing the antenna with my HAM-station and I'm running some tests with the LEDSAT-digipeater, my Satnogs-station might be offline during LEDSAT-passes for some time.",
@@ -76303,7 +76303,7 @@
             }
         ],
         "created": "2023-06-14T06:58:41Z",
-        "last_seen": "2023-12-28T15:54:57Z",
+        "last_seen": "2023-12-28T21:41:36Z",
         "status": "Online",
         "observations": 353,
         "description": "",
@@ -76417,7 +76417,7 @@
             }
         ],
         "created": "2023-06-20T03:02:56Z",
-        "last_seen": "2023-12-28T15:55:18Z",
+        "last_seen": "2023-12-28T21:42:18Z",
         "status": "Online",
         "observations": 564,
         "description": "Horizontal v-dipole antenna (tuned for 145.9 MHz but I'm happy to adjust it if requested), RTL-SDR Blog Wideband LNA (Bias Tee Powered), RTL-SDR V3, and RPi 3B+.",
@@ -76627,7 +76627,7 @@
             }
         ],
         "created": "2023-06-24T15:47:36Z",
-        "last_seen": "2023-12-28T15:55:04Z",
+        "last_seen": "2023-12-28T21:42:04Z",
         "status": "Testing",
         "observations": 33,
         "description": "Stationary ground station on a Pi3, RTLSDR, SPF5189 LNA and a 3D printed QFH antenna.",
@@ -76719,7 +76719,7 @@
             }
         ],
         "created": "2023-06-28T01:38:39Z",
-        "last_seen": "2023-12-28T15:55:11Z",
+        "last_seen": "2023-12-28T21:42:11Z",
         "status": "Online",
         "observations": 865,
         "description": "As of 23 Sept 2023 -Whole system is remotely mounted at the antenna. Raspberry Pi 4B, GPIO 433MHz Filtered LNA w 20dB gain, 435 MHz Band Pass 10 MHz bandwidth Passband 30-440 MHz to a M2 EB432RK70CM Eggbeater Satellite Antenna @ 40 ft  NOTE: I will probably experiment with removing or changing the Passband to a wider band to include the whole 400MHz band. Please check the description for changes. I am attempting to provide an optimum receive station (Non-Rotor)",
@@ -76934,7 +76934,7 @@
             }
         ],
         "created": "2023-07-03T18:57:02Z",
-        "last_seen": "2023-12-28T15:55:13Z",
+        "last_seen": "2023-12-28T21:42:13Z",
         "status": "Testing",
         "observations": 5207,
         "description": "",
@@ -77009,7 +77009,7 @@
             }
         ],
         "created": "2023-07-06T20:56:13Z",
-        "last_seen": "2023-12-28T15:55:34Z",
+        "last_seen": "2023-12-28T21:42:34Z",
         "status": "Testing",
         "observations": 299,
         "description": "12-oct-23 Orange Pi3-lts running Debian Bullseye. RTLSDR is Nooelec Smart V4 with Nooelec preamp at masthead.  Horizon is obstructed NE-N -W.  The performance of the simple whip antenna with a Nooelec preamp (located inside the dogfood can. Power is via a Bias-T connection) at the masthead is quite good. No reason not to exit testing status and go live.",
@@ -77123,9 +77123,9 @@
             }
         ],
         "created": "2023-07-09T01:22:09Z",
-        "last_seen": "2023-12-28T15:55:16Z",
+        "last_seen": "2023-12-28T21:42:16Z",
         "status": "Testing",
-        "observations": 3758,
+        "observations": 3766,
         "description": "",
         "client_version": "1.8.1",
         "target_utilization": 50
@@ -77415,7 +77415,7 @@
             }
         ],
         "created": "2023-07-19T18:13:33Z",
-        "last_seen": "2023-12-28T15:55:42Z",
+        "last_seen": "2023-12-28T21:42:42Z",
         "status": "Online",
         "observations": 1651,
         "description": "Raspberry Pi 4B / Nooelec RTLSDR (rx gain 23db) / Rhode and Schwarz HK014 100MHz to 1.3GHz Omni ant 100m LDF450 / LNA added 3rd August 2023 10.05 UTC 18db gain NF 0.5db/ FM band stop added 22nd Aug 2023 1745 UTC / Suffered lightning damage 30 Oct 2023 - repaired",
@@ -77679,7 +77679,7 @@
             }
         ],
         "created": "2023-08-03T13:30:31Z",
-        "last_seen": "2023-12-28T15:55:25Z",
+        "last_seen": "2023-12-28T21:42:25Z",
         "status": "Testing",
         "observations": 56,
         "description": "simple pi3 and RTL",
@@ -77704,9 +77704,9 @@
             }
         ],
         "created": "2023-08-04T20:03:28Z",
-        "last_seen": "2023-12-28T15:55:24Z",
+        "last_seen": "2023-12-28T21:42:24Z",
         "status": "Online",
-        "observations": 4113,
+        "observations": 4121,
         "description": "SatNOGS station Hilversum, Netherlands.\r\neggbeater -> LNA -> 10mtr Aircell7 -> nooelec smart v4 -> Pi 4",
         "client_version": "1.8.1",
         "target_utilization": 100
@@ -78095,7 +78095,7 @@
             }
         ],
         "created": "2023-08-21T01:33:28Z",
-        "last_seen": "2023-12-28T15:55:24Z",
+        "last_seen": "2023-12-28T21:42:24Z",
         "status": "Online",
         "observations": 178,
         "description": "Used for SatNOGS Testing - Currently using a Asymmetric Turnstile Antenna + LNA",
@@ -78258,7 +78258,7 @@
             }
         ],
         "created": "2023-08-29T16:58:31Z",
-        "last_seen": "2023-12-28T15:55:11Z",
+        "last_seen": "2023-12-28T21:42:11Z",
         "status": "Online",
         "observations": 542,
         "description": "Raspberry Pi + RTL-SDR",
@@ -78479,7 +78479,7 @@
             }
         ],
         "created": "2023-09-07T09:29:30Z",
-        "last_seen": "2023-12-28T15:55:17Z",
+        "last_seen": "2023-12-28T21:42:18Z",
         "status": "Online",
         "observations": 1988,
         "description": "",
@@ -78790,7 +78790,7 @@
             }
         ],
         "created": "2023-09-27T19:59:10Z",
-        "last_seen": "2023-12-28T15:55:28Z",
+        "last_seen": "2023-12-28T21:42:28Z",
         "status": "Testing",
         "observations": 20,
         "description": "VHF Satellite ground station 144-146 MHz with X-Quad antenna and LNA.",
@@ -78815,7 +78815,7 @@
             }
         ],
         "created": "2023-09-29T16:04:26Z",
-        "last_seen": "2023-12-28T15:55:23Z",
+        "last_seen": "2023-12-28T21:42:23Z",
         "status": "Testing",
         "observations": 61,
         "description": "",
@@ -78929,7 +78929,7 @@
             }
         ],
         "created": "2023-10-01T13:10:27Z",
-        "last_seen": "2023-12-28T15:55:19Z",
+        "last_seen": "2023-12-28T21:42:19Z",
         "status": "Testing",
         "observations": 863,
         "description": "Quadrifilar Helix Antenna, Uputronics 137MHz pre-filtered amplifier, AirspyR2 SDR on a RaspberryPi 4B",
@@ -79099,7 +79099,7 @@
             }
         ],
         "created": "2023-10-09T13:23:24Z",
-        "last_seen": "2023-12-28T15:55:02Z",
+        "last_seen": "2023-12-28T21:42:02Z",
         "status": "Online",
         "observations": 392,
         "description": "5 element fixed Carant Yagi 90° +  Spacewalker LNA 434 MHz - HA7DCD  (triple filtered, double amplified) decent.org + RTL-SDR V3 + RPi4",
@@ -79131,7 +79131,7 @@
             }
         ],
         "created": "2023-10-09T15:32:22Z",
-        "last_seen": "2023-12-28T15:55:32Z",
+        "last_seen": "2023-12-28T21:42:32Z",
         "status": "Online",
         "observations": 773,
         "description": "M2 VHF and UHF Eggbeaters.\r\n \r\nStatus as of 2023-11-06 - Both LNA's now active",
@@ -79430,9 +79430,9 @@
             }
         ],
         "created": "2023-10-22T12:11:46Z",
-        "last_seen": "2023-12-28T15:55:40Z",
+        "last_seen": "2023-12-28T21:42:40Z",
         "status": "Testing",
-        "observations": 2594,
+        "observations": 2602,
         "description": "VHF",
         "client_version": "1.8.1",
         "target_utilization": 5
@@ -79455,7 +79455,7 @@
             }
         ],
         "created": "2023-10-23T17:50:37Z",
-        "last_seen": "2023-12-28T15:55:42Z",
+        "last_seen": "2023-12-28T21:42:42Z",
         "status": "Online",
         "observations": 309,
         "description": "",
@@ -79480,7 +79480,7 @@
             }
         ],
         "created": "2023-10-24T02:38:14Z",
-        "last_seen": "2023-12-28T15:55:31Z",
+        "last_seen": "2023-12-28T21:42:31Z",
         "status": "Testing",
         "observations": 49,
         "description": "Vertically oriented monopole ADSB antenna (I may experiment with a horizontal orientation in the future), RTL-SDR Blog V3 and Raspberry Pi 4 SBC. (Experiencing significant observation failures which are under investigation)",
@@ -79530,9 +79530,9 @@
             }
         ],
         "created": "2023-10-25T17:45:40Z",
-        "last_seen": "2023-12-28T15:55:07Z",
+        "last_seen": "2023-12-28T21:42:07Z",
         "status": "Online",
-        "observations": 5670,
+        "observations": 5684,
         "description": "Patch antenna -> LNA -> 1 meter coax -> Nooelec Smartee with bias-t -> rpi4",
         "client_version": "1.8.1",
         "target_utilization": 90
@@ -79742,8 +79742,8 @@
         "name": "EI5GN",
         "altitude": 83,
         "min_horizon": 10,
-        "lat": 52.969,
-        "lng": -6.024,
+        "lat": 52.96888889,
+        "lng": -6.02333333,
         "qthlocator": "IO62xx",
         "antenna": [
             {
@@ -79762,9 +79762,9 @@
             }
         ],
         "created": "2023-10-29T11:59:26Z",
-        "last_seen": "2023-12-28T15:55:34Z",
-        "status": "Testing",
-        "observations": 0,
+        "last_seen": "2023-12-28T16:36:42Z",
+        "status": "Offline",
+        "observations": 11,
         "description": "",
         "client_version": "",
         "target_utilization": 0
@@ -79901,7 +79901,7 @@
             }
         ],
         "created": "2023-11-02T15:52:54Z",
-        "last_seen": "2023-12-28T15:55:23Z",
+        "last_seen": "2023-12-28T21:42:23Z",
         "status": "Online",
         "observations": 832,
         "description": "144 MHz with claok leaf",
@@ -79958,7 +79958,7 @@
             }
         ],
         "created": "2023-11-03T20:39:05Z",
-        "last_seen": "2023-12-28T15:55:20Z",
+        "last_seen": "2023-12-28T21:42:20Z",
         "status": "Online",
         "observations": 700,
         "description": "Raspberry Pi 400, RTL-SDR",
@@ -80214,7 +80214,7 @@
             }
         ],
         "created": "2023-11-13T10:09:52Z",
-        "last_seen": "2023-12-28T15:55:22Z",
+        "last_seen": "2023-12-28T21:42:22Z",
         "status": "Online",
         "observations": 721,
         "description": "Ground station of Gymnazium Puchov.",
@@ -80412,7 +80412,7 @@
             }
         ],
         "created": "2023-11-15T17:35:54Z",
-        "last_seen": "2023-12-28T15:55:13Z",
+        "last_seen": "2023-12-28T21:42:13Z",
         "status": "Testing",
         "observations": 440,
         "description": "Inishowen, Co. Donegal Ground Station\r\nRaspi 3 Discone RTL-SDR v2",
@@ -80437,7 +80437,7 @@
             }
         ],
         "created": "2023-11-15T18:06:28Z",
-        "last_seen": "2023-12-28T15:55:43Z",
+        "last_seen": "2023-12-28T21:42:43Z",
         "status": "Online",
         "observations": 476,
         "description": "8 el yagi antenna (400-406 MHz), Az 60, El 30, no rotator",
@@ -80487,7 +80487,7 @@
             }
         ],
         "created": "2023-11-18T15:46:05Z",
-        "last_seen": "2023-12-28T15:55:12Z",
+        "last_seen": "2023-12-28T21:42:12Z",
         "status": "Testing",
         "observations": 188,
         "description": "",
@@ -80544,7 +80544,7 @@
             }
         ],
         "created": "2023-11-19T22:54:34Z",
-        "last_seen": "2023-12-28T15:55:29Z",
+        "last_seen": "2023-12-28T21:42:29Z",
         "status": "Online",
         "observations": 77,
         "description": "",
@@ -80701,7 +80701,7 @@
             }
         ],
         "created": "2023-11-22T05:37:11Z",
-        "last_seen": "2023-12-28T15:55:32Z",
+        "last_seen": "2023-12-28T21:42:32Z",
         "status": "Online",
         "observations": 337,
         "description": "",
@@ -80718,7 +80718,7 @@
         "qthlocator": "IO82ql",
         "antenna": [],
         "created": "2023-11-22T11:07:50Z",
-        "last_seen": "2023-12-28T15:55:24Z",
+        "last_seen": "2023-12-28T21:42:24Z",
         "status": "Online",
         "observations": 0,
         "description": "Woodbank Receiving Station.",
@@ -80743,7 +80743,7 @@
             }
         ],
         "created": "2023-11-22T13:50:05Z",
-        "last_seen": "2023-12-28T15:55:47Z",
+        "last_seen": "2023-12-28T21:42:47Z",
         "status": "Online",
         "observations": 362,
         "description": "",
@@ -80768,7 +80768,7 @@
             }
         ],
         "created": "2023-11-22T16:55:23Z",
-        "last_seen": "2023-12-28T15:55:56Z",
+        "last_seen": "2023-12-28T21:42:56Z",
         "status": "Online",
         "observations": 270,
         "description": "",
@@ -80825,7 +80825,7 @@
             }
         ],
         "created": "2023-11-23T18:12:35Z",
-        "last_seen": "2023-12-28T15:55:43Z",
+        "last_seen": "2023-12-28T21:42:43Z",
         "status": "Testing",
         "observations": 0,
         "description": "GS from the Institute for Astronomy and Astrophysics Tuebingen",
@@ -81202,7 +81202,7 @@
             }
         ],
         "created": "2023-12-01T21:25:23Z",
-        "last_seen": "2023-12-28T15:55:42Z",
+        "last_seen": "2023-12-28T21:42:42Z",
         "status": "Online",
         "observations": 384,
         "description": "",
@@ -81234,7 +81234,7 @@
             }
         ],
         "created": "2023-12-01T21:30:58Z",
-        "last_seen": "2023-12-28T15:55:13Z",
+        "last_seen": "2023-12-28T21:42:13Z",
         "status": "Testing",
         "observations": 145,
         "description": "Mullingar, 10+10 X-pol LFA, LNA, rtl-sdr",
@@ -81693,7 +81693,7 @@
             }
         ],
         "created": "2023-12-07T18:08:53Z",
-        "last_seen": "2023-12-28T15:55:40Z",
+        "last_seen": "2023-12-28T21:42:40Z",
         "status": "Online",
         "observations": 125,
         "description": "Rogue Space Systems - MacPherson Station",
@@ -81768,7 +81768,7 @@
             }
         ],
         "created": "2023-12-08T18:18:11Z",
-        "last_seen": "2023-12-28T15:55:22Z",
+        "last_seen": "2023-12-28T21:42:22Z",
         "status": "Testing",
         "observations": 279,
         "description": "",
@@ -81807,7 +81807,7 @@
             }
         ],
         "created": "2023-12-09T06:48:14Z",
-        "last_seen": "2023-12-28T15:55:07Z",
+        "last_seen": "2023-12-28T21:42:07Z",
         "status": "Online",
         "observations": 688,
         "description": "This Ground Station is located in Hamilton NZ, The SDR is a standard RTL-SDR V3.  Antenna is a D130 Discone",
@@ -81864,9 +81864,9 @@
             }
         ],
         "created": "2023-12-10T11:20:04Z",
-        "last_seen": "2023-12-28T15:55:11Z",
+        "last_seen": "2023-12-28T21:42:11Z",
         "status": "Online",
-        "observations": 420,
+        "observations": 427,
         "description": "Home made UHF CAVITY FILTER + RTL SDR + RPi4",
         "client_version": "1.8.1",
         "target_utilization": 15
@@ -81970,7 +81970,7 @@
             }
         ],
         "created": "2023-12-14T02:44:52Z",
-        "last_seen": "2023-12-28T15:55:20Z",
+        "last_seen": "2023-12-28T21:42:20Z",
         "status": "Online",
         "observations": 248,
         "description": "In Christchurch.",
@@ -82020,7 +82020,7 @@
             }
         ],
         "created": "2023-12-14T20:22:23Z",
-        "last_seen": "2023-12-28T15:55:20Z",
+        "last_seen": "2023-12-28T21:42:20Z",
         "status": "Online",
         "observations": 80,
         "description": "Nooelec Smartee XTR - Testing",
@@ -82141,7 +82141,7 @@
             }
         ],
         "created": "2023-12-19T02:22:56Z",
-        "last_seen": "2023-12-28T15:55:49Z",
+        "last_seen": "2023-12-28T21:42:49Z",
         "status": "Testing",
         "observations": 19,
         "description": "VHF / UHF bands supported. Antennas TBD",
@@ -82166,8 +82166,8 @@
             }
         ],
         "created": "2023-12-21T18:26:14Z",
-        "last_seen": "2023-12-28T13:47:59Z",
-        "status": "Offline",
+        "last_seen": "2023-12-28T21:42:14Z",
+        "status": "Online",
         "observations": 133,
         "description": "SatNOGS Network Ground Station from India.",
         "client_version": "1.8.1",
@@ -82191,9 +82191,9 @@
             }
         ],
         "created": "2023-12-22T00:29:24Z",
-        "last_seen": "2023-12-28T15:55:32Z",
+        "last_seen": "2023-12-28T21:42:10Z",
         "status": "Testing",
-        "observations": 128,
+        "observations": 137,
         "description": "",
         "client_version": "1.8.1",
         "target_utilization": 50
@@ -82216,7 +82216,7 @@
             }
         ],
         "created": "2023-12-23T11:34:29Z",
-        "last_seen": "2023-12-28T15:56:04Z",
+        "last_seen": "2023-12-28T20:55:49Z",
         "status": "Testing",
         "observations": 118,
         "description": "A ground station somewhere in Nice",
@@ -82241,9 +82241,9 @@
             }
         ],
         "created": "2023-12-26T12:24:39Z",
-        "last_seen": "2023-12-28T15:55:51Z",
+        "last_seen": "2023-12-28T21:42:51Z",
         "status": "Testing",
-        "observations": 81,
+        "observations": 104,
         "description": "Under testing. Trying out antenna's",
         "client_version": "1.8.1",
         "target_utilization": 50
@@ -82287,9 +82287,9 @@
             }
         ],
         "created": "2023-12-27T01:50:08Z",
-        "last_seen": "2023-12-28T15:55:15Z",
+        "last_seen": "2023-12-28T21:42:15Z",
         "status": "Online",
-        "observations": 36,
+        "observations": 65,
         "description": "a minimalist attempt starring a nooelec nesdr dongle",
         "client_version": "1.8.1",
         "target_utilization": 0
@@ -82299,8 +82299,8 @@
         "name": "sonicepk",
         "altitude": 35,
         "min_horizon": 10,
-        "lat": 53.296253,
-        "lng": -6.282367,
+        "lat": 53.296,
+        "lng": -6.282,
         "qthlocator": "IO63uh",
         "antenna": [
             {
@@ -82312,11 +82312,11 @@
             }
         ],
         "created": "2023-12-27T23:48:18Z",
-        "last_seen": null,
-        "status": "Offline",
-        "observations": 0,
+        "last_seen": "2023-12-28T21:42:46Z",
+        "status": "Testing",
+        "observations": 21,
         "description": "Demo Pi4-SDR-Homemade Turnstile Antenna",
-        "client_version": "",
+        "client_version": "1.8.1",
         "target_utilization": 0
     },
     {
