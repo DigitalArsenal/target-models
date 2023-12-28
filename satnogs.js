@@ -37,9 +37,9 @@ async function fetchCurrentStations() {
 
 function createIntegratedDevice(antenna, station) {
     return {
-        ID: xxhash.h32(`ANT-${station.id}-${antenna.antenna_type_name}`, 0xABCD).toString(16),
+        //ID: xxhash.h32(`ANT-${station.id}-${antenna.antenna_type_name}`, 0xABCD).toString(16),
         NAME: antenna.antenna_type_name,
-        DATA_MODE: 'REAL', // Assuming real data mode
+        //DATA_MODE: 'REAL', // Assuming real data mode
         BAND: [{
             NAME: antenna.band,
             FREQUENCY_RANGE: {
@@ -64,14 +64,14 @@ function mapStationToSIT(station) {
     return {
         ID: station.id.toString(),
         NAME: station.name,
-        SITE_TYPE: 'OBSERVATION_STATION', // Defaulting to observation station
+        //SITE_TYPE: 'OBSERVATION_STATION', // Defaulting to observation station
         NETWORK: 'SatNOGS',
         LATITUDE: station.lat,
         LONGITUDE: station.lng,
         ALTITUDE: station.altitude,
-        CENTER_POINT_GEOMETRY: [station.lng, station.lat],
-        DESCRIPTION: station.description || '',
-        TASKABLE: false, // Assuming the site is not taskable
+        //CENTER_POINT_GEOMETRY: [station.lng, station.lat],
+        //DESCRIPTION: station.description || '',
+        //TASKABLE: false, // Assuming the site is not taskable
         OPERATIONAL_STATUS: station.status,
         INTEGRATED_DEVICES: integratedDevices
     };
