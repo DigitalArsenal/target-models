@@ -8,7 +8,7 @@
     "start": "nodemon index.js",
     "dev": "nodemon index.js -w index.js",
     "dev:launch": "nodemon launch.js -w launch.js",
-    "copy:src": "rm -R lib/* && cp -R ../tap-schema-workshop/lib/js/* lib/"
+    "copy:standards": "rm -R lib/* && cp -R ../tap-schema-workshop/lib/js/* lib/ && cp ../tap-schema-workshop/dist/manifest.json lib/"
   },
   "author": "",
   "license": "ISC",

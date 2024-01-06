@@ -1,7 +1,7 @@
 
 import fetch from "node-fetch";
 import { writeFileSync } from "fs";
-import satnogs_sites from "./data/satnogs.stations.json" assert {type: "json"};
+import satnogs_sites from "./data/satnogs/stations.json" assert {type: "json"};
 import { IDM, SIT, SiteType, SITCOLLECTION } from "./lib/SIT/main.js";
 import xxhash from "xxhashjs";
 
@@ -107,7 +107,7 @@ async function updateStations() {
 
     if (stationsToUpdate.length > 0) {
         satnogs_sites.push(...stationsToUpdate);
-        writeFileSync('./data/satnogs.stations.json', JSON.stringify(satnogs_sites, null, 4));
+        writeFileSync('./data/satnogs/stations.json', JSON.stringify(satnogs_sites, null, 4));
     }
 
     return satnogs_sites;
