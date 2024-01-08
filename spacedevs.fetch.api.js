@@ -1,68 +1,89 @@
 import fetch from "node-fetch";
-import { writeFileSync } from "fs";
+import { writeFileSync, existsSync, readFileSync } from "fs";
+import os from "os";
+
+const browserUserAgent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.0.0 Safari/537.36";
+const apiKey = "49fe812ac4dd919a14ed2ec4f49f376d0c5987ff"; // Replace with your API key
 
 /**
  * Fetches data from a given URL of The Space Devs API with a delay between requests.
  * This function retrieves data page by page, concatenating the results from each page,
  * and includes an optional sleep duration between requests.
+ * It also retries the current URL with an exponential backoff strategy if an error occurs.
  * 
  * @async
- * @param {string} initialUrl - The initial URL to start fetching data from.
- * @param {number} sleepDuration - The duration (in milliseconds) to sleep between requests.
+ * @param {string} baseUrl - The base URL to fetch data from.
+ * @param {number} totalItems - The total number of items in the database.
+ * @param {number} pageSize - The number of items to retrieve per page.
+ * @param {number} sleepDuration - The initial duration (in milliseconds) to sleep between requests.
+ * @param {string} tempFilePath - Path to the temporary file for storing partial data.
+ * @param {string} stateFilePath - Path to the file for storing the current successful page.
  * @returns {Promise<Object[]>} A promise that resolves to an array of objects from the API.
  */
-async function fetchFromSpaceDevsApi(initialUrl, sleepDuration = 0) {
-    let nextUrl = initialUrl;
-    const allData = [];
+async function fetchFromSpaceDevsApi(baseUrl, totalItems, pageSize, sleepDuration = 0, tempFilePath, stateFilePath) {
+    let currentPage = Math.ceil(totalItems / pageSize);
+    let retryCount = 0;
+    let successfulPage = 0;
 
-    while (nextUrl) {
-        console.log(`Retrieving: ${nextUrl}`);
-        const response = await fetch(nextUrl);
+    if (existsSync(stateFilePath)) {
+        // Read the successful page from the state file
+        successfulPage = parseInt(readFileSync(stateFilePath, 'utf8'));
+        currentPage = successfulPage;
+    }
+
+    while (currentPage >= 1) {
+        const offset = (currentPage - 1) * pageSize;
+        const pageUrl = `${baseUrl}&limit=${pageSize}&offset=${offset}`;
+        console.log(`Retrieving Page ${currentPage}: ${pageUrl}`);
+        const response = await fetch(pageUrl, {
+            headers: {
+                'User-Agent': browserUserAgent,
+                'Authorization': `Token ${apiKey}` // Add your API key here
+            }
+        });
 
         if (!response.ok) {
-            throw new Error(`Error fetching data: ${response.statusText}`);
+            const retryDelay = Math.pow(2, retryCount) * sleepDuration;
+            console.error(`Error fetching data: ${response.statusText}. Retrying in ${retryDelay}ms.`);
+            await new Promise(resolve => setTimeout(resolve, retryDelay)); // Exponential backoff
+            retryCount++;
+        } else {
+            retryCount = 0; // Reset retry count on success
+            successfulPage = currentPage;
+            writeFileSync(stateFilePath, successfulPage.toString()); // Save the successful page
         }
 
         const data = await response.json();
-        allData.push(...data.results);
-
-        nextUrl = data.next; // Update the nextUrl for the next iteration
-
+        const tempData = JSON.parse(readFileSync(tempFilePath, 'utf8'));
+        tempData.push(...data.results);
+        writeFileSync(tempFilePath, JSON.stringify(tempData, null, 2));
         if (sleepDuration > 0) {
             await new Promise(resolve => setTimeout(resolve, sleepDuration)); // Sleep for the specified duration
         }
+        currentPage--;
     }
 
-    return allData;
+    const tempData = JSON.parse(readFileSync(tempFilePath, 'utf8'));
+
+    return tempData;
 }
-/*
-// Example usage for fetching locations
-const locationsUrl = "https://ll.thespacedevs.com/2.2.0/location/?format=json&limit=100";
-fetchFromSpaceDevsApi(locationsUrl).then(allLocations => {
-    console.log('Total Locations:', allLocations.length);
-    writeFileSync('./data/thespacedevs/locations.json', JSON.stringify(allLocations, null, 2));
-    // Process or write the locations data
-}).catch(error => {
-    console.error('An error occurred:', error);
-});
 
-// Example usage for fetching launch pads
-const padsUrl = "https://ll.thespacedevs.com/2.2.0/pad/?format=json&limit=100";
-fetchFromSpaceDevsApi(padsUrl).then(allPads => {
-    console.log('Total Pads:', allPads.length);
-    writeFileSync('./data/thespacedevs/pads.json', JSON.stringify(allPads, null, 2));
-    // Process or write the pads data
-}).catch(error => {
-    console.error('An error occurred:', error);
-});
-*/
+const baseUrl = "https://ll.thespacedevs.com/2.2.0/launch/?format=json";
+const totalItems = 4600//7132;
+const pageSize = 100;
+const sleepDuration = /*4 * 60 **/ 1000;
+const tempFilePath = './data/thespacedevs/temp.json';
+const stateFilePath = './data/thespacedevs/state.txt';
+fetchFromSpaceDevsApi(baseUrl, totalItems, pageSize, sleepDuration, tempFilePath, stateFilePath).then(allLaunches => {
+    console.log('Total Launches:', allLaunches.length);
+    writeFileSync('./data/thespacedevs/launches.json', JSON.stringify(allLaunches, null, 2));
+    console.log('Data written to launches.json');
 
-const launchURL = "https://ll.thespacedevs.com/2.2.0/launch/?limit=100";
+    // Get local IP address
+    const networkInterfaces = os.networkInterfaces();
+    const localIp = networkInterfaces['Ethernet'][0].address; // Replace 'Ethernet' with your network interface name
 
-fetchFromSpaceDevsApi(launchURL, 4 * 60 * 1000).then(allPads => {
-    console.log('Total Launches:', allPads.length);
-    writeFileSync('./data/thespacedevs/launches.json', JSON.stringify(allPads, null, 2));
-    // Process or write the pads data
+    console.log('Local IP Address:', localIp);
 }).catch(error => {
     console.error('An error occurred:', error);
 });
