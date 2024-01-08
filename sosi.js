@@ -37,6 +37,10 @@ const deviceTypeMap = {
     "UNKNOWN": DeviceType.UNKNOWN
 };
 
+function idExistsInCollection(id, collection) {
+    return collection.RECORDS.some(record => record.ID === id);
+}
+
 function createSIT(device) {
     const sit = new SITT();
     sit.ID = xxhash.h32(device.name, 0xABCD).toString(16);
@@ -144,10 +148,18 @@ const idmCollection = new IDMCOLLECTIONT();
 for (const key in devices) {
     const device = devices[key];
     const sit = createSIT(device);
-    sitCollection.RECORDS.push(sit);
+
+    // Check if SIT ID already exists before pushing
+    if (!idExistsInCollection(sit.ID, sitCollection)) {
+        sitCollection.RECORDS.push(sit);
+    }
 
     const idm = createIDM(device, sit.ID);
-    idmCollection.RECORDS.push(idm);
+
+    // Check if IDM ID already exists before pushing
+    if (!idExistsInCollection(idm.ID, idmCollection)) {
+        idmCollection.RECORDS.push(idm);
+    }
 }
 
 HOBBYISTS.forEach(hobbyist => {

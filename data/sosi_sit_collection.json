@@ -285,19 +285,6 @@
         "TASKABLE": false
       },
       {
-        "ID": "da82b6f0",
-        "NAME": "Holt Naval Communication Station",
-        "ABBREVIATION": "HOLSST",
-        "SITE_TYPE": 8,
-        "LATITUDE": -21.816195,
-        "LONGITUDE": 114.165637,
-        "ALTITUDE": 0.04572,
-        "CTR_ID": "036",
-        "CREATED_BY": "https://digitalarsenal.io",
-        "DESCRIPTION": "SST",
-        "TASKABLE": false
-      },
-      {
         "ID": "cd9fe9b1",
         "NAME": "Har Keren TPY-2",
         "ABBREVIATION": "HARTPY",
@@ -564,19 +551,6 @@
         "TASKABLE": false
       },
       {
-        "ID": "438e29fe",
-        "NAME": "Zimmerwald Observatory",
-        "ABBREVIATION": "ZimSMART",
-        "SITE_TYPE": 8,
-        "LATITUDE": 46.876947,
-        "LONGITUDE": 7.465086,
-        "ALTITUDE": 0,
-        "CTR_ID": "756",
-        "CREATED_BY": "https://digitalarsenal.io",
-        "DESCRIPTION": "ZimSMART",
-        "TASKABLE": false
-      },
-      {
         "ID": "ac6ede2e",
         "NAME": "Tromso",
         "ABBREVIATION": "Tromso",
@@ -642,19 +616,6 @@
         "TASKABLE": false
       },
       {
-        "ID": "df79e506",
-        "NAME": "Olenegorsk",
-        "ABBREVIATION": "OLEV",
-        "SITE_TYPE": 1,
-        "LATITUDE": 68.090694,
-        "LONGITUDE": 34.327539,
-        "ALTITUDE": 0,
-        "CTR_ID": "643",
-        "CREATED_BY": "https://digitalarsenal.io",
-        "DESCRIPTION": "Voronezh-VP",
-        "TASKABLE": false
-      },
-      {
         "ID": "94f8a3ba",
         "NAME": "Pechora",
         "ABBREVIATION": "PEC",
@@ -678,19 +639,6 @@
         "CTR_ID": "643",
         "CREATED_BY": "https://digitalarsenal.io",
         "DESCRIPTION": "Dnepr",
-        "TASKABLE": false
-      },
-      {
-        "ID": "76b72f4d",
-        "NAME": "Mishelevka",
-        "ABBREVIATION": "MISV",
-        "SITE_TYPE": 1,
-        "LATITUDE": 52.8555,
-        "LONGITUDE": 103.2317,
-        "ALTITUDE": 0,
-        "CTR_ID": "643",
-        "CREATED_BY": "https://digitalarsenal.io",
-        "DESCRIPTION": "Voronezh-VP",
         "TASKABLE": false
       },
       {
