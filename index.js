@@ -1,22 +1,25 @@
 //@ts-check
-import cluster from "cluster";
 import { existsSync } from "fs";
 import { writeFileSync } from "fs";
-import XLSX from "xlsx";
-import { SITT, SiteType } from "./lib/SIT/main.js";
+import { SITT, SITCOLLECTIONT, SiteType } from "./lib/SIT/main.js";
+import satnogs from "./data/satnogs/satnogs.sit.json" assert {type: "json"};
+import launchsites from "./data/thespacedevs/launch.sit.json" assert {type: "json"};
+import sosi from "./data/sosi_sit_collection.json" assert {type: "json"};
 
+console.log(sosi.SITCOLLECTION.RECORDS.length);
+//@ts-ignore  what the fuck
+console.log(launchsites.SITCOLLECTION.RECORDS.length);
+console.log(satnogs.SITCOLLECTION.RECORDS.length);
 
-/**
- * Calculates the sum of two numbers.
- * 
- * @param {number} a - The first number to be added.
- * @param {number} b - The second number to be added.
- * @returns {number} The sum of `a` and `b`.
- */
-function test(a, b) {
-  return a + b;
-}
+let combined = {
+  SITCOLLECTION: {
+    RECORDS: [
+      ...sosi.SITCOLLECTION.RECORDS,
+      //@ts-ignore
+      ...launchsites.SITCOLLECTION.RECORDS,
+      ...satnogs.SITCOLLECTION.RECORDS
+    ]
+  }
+};
 
-test(1, 2);
-
-console.log(SITT);
+writeFileSync("./dist/SITCOLLECTION.json", JSON.stringify(combined));

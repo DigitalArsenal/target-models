@@ -125,7 +125,7 @@ async function main() {
     try {
         const updatedStations = await updateStations();
         const sitData = convertToSITFormat(updatedStations);
-        writeFileSync('./data/satnogs.sit.json', JSON.stringify(sitData, null, 4));
+        writeFileSync('./data/satnogs/satnogs.sit.json', JSON.stringify({ SITCOLLECTION: sitData }, null, 4));
     } catch (error) {
         console.error('An error occurred:', error);
     }

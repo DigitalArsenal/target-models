@@ -1,4 +1,6 @@
 import fs from "fs";
+import { SITT, SiteType, SITCOLLECTIONT } from "./lib/SIT/main.js";
+import xxhash from "xxhashjs";
 
 const readJSONFile = (filePath) => {
     try {
@@ -60,8 +62,6 @@ for (let l = 0; l < launchData.length; l++) {
     launchByPad[launchData[l].pad.id].push(ll);
 }
 
-//console.log(JSON.stringify(launchByPad, null, 4));
-
 function recursivelyRemoveProperties(obj, propertiesToRemove) {
     if (typeof obj !== 'object' || obj === null) {
         return;
@@ -102,4 +102,32 @@ if (locationsData && padsData) {
 
     const locationJSON = JSON.stringify(combinedData, null, 2);
     fs.writeFileSync("./data/thespacedevs/locations.combined.json", locationJSON);
+
+    // Create SIT records
+    const sitCollection = new SITCOLLECTIONT();
+    combinedData.forEach(location => {
+        sitCollection.RECORDS.push(createSIT(location));
+    });
+
+    const sitJSON = JSON.stringify({ SITCOLLECTION: sitCollection }, null, 2);
+    fs.writeFileSync("./data/thespacedevs/launch.sit.json", sitJSON);
+}
+
+function createSIT(launchSite) {
+    const sit = new SITT();
+    sit.ID = xxhash.h32(launchSite.name, 0xABCD).toString(16);
+    sit.NAME = launchSite.name;
+    sit.ABBREVIATION = launchSite.name; // Replace with the appropriate abbreviation logic
+    sit.SITE_TYPE = SiteType.LAUNCH_SITE; // Set SITE_TYPE to 'LAUNCH_SITE'
+    sit.LATITUDE = parseFloat(launchSite.latitude); // Convert latitude to float
+    sit.LONGITUDE = parseFloat(launchSite.longitude); // Convert longitude to float
+    sit.pads = launchSite.pads;
+    // Remove null or empty properties
+    for (let x in sit) {
+        if (sit[x] === null || (Array.isArray(sit[x]) && sit[x].length === 0)) {
+            delete sit[x];
+        }
+    }
+
+    return sit;
 }

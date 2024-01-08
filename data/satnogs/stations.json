@@ -82837,5 +82837,62 @@
         "description": "Quick & Dirty Ground Station Test.\r\nOnce the system is up and running, it is intended to improve gradually.",
         "client_version": "",
         "target_utilization": 0
+    },
+    {
+        "id": 3424,
+        "name": "G4TNX",
+        "altitude": 0,
+        "min_horizon": 10,
+        "lat": 53.550199,
+        "lng": -0.022102,
+        "qthlocator": "IO93xn",
+        "antenna": [
+            {
+                "frequency": 135000000,
+                "frequency_max": 148000000,
+                "band": "VHF",
+                "antenna_type": "vertical",
+                "antenna_type_name": "Vertical"
+            },
+            {
+                "frequency": 400000000,
+                "frequency_max": 470000000,
+                "band": "UHF",
+                "antenna_type": "vertical",
+                "antenna_type_name": "Vertical"
+            }
+        ],
+        "created": "2024-01-07T18:35:20Z",
+        "last_seen": null,
+        "status": "Offline",
+        "observations": 0,
+        "description": "",
+        "client_version": "",
+        "target_utilization": 0
+    },
+    {
+        "id": 3425,
+        "name": "ntou",
+        "altitude": 30,
+        "min_horizon": 10,
+        "lat": 25.150597,
+        "lng": 121.779973,
+        "qthlocator": "PL05vd",
+        "antenna": [
+            {
+                "frequency": 430,
+                "frequency_max": 450,
+                "band": "ULF",
+                "antenna_type": "yagi",
+                "antenna_type_name": "Yagi"
+            }
+        ],
+        "created": "2024-01-08T04:03:09Z",
+        "last_seen": null,
+        "status": "Offline",
+        "observations": 0,
+        "description": "",
+        "client_version": "",
+        "target_utilization": 0
     }
 ]
