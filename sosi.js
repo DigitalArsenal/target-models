@@ -164,10 +164,15 @@ for (const key in devices) {
 
 HOBBYISTS.forEach(hobbyist => {
     const sit = createHobbyistSIT(hobbyist);
-    sitCollection.RECORDS.push(sit);
+
+    if (!idExistsInCollection(sit.ID, sitCollection)) {
+        sitCollection.RECORDS.push(sit);
+    }
 
     const idm = createHobbyistIDM(hobbyist, sit.ID);
-    idmCollection.RECORDS.push(idm);
+    if (!idExistsInCollection(idm.ID, sitCollection)) {
+        idmCollection.RECORDS.push(idm);
+    }
 });
 
 const sitOutputFilename = 'data/sosi_sit_collection.json';

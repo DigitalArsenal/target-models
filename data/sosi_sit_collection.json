@@ -931,33 +931,6 @@
         "TASKABLE": false
       },
       {
-        "ID": "b3cf4fb2",
-        "NAME": "Brad Young",
-        "SITE_TYPE": 2,
-        "LATITUDE": 35.8311,
-        "LONGITUDE": 96.1411,
-        "ALTITUDE": 330,
-        "TASKABLE": false
-      },
-      {
-        "ID": "b3cf4fb2",
-        "NAME": "Brad Young",
-        "SITE_TYPE": 2,
-        "LATITUDE": 32.008,
-        "LONGITUDE": 116.135,
-        "ALTITUDE": 300,
-        "TASKABLE": false
-      },
-      {
-        "ID": "b3cf4fb2",
-        "NAME": "Brad Young",
-        "SITE_TYPE": 2,
-        "LATITUDE": 36.1392,
-        "LONGITUDE": 95.9834,
-        "ALTITUDE": 201,
-        "TASKABLE": false
-      },
-      {
         "ID": "ae9c9954",
         "NAME": "Chris Lewicki",
         "SITE_TYPE": 2,
@@ -1062,24 +1035,6 @@
         "LATITUDE": 52.8344,
         "LONGITUDE": 6.3785,
         "ALTITUDE": 10,
-        "TASKABLE": false
-      },
-      {
-        "ID": "ce92a8e0",
-        "NAME": "Leo Barhorst",
-        "SITE_TYPE": 2,
-        "LATITUDE": 52.3713,
-        "LONGITUDE": 5.258,
-        "ALTITUDE": -3,
-        "TASKABLE": false
-      },
-      {
-        "ID": "fcbe371b",
-        "NAME": "Alberto Rango",
-        "SITE_TYPE": 2,
-        "LATITUDE": 41.1067,
-        "LONGITUDE": 16.9008,
-        "ALTITUDE": 35,
         "TASKABLE": false
       },
       {
