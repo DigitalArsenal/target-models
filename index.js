@@ -7,7 +7,7 @@ import launchsites from "./data/thespacedevs/launch.sit.json" assert {type: "jso
 import sosi from "./data/sosi_sit_collection.json" assert {type: "json"};
 
 console.log(sosi.SITCOLLECTION.RECORDS.length);
-//@ts-ignore  what the fuck
+//@ts-ignore
 console.log(launchsites.SITCOLLECTION.RECORDS.length);
 console.log(satnogs.SITCOLLECTION.RECORDS.length);
 
