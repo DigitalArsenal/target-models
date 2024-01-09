@@ -78,7 +78,9 @@ function recursivelyRemoveProperties(obj, propertiesToRemove) {
 
 if (locationsData && padsData) {
     // Combine the data and perform the desired operation here
-    const combinedData = locationsData.map(location => {
+    const combinedData = locationsData.filter(location => {
+        return padsData.filter(pad => pad.location.id === location.id).length > 0
+    }).map(location => {
         const matchingPads = padsData.filter(pad => pad.location.id === location.id);
         delete location.timezone_name;
         delete location.url;
