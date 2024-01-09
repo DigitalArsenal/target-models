@@ -86,17 +86,30 @@ if (locationsData && padsData) {
         delete location.map_image;
         location.name = location.name.split(",")[0].trim();
 
+        // Calculate the average latitude and longitude for pad locations
+        let totalLatitude = 0;
+        let totalLongitude = 0;
+        matchingPads.forEach(pad => {
+            totalLatitude += pad.latitude ? parseFloat(pad.latitude) : 0;
+            totalLongitude += pad.longitude ? parseFloat(pad.longitude) : 0;
+        });
+
+        const averageLatitude = matchingPads.length > 0 ? totalLatitude / matchingPads.length : null;
+        const averageLongitude = matchingPads.length > 0 ? totalLongitude / matchingPads.length : null;
+
         return {
             ...location,
             pads: matchingPads.map(pad => ({
                 id: pad.id,
                 name: pad.name,
-                latitude: pad.latitude,
-                longitude: pad.longitude,
+                latitude: parseFloat(pad.latitude) || averageLatitude,
+                longitude: parseFloat(pad.longitude) || averageLongitude,
                 total_launch_count: pad.total_launch_count,
                 orbital_launch_attempt_count: pad.orbital_launch_attempt_count,
                 launches: launchByPad[pad.id]
-            }))
+            })),
+            LATITUDE: averageLatitude,
+            LONGITUDE: averageLongitude
         };
     });
 
@@ -119,8 +132,8 @@ function createSIT(launchSite) {
     sit.NAME = launchSite.name;
     sit.ABBREVIATION = launchSite.name; // Replace with the appropriate abbreviation logic
     sit.SITE_TYPE = SiteType.LAUNCH_SITE; // Set SITE_TYPE to 'LAUNCH_SITE'
-    sit.LATITUDE = parseFloat(launchSite.latitude); // Convert latitude to float
-    sit.LONGITUDE = parseFloat(launchSite.longitude); // Convert longitude to float
+    sit.LATITUDE = launchSite.LATITUDE; // Convert latitude to float
+    sit.LONGITUDE = launchSite.LONGITUDE; // Convert longitude to float
     sit.pads = launchSite.pads;
     // Remove null or empty properties
     for (let x in sit) {
