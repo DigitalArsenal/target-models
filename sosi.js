@@ -1,41 +1,12 @@
-import { writeFileSync } from 'fs';
+import { writeFileSync, readFileSync } from 'fs';
 import { SITT, SiteType, SITCOLLECTIONT } from "./lib/SIT/main.js";
 import { IDM, DeviceType, IDMCOLLECTIONT, DataMode } from "./lib/IDM/main.js";
 import xxhash from "xxhashjs";
 import { sensors as devices } from "./raw/sensors.js";
 import CTRC from "./data/ctr_collection.json" assert {type: "json"};
 import HOBBYISTS from "./raw/json/hobby_sosi.json" assert {type: "json"};
-
-const deviceTypeMap = {
-    "PHASED_ARRAY_RADAR": DeviceType.PHASED_ARRAY_RADAR,
-    "SYNTHETIC_APERTURE_RADAR": DeviceType.SYNTHETIC_APERTURE_RADAR,
-    "BISTATIC_RADIO_TELESCOPE": DeviceType.BISTATIC_RADIO_TELESCOPE,
-    "RADIO_TELESCOPE": DeviceType.RADIO_TELESCOPE,
-    "ATMOSPHERIC_SENSOR": DeviceType.ATMOSPHERIC_SENSOR,
-    "SPACE_WEATHER_SENSOR": DeviceType.SPACE_WEATHER_SENSOR,
-    "ENVIRONMENTAL_SENSOR": DeviceType.ENVIRONMENTAL_SENSOR,
-    "SEISMIC_SENSOR": DeviceType.SEISMIC_SENSOR,
-    "GRAVIMETRIC_SENSOR": DeviceType.GRAVIMETRIC_SENSOR,
-    "MAGNETIC_SENSOR": DeviceType.MAGNETIC_SENSOR,
-    "ELECTROMAGNETIC_SENSOR": DeviceType.ELECTROMAGNETIC_SENSOR,
-    "THERMAL_SENSOR": DeviceType.THERMAL_SENSOR,
-    "CHEMICAL_SENSOR": DeviceType.CHEMICAL_SENSOR,
-    "BIOLOGICAL_SENSOR": DeviceType.BIOLOGICAL_SENSOR,
-    "RADIATION_SENSOR": DeviceType.RADIATION_SENSOR,
-    "PARTICLE_DETECTOR": DeviceType.PARTICLE_DETECTOR,
-    "LIDAR": DeviceType.LIDAR,
-    "SONAR": DeviceType.SONAR,
-    "TELESCOPE": DeviceType.TELESCOPE,
-    "SPECTROSCOPIC_SENSOR": DeviceType.SPECTROSCOPIC_SENSOR,
-    "PHOTOMETRIC_SENSOR": DeviceType.PHOTOMETRIC_SENSOR,
-    "POLARIMETRIC_SENSOR": DeviceType.POLARIMETRIC_SENSOR,
-    "INTERFEROMETRIC_SENSOR": DeviceType.INTERFEROMETRIC_SENSOR,
-    "MULTISPECTRAL_SENSOR": DeviceType.MULTISPECTRAL_SENSOR,
-    "HYPERSPECTRAL_SENSOR": DeviceType.HYPERSPECTRAL_SENSOR,
-    "GPS_RECEIVER": DeviceType.GPS_RECEIVER,
-    "SATELLITE_TRACKING_SENSOR": DeviceType.SATELLITE_TRACKING_SENSOR,
-    "UNKNOWN": DeviceType.UNKNOWN
-};
+import PRCSOSI from "./raw/json/prc_sosi.json" assert {type: "json"};
+import { deviceTypeMap } from "./deviceMap.js";
 
 function idExistsInCollection(id, collection) {
     return collection.RECORDS.some(record => record.ID === id);
@@ -174,6 +145,37 @@ HOBBYISTS.forEach(hobbyist => {
         idmCollection.RECORDS.push(idm);
     }
 });
+
+// Function to create SIT messages from the prc_sosi.json data
+function createSITFromPRC(data) {
+    const sit = new SITT();
+    sit.ID = xxhash.h32(data["Site Name"], 0xABCD).toString(16);
+    sit.NAME = data["Site Name"];
+    sit.SITE_TYPE = SiteType.OTHER; // Set the appropriate site type here
+    sit.LATITUDE = data["Lat (degrees)"];
+    sit.LONGITUDE = data["Long (degrees)"];
+    sit.ALTITUDE = data["Elevation (meters)"] || 0; // You may need to adjust this field
+
+    // Add additional fields specific to your requirements
+
+    return sit;
+}
+
+// Create a collection for the new SIT messages
+const prcSosiSITCollection = new SITCOLLECTIONT();
+
+// Loop through the prc_sosi.json data and create SIT messages
+for (const data of PRCSOSI) {
+    const sit = createSITFromPRC(data);
+
+    // Check if SIT ID already exists before pushing
+    if (!idExistsInCollection(sit.ID, sitCollection)) {
+        prcSosiSITCollection.RECORDS.push(sit);
+    }
+}
+
+// Merge the new SIT messages with the existing SIT collection
+sitCollection.RECORDS = sitCollection.RECORDS.concat(prcSosiSITCollection.RECORDS);
 
 const sitOutputFilename = 'data/sosi_sit_collection.json';
 writeFileSync(sitOutputFilename, JSON.stringify({ SITCOLLECTION: sitCollection }, null, 2));
