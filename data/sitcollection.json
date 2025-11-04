@@ -10,7 +10,8 @@
         "ALTITUDE": 0,
         "CENTER_POINT_GEOMETRY": [],
         "CREATED_BY": "https://en.wikipedia.org/wiki/List_of_rocket_launch_sites",
-        "TASKABLE": false
+        "TASKABLE": false,
+        "INTEGRATED_DEVICES": []
       },
       {
         "ID": "7346B131",
@@ -21,7 +22,8 @@
         "ALTITUDE": 0,
         "CENTER_POINT_GEOMETRY": [],
         "CREATED_BY": "https://en.wikipedia.org/wiki/List_of_rocket_launch_sites",
-        "TASKABLE": false
+        "TASKABLE": false,
+        "INTEGRATED_DEVICES": []
       },
       {
         "ID": "65FFAF23",
@@ -32,7 +34,8 @@
         "ALTITUDE": 0,
         "CENTER_POINT_GEOMETRY": [],
         "CREATED_BY": "https://en.wikipedia.org/wiki/List_of_rocket_launch_sites",
-        "TASKABLE": false
+        "TASKABLE": false,
+        "INTEGRATED_DEVICES": []
       },
       {
         "ID": "23946C31",
@@ -43,7 +46,8 @@
         "ALTITUDE": 0,
         "CENTER_POINT_GEOMETRY": [],
         "CREATED_BY": "https://en.wikipedia.org/wiki/List_of_rocket_launch_sites",
-        "TASKABLE": false
+        "TASKABLE": false,
+        "INTEGRATED_DEVICES": []
       },
       {
         "ID": "67AA849D",
@@ -54,7 +58,8 @@
         "ALTITUDE": 0,
         "CENTER_POINT_GEOMETRY": [],
         "CREATED_BY": "https://en.wikipedia.org/wiki/List_of_rocket_launch_sites",
-        "TASKABLE": false
+        "TASKABLE": false,
+        "INTEGRATED_DEVICES": []
       },
       {
         "ID": "EFE20179",
@@ -65,7 +70,8 @@
         "ALTITUDE": 0,
         "CENTER_POINT_GEOMETRY": [],
         "CREATED_BY": "https://en.wikipedia.org/wiki/List_of_rocket_launch_sites",
-        "TASKABLE": false
+        "TASKABLE": false,
+        "INTEGRATED_DEVICES": []
       },
       {
         "ID": "94322027",
@@ -76,7 +82,8 @@
         "ALTITUDE": 0,
         "CENTER_POINT_GEOMETRY": [],
         "CREATED_BY": "https://en.wikipedia.org/wiki/List_of_rocket_launch_sites",
-        "TASKABLE": false
+        "TASKABLE": false,
+        "INTEGRATED_DEVICES": []
       },
       {
         "ID": "D24193AF",
@@ -87,7 +94,8 @@
         "ALTITUDE": 0,
         "CENTER_POINT_GEOMETRY": [],
         "CREATED_BY": "https://en.wikipedia.org/wiki/List_of_rocket_launch_sites",
-        "TASKABLE": false
+        "TASKABLE": false,
+        "INTEGRATED_DEVICES": []
       },
       {
         "ID": "FB734D6B",
@@ -98,7 +106,8 @@
         "ALTITUDE": 0,
         "CENTER_POINT_GEOMETRY": [],
         "CREATED_BY": "https://en.wikipedia.org/wiki/List_of_rocket_launch_sites",
-        "TASKABLE": false
+        "TASKABLE": false,
+        "INTEGRATED_DEVICES": []
       },
       {
         "ID": "2822111",
@@ -109,7 +118,8 @@
         "ALTITUDE": 0,
         "CENTER_POINT_GEOMETRY": [],
         "CREATED_BY": "https://en.wikipedia.org/wiki/List_of_rocket_launch_sites",
-        "TASKABLE": false
+        "TASKABLE": false,
+        "INTEGRATED_DEVICES": []
       },
       {
         "ID": "6B7BDDB4",
@@ -120,7 +130,8 @@
         "ALTITUDE": 0,
         "CENTER_POINT_GEOMETRY": [],
         "CREATED_BY": "https://en.wikipedia.org/wiki/List_of_rocket_launch_sites",
-        "TASKABLE": false
+        "TASKABLE": false,
+        "INTEGRATED_DEVICES": []
       },
       {
         "ID": "C58EC9FD",
@@ -131,7 +142,8 @@
         "ALTITUDE": 0,
         "CENTER_POINT_GEOMETRY": [],
         "CREATED_BY": "https://en.wikipedia.org/wiki/List_of_rocket_launch_sites",
-        "TASKABLE": false
+        "TASKABLE": false,
+        "INTEGRATED_DEVICES": []
       },
       {
         "ID": "C9B042AC",
@@ -142,7 +154,8 @@
         "ALTITUDE": 0,
         "CENTER_POINT_GEOMETRY": [],
         "CREATED_BY": "https://en.wikipedia.org/wiki/List_of_rocket_launch_sites",
-        "TASKABLE": false
+        "TASKABLE": false,
+        "INTEGRATED_DEVICES": []
       },
       {
         "ID": "9C562F",
@@ -153,7 +166,8 @@
         "ALTITUDE": 0,
         "CENTER_POINT_GEOMETRY": [],
         "CREATED_BY": "https://en.wikipedia.org/wiki/List_of_rocket_launch_sites",
-        "TASKABLE": false
+        "TASKABLE": false,
+        "INTEGRATED_DEVICES": []
       },
       {
         "ID": "FA96D7DD",
@@ -164,7 +178,8 @@
         "ALTITUDE": 0,
         "CENTER_POINT_GEOMETRY": [],
         "CREATED_BY": "https://en.wikipedia.org/wiki/List_of_rocket_launch_sites",
-        "TASKABLE": false
+        "TASKABLE": false,
+        "INTEGRATED_DEVICES": []
       },
       {
         "ID": "5C7E102D",
@@ -175,7 +190,8 @@
         "ALTITUDE": 0,
         "CENTER_POINT_GEOMETRY": [],
         "CREATED_BY": "https://en.wikipedia.org/wiki/List_of_rocket_launch_sites",
-        "TASKABLE": false
+        "TASKABLE": false,
+        "INTEGRATED_DEVICES": []
       },
       {
         "ID": "6B014AC5",
@@ -186,7 +202,8 @@
         "ALTITUDE": 0,
         "CENTER_POINT_GEOMETRY": [],
         "CREATED_BY": "https://en.wikipedia.org/wiki/List_of_rocket_launch_sites",
-        "TASKABLE": false
+        "TASKABLE": false,
+        "INTEGRATED_DEVICES": []
       },
       {
         "ID": "79965EDB",
@@ -197,7 +214,8 @@
         "ALTITUDE": 0,
         "CENTER_POINT_GEOMETRY": [],
         "CREATED_BY": "https://en.wikipedia.org/wiki/List_of_rocket_launch_sites",
-        "TASKABLE": false
+        "TASKABLE": false,
+        "INTEGRATED_DEVICES": []
       },
       {
         "ID": "DE39573A",
@@ -208,18 +226,20 @@
         "ALTITUDE": 0,
         "CENTER_POINT_GEOMETRY": [],
         "CREATED_BY": "https://en.wikipedia.org/wiki/List_of_rocket_launch_sites",
-        "TASKABLE": false
+        "TASKABLE": false,
+        "INTEGRATED_DEVICES": []
       },
       {
-        "ID": "5C517DF2",
-        "NAME": "Emamshahr Space Center",
+        "ID": "2761CE30",
+        "NAME": "Shahroud Space Center",
         "SITE_TYPE": 0,
         "LATITUDE": 36.42,
         "LONGITUDE": 55.02,
         "ALTITUDE": 0,
         "CENTER_POINT_GEOMETRY": [],
         "CREATED_BY": "https://en.wikipedia.org/wiki/List_of_rocket_launch_sites",
-        "TASKABLE": false
+        "TASKABLE": false,
+        "INTEGRATED_DEVICES": []
       },
       {
         "ID": "7E991F23",
@@ -230,7 +250,8 @@
         "ALTITUDE": 0,
         "CENTER_POINT_GEOMETRY": [],
         "CREATED_BY": "https://en.wikipedia.org/wiki/List_of_rocket_launch_sites",
-        "TASKABLE": false
+        "TASKABLE": false,
+        "INTEGRATED_DEVICES": []
       },
       {
         "ID": "CCD9AFE7",
@@ -241,7 +262,8 @@
         "ALTITUDE": 0,
         "CENTER_POINT_GEOMETRY": [],
         "CREATED_BY": "https://en.wikipedia.org/wiki/List_of_rocket_launch_sites",
-        "TASKABLE": false
+        "TASKABLE": false,
+        "INTEGRATED_DEVICES": []
       },
       {
         "ID": "EFBDCF6E",
@@ -252,7 +274,8 @@
         "ALTITUDE": 0,
         "CENTER_POINT_GEOMETRY": [],
         "CREATED_BY": "https://en.wikipedia.org/wiki/List_of_rocket_launch_sites",
-        "TASKABLE": false
+        "TASKABLE": false,
+        "INTEGRATED_DEVICES": []
       },
       {
         "ID": "A7654774",
@@ -263,7 +286,8 @@
         "ALTITUDE": 0,
         "CENTER_POINT_GEOMETRY": [],
         "CREATED_BY": "https://en.wikipedia.org/wiki/List_of_rocket_launch_sites",
-        "TASKABLE": false
+        "TASKABLE": false,
+        "INTEGRATED_DEVICES": []
       },
       {
         "ID": "81DBB832",
@@ -274,18 +298,20 @@
         "ALTITUDE": 0,
         "CENTER_POINT_GEOMETRY": [],
         "CREATED_BY": "https://en.wikipedia.org/wiki/List_of_rocket_launch_sites",
-        "TASKABLE": false
+        "TASKABLE": false,
+        "INTEGRATED_DEVICES": []
       },
       {
-        "ID": "92DCB5A",
-        "NAME": "Taiki Aerospace Research Field, Hokkaido",
+        "ID": "953563C7",
+        "NAME": "Taiki Multi-Purpose Aerospace Park, Taiki, Hokkaido",
         "SITE_TYPE": 0,
         "LATITUDE": 42.3,
         "LONGITUDE": 143.2629,
         "ALTITUDE": 0,
         "CENTER_POINT_GEOMETRY": [],
         "CREATED_BY": "https://en.wikipedia.org/wiki/List_of_rocket_launch_sites",
-        "TASKABLE": false
+        "TASKABLE": false,
+        "INTEGRATED_DEVICES": []
       },
       {
         "ID": "E7FB6331",
@@ -296,18 +322,32 @@
         "ALTITUDE": 0,
         "CENTER_POINT_GEOMETRY": [],
         "CREATED_BY": "https://en.wikipedia.org/wiki/List_of_rocket_launch_sites",
-        "TASKABLE": false
+        "TASKABLE": false,
+        "INTEGRATED_DEVICES": []
       },
       {
-        "ID": "133D0D7F",
-        "NAME": "Ryori[21]",
+        "ID": "47151D2B",
+        "NAME": "Spaceport Kii, Kushimoto, Wakayama Prefecture",
+        "SITE_TYPE": 0,
+        "LATITUDE": 33.550833,
+        "LONGITUDE": 135.879722,
+        "ALTITUDE": 0,
+        "CENTER_POINT_GEOMETRY": [],
+        "CREATED_BY": "https://en.wikipedia.org/wiki/List_of_rocket_launch_sites",
+        "TASKABLE": false,
+        "INTEGRATED_DEVICES": []
+      },
+      {
+        "ID": "ACAAFEF3",
+        "NAME": "Ryori[22]",
         "SITE_TYPE": 0,
         "LATITUDE": 39.03,
         "LONGITUDE": 141.83,
         "ALTITUDE": 0,
         "CENTER_POINT_GEOMETRY": [],
         "CREATED_BY": "https://en.wikipedia.org/wiki/List_of_rocket_launch_sites",
-        "TASKABLE": false
+        "TASKABLE": false,
+        "INTEGRATED_DEVICES": []
       },
       {
         "ID": "112B0AA1",
@@ -318,18 +358,20 @@
         "ALTITUDE": 0,
         "CENTER_POINT_GEOMETRY": [],
         "CREATED_BY": "https://en.wikipedia.org/wiki/List_of_rocket_launch_sites",
-        "TASKABLE": false
+        "TASKABLE": false,
+        "INTEGRATED_DEVICES": []
       },
       {
-        "ID": "88783B24",
-        "NAME": "Obachi[24]",
+        "ID": "7F1C770",
+        "NAME": "Obachi[25]",
         "SITE_TYPE": 0,
         "LATITUDE": 40.70342,
         "LONGITUDE": 141.36938,
         "ALTITUDE": 0,
         "CENTER_POINT_GEOMETRY": [],
         "CREATED_BY": "https://en.wikipedia.org/wiki/List_of_rocket_launch_sites",
-        "TASKABLE": false
+        "TASKABLE": false,
+        "INTEGRATED_DEVICES": []
       },
       {
         "ID": "93AE41E9",
@@ -340,7 +382,8 @@
         "ALTITUDE": 0,
         "CENTER_POINT_GEOMETRY": [],
         "CREATED_BY": "https://en.wikipedia.org/wiki/List_of_rocket_launch_sites",
-        "TASKABLE": false
+        "TASKABLE": false,
+        "INTEGRATED_DEVICES": []
       },
       {
         "ID": "77E3CDD9",
@@ -351,7 +394,8 @@
         "ALTITUDE": 0,
         "CENTER_POINT_GEOMETRY": [],
         "CREATED_BY": "https://en.wikipedia.org/wiki/List_of_rocket_launch_sites",
-        "TASKABLE": false
+        "TASKABLE": false,
+        "INTEGRATED_DEVICES": []
       },
       {
         "ID": "232633B3",
@@ -362,7 +406,8 @@
         "ALTITUDE": 0,
         "CENTER_POINT_GEOMETRY": [],
         "CREATED_BY": "https://en.wikipedia.org/wiki/List_of_rocket_launch_sites",
-        "TASKABLE": false
+        "TASKABLE": false,
+        "INTEGRATED_DEVICES": []
       },
       {
         "ID": "34BA2823",
@@ -373,7 +418,8 @@
         "ALTITUDE": 0,
         "CENTER_POINT_GEOMETRY": [],
         "CREATED_BY": "https://en.wikipedia.org/wiki/List_of_rocket_launch_sites",
-        "TASKABLE": false
+        "TASKABLE": false,
+        "INTEGRATED_DEVICES": []
       },
       {
         "ID": "D919B453",
@@ -384,7 +430,8 @@
         "ALTITUDE": 0,
         "CENTER_POINT_GEOMETRY": [],
         "CREATED_BY": "https://en.wikipedia.org/wiki/List_of_rocket_launch_sites",
-        "TASKABLE": false
+        "TASKABLE": false,
+        "INTEGRATED_DEVICES": []
       },
       {
         "ID": "156B0151",
@@ -395,7 +442,8 @@
         "ALTITUDE": 0,
         "CENTER_POINT_GEOMETRY": [],
         "CREATED_BY": "https://en.wikipedia.org/wiki/List_of_rocket_launch_sites",
-        "TASKABLE": false
+        "TASKABLE": false,
+        "INTEGRATED_DEVICES": []
       },
       {
         "ID": "6355BDB5",
@@ -406,7 +454,8 @@
         "ALTITUDE": 0,
         "CENTER_POINT_GEOMETRY": [],
         "CREATED_BY": "https://en.wikipedia.org/wiki/List_of_rocket_launch_sites",
-        "TASKABLE": false
+        "TASKABLE": false,
+        "INTEGRATED_DEVICES": []
       },
       {
         "ID": "EA0DD4CA",
@@ -417,18 +466,8 @@
         "ALTITUDE": 0,
         "CENTER_POINT_GEOMETRY": [],
         "CREATED_BY": "https://en.wikipedia.org/wiki/List_of_rocket_launch_sites",
-        "TASKABLE": false
-      },
-      {
-        "ID": "D435E83B",
-        "NAME": "Tilla Satellite Launch Center, Jhelum District, Punjab",
-        "SITE_TYPE": 0,
-        "LATITUDE": 33.3961,
-        "LONGITUDE": 73.29608,
-        "ALTITUDE": 0,
-        "CENTER_POINT_GEOMETRY": [],
-        "CREATED_BY": "https://en.wikipedia.org/wiki/List_of_rocket_launch_sites",
-        "TASKABLE": false
+        "TASKABLE": false,
+        "INTEGRATED_DEVICES": []
       },
       {
         "ID": "4C5F4A2A",
@@ -439,7 +478,8 @@
         "ALTITUDE": 0,
         "CENTER_POINT_GEOMETRY": [],
         "CREATED_BY": "https://en.wikipedia.org/wiki/List_of_rocket_launch_sites",
-        "TASKABLE": false
+        "TASKABLE": false,
+        "INTEGRATED_DEVICES": []
       },
       {
         "ID": "FE2731D3",
@@ -450,7 +490,8 @@
         "ALTITUDE": 0,
         "CENTER_POINT_GEOMETRY": [],
         "CREATED_BY": "https://en.wikipedia.org/wiki/List_of_rocket_launch_sites",
-        "TASKABLE": false
+        "TASKABLE": false,
+        "INTEGRATED_DEVICES": []
       },
       {
         "ID": "1A6FFFC7",
@@ -461,7 +502,8 @@
         "ALTITUDE": 0,
         "CENTER_POINT_GEOMETRY": [],
         "CREATED_BY": "https://en.wikipedia.org/wiki/List_of_rocket_launch_sites",
-        "TASKABLE": false
+        "TASKABLE": false,
+        "INTEGRATED_DEVICES": []
       },
       {
         "ID": "18F4AAFD",
@@ -472,7 +514,8 @@
         "ALTITUDE": 0,
         "CENTER_POINT_GEOMETRY": [],
         "CREATED_BY": "https://en.wikipedia.org/wiki/List_of_rocket_launch_sites",
-        "TASKABLE": false
+        "TASKABLE": false,
+        "INTEGRATED_DEVICES": []
       },
       {
         "ID": "658BD4D",
@@ -483,18 +526,20 @@
         "ALTITUDE": 0,
         "CENTER_POINT_GEOMETRY": [],
         "CREATED_BY": "https://en.wikipedia.org/wiki/List_of_rocket_launch_sites",
-        "TASKABLE": false
+        "TASKABLE": false,
+        "INTEGRATED_DEVICES": []
       },
       {
-        "ID": "8FD0E039",
-        "NAME": "Vostochny Cosmodrome, Amur Oblast[36]",
+        "ID": "A8E26342",
+        "NAME": "Vostochny Cosmodrome, Amur Oblast[35]",
         "SITE_TYPE": 0,
         "LATITUDE": 51.883,
         "LONGITUDE": 128.333,
         "ALTITUDE": 0,
         "CENTER_POINT_GEOMETRY": [],
         "CREATED_BY": "https://en.wikipedia.org/wiki/List_of_rocket_launch_sites",
-        "TASKABLE": false
+        "TASKABLE": false,
+        "INTEGRATED_DEVICES": []
       },
       {
         "ID": "78A1FFA8",
@@ -505,7 +550,8 @@
         "ALTITUDE": 0,
         "CENTER_POINT_GEOMETRY": [],
         "CREATED_BY": "https://en.wikipedia.org/wiki/List_of_rocket_launch_sites",
-        "TASKABLE": false
+        "TASKABLE": false,
+        "INTEGRATED_DEVICES": []
       },
       {
         "ID": "A321D415",
@@ -516,7 +562,8 @@
         "ALTITUDE": 0,
         "CENTER_POINT_GEOMETRY": [],
         "CREATED_BY": "https://en.wikipedia.org/wiki/List_of_rocket_launch_sites",
-        "TASKABLE": false
+        "TASKABLE": false,
+        "INTEGRATED_DEVICES": []
       },
       {
         "ID": "7DFCEF04",
@@ -527,7 +574,8 @@
         "ALTITUDE": 0,
         "CENTER_POINT_GEOMETRY": [],
         "CREATED_BY": "https://en.wikipedia.org/wiki/List_of_rocket_launch_sites",
-        "TASKABLE": false
+        "TASKABLE": false,
+        "INTEGRATED_DEVICES": []
       },
       {
         "ID": "58CC2309",
@@ -538,7 +586,8 @@
         "ALTITUDE": 0,
         "CENTER_POINT_GEOMETRY": [],
         "CREATED_BY": "https://en.wikipedia.org/wiki/List_of_rocket_launch_sites",
-        "TASKABLE": false
+        "TASKABLE": false,
+        "INTEGRATED_DEVICES": []
       },
       {
         "ID": "45656236",
@@ -549,7 +598,8 @@
         "ALTITUDE": 0,
         "CENTER_POINT_GEOMETRY": [],
         "CREATED_BY": "https://en.wikipedia.org/wiki/List_of_rocket_launch_sites",
-        "TASKABLE": false
+        "TASKABLE": false,
+        "INTEGRATED_DEVICES": []
       },
       {
         "ID": "47AA024A",
@@ -560,7 +610,8 @@
         "ALTITUDE": 0,
         "CENTER_POINT_GEOMETRY": [],
         "CREATED_BY": "https://en.wikipedia.org/wiki/List_of_rocket_launch_sites",
-        "TASKABLE": false
+        "TASKABLE": false,
+        "INTEGRATED_DEVICES": []
       },
       {
         "ID": "D999B7D6",
@@ -571,7 +622,8 @@
         "ALTITUDE": 0,
         "CENTER_POINT_GEOMETRY": [],
         "CREATED_BY": "https://en.wikipedia.org/wiki/List_of_rocket_launch_sites",
-        "TASKABLE": false
+        "TASKABLE": false,
+        "INTEGRATED_DEVICES": []
       },
       {
         "ID": "C41866AB",
@@ -582,7 +634,8 @@
         "ALTITUDE": 0,
         "CENTER_POINT_GEOMETRY": [],
         "CREATED_BY": "https://en.wikipedia.org/wiki/List_of_rocket_launch_sites",
-        "TASKABLE": false
+        "TASKABLE": false,
+        "INTEGRATED_DEVICES": []
       },
       {
         "ID": "2B0A775E",
@@ -593,7 +646,8 @@
         "ALTITUDE": 0,
         "CENTER_POINT_GEOMETRY": [],
         "CREATED_BY": "https://en.wikipedia.org/wiki/List_of_rocket_launch_sites",
-        "TASKABLE": false
+        "TASKABLE": false,
+        "INTEGRATED_DEVICES": []
       },
       {
         "ID": "B7439C45",
@@ -604,7 +658,8 @@
         "ALTITUDE": 0,
         "CENTER_POINT_GEOMETRY": [],
         "CREATED_BY": "https://en.wikipedia.org/wiki/List_of_rocket_launch_sites",
-        "TASKABLE": false
+        "TASKABLE": false,
+        "INTEGRATED_DEVICES": []
       },
       {
         "ID": "FCD19B18",
@@ -615,7 +670,8 @@
         "ALTITUDE": 0,
         "CENTER_POINT_GEOMETRY": [],
         "CREATED_BY": "https://en.wikipedia.org/wiki/List_of_rocket_launch_sites",
-        "TASKABLE": false
+        "TASKABLE": false,
+        "INTEGRATED_DEVICES": []
       },
       {
         "ID": "DDBCA362",
@@ -626,7 +682,8 @@
         "ALTITUDE": 0,
         "CENTER_POINT_GEOMETRY": [],
         "CREATED_BY": "https://en.wikipedia.org/wiki/List_of_rocket_launch_sites",
-        "TASKABLE": false
+        "TASKABLE": false,
+        "INTEGRATED_DEVICES": []
       },
       {
         "ID": "2C711444",
@@ -637,7 +694,8 @@
         "ALTITUDE": 0,
         "CENTER_POINT_GEOMETRY": [],
         "CREATED_BY": "https://en.wikipedia.org/wiki/List_of_rocket_launch_sites",
-        "TASKABLE": false
+        "TASKABLE": false,
+        "INTEGRATED_DEVICES": []
       },
       {
         "ID": "E863FDC3",
@@ -648,7 +706,8 @@
         "ALTITUDE": 0,
         "CENTER_POINT_GEOMETRY": [],
         "CREATED_BY": "https://en.wikipedia.org/wiki/List_of_rocket_launch_sites",
-        "TASKABLE": false
+        "TASKABLE": false,
+        "INTEGRATED_DEVICES": []
       },
       {
         "ID": "E8766F19",
@@ -659,7 +718,8 @@
         "ALTITUDE": 0,
         "CENTER_POINT_GEOMETRY": [],
         "CREATED_BY": "https://en.wikipedia.org/wiki/List_of_rocket_launch_sites",
-        "TASKABLE": false
+        "TASKABLE": false,
+        "INTEGRATED_DEVICES": []
       },
       {
         "ID": "29A02246",
@@ -670,7 +730,8 @@
         "ALTITUDE": 0,
         "CENTER_POINT_GEOMETRY": [],
         "CREATED_BY": "https://en.wikipedia.org/wiki/List_of_rocket_launch_sites",
-        "TASKABLE": false
+        "TASKABLE": false,
+        "INTEGRATED_DEVICES": []
       },
       {
         "ID": "72832FB0",
@@ -681,7 +742,8 @@
         "ALTITUDE": 0,
         "CENTER_POINT_GEOMETRY": [],
         "CREATED_BY": "https://en.wikipedia.org/wiki/List_of_rocket_launch_sites",
-        "TASKABLE": false
+        "TASKABLE": false,
+        "INTEGRATED_DEVICES": []
       },
       {
         "ID": "1C3AC207",
@@ -692,7 +754,8 @@
         "ALTITUDE": 0,
         "CENTER_POINT_GEOMETRY": [],
         "CREATED_BY": "https://en.wikipedia.org/wiki/List_of_rocket_launch_sites",
-        "TASKABLE": false
+        "TASKABLE": false,
+        "INTEGRATED_DEVICES": []
       },
       {
         "ID": "B993E43F",
@@ -703,7 +766,8 @@
         "ALTITUDE": 0,
         "CENTER_POINT_GEOMETRY": [],
         "CREATED_BY": "https://en.wikipedia.org/wiki/List_of_rocket_launch_sites",
-        "TASKABLE": false
+        "TASKABLE": false,
+        "INTEGRATED_DEVICES": []
       },
       {
         "ID": "4C271080",
@@ -714,7 +778,8 @@
         "ALTITUDE": 0,
         "CENTER_POINT_GEOMETRY": [],
         "CREATED_BY": "https://en.wikipedia.org/wiki/List_of_rocket_launch_sites",
-        "TASKABLE": false
+        "TASKABLE": false,
+        "INTEGRATED_DEVICES": []
       },
       {
         "ID": "A5FA5E8D",
@@ -725,7 +790,8 @@
         "ALTITUDE": 0,
         "CENTER_POINT_GEOMETRY": [],
         "CREATED_BY": "https://en.wikipedia.org/wiki/List_of_rocket_launch_sites",
-        "TASKABLE": false
+        "TASKABLE": false,
+        "INTEGRATED_DEVICES": []
       },
       {
         "ID": "1706713",
@@ -736,7 +802,8 @@
         "ALTITUDE": 0,
         "CENTER_POINT_GEOMETRY": [],
         "CREATED_BY": "https://en.wikipedia.org/wiki/List_of_rocket_launch_sites",
-        "TASKABLE": false
+        "TASKABLE": false,
+        "INTEGRATED_DEVICES": []
       },
       {
         "ID": "3991A2B7",
@@ -747,7 +814,8 @@
         "ALTITUDE": 0,
         "CENTER_POINT_GEOMETRY": [],
         "CREATED_BY": "https://en.wikipedia.org/wiki/List_of_rocket_launch_sites",
-        "TASKABLE": false
+        "TASKABLE": false,
+        "INTEGRATED_DEVICES": []
       },
       {
         "ID": "9DFA1CC",
@@ -758,7 +826,8 @@
         "ALTITUDE": 0,
         "CENTER_POINT_GEOMETRY": [],
         "CREATED_BY": "https://en.wikipedia.org/wiki/List_of_rocket_launch_sites",
-        "TASKABLE": false
+        "TASKABLE": false,
+        "INTEGRATED_DEVICES": []
       },
       {
         "ID": "14EE0888",
@@ -769,7 +838,8 @@
         "ALTITUDE": 0,
         "CENTER_POINT_GEOMETRY": [],
         "CREATED_BY": "https://en.wikipedia.org/wiki/List_of_rocket_launch_sites",
-        "TASKABLE": false
+        "TASKABLE": false,
+        "INTEGRATED_DEVICES": []
       },
       {
         "ID": "B64178DC",
@@ -780,7 +850,20 @@
         "ALTITUDE": 0,
         "CENTER_POINT_GEOMETRY": [],
         "CREATED_BY": "https://en.wikipedia.org/wiki/List_of_rocket_launch_sites",
-        "TASKABLE": false
+        "TASKABLE": false,
+        "INTEGRATED_DEVICES": []
+      },
+      {
+        "ID": "C41B739E",
+        "NAME": "Atlantic Spaceport Complex, Newfoundland",
+        "SITE_TYPE": 0,
+        "LATITUDE": 46.9016986,
+        "LONGITUDE": -55.3534819,
+        "ALTITUDE": 0,
+        "CENTER_POINT_GEOMETRY": [],
+        "CREATED_BY": "https://en.wikipedia.org/wiki/List_of_rocket_launch_sites",
+        "TASKABLE": false,
+        "INTEGRATED_DEVICES": []
       },
       {
         "ID": "D530A6A1",
@@ -791,7 +874,8 @@
         "ALTITUDE": 0,
         "CENTER_POINT_GEOMETRY": [],
         "CREATED_BY": "https://en.wikipedia.org/wiki/List_of_rocket_launch_sites",
-        "TASKABLE": false
+        "TASKABLE": false,
+        "INTEGRATED_DEVICES": []
       },
       {
         "ID": "A8EA88",
@@ -802,7 +886,8 @@
         "ALTITUDE": 0,
         "CENTER_POINT_GEOMETRY": [],
         "CREATED_BY": "https://en.wikipedia.org/wiki/List_of_rocket_launch_sites",
-        "TASKABLE": false
+        "TASKABLE": false,
+        "INTEGRATED_DEVICES": []
       },
       {
         "ID": "DEEEBFAF",
@@ -813,7 +898,8 @@
         "ALTITUDE": 0,
         "CENTER_POINT_GEOMETRY": [],
         "CREATED_BY": "https://en.wikipedia.org/wiki/List_of_rocket_launch_sites",
-        "TASKABLE": false
+        "TASKABLE": false,
+        "INTEGRATED_DEVICES": []
       },
       {
         "ID": "5B6B9064",
@@ -824,18 +910,8 @@
         "ALTITUDE": 0,
         "CENTER_POINT_GEOMETRY": [],
         "CREATED_BY": "https://en.wikipedia.org/wiki/List_of_rocket_launch_sites",
-        "TASKABLE": false
-      },
-      {
-        "ID": "9407F2AD",
-        "NAME": "Maritime Spaceport, Canso, Nova Scotia",
-        "SITE_TYPE": 0,
-        "LATITUDE": 45.30688,
-        "LONGITUDE": -60.98767,
-        "ALTITUDE": 0,
-        "CENTER_POINT_GEOMETRY": [],
-        "CREATED_BY": "https://en.wikipedia.org/wiki/List_of_rocket_launch_sites",
-        "TASKABLE": false
+        "TASKABLE": false,
+        "INTEGRATED_DEVICES": []
       },
       {
         "ID": "E9384863",
@@ -846,7 +922,8 @@
         "ALTITUDE": 0,
         "CENTER_POINT_GEOMETRY": [],
         "CREATED_BY": "https://en.wikipedia.org/wiki/List_of_rocket_launch_sites",
-        "TASKABLE": false
+        "TASKABLE": false,
+        "INTEGRATED_DEVICES": []
       },
       {
         "ID": "4444730C",
@@ -857,7 +934,8 @@
         "ALTITUDE": 0,
         "CENTER_POINT_GEOMETRY": [],
         "CREATED_BY": "https://en.wikipedia.org/wiki/List_of_rocket_launch_sites",
-        "TASKABLE": false
+        "TASKABLE": false,
+        "INTEGRATED_DEVICES": []
       },
       {
         "ID": "7CC55E95",
@@ -868,7 +946,8 @@
         "ALTITUDE": 0,
         "CENTER_POINT_GEOMETRY": [],
         "CREATED_BY": "https://en.wikipedia.org/wiki/List_of_rocket_launch_sites",
-        "TASKABLE": false
+        "TASKABLE": false,
+        "INTEGRATED_DEVICES": []
       },
       {
         "ID": "EA975A7D",
@@ -879,7 +958,8 @@
         "ALTITUDE": 0,
         "CENTER_POINT_GEOMETRY": [],
         "CREATED_BY": "https://en.wikipedia.org/wiki/List_of_rocket_launch_sites",
-        "TASKABLE": false
+        "TASKABLE": false,
+        "INTEGRATED_DEVICES": []
       },
       {
         "ID": "6A7D3CB",
@@ -890,7 +970,8 @@
         "ALTITUDE": 0,
         "CENTER_POINT_GEOMETRY": [],
         "CREATED_BY": "https://en.wikipedia.org/wiki/List_of_rocket_launch_sites",
-        "TASKABLE": false
+        "TASKABLE": false,
+        "INTEGRATED_DEVICES": []
       },
       {
         "ID": "DF09EDE7",
@@ -901,7 +982,8 @@
         "ALTITUDE": 0,
         "CENTER_POINT_GEOMETRY": [],
         "CREATED_BY": "https://en.wikipedia.org/wiki/List_of_rocket_launch_sites",
-        "TASKABLE": false
+        "TASKABLE": false,
+        "INTEGRATED_DEVICES": []
       },
       {
         "ID": "181C236C",
@@ -912,7 +994,8 @@
         "ALTITUDE": 0,
         "CENTER_POINT_GEOMETRY": [],
         "CREATED_BY": "https://en.wikipedia.org/wiki/List_of_rocket_launch_sites",
-        "TASKABLE": false
+        "TASKABLE": false,
+        "INTEGRATED_DEVICES": []
       },
       {
         "ID": "5F83B3FB",
@@ -923,7 +1006,8 @@
         "ALTITUDE": 0,
         "CENTER_POINT_GEOMETRY": [],
         "CREATED_BY": "https://en.wikipedia.org/wiki/List_of_rocket_launch_sites",
-        "TASKABLE": false
+        "TASKABLE": false,
+        "INTEGRATED_DEVICES": []
       },
       {
         "ID": "501B0E90",
@@ -934,7 +1018,8 @@
         "ALTITUDE": 0,
         "CENTER_POINT_GEOMETRY": [],
         "CREATED_BY": "https://en.wikipedia.org/wiki/List_of_rocket_launch_sites",
-        "TASKABLE": false
+        "TASKABLE": false,
+        "INTEGRATED_DEVICES": []
       },
       {
         "ID": "BEA037F0",
@@ -945,7 +1030,8 @@
         "ALTITUDE": 0,
         "CENTER_POINT_GEOMETRY": [],
         "CREATED_BY": "https://en.wikipedia.org/wiki/List_of_rocket_launch_sites",
-        "TASKABLE": false
+        "TASKABLE": false,
+        "INTEGRATED_DEVICES": []
       },
       {
         "ID": "2EA69AE8",
@@ -956,7 +1042,8 @@
         "ALTITUDE": 0,
         "CENTER_POINT_GEOMETRY": [],
         "CREATED_BY": "https://en.wikipedia.org/wiki/List_of_rocket_launch_sites",
-        "TASKABLE": false
+        "TASKABLE": false,
+        "INTEGRATED_DEVICES": []
       },
       {
         "ID": "FA5213DE",
@@ -967,7 +1054,8 @@
         "ALTITUDE": 0,
         "CENTER_POINT_GEOMETRY": [],
         "CREATED_BY": "https://en.wikipedia.org/wiki/List_of_rocket_launch_sites",
-        "TASKABLE": false
+        "TASKABLE": false,
+        "INTEGRATED_DEVICES": []
       },
       {
         "ID": "7D6C9873",
@@ -978,7 +1066,8 @@
         "ALTITUDE": 0,
         "CENTER_POINT_GEOMETRY": [],
         "CREATED_BY": "https://en.wikipedia.org/wiki/List_of_rocket_launch_sites",
-        "TASKABLE": false
+        "TASKABLE": false,
+        "INTEGRATED_DEVICES": []
       },
       {
         "ID": "5B0E65EA",
@@ -989,7 +1078,8 @@
         "ALTITUDE": 0,
         "CENTER_POINT_GEOMETRY": [],
         "CREATED_BY": "https://en.wikipedia.org/wiki/List_of_rocket_launch_sites",
-        "TASKABLE": false
+        "TASKABLE": false,
+        "INTEGRATED_DEVICES": []
       },
       {
         "ID": "7D62B464",
@@ -1000,7 +1090,8 @@
         "ALTITUDE": 0,
         "CENTER_POINT_GEOMETRY": [],
         "CREATED_BY": "https://en.wikipedia.org/wiki/List_of_rocket_launch_sites",
-        "TASKABLE": false
+        "TASKABLE": false,
+        "INTEGRATED_DEVICES": []
       },
       {
         "ID": "C6B22213",
@@ -1011,7 +1102,8 @@
         "ALTITUDE": 0,
         "CENTER_POINT_GEOMETRY": [],
         "CREATED_BY": "https://en.wikipedia.org/wiki/List_of_rocket_launch_sites",
-        "TASKABLE": false
+        "TASKABLE": false,
+        "INTEGRATED_DEVICES": []
       },
       {
         "ID": "D24DA2F9",
@@ -1022,7 +1114,8 @@
         "ALTITUDE": 0,
         "CENTER_POINT_GEOMETRY": [],
         "CREATED_BY": "https://en.wikipedia.org/wiki/List_of_rocket_launch_sites",
-        "TASKABLE": false
+        "TASKABLE": false,
+        "INTEGRATED_DEVICES": []
       },
       {
         "ID": "71BA3126",
@@ -1033,7 +1126,8 @@
         "ALTITUDE": 0,
         "CENTER_POINT_GEOMETRY": [],
         "CREATED_BY": "https://en.wikipedia.org/wiki/List_of_rocket_launch_sites",
-        "TASKABLE": false
+        "TASKABLE": false,
+        "INTEGRATED_DEVICES": []
       },
       {
         "ID": "DBDCE096",
@@ -1044,7 +1138,8 @@
         "ALTITUDE": 0,
         "CENTER_POINT_GEOMETRY": [],
         "CREATED_BY": "https://en.wikipedia.org/wiki/List_of_rocket_launch_sites",
-        "TASKABLE": false
+        "TASKABLE": false,
+        "INTEGRATED_DEVICES": []
       },
       {
         "ID": "BEBC5969",
@@ -1055,7 +1150,8 @@
         "ALTITUDE": 0,
         "CENTER_POINT_GEOMETRY": [],
         "CREATED_BY": "https://en.wikipedia.org/wiki/List_of_rocket_launch_sites",
-        "TASKABLE": false
+        "TASKABLE": false,
+        "INTEGRATED_DEVICES": []
       },
       {
         "ID": "6BA327A7",
@@ -1066,7 +1162,8 @@
         "ALTITUDE": 0,
         "CENTER_POINT_GEOMETRY": [],
         "CREATED_BY": "https://en.wikipedia.org/wiki/List_of_rocket_launch_sites",
-        "TASKABLE": false
+        "TASKABLE": false,
+        "INTEGRATED_DEVICES": []
       },
       {
         "ID": "E8374BC1",
@@ -1077,7 +1174,8 @@
         "ALTITUDE": 0,
         "CENTER_POINT_GEOMETRY": [],
         "CREATED_BY": "https://en.wikipedia.org/wiki/List_of_rocket_launch_sites",
-        "TASKABLE": false
+        "TASKABLE": false,
+        "INTEGRATED_DEVICES": []
       },
       {
         "ID": "289C99AF",
@@ -1088,7 +1186,8 @@
         "ALTITUDE": 0,
         "CENTER_POINT_GEOMETRY": [],
         "CREATED_BY": "https://en.wikipedia.org/wiki/List_of_rocket_launch_sites",
-        "TASKABLE": false
+        "TASKABLE": false,
+        "INTEGRATED_DEVICES": []
       },
       {
         "ID": "8A6E74D9",
@@ -1099,7 +1198,8 @@
         "ALTITUDE": 0,
         "CENTER_POINT_GEOMETRY": [],
         "CREATED_BY": "https://en.wikipedia.org/wiki/List_of_rocket_launch_sites",
-        "TASKABLE": false
+        "TASKABLE": false,
+        "INTEGRATED_DEVICES": []
       },
       {
         "ID": "F8617E48",
@@ -1110,7 +1210,8 @@
         "ALTITUDE": 0,
         "CENTER_POINT_GEOMETRY": [],
         "CREATED_BY": "https://en.wikipedia.org/wiki/List_of_rocket_launch_sites",
-        "TASKABLE": false
+        "TASKABLE": false,
+        "INTEGRATED_DEVICES": []
       },
       {
         "ID": "409AED32",
@@ -1121,7 +1222,8 @@
         "ALTITUDE": 0,
         "CENTER_POINT_GEOMETRY": [],
         "CREATED_BY": "https://en.wikipedia.org/wiki/List_of_rocket_launch_sites",
-        "TASKABLE": false
+        "TASKABLE": false,
+        "INTEGRATED_DEVICES": []
       },
       {
         "ID": "51D63BC2",
@@ -1132,7 +1234,8 @@
         "ALTITUDE": 0,
         "CENTER_POINT_GEOMETRY": [],
         "CREATED_BY": "https://en.wikipedia.org/wiki/List_of_rocket_launch_sites",
-        "TASKABLE": false
+        "TASKABLE": false,
+        "INTEGRATED_DEVICES": []
       },
       {
         "ID": "D1C4B56E",
@@ -1143,7 +1246,8 @@
         "ALTITUDE": 0,
         "CENTER_POINT_GEOMETRY": [],
         "CREATED_BY": "https://en.wikipedia.org/wiki/List_of_rocket_launch_sites",
-        "TASKABLE": false
+        "TASKABLE": false,
+        "INTEGRATED_DEVICES": []
       },
       {
         "ID": "A9044B89",
@@ -1154,7 +1258,8 @@
         "ALTITUDE": 0,
         "CENTER_POINT_GEOMETRY": [],
         "CREATED_BY": "https://en.wikipedia.org/wiki/List_of_rocket_launch_sites",
-        "TASKABLE": false
+        "TASKABLE": false,
+        "INTEGRATED_DEVICES": []
       },
       {
         "ID": "5E622FE1",
@@ -1165,7 +1270,8 @@
         "ALTITUDE": 0,
         "CENTER_POINT_GEOMETRY": [],
         "CREATED_BY": "https://en.wikipedia.org/wiki/List_of_rocket_launch_sites",
-        "TASKABLE": false
+        "TASKABLE": false,
+        "INTEGRATED_DEVICES": []
       },
       {
         "ID": "F758552F",
@@ -1176,7 +1282,8 @@
         "ALTITUDE": 0,
         "CENTER_POINT_GEOMETRY": [],
         "CREATED_BY": "https://en.wikipedia.org/wiki/List_of_rocket_launch_sites",
-        "TASKABLE": false
+        "TASKABLE": false,
+        "INTEGRATED_DEVICES": []
       },
       {
         "ID": "41B7988E",
@@ -1187,7 +1294,8 @@
         "ALTITUDE": 0,
         "CENTER_POINT_GEOMETRY": [],
         "CREATED_BY": "https://en.wikipedia.org/wiki/List_of_rocket_launch_sites",
-        "TASKABLE": false
+        "TASKABLE": false,
+        "INTEGRATED_DEVICES": []
       },
       {
         "ID": "98CFD59D",
@@ -1198,7 +1306,8 @@
         "ALTITUDE": 0,
         "CENTER_POINT_GEOMETRY": [],
         "CREATED_BY": "https://en.wikipedia.org/wiki/List_of_rocket_launch_sites",
-        "TASKABLE": false
+        "TASKABLE": false,
+        "INTEGRATED_DEVICES": []
       },
       {
         "ID": "285D724B",
@@ -1209,7 +1318,8 @@
         "ALTITUDE": 0,
         "CENTER_POINT_GEOMETRY": [],
         "CREATED_BY": "https://en.wikipedia.org/wiki/List_of_rocket_launch_sites",
-        "TASKABLE": false
+        "TASKABLE": false,
+        "INTEGRATED_DEVICES": []
       },
       {
         "ID": "2E86482C",
@@ -1220,7 +1330,8 @@
         "ALTITUDE": 0,
         "CENTER_POINT_GEOMETRY": [],
         "CREATED_BY": "https://en.wikipedia.org/wiki/List_of_rocket_launch_sites",
-        "TASKABLE": false
+        "TASKABLE": false,
+        "INTEGRATED_DEVICES": []
       },
       {
         "ID": "640395A6",
@@ -1231,7 +1342,8 @@
         "ALTITUDE": 0,
         "CENTER_POINT_GEOMETRY": [],
         "CREATED_BY": "https://en.wikipedia.org/wiki/List_of_rocket_launch_sites",
-        "TASKABLE": false
+        "TASKABLE": false,
+        "INTEGRATED_DEVICES": []
       },
       {
         "ID": "E58B5D52",
@@ -1242,7 +1354,8 @@
         "ALTITUDE": 0,
         "CENTER_POINT_GEOMETRY": [],
         "CREATED_BY": "https://en.wikipedia.org/wiki/List_of_rocket_launch_sites",
-        "TASKABLE": false
+        "TASKABLE": false,
+        "INTEGRATED_DEVICES": []
       },
       {
         "ID": "54EFF60E",
@@ -1253,7 +1366,8 @@
         "ALTITUDE": 0,
         "CENTER_POINT_GEOMETRY": [],
         "CREATED_BY": "https://en.wikipedia.org/wiki/List_of_rocket_launch_sites",
-        "TASKABLE": false
+        "TASKABLE": false,
+        "INTEGRATED_DEVICES": []
       },
       {
         "ID": "FD9D9DF9",
@@ -1264,7 +1378,8 @@
         "ALTITUDE": 0,
         "CENTER_POINT_GEOMETRY": [],
         "CREATED_BY": "https://en.wikipedia.org/wiki/List_of_rocket_launch_sites",
-        "TASKABLE": false
+        "TASKABLE": false,
+        "INTEGRATED_DEVICES": []
       },
       {
         "ID": "FAEF3769",
@@ -1275,7 +1390,8 @@
         "ALTITUDE": 0,
         "CENTER_POINT_GEOMETRY": [],
         "CREATED_BY": "https://en.wikipedia.org/wiki/List_of_rocket_launch_sites",
-        "TASKABLE": false
+        "TASKABLE": false,
+        "INTEGRATED_DEVICES": []
       },
       {
         "ID": "39467E6D",
@@ -1286,7 +1402,8 @@
         "ALTITUDE": 0,
         "CENTER_POINT_GEOMETRY": [],
         "CREATED_BY": "https://en.wikipedia.org/wiki/List_of_rocket_launch_sites",
-        "TASKABLE": false
+        "TASKABLE": false,
+        "INTEGRATED_DEVICES": []
       },
       {
         "ID": "985814E2",
@@ -1297,7 +1414,8 @@
         "ALTITUDE": 0,
         "CENTER_POINT_GEOMETRY": [],
         "CREATED_BY": "https://en.wikipedia.org/wiki/List_of_rocket_launch_sites",
-        "TASKABLE": false
+        "TASKABLE": false,
+        "INTEGRATED_DEVICES": []
       },
       {
         "ID": "5BC8A07F",
@@ -1308,7 +1426,8 @@
         "ALTITUDE": 0,
         "CENTER_POINT_GEOMETRY": [],
         "CREATED_BY": "https://en.wikipedia.org/wiki/List_of_rocket_launch_sites",
-        "TASKABLE": false
+        "TASKABLE": false,
+        "INTEGRATED_DEVICES": []
       },
       {
         "ID": "AB0A26A5",
@@ -1319,7 +1438,8 @@
         "ALTITUDE": 0,
         "CENTER_POINT_GEOMETRY": [],
         "CREATED_BY": "https://en.wikipedia.org/wiki/List_of_rocket_launch_sites",
-        "TASKABLE": false
+        "TASKABLE": false,
+        "INTEGRATED_DEVICES": []
       },
       {
         "ID": "A77281D2",
@@ -1330,7 +1450,8 @@
         "ALTITUDE": 0,
         "CENTER_POINT_GEOMETRY": [],
         "CREATED_BY": "https://en.wikipedia.org/wiki/List_of_rocket_launch_sites",
-        "TASKABLE": false
+        "TASKABLE": false,
+        "INTEGRATED_DEVICES": []
       },
       {
         "ID": "E0BF46D8",
@@ -1341,18 +1462,20 @@
         "ALTITUDE": 0,
         "CENTER_POINT_GEOMETRY": [],
         "CREATED_BY": "https://en.wikipedia.org/wiki/List_of_rocket_launch_sites",
-        "TASKABLE": false
+        "TASKABLE": false,
+        "INTEGRATED_DEVICES": []
       },
       {
-        "ID": "E297F431",
-        "NAME": "Mahia Peninsula",
+        "ID": "467BB1C7",
+        "NAME": "Rocket Lab Launch Complex 1, Mahia Peninsula",
         "SITE_TYPE": 0,
         "LATITUDE": -39.26044,
         "LONGITUDE": 177.86431,
         "ALTITUDE": 0,
         "CENTER_POINT_GEOMETRY": [],
         "CREATED_BY": "https://en.wikipedia.org/wiki/List_of_rocket_launch_sites",
-        "TASKABLE": false
+        "TASKABLE": false,
+        "INTEGRATED_DEVICES": []
       },
       {
         "ID": "579AAC9D",
@@ -1363,7 +1486,8 @@
         "ALTITUDE": 0,
         "CENTER_POINT_GEOMETRY": [],
         "CREATED_BY": "https://en.wikipedia.org/wiki/List_of_rocket_launch_sites",
-        "TASKABLE": false
+        "TASKABLE": false,
+        "INTEGRATED_DEVICES": []
       }
     ]
   }

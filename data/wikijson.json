@@ -270,7 +270,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Emamshahr Space Center",
+        "name": "Shahroud Space Center",
         "location": "Iran"
       },
       "geometry": {
@@ -354,7 +354,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Taiki Aerospace Research Field, Hokkaido",
+        "name": "Taiki Multi-Purpose Aerospace Park, Taiki, Hokkaido",
         "location": "Japan"
       },
       "geometry": {
@@ -382,7 +382,21 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Ryori[21]",
+        "name": "Spaceport Kii, Kushimoto, Wakayama Prefecture",
+        "location": "Japan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.879722,
+          33.550833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ryori[22]",
         "location": "Japan"
       },
       "geometry": {
@@ -410,7 +424,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Obachi[24]",
+        "name": "Obachi[25]",
         "location": "Japan"
       },
       "geometry": {
@@ -425,7 +439,7 @@
       "type": "Feature",
       "properties": {
         "name": "Baikonur Cosmodrome, Tyuratam",
-        "location": "Soviet Union/ Kazakhstan\n(Operated by  Russia)"
+        "location": "Soviet Union/ Kazakhstan\n(Operated by  Russia)"
       },
       "geometry": {
         "type": "Point",
@@ -439,7 +453,7 @@
       "type": "Feature",
       "properties": {
         "name": "Sary Shagan[citation needed]",
-        "location": "Soviet Union/ Kazakhstan\n(Partly operated by  Russia)"
+        "location": "Soviet Union/ Kazakhstan\n(Partly operated by  Russia)"
       },
       "geometry": {
         "type": "Point",
@@ -536,20 +550,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Tilla Satellite Launch Center, Jhelum District, Punjab",
-        "location": "Pakistan"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          73.29608,
-          33.3961
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Kheysa",
         "location": "Soviet Union"
       },
@@ -565,7 +565,7 @@
       "type": "Feature",
       "properties": {
         "name": "Svobodny Cosmodrome, Amur Oblast",
-        "location": "Soviet Union/  Russia"
+        "location": "Soviet Union/  Russia"
       },
       "geometry": {
         "type": "Point",
@@ -593,7 +593,7 @@
       "type": "Feature",
       "properties": {
         "name": "Okhotsk[citation needed]",
-        "location": "Soviet Union/  Russia"
+        "location": "Soviet Union/  Russia"
       },
       "geometry": {
         "type": "Point",
@@ -620,7 +620,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Vostochny Cosmodrome, Amur Oblast[36]",
+        "name": "Vostochny Cosmodrome, Amur Oblast[35]",
         "location": "Russia"
       },
       "geometry": {
@@ -887,7 +887,7 @@
       "type": "Feature",
       "properties": {
         "name": "Kapustin Yar Cosmodrome, Astrakhan Oblast",
-        "location": "Soviet Union/ Russia"
+        "location": "Soviet Union/ Russia"
       },
       "geometry": {
         "type": "Point",
@@ -901,7 +901,7 @@
       "type": "Feature",
       "properties": {
         "name": "Nyonoksa",
-        "location": "Soviet Union/ Russia"
+        "location": "Soviet Union/ Russia"
       },
       "geometry": {
         "type": "Point",
@@ -915,7 +915,7 @@
       "type": "Feature",
       "properties": {
         "name": "Plesetsk Cosmodrome",
-        "location": "Soviet Union/ Russia"
+        "location": "Soviet Union/ Russia"
       },
       "geometry": {
         "type": "Point",
@@ -998,6 +998,20 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Atlantic Spaceport Complex, Newfoundland",
+        "location": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.3534819,
+          46.9016986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Churchill Rocket Research Range, Manitoba",
         "location": "Canada"
       },
@@ -1054,22 +1068,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Maritime Spaceport, Canso, Nova Scotia",
-        "location": "Canada"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -60.98767,
-          45.30688
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Pituffik Space Base",
-        "location": "Greenland ( Denmark)"
+        "location": "Greenland ( Denmark)"
       },
       "geometry": {
         "type": "Point",
@@ -1712,7 +1712,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Mahia Peninsula",
+        "name": "Rocket Lab Launch Complex 1, Mahia Peninsula",
         "location": "New Zealand"
       },
       "geometry": {

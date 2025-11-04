@@ -5,6 +5,47 @@ import cheerio from 'cheerio';
 import { SITT, SiteType, SITCOLLECTIONT } from "./lib/SIT/main.js";
 import xxhash from "xxhashjs";
 
+const parseSignedCoordinate = (value) => {
+    if (typeof value === 'number') {
+        return value;
+    }
+
+    if (!value) {
+        return NaN;
+    }
+
+    const trimmed = String(value).trim();
+    if (!trimmed) {
+        return NaN;
+    }
+
+    const match = trimmed.match(/^(-?\d+(?:\.\d+)?)(?:\s*[°º]?)\s*([NSEW])?$/i);
+    if (match) {
+        const magnitude = parseFloat(match[1]);
+        if (!Number.isFinite(magnitude)) {
+            return NaN;
+        }
+
+        const direction = match[2]?.toUpperCase();
+        if (direction === 'S' || direction === 'W') {
+            return -Math.abs(magnitude);
+        }
+        return Math.abs(magnitude);
+    }
+
+    const numericValue = parseFloat(trimmed);
+    return Number.isFinite(numericValue) ? numericValue : NaN;
+};
+
+const safeParseCoordinatePair = (latitudeRaw, longitudeRaw) => {
+    const latitude = parseSignedCoordinate(latitudeRaw);
+    const longitude = parseSignedCoordinate(longitudeRaw);
+    if (Number.isNaN(latitude) || Number.isNaN(longitude)) {
+        return null;
+    }
+    return [longitude, latitude];
+};
+
 // Function to parse CSV data and convert it to GeoJSON
 const parseCsvToGeoJson = (filePath) => {
     return new Promise((resolve, reject) => {
@@ -13,13 +54,19 @@ const parseCsvToGeoJson = (filePath) => {
             .pipe(csvParser())
             .on('data', (data) => {
                 const { Name, Country, Latitude, Longitude } = data;
+                const coordinates = safeParseCoordinatePair(Latitude, Longitude);
+                if (!coordinates) {
+                    console.warn(`Skipping launch site with invalid coordinates: ${Name || 'Unknown'}`);
+                    return;
+                }
+
                 //console.log(Name, Country, Latitude, Longitude)
                 results.push({
                     type: 'Feature',
                     properties: { Name, Country },
                     geometry: {
                         type: 'Point',
-                        coordinates: [parseFloat(Longitude), parseFloat(Latitude)]
+                        coordinates
                     }
                 });
             })
@@ -74,7 +121,12 @@ const url = 'https://en.wikipedia.org/wiki/List_of_rocket_launch_sites';
 
 const fetchLaunchSites = async () => {
     try {
-        const response = await axios.get(url);
+        const response = await axios.get(url, {
+            headers: {
+                'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:128.0) Gecko/20100101 Firefox/128.0',
+                'Accept-Language': 'en-US,en;q=0.9'
+            }
+        });
         const $ = cheerio.load(response.data);
         const launchSites = [];
 
@@ -119,17 +171,21 @@ const fetchLaunchSites = async () => {
         return [launchSites, siteCollectionLaunch];
     } catch (error) {
         console.error('Error fetching launch sites:', error);
+        return [[], siteCollectionLaunch];
     }
 };
 
 const convertToGeoJSON = async () => {
-    const [geoJSON, sittcollection] = await fetchLaunchSites();
-    if (geoJSON || sittcollection) {
-        return [{
-            type: "FeatureCollection",
-            features: geoJSON
-        }, { SITCOLLECTION: sittcollection }];
+    const result = await fetchLaunchSites();
+    if (!result) {
+        return [null, null];
     }
+
+    const [geoJSON, sittcollection] = result;
+    return [{
+        type: "FeatureCollection",
+        features: geoJSON
+    }, { SITCOLLECTION: sittcollection }];
 };
 
 const replacer = (key, value) => {
@@ -148,5 +204,6 @@ convertToGeoJSON().then(([geoJSON, sittcollection]) => {
     if (sittcollection) {
         fs.writeFileSync('./data/sitcollection.json', JSON.stringify(sittcollection, replacer, 2));
     }
+}).catch((error) => {
+    console.error('Failed to convert launch site data to GeoJSON', error);
 });
-
