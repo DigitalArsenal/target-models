@@ -1,0 +1,2026 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.539151,
+          41.754785
+        ]
+      },
+      "properties": {
+        "id": "CODSFS",
+        "name": "Cape Cod SFS",
+        "abbrev": "CODSFS",
+        "type": "PHASED_ARRAY_RADAR",
+        "country": "United States",
+        "operator": "USSF",
+        "system": "PAVE PAWS UEWR",
+        "altitude": 0.060966,
+        "source": "raw/sensors.js"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.351237,
+          39.136064
+        ]
+      },
+      "properties": {
+        "id": "BLEAFB",
+        "name": "Beale AFB",
+        "abbrev": "BLEAFB",
+        "type": "PHASED_ARRAY_RADAR",
+        "country": "United States",
+        "operator": "USSF",
+        "system": "PAVE PAWS UEWR",
+        "altitude": 0.112,
+        "source": "raw/sensors.js"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.186944,
+          64.290556
+        ]
+      },
+      "properties": {
+        "id": "CLRSFS",
+        "name": "Clear SFS",
+        "abbrev": "CLRSFS",
+        "type": "PHASED_ARRAY_RADAR",
+        "country": "United States",
+        "operator": "USSF",
+        "system": "PAVE PAWS UEWR",
+        "altitude": 0.175,
+        "source": "raw/sensors.js"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.214836,
+          30.572411
+        ]
+      },
+      "properties": {
+        "id": "EGLAFB",
+        "name": "Eglin AFB",
+        "abbrev": "EGLAFB",
+        "type": "PHASED_ARRAY_RADAR",
+        "country": "United States",
+        "operator": "USSF",
+        "system": "AN/FPS-85",
+        "altitude": 0.039,
+        "source": "raw/sensors.js"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.670051,
+          54.361758
+        ]
+      },
+      "properties": {
+        "id": "RAFFYL",
+        "name": "RAF Fylingdales",
+        "abbrev": "RAFFYL",
+        "type": "PHASED_ARRAY_RADAR",
+        "country": "United Kingdom",
+        "operator": "RAF",
+        "system": "BMEWS UEWR",
+        "altitude": 0.26,
+        "source": "raw/sensors.js"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.899755,
+          48.724567
+        ]
+      },
+      "properties": {
+        "id": "CAVSFS",
+        "name": "Cavalier SFS",
+        "abbrev": "CAVSFS",
+        "type": "PHASED_ARRAY_RADAR",
+        "country": "United States",
+        "operator": "USSF",
+        "system": "PARCS",
+        "altitude": 0.352,
+        "source": "raw/sensors.js"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.299211,
+          76.570322
+        ]
+      },
+      "properties": {
+        "id": "PITSB",
+        "name": "Pituffik SB",
+        "abbrev": "PITSB",
+        "type": "PHASED_ARRAY_RADAR",
+        "country": "United States",
+        "operator": "USSF",
+        "system": "BMEWS UEWR",
+        "altitude": 0.392,
+        "source": "raw/sensors.js"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.092,
+          52.737
+        ]
+      },
+      "properties": {
+        "id": "COBRADANE",
+        "name": "Eareckson Air Station",
+        "abbrev": "COBRADANE",
+        "type": "PHASED_ARRAY_RADAR",
+        "country": "United States",
+        "operator": "USSF",
+        "system": "COBRA DANE",
+        "altitude": 0.066,
+        "source": "raw/sensors.js"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          167.733333,
+          8.716667
+        ]
+      },
+      "properties": {
+        "id": "KWAJALT",
+        "name": "ALTAIR",
+        "abbrev": "KWAJALT",
+        "type": "MECHANICAL",
+        "country": "United States",
+        "operator": "US ARMY",
+        "system": "ALTAIR",
+        "altitude": 0,
+        "source": "raw/sensors.js"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          167.773334,
+          8.716668
+        ]
+      },
+      "properties": {
+        "id": "KWAJGBRP",
+        "name": "Ground-Based Radar Prototype (GBR-P)",
+        "abbrev": "KWAJGBRP",
+        "type": "MECHANICAL",
+        "country": "United States",
+        "operator": "US ARMY",
+        "system": "GBR-P",
+        "altitude": 0,
+        "source": "raw/sensors.js"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          167.773334,
+          8.756668
+        ]
+      },
+      "properties": {
+        "id": "KWAJMMW",
+        "name": "Millimeter Wave Radar",
+        "abbrev": "KWAJMMW",
+        "type": "MECHANICAL",
+        "country": "United States",
+        "operator": "US ARMY",
+        "system": "Millimeter Wave Radar",
+        "altitude": 0,
+        "source": "raw/sensors.js"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          167.773334,
+          8.716668
+        ]
+      },
+      "properties": {
+        "id": "KWAJALC",
+        "name": "ALCOR Radar",
+        "abbrev": "KWAJALC",
+        "type": "MECHANICAL",
+        "country": "United States",
+        "operator": "US ARMY",
+        "system": "ALCOR",
+        "altitude": 0,
+        "source": "raw/sensors.js"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          167.733334,
+          8.756668
+        ]
+      },
+      "properties": {
+        "id": "KWAJTDX",
+        "name": "TRADEX Radar",
+        "abbrev": "KWAJTDX",
+        "type": "MECHANICAL",
+        "country": "United States",
+        "operator": "US ARMY",
+        "system": "TRADEX",
+        "altitude": 0,
+        "source": "raw/sensors.js"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          167.719,
+          8.723
+        ]
+      },
+      "properties": {
+        "id": "KWAJSPF",
+        "name": "Space Fence",
+        "abbrev": "KWAJSPF",
+        "type": "PHASED_ARRAY_RADAR",
+        "country": "United States",
+        "operator": "USSF",
+        "system": "Space Fence",
+        "altitude": 0.007,
+        "source": "raw/sensors.js"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4882,
+          42.6233
+        ]
+      },
+      "properties": {
+        "id": "MITMIL",
+        "name": "Westford",
+        "abbrev": "MITMIL",
+        "type": "MECHANICAL",
+        "country": "United States",
+        "operator": "MIT",
+        "system": "Millstone",
+        "altitude": 0.131,
+        "source": "raw/sensors.js"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.390153,
+          -7.29648
+        ]
+      },
+      "properties": {
+        "id": "GEODDSDGC",
+        "name": "Diego Garcia",
+        "abbrev": "GEODDSDGC",
+        "type": "OPTICAL",
+        "country": "United States",
+        "operator": "USSF",
+        "system": "GEODSS",
+        "altitude": 0,
+        "source": "raw/sensors.js"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.257595,
+          20.70835
+        ]
+      },
+      "properties": {
+        "id": "GEODDSMAU",
+        "name": "Maui",
+        "abbrev": "GEODDSMAU",
+        "type": "OPTICAL",
+        "country": "United States",
+        "operator": "USSF",
+        "system": "GEODSS",
+        "altitude": 3,
+        "source": "raw/sensors.js"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.659961,
+          33.817233
+        ]
+      },
+      "properties": {
+        "id": "GEODDSSOC",
+        "name": "Socorro",
+        "abbrev": "GEODDSSOC",
+        "type": "OPTICAL",
+        "country": "United States",
+        "operator": "USSF",
+        "system": "GEODSS",
+        "altitude": 1.24,
+        "source": "raw/sensors.js"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.393889,
+          -7.969444
+        ]
+      },
+      "properties": {
+        "id": "RAFASC",
+        "name": "Ascension Island",
+        "abbrev": "RAFASC",
+        "type": "MECHANICAL",
+        "country": "United States",
+        "operator": "USSF",
+        "system": "FPQ-15",
+        "altitude": 0,
+        "source": "raw/sensors.js"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1271,
+          70.3671
+        ]
+      },
+      "properties": {
+        "id": "GLBII",
+        "name": "Vardø",
+        "abbrev": "GLBII",
+        "type": "MECHANICAL",
+        "country": "Norway",
+        "operator": "NOR",
+        "system": "Globus II",
+        "altitude": 0,
+        "source": "raw/sensors.js"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.165637,
+          -21.816195
+        ]
+      },
+      "properties": {
+        "id": "HOLCBAND",
+        "name": "Holt Naval Communication Station",
+        "abbrev": "HOLCBAND",
+        "type": "MECHANICAL",
+        "country": "Australia",
+        "operator": "RAAF",
+        "system": "C-Band",
+        "altitude": 0,
+        "source": "raw/sensors.js"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.165637,
+          -21.816195
+        ]
+      },
+      "properties": {
+        "id": "HOLSST",
+        "name": "Holt Naval Communication Station",
+        "abbrev": "HOLSST",
+        "type": "OPTICAL",
+        "country": "Australia",
+        "operator": "RAAF",
+        "system": "SST",
+        "altitude": 0.04572,
+        "source": "raw/sensors.js"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.496062,
+          30.995807
+        ]
+      },
+      "properties": {
+        "id": "HARTPY",
+        "name": "Har Keren TPY-2",
+        "abbrev": "HARTPY",
+        "type": "PHASED_ARRAY_RADAR",
+        "country": "United States",
+        "operator": "US ARMY",
+        "system": "TPY-2",
+        "altitude": 0.173,
+        "source": "raw/sensors.js"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.146515,
+          25.31598
+        ]
+      },
+      "properties": {
+        "id": "QTRTPY",
+        "name": "Al Udeid",
+        "abbrev": "QTRTPY",
+        "type": "PHASED_ARRAY_RADAR",
+        "country": "United States",
+        "operator": "US ARMY",
+        "system": "TPY-2",
+        "altitude": 0.01,
+        "source": "raw/sensors.js"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.793611,
+          38.349444
+        ]
+      },
+      "properties": {
+        "id": "KURTPY",
+        "name": "Kürecik Radar Station",
+        "abbrev": "KURTPY",
+        "type": "PHASED_ARRAY_RADAR",
+        "country": "United States",
+        "operator": "US ARMY",
+        "system": "TPY-2",
+        "altitude": 1.969,
+        "source": "raw/sensors.js"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.337698,
+          40.88809
+        ]
+      },
+      "properties": {
+        "id": "SHATPY",
+        "name": "Shariki Communication Site",
+        "abbrev": "SHATPY",
+        "type": "PHASED_ARRAY_RADAR",
+        "country": "United States",
+        "operator": "US ARMY",
+        "system": "TPY-2",
+        "altitude": 0.01,
+        "source": "raw/sensors.js"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.195278,
+          35.766667
+        ]
+      },
+      "properties": {
+        "id": "KCSTPY",
+        "name": "Kyogamisaki Communication Site",
+        "abbrev": "KCSTPY",
+        "type": "PHASED_ARRAY_RADAR",
+        "country": "United States",
+        "operator": "US ARMY",
+        "system": "TPY-2",
+        "altitude": 0.01,
+        "source": "raw/sensors.js"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          169.6941,
+          36.5012
+        ]
+      },
+      "properties": {
+        "id": "SBXRDR",
+        "name": "Sea-Based X-Band Radar",
+        "abbrev": "SBXRDR",
+        "type": "PHASED_ARRAY_RADAR",
+        "country": "United States",
+        "operator": "US ARMY",
+        "system": "SBX",
+        "altitude": 0,
+        "source": "raw/sensors.js"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.233245,
+          31.9643
+        ]
+      },
+      "properties": {
+        "id": "LEOMSR",
+        "name": "Midland Space Radar",
+        "abbrev": "LEOMSR",
+        "type": "PHASED_ARRAY_RADAR",
+        "country": "United States",
+        "operator": "LEO LABS",
+        "system": "UHF",
+        "altitude": 0.855,
+        "source": "raw/sensors.js"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -147.47104,
+          65.12992
+        ]
+      },
+      "properties": {
+        "id": "LEOPFISR",
+        "name": "Poker Flat Incoherent Scatter Radar",
+        "abbrev": "LEOPFISR",
+        "type": "PHASED_ARRAY_RADAR",
+        "country": "United States",
+        "operator": "LEO LABS",
+        "system": "Incoherent Scatter",
+        "altitude": 0.23,
+        "source": "raw/sensors.js"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          170.09556,
+          -45.03854
+        ]
+      },
+      "properties": {
+        "id": "LEOKSR",
+        "name": "Kiwi Space Radar",
+        "abbrev": "LEOKSR",
+        "type": "PHASED_ARRAY_RADAR",
+        "country": "United States",
+        "operator": "LEO LABS",
+        "system": "S-Band",
+        "altitude": 0.6,
+        "source": "raw/sensors.js"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.52869380341954,
+          10.611782670733335
+        ]
+      },
+      "properties": {
+        "id": "LEOCRSR",
+        "name": "Costa Rica Space Radar",
+        "abbrev": "LEOCRSR",
+        "type": "PHASED_ARRAY_RADAR",
+        "country": "United States",
+        "operator": "LEO LABS",
+        "system": "S-Band",
+        "altitude": 0,
+        "source": "raw/sensors.js"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -25.1384933,
+          36.9975
+        ]
+      },
+      "properties": {
+        "id": "LEOAZORES",
+        "name": "Azores Space Radar",
+        "abbrev": "LEOAZORES",
+        "type": "PHASED_ARRAY_RADAR",
+        "country": "United States",
+        "operator": "LEO LABS",
+        "system": "S-Band",
+        "altitude": 0.198,
+        "source": "raw/sensors.js"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.030608,
+          -33.308487
+        ]
+      },
+      "properties": {
+        "id": "LEOWASR",
+        "name": "Western Australia Space Radar",
+        "abbrev": "LEOWASR",
+        "type": "PHASED_ARRAY_RADAR",
+        "country": "United States",
+        "operator": "LEO LABS",
+        "system": "S-Band",
+        "altitude": 0.241,
+        "source": "raw/sensors.js"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.51638,
+          47.347778
+        ]
+      },
+      "properties": {
+        "id": "GRV",
+        "name": "Grand Réseau Adapté à la Veille Spatiale",
+        "abbrev": "GRV",
+        "type": "PHASED_ARRAY_RADAR",
+        "country": "France",
+        "operator": "ESA",
+        "system": "GRAVES",
+        "altitude": 0,
+        "source": "raw/sensors.js"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1296,
+          50.6166
+        ]
+      },
+      "properties": {
+        "id": "TIR",
+        "name": "Wachtberg",
+        "abbrev": "TIR",
+        "type": "MECHANICAL",
+        "country": "Germany",
+        "operator": "ESA",
+        "system": "TIRA",
+        "altitude": 0,
+        "source": "raw/sensors.js"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6359085,
+          50.335711
+        ]
+      },
+      "properties": {
+        "id": "GES",
+        "name": "Schmidtenhöhe",
+        "abbrev": "GES",
+        "type": "MECHANICAL",
+        "country": "Germany",
+        "operator": "ESA",
+        "system": "GESTRA",
+        "altitude": 0,
+        "source": "raw/sensors.js"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6469,
+          44.5208
+        ]
+      },
+      "properties": {
+        "id": "NRC",
+        "name": "Northern Cross Radiotelescope",
+        "abbrev": "NRC",
+        "type": "BISTATIC_RADIO_TELESCOPE",
+        "country": "Italy",
+        "operator": "ESA",
+        "system": "BIRALES",
+        "altitude": 0.025,
+        "source": "raw/sensors.js"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.445,
+          41.654444
+        ]
+      },
+      "properties": {
+        "id": "PDM",
+        "name": "Pratica di Mare Air Base",
+        "abbrev": "PDM",
+        "type": "OPTICAL",
+        "country": "Italy",
+        "operator": "ITAF",
+        "system": "MiTE",
+        "altitude": 0,
+        "source": "raw/sensors.js"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.883889,
+          34.912778
+        ]
+      },
+      "properties": {
+        "id": "TRO",
+        "name": "Royal Air Force Troödos",
+        "abbrev": "TRO",
+        "type": "OPTICAL",
+        "country": "United Kingdom",
+        "operator": "UKSA",
+        "system": "Starbrook",
+        "altitude": 0,
+        "source": "raw/sensors.js"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.5097,
+          28.3
+        ]
+      },
+      "properties": {
+        "id": "Tenerife",
+        "name": "ESA Space Debris Telescope",
+        "abbrev": "SDT",
+        "type": "OPTICAL",
+        "country": "Spain",
+        "operator": "ESA",
+        "system": "SDT",
+        "altitude": 0,
+        "source": "raw/sensors.js"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.465225,
+          46.877225
+        ]
+      },
+      "properties": {
+        "id": "ZimLAT",
+        "name": "Zimmerwald Observatory",
+        "abbrev": "ZimLAT",
+        "type": "OPTICAL",
+        "country": "Switzerland",
+        "operator": "ESA",
+        "system": "ZimLAT",
+        "altitude": 0,
+        "source": "raw/sensors.js"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.465086,
+          46.876947
+        ]
+      },
+      "properties": {
+        "id": "ZimSMART",
+        "name": "Zimmerwald Observatory",
+        "abbrev": "ZimSMART",
+        "type": "OPTICAL",
+        "country": "Switzerland",
+        "operator": "ESA",
+        "system": "ZimSMART",
+        "altitude": 0,
+        "source": "raw/sensors.js"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.226111,
+          69.586439
+        ]
+      },
+      "properties": {
+        "id": "Tromso",
+        "name": "Tromso",
+        "abbrev": "Tromso",
+        "type": "BISTATIC_RADIO_TELESCOPE",
+        "country": "Norway",
+        "operator": "EISCAT",
+        "system": "Incoherent Scatter",
+        "altitude": 0,
+        "source": "raw/sensors.js"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.433806,
+          67.860778
+        ]
+      },
+      "properties": {
+        "id": "Kiruna",
+        "name": "Kiruna",
+        "abbrev": "Kiruna",
+        "type": "BISTATIC_RADIO_TELESCOPE",
+        "country": "Sweden",
+        "operator": "EISCAT",
+        "system": "Incoherent Scatter",
+        "altitude": 0,
+        "source": "raw/sensors.js"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.630417,
+          67.363903
+        ]
+      },
+      "properties": {
+        "id": "Sodankyla",
+        "name": "Sodankyla",
+        "abbrev": "Sodankyla",
+        "type": "BISTATIC_RADIO_TELESCOPE",
+        "country": "Finland",
+        "operator": "EISCAT",
+        "system": "Incoherent Scatter",
+        "altitude": 0,
+        "source": "raw/sensors.js"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.058706,
+          78.152669
+        ]
+      },
+      "properties": {
+        "id": "Svalbard",
+        "name": "Svalbard",
+        "abbrev": "Svalbard",
+        "type": "BISTATIC_RADIO_TELESCOPE",
+        "country": "Norway",
+        "operator": "EISCAT",
+        "system": "Incoherent Scatter",
+        "altitude": 0,
+        "source": "raw/sensors.js"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.9102,
+          68.1141
+        ]
+      },
+      "properties": {
+        "id": "OLED",
+        "name": "Olenegorsk",
+        "abbrev": "OLED",
+        "type": "PHASED_ARRAY_RADAR",
+        "country": "Russia",
+        "operator": "RUS SF",
+        "system": "Dnepr",
+        "altitude": 0,
+        "source": "raw/sensors.js"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.327539,
+          68.090694
+        ]
+      },
+      "properties": {
+        "id": "OLEV",
+        "name": "Olenegorsk",
+        "abbrev": "OLEV",
+        "type": "PHASED_ARRAY_RADAR",
+        "country": "Russia",
+        "operator": "RUS SF",
+        "system": "Voronezh-VP",
+        "altitude": 0,
+        "source": "raw/sensors.js"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.295,
+          65.21
+        ]
+      },
+      "properties": {
+        "id": "PEC",
+        "name": "Pechora",
+        "abbrev": "PEC",
+        "type": "PHASED_ARRAY_RADAR",
+        "country": "Russia",
+        "operator": "RUS SF",
+        "system": "Dar'yal",
+        "altitude": 0,
+        "source": "raw/sensors.js"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.2317,
+          52.8555
+        ]
+      },
+      "properties": {
+        "id": "MISD",
+        "name": "Mishelevka",
+        "abbrev": "MISD",
+        "type": "PHASED_ARRAY_RADAR",
+        "country": "Russia",
+        "operator": "RUS SF",
+        "system": "Dnepr",
+        "altitude": 0,
+        "source": "raw/sensors.js"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.2317,
+          52.8555
+        ]
+      },
+      "properties": {
+        "id": "MISV",
+        "name": "Mishelevka",
+        "abbrev": "MISV",
+        "type": "PHASED_ARRAY_RADAR",
+        "country": "Russia",
+        "operator": "RUS SF",
+        "system": "Voronezh-VP",
+        "altitude": 0,
+        "source": "raw/sensors.js"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.546017,
+          60.275458
+        ]
+      },
+      "properties": {
+        "id": "LEKV",
+        "name": "Lekhtusi",
+        "abbrev": "LEKV",
+        "type": "PHASED_ARRAY_RADAR",
+        "country": "Russia",
+        "operator": "RUS SF",
+        "system": "Voronezh-M",
+        "altitude": 0,
+        "source": "raw/sensors.js"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.983894,
+          44.925106
+        ]
+      },
+      "properties": {
+        "id": "ARMV",
+        "name": "Armavir",
+        "abbrev": "ARMV",
+        "type": "PHASED_ARRAY_RADAR",
+        "country": "Russia",
+        "operator": "RUS SF",
+        "system": "Voronezh-DM",
+        "altitude": 0,
+        "source": "raw/sensors.js"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.18235,
+          54.857294
+        ]
+      },
+      "properties": {
+        "id": "KALV",
+        "name": "Kaliningrad",
+        "abbrev": "KALV",
+        "type": "PHASED_ARRAY_RADAR",
+        "country": "Russia",
+        "operator": "RUS SF",
+        "system": "Voronezh-DM",
+        "altitude": 0,
+        "source": "raw/sensors.js"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.68125,
+          53.139194
+        ]
+      },
+      "properties": {
+        "id": "BARV",
+        "name": "Barnaul",
+        "abbrev": "BARV",
+        "type": "PHASED_ARRAY_RADAR",
+        "country": "Russia",
+        "operator": "RUS SF",
+        "system": "Voronezh-DM",
+        "altitude": 0,
+        "source": "raw/sensors.js"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.046072,
+          58.506095
+        ]
+      },
+      "properties": {
+        "id": "YENV",
+        "name": "Yeniseysk",
+        "abbrev": "YENV",
+        "type": "PHASED_ARRAY_RADAR",
+        "country": "Russia",
+        "operator": "RUS SF",
+        "system": "Voronezh-DM",
+        "altitude": 0,
+        "source": "raw/sensors.js"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.95903,
+          51.273346
+        ]
+      },
+      "properties": {
+        "id": "ORSV",
+        "name": "Orsk",
+        "abbrev": "ORSV",
+        "type": "PHASED_ARRAY_RADAR",
+        "country": "Russia",
+        "operator": "RUS SF",
+        "system": "Voronezh-M",
+        "altitude": 0,
+        "source": "raw/sensors.js"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.226253,
+          43.718331
+        ]
+      },
+      "properties": {
+        "id": "STO",
+        "name": "Storozhevaya",
+        "abbrev": "STO",
+        "type": "PHASED_ARRAY_RADAR",
+        "country": "Russia",
+        "operator": "RUS SF",
+        "system": "Krona",
+        "altitude": 2.115,
+        "source": "raw/sensors.js"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.576769,
+          42.9357
+        ]
+      },
+      "properties": {
+        "id": "NAK",
+        "name": "Nakhodka",
+        "abbrev": "NAK",
+        "type": "PHASED_ARRAY_RADAR",
+        "country": "Russia",
+        "operator": "RUS SF",
+        "system": "Krona-N",
+        "altitude": 0.21,
+        "source": "raw/sensors.js"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.23695312232473,
+          41.64131987863126
+        ]
+      },
+      "properties": {
+        "id": "XIN",
+        "name": "Korla Site Xingjiang",
+        "abbrev": "XIN",
+        "type": "PHASED_ARRAY_RADAR",
+        "country": "China",
+        "operator": "PLA",
+        "system": "LPAR",
+        "altitude": 0.993,
+        "source": "raw/sensors.js"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.755235,
+          46.528164
+        ]
+      },
+      "properties": {
+        "id": "HEI",
+        "name": "Huanan Heilongjiang",
+        "abbrev": "HEI",
+        "type": "PHASED_ARRAY_RADAR",
+        "country": "China",
+        "operator": "PLA",
+        "system": "LPAR",
+        "altitude": 0.241,
+        "source": "raw/sensors.js"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.12859385017512,
+          30.28661248844618
+        ]
+      },
+      "properties": {
+        "id": "ZHE",
+        "name": "Lin'an Zhejiang, China",
+        "abbrev": "ZHE",
+        "type": "PHASED_ARRAY_RADAR",
+        "country": "China",
+        "operator": "PLA",
+        "system": "LPAR",
+        "altitude": 1.342,
+        "source": "raw/sensors.js"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.093115,
+          36.023072
+        ]
+      },
+      "properties": {
+        "id": "SHD",
+        "name": "Shandong",
+        "abbrev": "SHD",
+        "type": "PHASED_ARRAY_RADAR",
+        "country": "China",
+        "operator": "PLA",
+        "system": "LPAR",
+        "altitude": 0.694,
+        "source": "raw/sensors.js"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.829677,
+          32.064946
+        ]
+      },
+      "properties": {
+        "id": "PMO",
+        "name": "Purple Mountain Observatory",
+        "abbrev": "PMO",
+        "type": "OPTICAL",
+        "country": "China",
+        "operator": "CAS",
+        "system": "60-cm Zeiss Telescope",
+        "altitude": 0.267,
+        "source": "raw/sensors.js"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.789,
+          32.442
+        ]
+      },
+      "properties": {
+        "id": "MLS",
+        "name": "Mount Lemmon Survey",
+        "abbrev": "MLS",
+        "type": "OPTICAL",
+        "country": "United States",
+        "operator": "COMMERCIAL",
+        "system": "1.52 m Telescope",
+        "altitude": 2.791,
+        "source": "raw/sensors.js"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.865,
+          33.3564
+        ]
+      },
+      "properties": {
+        "id": "PO",
+        "name": "Palomar Mountain Observatory",
+        "abbrev": "PO",
+        "type": "OPTICAL",
+        "country": "United States",
+        "operator": "CALTECH",
+        "system": "Hale Telescope",
+        "altitude": 1.712,
+        "source": "raw/sensors.js"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.5644,
+          37.9839
+        ]
+      },
+      "properties": {
+        "id": "LSO",
+        "name": "La Sagra Observatory",
+        "abbrev": "LSO",
+        "type": "OPTICAL",
+        "country": "Spain",
+        "operator": "ESA",
+        "system": "4x Telescopes",
+        "altitude": 0,
+        "source": "raw/sensors.js"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.5289,
+          32.9039
+        ]
+      },
+      "properties": {
+        "id": "MAY",
+        "name": "Remote Astronomical Society Observatory",
+        "abbrev": "MAY",
+        "type": "OPTICAL",
+        "country": "United States",
+        "operator": "COMMERCIAL",
+        "system": "MPC H06 Telescope",
+        "altitude": 2.225,
+        "source": "raw/sensors.js"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.072,
+          24.499
+        ]
+      },
+      "properties": {
+        "id": "ROC",
+        "name": "Leshan",
+        "abbrev": "ROC",
+        "type": "PHASED_ARRAY_RADAR",
+        "country": "Taiwan",
+        "operator": "ROC",
+        "system": "AN/FPS-115 (SRP)",
+        "altitude": 2.6,
+        "source": "raw/sensors.js"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.6685,
+          49.4348
+        ]
+      },
+      "properties": {
+        "id": 8049,
+        "name": "Scott Tilley",
+        "type": "HOBBYIST",
+        "altitude": 40,
+        "source": "raw/json/hobby_sosi.json"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4908,
+          52.1541
+        ]
+      },
+      "properties": {
+        "id": 4353,
+        "name": "Marco Langbroek",
+        "type": "HOBBYIST",
+        "altitude": 0,
+        "source": "raw/json/hobby_sosi.json"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5101,
+          -33.9368
+        ]
+      },
+      "properties": {
+        "id": 435,
+        "name": "Greg Roberts",
+        "type": "HOBBYIST",
+        "altitude": 25.5,
+        "source": "raw/json/hobby_sosi.json"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6961,
+          51.3486
+        ]
+      },
+      "properties": {
+        "id": 796,
+        "name": "Leo Barhorst",
+        "type": "HOBBYIST",
+        "altitude": 450,
+        "source": "raw/json/hobby_sosi.json"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.0644,
+          -31.2733
+        ]
+      },
+      "properties": {
+        "id": 7778,
+        "name": "Brad Young",
+        "type": "HOBBYIST",
+        "altitude": 1122,
+        "source": "raw/json/hobby_sosi.json"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3924,
+          43.6876
+        ]
+      },
+      "properties": {
+        "id": 2701,
+        "name": "Ted Molczan",
+        "type": "HOBBYIST",
+        "altitude": 230,
+        "source": "raw/json/hobby_sosi.json"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.1411,
+          35.8311
+        ]
+      },
+      "properties": {
+        "id": 8335,
+        "name": "Brad Young",
+        "type": "HOBBYIST",
+        "altitude": 330,
+        "source": "raw/json/hobby_sosi.json"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.135,
+          -32.008
+        ]
+      },
+      "properties": {
+        "id": 7782,
+        "name": "Brad Young",
+        "type": "HOBBYIST",
+        "altitude": 300,
+        "source": "raw/json/hobby_sosi.json"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.9834,
+          36.1392
+        ]
+      },
+      "properties": {
+        "id": 8336,
+        "name": "Brad Young",
+        "type": "HOBBYIST",
+        "altitude": 201,
+        "source": "raw/json/hobby_sosi.json"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.9042,
+          9997
+        ]
+      },
+      "properties": {
+        "id": 9997,
+        "name": "Chris Lewicki",
+        "type": "HOBBYIST",
+        "altitude": 220,
+        "source": "raw/json/hobby_sosi.json"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.15839,
+          40.0845
+        ]
+      },
+      "properties": {
+        "id": 9920,
+        "type": "HOBBYIST",
+        "altitude": 1405,
+        "source": "raw/json/hobby_sosi.json"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.1448,
+          36.9708
+        ]
+      },
+      "properties": {
+        "id": 797,
+        "name": "Pierros Papadeas",
+        "type": "HOBBYIST",
+        "altitude": 6,
+        "source": "raw/json/hobby_sosi.json"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.3264,
+          52.1358
+        ]
+      },
+      "properties": {
+        "id": 2675,
+        "name": "David Brierley",
+        "type": "HOBBYIST",
+        "altitude": 70,
+        "source": "raw/json/hobby_sosi.json"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.1019,
+          29.5836
+        ]
+      },
+      "properties": {
+        "id": 9999,
+        "name": "Charles Phillips",
+        "type": "HOBBYIST",
+        "altitude": 3,
+        "source": "raw/json/hobby_sosi.json"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.691,
+          44.6062
+        ]
+      },
+      "properties": {
+        "id": 1775,
+        "name": "Kevin Fetter",
+        "type": "HOBBYIST",
+        "altitude": "-",
+        "source": "raw/json/hobby_sosi.json"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.9701,
+          44.3932
+        ]
+      },
+      "properties": {
+        "id": 1244,
+        "name": "Andriy Makeyev",
+        "type": "HOBBYIST",
+        "altitude": 68.7,
+        "source": "raw/json/hobby_sosi.json"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1188,
+          51.0945
+        ]
+      },
+      "properties": {
+        "id": 2018,
+        "name": "Peter Wakelin",
+        "type": "HOBBYIST",
+        "altitude": 120,
+        "source": "raw/json/hobby_sosi.json"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.6169,
+          59.2617
+        ]
+      },
+      "properties": {
+        "id": 5919,
+        "name": "Björn Gimle",
+        "type": "HOBBYIST",
+        "altitude": 51,
+        "source": "raw/json/hobby_sosi.json"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4545,
+          41.9668
+        ]
+      },
+      "properties": {
+        "id": 4541,
+        "name": "Alberto Rango",
+        "type": "HOBBYIST",
+        "altitude": 80,
+        "source": "raw/json/hobby_sosi.json"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.8752,
+          46.9563
+        ]
+      },
+      "properties": {
+        "id": 798,
+        "name": "Atti Berki",
+        "type": "HOBBYIST",
+        "altitude": 183,
+        "source": "raw/json/hobby_sosi.json"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3785,
+          52.8344
+        ]
+      },
+      "properties": {
+        "id": 4171,
+        "name": "Cees Bassa",
+        "type": "HOBBYIST",
+        "altitude": 10,
+        "source": "raw/json/hobby_sosi.json"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.258,
+          52.3713
+        ]
+      },
+      "properties": {
+        "id": 4172,
+        "name": "Leo Barhorst",
+        "type": "HOBBYIST",
+        "altitude": -3,
+        "source": "raw/json/hobby_sosi.json"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.9008,
+          41.1067
+        ]
+      },
+      "properties": {
+        "id": 4641,
+        "name": "Alberto Rango",
+        "type": "HOBBYIST",
+        "altitude": 35,
+        "source": "raw/json/hobby_sosi.json"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.4314,
+          43.6498
+        ]
+      },
+      "properties": {
+        "id": "MMT-9",
+        "name": "MMT-9",
+        "type": "HOBBYIST",
+        "altitude": 2030,
+        "source": "raw/json/hobby_sosi.json"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1359694,
+          31.09203056
+        ]
+      },
+      "properties": {
+        "id": "Sheshan Base",
+        "name": "Sheshan Base",
+        "country": "China",
+        "source": "raw/json/prc_sosi.json"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.9758639,
+          40.55771944
+        ]
+      },
+      "properties": {
+        "id": "Miyun Base",
+        "name": "Miyun Base",
+        "country": "China",
+        "source": "raw/json/prc_sosi.json"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.7959472,
+          25.02737222
+        ]
+      },
+      "properties": {
+        "id": "Kunming Base",
+        "name": "Kunming Base",
+        "country": "China",
+        "source": "raw/json/prc_sosi.json"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.178125,
+          43.47148333
+        ]
+      },
+      "properties": {
+        "id": "Nanshan Base",
+        "name": "Nanshan Base",
+        "country": "China",
+        "source": "raw/json/prc_sosi.json"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.7709833,
+          46.49366111
+        ]
+      },
+      "properties": {
+        "id": "Jiamusi Base",
+        "name": "Jiamusi Base",
+        "country": "China",
+        "source": "raw/json/prc_sosi.json"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.71461111,
+          38.422925
+        ]
+      },
+      "properties": {
+        "id": "Kashi Base",
+        "name": "Kashi Base",
+        "country": "China",
+        "source": "raw/json/prc_sosi.json"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.54778,
+          -22.574746
+        ]
+      },
+      "properties": {
+        "id": "Namibia Station",
+        "name": "Namibia Station",
+        "country": "China",
+        "source": "raw/json/prc_sosi.json"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8565806,
+          25.65291944
+        ]
+      },
+      "properties": {
+        "id": "FAST",
+        "name": "FAST",
+        "country": "China",
+        "source": "raw/json/prc_sosi.json"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.14939444,
+          -38.19151944
+        ]
+      },
+      "properties": {
+        "id": "Base China",
+        "name": "Base China",
+        "country": "China",
+        "source": "raw/json/prc_sosi.json"
+      }
+    }
+  ]
+}

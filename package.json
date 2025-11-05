@@ -1,29 +1,18 @@
 {
   "name": "geospatial-data-parser",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "type": "module",
-  "description": "Node.js application to parse Excel data and convert geospatial information to GeoJSON.",
-  "main": "index.js",
+  "description": "Generate GeoJSON point collections from raw aerospace tracking datasets.",
+  "main": "src/index.js",
   "scripts": {
-    "start": "nodemon index.js",
-    "dev": "nodemon index.js -w index.js",
-    "dev:launch": "nodemon launch.js -w launch.js",
-    "copy:standards": "rm -R lib/* && cp -R ../tap-schema-workshop/lib/js/* lib/ && cp ../tap-schema-workshop/dist/manifest.json lib/"
+    "generate": "node src/index.js",
+    "update:launchsites": "node launch.js",
+    "update:satnogs": "node satnogs.js",
+    "update:gcat": "node gcat.js",
+    "update:all": "node index.js"
   },
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "axios": "^1.6.2",
-    "cheerio": "^1.0.0-rc.12",
-    "csv-parser": "^3.0.0",
-    "flatbuffers": "23.3.3",
-    "geojson": "^0.5.0",
-    "node-fetch": "^3.3.2",
-    "xlsx": "^0.18.5",
-    "xxhashjs": "^0.2.2"
-  },
-  "devDependencies": {
-    "nodemon": "^2.0.19",
-    "typescript": "^5.2.2"
-  }
+  "dependencies": {},
+  "devDependencies": {}
 }
